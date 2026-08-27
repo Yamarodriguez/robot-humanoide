@@ -1,10 +1,22 @@
 ---
 const { d } = Astro.props;
+
+// Los H2 llevan el nombre del tipo para que cada página sea específica.
+// El h1 puede ser singular ("Robot Humanoide Industrial") o plural
+// ("Robots Humanoides Médicos"); se ajusta el artículo según el caso.
+const esPlural = d.h1.startsWith('Robots');
+const tituloUso = esPlural
+  ? `Para qué se usan los ${d.h1}`
+  : `Para qué se usa un ${d.h1}`;
+const tituloModelos = `Qué modelos de ${d.h1} existen`;
+const tituloComprar = esPlural
+  ? `Qué tener en cuenta antes de comprar ${d.h1}`
+  : `Qué tener en cuenta antes de comprar un ${d.h1}`;
 ---
 <section class="seccion">
   <div class="contenedor">
     <div class="prosa">
-      <h2>Para qué se usa</h2>
+      <h2>{tituloUso}</h2>
       <Fragment set:html={d.paraQue} />
     </div>
   </div>
@@ -13,7 +25,7 @@ const { d } = Astro.props;
 <section class="seccion seccion--alt">
   <div class="contenedor">
     <div class="prosa">
-      <h2>Qué modelos existen</h2>
+      <h2>{tituloModelos}</h2>
       <Fragment set:html={d.modelos} />
     </div>
   </div>
@@ -22,7 +34,7 @@ const { d } = Astro.props;
 <section class="seccion">
   <div class="contenedor">
     <div class="prosa">
-      <h2>Qué tener en cuenta antes de comprar</h2>
+      <h2>{tituloComprar}</h2>
       <Fragment set:html={d.tenerEnCuenta} />
     </div>
     <p class="seccion__cta">

@@ -13,7 +13,10 @@ const pagina = {
 <Base pagina={pagina} baseImagenes={site.baseImagenes}>
   <section class="seccion">
     <div class="contenedor">
-      <div class="prosa"><h2>{d.tabla.titulo}</h2></div>
+      <div class="prosa">
+        <h2>{d.tabla.titulo}</h2>
+        {d.tabla.intro && <p set:html={d.tabla.intro} />}
+      </div>
       <div class="tabla-envoltorio">
         <table class="tabla">
           <thead>
