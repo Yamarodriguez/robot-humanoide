@@ -1,0 +1,48 @@
+{
+  "_nota": "Imagen principal (hero) de cada página. El nombre del archivo lleva la keyword de la página, que es lo que Google lee en Imágenes y en el alt. Las que están bajo /wp-content/uploads/ ya existen en tu biblioteca de WordPress: no se renombran nunca, porque están indexadas. Las de /img/heroes/ son nuevas: ahí hay un marcador con el tamaño exacto, sustitúyelo por la foto real conservando el nombre. Las marcadas como ILUSTRACIÓN son gráficos vectoriales generados, no fotografías.",
+  "/tipos/": {
+    "imagen": "/img/heroes/tipos-de-robot-humanoide.webp",
+    "alt": "Tipos de robot humanoide",
+    "estado": "ILUSTRACIÓN — sustituir por foto real conservando el nombre"
+  },
+  "/marcas/": {
+    "imagen": "/img/heroes/marcas-de-robots-humanoides.webp",
+    "alt": "Marcas y empresas de robots humanoides",
+    "estado": "ILUSTRACIÓN — sustituir por foto real conservando el nombre"
+  },
+  "/precios/": {
+    "imagen": "/wp-content/uploads/2025/03/robots-Humanoides-precios.jpeg",
+    "alt": "Precio de un robot humanoide",
+    "estado": "OK"
+  },
+  "/comprar/": {
+    "imagen": "/wp-content/uploads/2025/03/comprar-robot-humanoides.webp",
+    "alt": "Comprar un robot humanoide",
+    "estado": "OK"
+  },
+  "/servicios/": {
+    "imagen": "/img/heroes/servicios-para-robots-humanoides.webp",
+    "alt": "Servicios para robots humanoides",
+    "estado": "ILUSTRACIÓN — sustituir por foto real conservando el nombre"
+  },
+  "/cursos/": {
+    "imagen": "/wp-content/uploads/2025/03/cursos-robotica-humanoide.jpeg",
+    "alt": "Cursos de robótica humanoide",
+    "estado": "OK"
+  },
+  "/accesorios/": {
+    "imagen": "/img/heroes/accesorios-y-repuestos-robot-humanoide.webp",
+    "alt": "Accesorios y repuestos para robot humanoide",
+    "estado": "ILUSTRACIÓN — sustituir por foto real conservando el nombre"
+  },
+  "/contacto/": {
+    "imagen": "/img/heroes/contacto-robot-humanoide.webp",
+    "alt": "Contacto - comprar o alquilar un robot humanoide",
+    "estado": "ILUSTRACIÓN — sustituir por foto real conservando el nombre"
+  },
+  "/sobre-nosotros/": {
+    "imagen": "/img/heroes/sobre-nosotros-robot-humanoide.webp",
+    "alt": "Sobre nosotros - especialistas en robots humanoides",
+    "estado": "ILUSTRACIÓN — sustituir por foto real conservando el nombre"
+  }
+}

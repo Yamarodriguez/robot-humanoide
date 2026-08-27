@@ -1,0 +1,75 @@
+---
+import site from '../data/site.json';
+const f = site.formulario;
+---
+<form class="formulario" action={f.endpoint} method="POST">
+  <input type="hidden" name="access_key" value={f.accessKey} />
+  <input type="hidden" name="subject" value={f.asunto} />
+  <input type="hidden" name="from_name" value={site.nombre} />
+  <input type="hidden" name="redirect" value={f.redireccion} />
+
+  <!-- Trampa antispam: si un bot la marca, Web3Forms descarta el envío -->
+  <input type="checkbox" name="botcheck" class="trampa" tabindex="-1"
+         autocomplete="off" aria-hidden="true" />
+
+  <div class="campo campo--par">
+    <div>
+      <label for="nombre">Nombre</label>
+      <input id="nombre" type="text" name="name" required autocomplete="name" />
+    </div>
+    <div>
+      <label for="telefono">Teléfono <span class="campo__opcional">opcional</span></label>
+      <input id="telefono" type="tel" name="telefono" autocomplete="tel" />
+    </div>
+  </div>
+
+  <div class="campo campo--par">
+    <div>
+      <label for="email">Email</label>
+      <input id="email" type="email" name="email" required autocomplete="email" />
+    </div>
+    <div>
+      <label for="pais">País</label>
+      <select id="pais" name="pais" required>
+        <option value="">Selecciona…</option>
+        <option>España</option>
+        <option>Argentina</option>
+        <option>Otro</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="campo">
+    <label for="interes">¿Qué necesitas?</label>
+    <select id="interes" name="interes" required>
+      <option value="">Selecciona…</option>
+      <option>Comprar un robot humanoide</option>
+      <option>Alquilar para un evento</option>
+      <option>Renting o robot como servicio</option>
+      <option>Formación y cursos</option>
+      <option>Servicio técnico o repuestos</option>
+      <option>Importación y aduanas</option>
+      <option>Otra consulta</option>
+    </select>
+  </div>
+
+  <div class="campo">
+    <label for="mensaje">Cuéntanos tu caso</label>
+    <textarea id="mensaje" name="message" required
+      placeholder="Para qué lo necesitas, en qué entorno va a trabajar y qué presupuesto manejas."></textarea>
+  </div>
+
+  <div class="campo campo--consentimiento">
+    <input id="consiento" type="checkbox" name="consentimiento" value="si" required />
+    <label for="consiento">
+      He leído y acepto la <a href="/privacidad/">política de privacidad</a>.
+    </label>
+  </div>
+
+  <button class="boton" type="submit">Enviar consulta</button>
+
+  <p class="formulario__aviso">
+    Solo usamos tus datos para responderte. No los cedemos a terceros
+    ni te apuntamos a ninguna lista.
+  </p>
+</form>

@@ -1,0 +1,51 @@
+{
+  "Tipos de Robot Humanoides actuales": {
+    "archivo": "tipos",
+    "url": "/tipos/",
+    "h1": "Tipos de Robot Humanoides",
+    "metaTitulo": "Tipos de Robot Humanoides - Industriales, Médicos, Educativos y Más",
+    "metaDescripcion": "Los 15 tipos de robot humanoide que existen hoy: industriales, de compañía, médicos, educativos, logísticos y de seguridad. Para qué sirve cada uno."
+  },
+  "Robot Humanoide precio": {
+    "archivo": "precios",
+    "url": "/precios/",
+    "h1": "Precio de un Robot Humanoide",
+    "metaTitulo": "Precio de un Robot Humanoide - Cuánto Cuesta en 2026",
+    "metaDescripcion": "Cuánto cuesta un robot humanoide según modelo y uso, desde los 13.500 dólares del Unitree G1. Qué incluye el precio y qué gastos añadidos hay que prever."
+  },
+  "Marcas y Empresas de Robots Humanoide": {
+    "archivo": "marcas",
+    "url": "/marcas/",
+    "h1": "Marcas y Empresas de Robots Humanoides",
+    "metaTitulo": "Marcas de Robots Humanoides - Unitree, Tesla, Figure AI y Más",
+    "metaDescripcion": "Las 12 marcas que fabrican robots humanoides hoy: Unitree, 1X, Agility, Figure AI, Tesla, Boston Dynamics, UBTech y más. Cuáles se pueden comprar de verdad."
+  },
+  "Servicios Para Robots Humanoides": {
+    "archivo": "servicios",
+    "url": "/servicios/",
+    "h1": "Servicios para Robots Humanoides",
+    "metaTitulo": "Servicios para Robots Humanoides - Venta, Alquiler e Importación",
+    "metaDescripcion": "Venta, alquiler, programación, mantenimiento, importación y gestión aduanera de robots humanoides en España y Argentina. Asesoramiento antes de comprar."
+  },
+  "Formación y Cursos en Robótica Humanoide": {
+    "archivo": "cursos",
+    "url": "/cursos/",
+    "h1": "Cursos de Robótica Humanoide",
+    "metaTitulo": "Cursos de Robótica Humanoide - Formación Técnica y Certificación",
+    "metaDescripcion": "12 cursos de robótica humanoide: programación con SDK, visión artificial, aprendizaje por imitación, seguridad y certificación profesional."
+  },
+  "Accesorios y Repuestos para Robot": {
+    "archivo": "accesorios",
+    "url": "/accesorios/",
+    "h1": "Accesorios y Repuestos para Robots Humanoides",
+    "metaTitulo": "Accesorios y Repuestos para Robots Humanoides - Actuadores y Sensores",
+    "metaDescripcion": "Actuadores, manos diestras, reductoras, LiDAR, baterías y piezas de recambio para robots humanoides. Los componentes que más fallan y más encarecen."
+  },
+  "Comprar Robots Humanoides": {
+    "archivo": "comprar",
+    "url": "/comprar/",
+    "h1": "Comprar un Robot Humanoide",
+    "metaTitulo": "Comprar un Robot Humanoide - Guía de Compra en España y Argentina",
+    "metaDescripcion": "Cómo comprar un robot humanoide en España y Argentina: qué modelos están disponibles, qué plazos hay y qué costes de aduana e instalación debes prever."
+  }
+}

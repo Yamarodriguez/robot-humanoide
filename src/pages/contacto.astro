@@ -1,0 +1,18 @@
+---
+import Base from '../layouts/Base.astro';
+import { sustituirFaltantes } from '../utils/imagenes.js';
+import ContactForm from '../components/ContactForm.astro';
+import pagina from '../content/pages/contacto.json';
+import site from '../data/site.json';
+
+// El HTML lleva un marcador donde va el formulario, que es un componente.
+const [antes, despues] = pagina.html.split('{FORMULARIO}');
+const arreglar = (h) => site.baseImagenes
+  ? h.replaceAll('src="/wp-content/', `src="${site.baseImagenes}/wp-content/`)
+  : h;
+---
+<Base pagina={pagina} baseImagenes={site.baseImagenes}>
+  <Fragment set:html={arreglar(antes)} />
+  <ContactForm />
+  <Fragment set:html={arreglar(despues)} />
+</Base>

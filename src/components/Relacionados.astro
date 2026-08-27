@@ -1,0 +1,53 @@
+---
+import indice from '../data/indice-tarjetas.json';
+const { grupoActual, slugActual } = Astro.props;
+
+const GRUPOS = [
+  { url: '/tipos/',       titulo: 'Tipos de Robot Humanoides actuales' },
+  { url: '/marcas/',      titulo: 'Marcas y Empresas de Robots Humanoide' },
+  { url: '/servicios/',   titulo: 'Servicios Para Robots Humanoides' },
+  { url: '/cursos/',      titulo: 'Formación y Cursos en Robótica Humanoide' },
+  { url: '/accesorios/',  titulo: 'Accesorios y Repuestos para Robot' },
+];
+
+// El grupo propio va primero y sin el elemento en el que estamos
+const propio = GRUPOS.find((g) => g.url === grupoActual);
+const resto = GRUPOS.filter((g) => g.url !== grupoActual);
+const listar = (g) => (indice[g.url] || [])
+  .filter((t) => !t.url.includes(`/${slugActual}/`) && !t.url.endsWith(`#${slugActual}`));
+---
+{propio && (
+  <section class="seccion seccion--alt">
+    <div class="contenedor">
+      <div class="prosa"><h2>{propio.titulo}</h2></div>
+      <ul class="lista-hermanos">
+        {listar(propio).map((t) => <li><a href={t.url}>{t.texto}</a></li>)}
+      </ul>
+      <p class="seccion__cta"><a class="pildora" href={propio.url}>Ver todos</a></p>
+    </div>
+  </section>
+)}
+
+{resto.map((g, i) => (
+  <section class:list={['seccion', { 'seccion--alt': i % 2 === 1 }]}>
+    <div class="contenedor">
+      <div class="prosa"><h2>{g.titulo}</h2></div>
+      <ul class="lista-hermanos">
+        {listar(g).map((t) => <li><a href={t.url}>{t.texto}</a></li>)}
+      </ul>
+      <p class="seccion__cta"><a class="pildora" href={g.url}>Ver todos</a></p>
+    </div>
+  </section>
+))}
+
+{grupoActual !== '/precios/' && (
+<section class="seccion seccion--alt">
+  <div class="contenedor">
+    <div class="prosa">
+      <h2>Robot Humanoide precio</h2>
+      <p>Consulta los precios de referencia por modelo y tipo antes de decidir.</p>
+    </div>
+    <p class="seccion__cta"><a class="pildora" href="/precios/">Precios</a></p>
+  </div>
+</section>
+)}

@@ -1,0 +1,58 @@
+---
+import Base from '../../layouts/Base.astro';
+import Relacionados from '../../components/Relacionados.astro';
+import detalle from '../../data/cursos-detalle.json';
+import grupo from '../../content/pages/cursos.json';
+import site from '../../data/site.json';
+
+export function getStaticPaths() {
+  return Object.keys(detalle).filter((k) => !k.startsWith('_'))
+    .map((slug) => ({ params: { slug }, props: { slug } }));
+}
+
+const { slug } = Astro.props;
+const d = detalle[slug];
+const tarjeta = grupo.html.match(
+  new RegExp(`<article class="tarjeta" id="${slug}">([\\s\\S]*?)</article>`))?.[1] ?? '';
+const imagen = tarjeta.match(/<img[^>]*src="([^"]+)"/)?.[1] ?? null;
+const entradilla = (tarjeta.match(/<p>([\s\S]*?)<\/p>/)?.[1] ?? '').trim();
+
+const pagina = {
+  titulo: d.metaTitulo, url: `/cursos/${slug}/`, slug, h1: d.h1,
+  entradilla, cta: null, hero: imagen, faq: [],
+  metaTitulo: d.metaTitulo, metaDescripcion: d.metaDescripcion, imagenPrincipal: imagen,
+};
+const img = (r) => (site.baseImagenes && r ? site.baseImagenes + r : r);
+---
+<Base pagina={pagina} baseImagenes={site.baseImagenes}>
+  <section class="seccion">
+    <div class="contenedor">
+      <div class="prosa"><h2>En qué consiste</h2><Fragment set:html={d.enQueConsiste} /></div>
+    </div>
+  </section>
+
+  <section class="seccion seccion--alt">
+    <div class="contenedor"><div class="prosa">
+      <h2>Qué aprendes</h2><Fragment set:html={d.queAprendes} />
+    </div></div>
+  </section>
+
+  <section class="seccion seccion--alt">
+    <div class="contenedor">
+      <div class="prosa">
+        <h2>Para quién es</h2><Fragment set:html={d.paraQuien} />
+      </div>
+    </div>
+  </section>
+
+  <section class="seccion">
+    <div class="contenedor">
+      <div class="prosa">
+        <h2>A tener en cuenta</h2><Fragment set:html={d.aTenerEnCuenta} />
+      </div>
+      <p class="seccion__cta"><a class="pildora" href="/contacto/">Pedir información</a></p>
+    </div>
+  </section>
+
+  <Relacionados grupoActual="/cursos/" slugActual={slug} />
+</Base>

@@ -1,0 +1,102 @@
+{
+  "_nota": "Contenido propio de cada pagina de servicio. AVISO: son servicios que hay que poder prestar. Antes de publicar, revisar uno por uno y retirar los que no se ofrezcan.",
+
+  "venta-de-robots-humanoides": {
+    "h1": "Venta de Robots Humanoides",
+    "metaTitulo": "Venta de Robots Humanoides en España y Argentina",
+    "metaDescripcion": "Venta de robots humanoides con asesoramiento previo: qué modelo encaja con tu tarea, qué plazo hay y qué costes añadidos debes prever.",
+    "enQueConsiste": "<p>Suministro del robot con todo lo que hace falta para que funcione: selección del modelo, gestión de compra al fabricante, transporte, puesta en marcha y formación básica de quien lo va a usar.</p><p>Antes de vender nada, analizamos si existe un robot capaz de hacer lo que necesitas. A veces la respuesta honesta es que todavía no, y decirlo ahorra un problema caro.</p>",
+    "comoTrabajamos": "<ol><li>Definimos la tarea concreta y el entorno donde va a trabajar.</li><li>Proponemos los modelos que encajan, con lo que cada uno puede y no puede hacer.</li><li>Presupuesto cerrado con todos los costes: robot, transporte, aduanas, instalación y formación.</li><li>Entrega, puesta en marcha y acompañamiento las primeras semanas.</li></ol>",
+    "aTenerEnCuenta": "<ul><li>El precio del robot rara vez es el coste total. Transporte, aranceles y formación suman una parte importante.</li><li>Los plazos de entrega en este sector se miden en meses, no en días.</li><li>Para uso ocasional, el alquiler casi siempre sale mejor que la compra.</li></ul>"
+  },
+
+  "programacion-de-robot-humanoides": {
+    "h1": "Programación de Robots Humanoides",
+    "metaTitulo": "Programación de Robots Humanoides - Desarrollo a Medida",
+    "metaDescripcion": "Programación y personalización de robots humanoides: desarrollo de comportamientos sobre el SDK del fabricante, integración y puesta en marcha.",
+    "enQueConsiste": "<p>Un robot recién sacado de la caja hace poco. La programación es lo que convierte una plataforma genérica en una máquina que resuelve tu tarea concreta.</p><p>Trabajamos sobre el SDK del fabricante: control de movimiento, percepción, secuencias de tareas e integración con los sistemas que ya usas.</p>",
+    "comoTrabajamos": "<ol><li>Analizamos la tarea y la descomponemos en pasos que el robot pueda ejecutar.</li><li>Desarrollamos y validamos primero en simulación, que sale mucho más barato que romper hardware.</li><li>Ajustamos sobre el robot real, en tu instalación y con tus condiciones de luz y ruido.</li><li>Documentamos y formamos a tu equipo para que pueda modificarlo.</li></ol>",
+    "aTenerEnCuenta": "<ul><li>Un entorno controlado y ordenado reduce muchísimo el coste de desarrollo.</li><li>Cada excepción que hay que contemplar multiplica el trabajo. Acota bien la tarea.</li><li>Pide siempre el código y la documentación: si dependes de un proveedor para cada cambio, quedas atrapado.</li></ul>"
+  },
+
+  "mantenimiento-y-reparacion-de-robot": {
+    "h1": "Mantenimiento y Reparación de Robots Humanoides",
+    "metaTitulo": "Mantenimiento y Reparación de Robots Humanoides",
+    "metaDescripcion": "Servicio técnico para robots humanoides: mantenimiento preventivo, diagnóstico, sustitución de actuadores y gestión de recambios.",
+    "enQueConsiste": "<p>Un humanoide tiene decenas de articulaciones sometidas a esfuerzo continuo. Los actuadores son la pieza que más falla y la que más encarece una reparación.</p><p>Cubrimos mantenimiento preventivo por horas de uso, diagnóstico de averías, sustitución de componentes y gestión de recambios con el fabricante.</p>",
+    "comoTrabajamos": "<ol><li>Revisión periódica según horas de trabajo, no según calendario.</li><li>Diagnóstico con los registros del propio robot: la mayoría de las averías avisan antes.</li><li>Reparación en tu instalación siempre que sea posible, para no perder días de transporte.</li><li>Stock de las piezas críticas de tu modelo.</li></ol>",
+    "aTenerEnCuenta": "<ul><li>El mantenimiento preventivo cuesta una fracción de lo que cuesta una articulación rota.</li><li>Comprueba la disponibilidad de recambios <em>antes</em> de comprar el robot, no después.</li><li>En marcas sin representación local, un recambio puede tardar semanas.</li></ul>"
+  },
+
+  "alquiler-de-robots-humanoides": {
+    "h1": "Alquiler de Robots Humanoides",
+    "metaTitulo": "Alquiler de Robots Humanoides - Por Semanas o Meses",
+    "metaDescripcion": "Alquiler de robots humanoides por periodos largos: acceso a la tecnología sin inmovilizar capital, con mantenimiento y soporte incluidos.",
+    "enQueConsiste": "<p>Disponer del robot durante semanas o meses sin comprarlo. Incluye transporte, instalación, mantenimiento y soporte durante todo el periodo.</p><p>Es la vía sensata para probar antes de decidir, para cubrir un pico de trabajo o para proyectos con fecha de fin.</p>",
+    "comoTrabajamos": "<ol><li>Definimos el periodo y la tarea.</li><li>Llevamos el robot montado, calibrado y probado en tu instalación.</li><li>Formamos a quien va a operarlo.</li><li>Mantenimiento y sustitución incluidos si hay avería.</li></ol>",
+    "aTenerEnCuenta": "<ul><li>Si vas a usarlo más de dos años seguidos, compara con la compra: probablemente salga mejor comprar.</li><li>Alquilar antes de comprar evita el error más caro de este sector: adquirir un robot que no hace lo que esperabas.</li><li>Para uno o dos días, mira el alquiler para eventos, que es otro formato.</li></ul>"
+  },
+
+  "implementacion-de-robot-en-empresas-y-negocios": {
+    "h1": "Implementación de Robots en Empresas",
+    "metaTitulo": "Implementación de Robots Humanoides en Empresas y Negocios",
+    "metaDescripcion": "Proyecto completo de implantación de robots humanoides en empresa: análisis, integración con sistemas, formación y seguimiento de resultados.",
+    "enQueConsiste": "<p>El robot es la parte fácil. Lo difícil es encajarlo en cómo trabaja ya tu empresa: procesos, sistemas, turnos y personas.</p><p>Nos ocupamos del proyecto completo, desde el análisis inicial hasta que el robot forma parte de la operación diaria.</p>",
+    "comoTrabajamos": "<ol><li>Analizamos el proceso actual y localizamos dónde aporta un robot y dónde no.</li><li>Diseñamos la implantación: ubicación, recorridos, convivencia con el personal.</li><li>Integramos con tus sistemas de gestión, para que los datos no se queden en el robot.</li><li>Formamos al equipo y medimos resultados sobre los indicadores acordados.</li></ol>",
+    "aTenerEnCuenta": "<ul><li>El factor que más determina el éxito no es técnico: es si el equipo entiende para qué está el robot.</li><li>Empieza por una tarea. Un proyecto acotado que funciona abre más puertas que uno ambicioso que se atasca.</li><li>Define los indicadores antes de instalar nada, o no sabrás si ha funcionado.</li></ul>"
+  },
+
+  "importacion-y-gestion-aduanera": {
+    "h1": "Importación y Gestión Aduanera de Robots",
+    "metaTitulo": "Importación de Robots Humanoides - Aduanas en España y Argentina",
+    "metaDescripcion": "Gestión de importación y despacho aduanero de robots humanoides en España y Argentina. Donde se atasca la mayoría de las compras.",
+    "enQueConsiste": "<p>La mayoría de los humanoides se fabrican fuera de España y Argentina. Entre pulsar comprar y tener el robot funcionando hay aranceles, documentación, despacho y plazos que sorprenden a casi todo el mundo.</p><p>Nos ocupamos de ese tramo: clasificación arancelaria, documentación, despacho y entrega.</p>",
+    "comoTrabajamos": "<ol><li>Calculamos el coste real de puesta en destino antes de que compres nada.</li><li>Verificamos los requisitos de entrada: certificaciones, homologaciones y restricciones vigentes.</li><li>Gestionamos el despacho y la documentación.</li><li>Coordinamos el transporte hasta tu instalación.</li></ol>",
+    "aTenerEnCuenta": "<ul><li><strong>Argentina</strong> tiene restricciones de importación que cambian con frecuencia. Lo que valía hace seis meses puede no valer hoy.</li><li>El precio de fábrica y el coste en tu puerta se llevan bastante. Presupuesta sobre el segundo.</li><li>Comprar dentro de la Unión Europea elimina este capítulo entero. Tenlo en cuenta al comparar marcas.</li></ul>"
+  },
+
+  "alquiler-para-eventos": {
+    "h1": "Alquiler de Robots para Eventos",
+    "metaTitulo": "Alquiler de Robots Humanoides para Eventos y Ferias",
+    "metaDescripcion": "Robots humanoides por días para ferias, congresos y presentaciones. Incluye traslado, montaje y operador durante todo el evento.",
+    "enQueConsiste": "<p>El robot llega montado, calibrado y con operador, durante los días que dure el evento. Tú no tienes que aprender a manejarlo ni preocuparte de si arranca.</p><p>En una feria la métrica es cuánta gente se para en tu estand. Un humanoide detiene a mucha más gente que un cartel, y esa parada es la que abre la conversación.</p>",
+    "comoTrabajamos": "<ol><li>Definimos qué debe hacer: atraer, informar, recoger contactos o demostrar producto.</li><li>Preparamos y ensayamos el guion antes del evento.</li><li>Montamos y calibramos en el recinto: suelo, luz y ruido cambian el comportamiento.</li><li>Operador presente durante todo el evento.</li></ol>",
+    "aTenerEnCuenta": "<ul><li>Reserva con antelación: en temporada alta de ferias las unidades se agotan.</li><li>Si el robot recoge datos de contacto, aplica la normativa de protección de datos igual que un formulario en papel.</li><li>Conviene tener un plan alternativo por si falla a mitad de feria.</li></ul>"
+  },
+
+  "formacion-y-cursos": {
+    "h1": "Formación y Cursos en Robótica Humanoide",
+    "metaTitulo": "Formación en Robótica Humanoide - Cursos para Empresas y Centros",
+    "metaDescripcion": "Formación en robótica humanoide para equipos técnicos y centros educativos: desde operación básica hasta programación con SDK.",
+    "enQueConsiste": "<p>Un robot sin nadie que sepa manejarlo acaba apagado en un rincón. La formación es lo que separa una inversión que rinde de una que se queda parada.</p><p>Programas para equipos técnicos de empresa y para centros educativos, adaptados al robot concreto que vas a usar.</p>",
+    "comoTrabajamos": "<ol><li>Evaluamos el punto de partida del equipo.</li><li>Adaptamos el temario al modelo y a la tarea real.</li><li>Formación práctica sobre robot, no solo teoría.</li><li>Material de consulta para después del curso.</li></ol>",
+    "aTenerEnCuenta": "<ul><li>Forma a más de una persona. Si solo sabe una y se va, vuelves al punto de partida.</li><li>La formación sobre el robot que vas a usar vale mucho más que un curso genérico.</li><li>En centros educativos, formar al profesorado determina el éxito del proyecto más que el propio hardware.</li></ul>"
+  },
+
+  "estudio-de-viabilidad-y-roi": {
+    "h1": "Estudio de Viabilidad y ROI",
+    "metaTitulo": "Estudio de Viabilidad para Robots Humanoides - Análisis de ROI",
+    "metaDescripcion": "Análisis previo a la compra de un robot humanoide: si la tarea es viable hoy, qué modelo encaja y en cuánto tiempo se amortiza.",
+    "enQueConsiste": "<p>Un informe que responde a tres preguntas antes de que gastes nada: si existe hoy un robot capaz de hacer esa tarea, cuál encaja mejor, y en cuánto tiempo se paga.</p><p>A veces la conclusión es que no compensa. Ese informe también sirve, y cuesta mucho menos que descubrirlo con el robot ya comprado.</p>",
+    "comoTrabajamos": "<ol><li>Observamos la tarea en tu instalación, no sobre un plano.</li><li>Contrastamos con lo que los modelos disponibles pueden hacer de verdad.</li><li>Calculamos coste total y periodo de amortización con tus números.</li><li>Entregamos un informe con recomendación clara, incluida la de no comprar.</li></ol>",
+    "aTenerEnCuenta": "<ul><li>El coste total incluye robot, importación, instalación, formación, mantenimiento y recambios.</li><li>Un robot que trabaja un turno rinde el triple que uno que trabaja ocho horas sueltas.</li><li>Si el proceso cambia cada pocos meses, la automatización rígida no es tu solución.</li></ul>"
+  },
+
+  "renting-y-robot-como-servicio": {
+    "h1": "Renting y Robot como Servicio",
+    "metaTitulo": "Renting de Robots Humanoides - Robot como Servicio (RaaS)",
+    "metaDescripcion": "Renting de robots humanoides con cuota mensual: mantenimiento, actualizaciones y sustitución incluidos, sin inmovilizar capital.",
+    "enQueConsiste": "<p>Una cuota mensual en lugar de un desembolso inicial, con mantenimiento, actualizaciones y sustitución incluidos.</p><p>Es hacia donde va el sector. Agility comercializa contratos en torno a 8.500 dólares al mes y 1X ofrece su NEO por 499 mensuales. El motivo es sencillo: nadie quiere inmovilizar capital en tecnología que cambia cada año.</p>",
+    "comoTrabajamos": "<ol><li>Definimos el periodo y el nivel de servicio.</li><li>Cuota fija que incluye mantenimiento y sustitución en caso de avería.</li><li>Actualizaciones de software durante todo el contrato.</li><li>Al terminar, se renueva, se cambia de modelo o se devuelve.</li></ol>",
+    "aTenerEnCuenta": "<ul><li>A largo plazo pagas más que comprando. A cambio, no asumes obsolescencia ni averías.</li><li>Contablemente es gasto, no inversión. Consúltalo con tu asesor, porque cambia el tratamiento fiscal.</li><li>Revisa la letra pequeña: qué cubre exactamente la sustitución y en cuánto tiempo.</li></ul>"
+  },
+
+  "marcado-ce-y-normativa": {
+    "h1": "Marcado CE y Normativa para Robots",
+    "metaTitulo": "Marcado CE para Robots Humanoides - Cumplimiento Normativo",
+    "metaDescripcion": "Evaluación de conformidad y marcado CE para robots humanoides que trabajan junto a personas. Análisis de riesgos y documentación técnica.",
+    "enQueConsiste": "<p>Un robot que comparte espacio con personas está sujeto a normativa de máquinas. Sin evaluación de conformidad y marcado CE, no puede ponerse en servicio legalmente en la Unión Europea.</p><p>Cubrimos el análisis de riesgos, la documentación técnica y el expediente necesario para acreditar el cumplimiento.</p>",
+    "comoTrabajamos": "<ol><li>Analizamos los riesgos de la instalación concreta, no del robot en abstracto.</li><li>Definimos medidas: distancias de seguridad, paradas de emergencia, señalización.</li><li>Elaboramos el expediente técnico y la declaración de conformidad.</li><li>Formamos al personal que va a trabajar junto al robot.</li></ol>",
+    "aTenerEnCuenta": "<ul><li>Que el fabricante entregue el robot con marcado CE no basta: si lo integras en una instalación, la conformidad del conjunto es responsabilidad de quien lo pone en servicio.</li><li>Un accidente sin expediente en regla tiene consecuencias que van más allá de la sanción.</li><li>Resuélvelo antes de instalar, no después. Rehacer una instalación sale mucho más caro.</li></ul>"
+  }
+}

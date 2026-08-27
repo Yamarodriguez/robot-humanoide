@@ -1,0 +1,33 @@
+---
+import Base from '../layouts/Base.astro';
+import site from '../data/site.json';
+
+// Las URLs que se dejan caer al migrar (el post de ejemplo de WordPress,
+// la categoría vacía y el archivo de autor) aterrizan aquí.
+const pagina = {
+  titulo: 'Página no encontrada',
+  url: '/404/', slug: '404', h1: 'Esta página no existe',
+  entradilla: '', cta: null, hero: null, faq: [], imagenPrincipal: null,
+  metaTitulo: 'Página no encontrada - Robot Humanoide',
+  metaDescripcion: 'La dirección que buscas no existe en este sitio.',
+  noindex: true,
+};
+---
+<Base pagina={pagina} baseImagenes={site.baseImagenes}>
+  <section class="seccion">
+    <div class="contenedor">
+      <div class="prosa">
+        <p>La dirección que has abierto no existe o ha dejado de estar disponible.</p>
+        <h2>Por dónde seguir</h2>
+        <ul>
+          <li><a href="/">Inicio</a></li>
+          <li><a href="/que-es/">Qué es un robot humanoide</a></li>
+          <li><a href="/tipos/">Tipos de robot humanoide</a></li>
+          <li><a href="/marcas/">Marcas y fabricantes</a></li>
+          <li><a href="/precios/">Precios</a></li>
+          <li><a href="/contacto/">Contacto</a></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</Base>

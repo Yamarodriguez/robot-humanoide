@@ -1,0 +1,61 @@
+{
+  "_nota": "Contenido escrito contra las consultas reales de Search Console (agosto 2026). Las definicionales suman 437 impresiones al mes en posición 50-58; 'características' ya estaba en 8,29. El orden de las secciones responde a ese orden de prioridad: primero el significado de la palabra, luego el robot, luego las características.",
+
+  "h1": "Qué es un Robot Humanoide",
+  "metaTitulo": "Qué es un Robot Humanoide: Significado, Características y Ejemplos",
+  "metaDescripcion": "Humanoide significa «con forma humana». Un robot humanoide imita el cuerpo y los movimientos de una persona. Definición, características, diferencia con un androide y ejemplos reales.",
+  "entradilla": "Un <strong>robot humanoide</strong> es una máquina con forma de cuerpo humano —cabeza, torso, dos brazos y dos piernas— capaz de moverse y realizar tareas imitando a una persona.",
+
+  "faq": [
+    {"pregunta":"¿Qué significa humanoide?","respuesta":"Humanoide significa «con forma o apariencia de ser humano». Viene del latín humanus, humano, y del sufijo -oide, del griego eidos, que quiere decir forma o parecido. Se aplica a cualquier cosa con la estructura corporal de una persona: cabeza, tronco, dos brazos y dos piernas."},
+    {"pregunta":"¿Qué es un robot humanoide?","respuesta":"Es una máquina con cuerpo de forma humana, capaz de desplazarse sobre dos piernas, manipular objetos con las manos y, en muchos casos, percibir su entorno e interactuar con personas. A diferencia de un brazo robótico industrial, está diseñado para moverse en espacios pensados para humanos."},
+    {"pregunta":"¿Cuál es la diferencia entre un humanoide y un androide?","respuesta":"Un humanoide tiene forma humana pero apariencia claramente mecánica: se ve que es una máquina. Un androide va un paso más allá e intenta parecer una persona real, con piel sintética y rasgos faciales. Todo androide es humanoide, pero no todo humanoide es androide."},
+    {"pregunta":"¿Cuáles son las características de un robot humanoide?","respuesta":"Las cinco esenciales son: locomoción bípeda sobre dos piernas, articulaciones móviles que reproducen el rango de movimiento humano, percepción del entorno mediante cámaras y sensores, manipulación de objetos con manos o pinzas, y un grado de autonomía que le permite decidir sin control humano constante."},
+    {"pregunta":"¿Cuál fue el primer robot humanoide?","respuesta":"El WABOT-1, desarrollado en la Universidad de Waseda de Japón en 1973. Fue el primer robot humanoide completo a escala real: caminaba, agarraba objetos y se comunicaba en japonés. Tardaba unos cuarenta y cinco segundos en dar un solo paso."},
+    {"pregunta":"¿Los robots humanoides tienen inteligencia artificial?","respuesta":"Los modelos actuales sí. La usan para reconocer objetos, planificar movimientos, mantener el equilibrio y, en algunos casos, entender instrucciones habladas. Sin inteligencia artificial un humanoide solo puede repetir secuencias programadas de antemano."},
+    {"pregunta":"¿Cuánto cuesta un robot humanoide?","respuesta":"Desde unos 4.000 euros en los modelos de entrada hasta 24.900 euros el Unitree G1 con distribuidor en España. Los modelos industriales o de investigación superan con facilidad los 50.000 euros, y algunos ni siquiera se venden al público."},
+    {"pregunta":"¿Para qué sirven los robots humanoides?","respuesta":"Hoy trabajan en logística moviendo material en almacenes, en atención al cliente en hoteles y comercios, en educación como plataformas de aprendizaje, en investigación, en rehabilitación y en eventos. El despliegue comercial más consolidado está en almacenes."}
+  ],
+
+  "bloques": [
+    {
+      "h2": "Qué significa humanoide",
+      "html": "<p>La palabra <strong>humanoide</strong> significa «con forma o apariencia de ser humano». Se forma con el latín <em>humanus</em>, humano, y el sufijo <strong>-oide</strong>, que procede del griego <em>eidos</em> y quiere decir forma, aspecto o parecido. Literalmente: <em>que tiene forma de humano</em>.</p><p>El término no nació en la robótica. Se usa en tres campos distintos:</p><ul><li><strong>En antropología y paleontología</strong>, para describir especies con estructura corporal similar a la humana, como los homínidos.</li><li><strong>En ciencia ficción</strong>, para designar seres imaginarios con cuerpo humano pero de otra naturaleza: extraterrestres, criaturas fantásticas o máquinas.</li><li><strong>En robótica</strong>, que es el uso más extendido hoy, para referirse a máquinas construidas con forma de cuerpo humano.</li></ul><p>Lo que define a un humanoide no es la inteligencia ni el material del que está hecho, sino la <strong>estructura corporal</strong>: cabeza, tronco, dos extremidades superiores y dos inferiores, dispuestas como en una persona.</p>"
+    },
+    {
+      "h2": "Qué es un robot humanoide",
+      "html": "<p>Un <strong>robot humanoide</strong> es una máquina programable con cuerpo de forma humana, capaz de desplazarse, manipular objetos y realizar tareas imitando los movimientos de una persona.</p><p>La diferencia con cualquier otro robot está en el porqué de esa forma. Un brazo robótico de fábrica es más rápido, más preciso y más barato para atornillar una pieza. Pero solo sirve para eso, y hay que construir la celda a su alrededor.</p><p>Un humanoide se mueve en un mundo que ya existe: <strong>sube escaleras, abre puertas con picaporte, alcanza estanterías y usa herramientas diseñadas para manos humanas</strong>. No hay que rediseñar el edificio para que trabaje en él.</p><p>Ese es el argumento entero del sector. No es que la forma humana sea la mejor para trabajar: es que el mundo ya está construido para ella.</p>"
+    },
+    {
+      "h2": "Diferencia entre humanoide, androide, robot y cíborg",
+      "html": "<p>Se confunden constantemente y significan cosas distintas. Esta es la separación exacta:</p>",
+      "tabla": {
+        "cabeceras": ["Término", "Qué es", "Ejemplo"],
+        "filas": [
+          ["Robot", "Máquina programable capaz de ejecutar tareas. Puede tener cualquier forma: brazo, ruedas, orugas.", "Una aspiradora robot"],
+          ["Humanoide", "Robot con forma de cuerpo humano, pero apariencia claramente mecánica. Se ve que es una máquina.", "Unitree G1, Atlas"],
+          ["Androide", "Humanoide que además intenta parecer una persona real: piel sintética, rasgos faciales, expresiones.", "Sophia, de Hanson Robotics"],
+          ["Cíborg", "Un ser vivo con partes mecánicas integradas. No es un robot: es un organismo.", "Una persona con prótesis biónica"],
+          ["Ginoide", "Androide con apariencia femenina. Es un término poco usado fuera de la ciencia ficción.", "—"]
+        ]
+      },
+      "cierre": "<p>La regla rápida: <strong>todo androide es humanoide, pero no todo humanoide es androide.</strong> Y un cíborg no entra en esta familia, porque parte de un ser vivo, no de una máquina.</p>"
+    },
+    {
+      "h2": "Características de un robot humanoide",
+      "html": "<p>Estas son las cinco características que definen a un robot humanoide y lo separan de cualquier otro tipo de robot.</p><h3>1. Locomoción bípeda</h3><p>Camina sobre dos piernas manteniendo el equilibrio de forma activa. Es la característica más difícil de conseguir: un bípedo está permanentemente cayéndose y corrigiendo. Los modelos actuales se levantan solos después de una caída, algo que hace apenas cinco años era excepcional.</p><h3>2. Articulaciones y grados de libertad</h3><p>Cada articulación que puede moverse de forma independiente es un grado de libertad. Un humanoide moderno tiene entre 20 y 45. Cuantos más, más natural es el movimiento y más caro el robot: cada uno necesita su propio actuador.</p><h3>3. Percepción del entorno</h3><p>Cámaras estereoscópicas, sensores de profundidad, radar láser y unidades de medición inercial. Con eso construye un mapa tridimensional de lo que le rodea, identifica objetos y calcula dónde pisar. Sin percepción fiable el robot se mueve, pero no entiende dónde está.</p><h3>4. Manipulación</h3><p>Manos con dedos articulados o pinzas intercambiables. Es lo que determina qué puede hacer de verdad: agarrar una caja es sencillo, sujetar un vaso sin romperlo requiere control de fuerza. La destreza manual sigue siendo el mayor límite del sector.</p><h3>5. Autonomía e inteligencia artificial</h3><p>Capacidad de tomar decisiones sin control humano continuo: reconocer un objeto que no había visto antes, replanificar una ruta si hay un obstáculo o entender una instrucción hablada. Es la diferencia entre una máquina que repite una secuencia y una que resuelve una tarea.</p>"
+    },
+    {
+      "h2": "Cómo funciona por dentro un robot humanoide",
+      "html": "<p>Cinco sistemas trabajando a la vez:</p><ul><li><strong>Actuadores.</strong> Los motores de cada articulación. Son la pieza más cara y la que más falla. En cadera y rodilla necesitan un par muy alto para sostener el peso del robot.</li><li><strong>Reductoras.</strong> Convierten el giro rápido y débil del motor en movimiento lento y potente. De su precisión depende que el robot se mueva con suavidad o a tirones.</li><li><strong>Sensores.</strong> Cámaras, radar láser, sensores de fuerza en las manos y giroscopios que miden la inclinación del cuerpo cientos de veces por segundo.</li><li><strong>Cómputo.</strong> Uno o varios procesadores que ejecutan la percepción, el equilibrio y la planificación. El control del equilibrio no puede depender de internet: se calcula a bordo.</li><li><strong>Batería.</strong> Determina la autonomía real, que en los modelos actuales ronda las dos a cuatro horas de trabajo continuo.</li></ul>"
+    },
+    {
+      "h2": "Breve historia del robot humanoide",
+      "html": "<p><strong>1973 — WABOT-1.</strong> La Universidad de Waseda, en Japón, presenta el primer robot humanoide completo a escala real. Caminaba, agarraba objetos y se comunicaba en japonés. Tardaba unos cuarenta y cinco segundos en dar un paso.</p><p><strong>2000 — ASIMO.</strong> Honda define durante dos décadas lo que el público entiende por robot humanoide. Corría a seis kilómetros por hora, subía escaleras y reconocía caras. Se retiró en 2022.</p><p><strong>2013 — Atlas.</strong> Boston Dynamics rompe el techo de la movilidad: saltos, volteretas y recuperación de empujones severos.</p><p><strong>2022-2024 — la carrera industrial.</strong> Tesla anuncia Optimus, Figure firma con BMW y Agility mete a Digit en almacenes de Amazon. El humanoide sale del laboratorio.</p><p><strong>2024-2026 — el desplome del precio.</strong> Unitree lanza plataformas por debajo de los 20.000 euros y aparecen modelos de entrada por menos de 5.000. El problema deja de ser técnico y pasa a ser de coste.</p>"
+    },
+    {
+      "h2": "Qué pueden hacer hoy y qué no",
+      "html": "<p>Conviene separar lo que se ve en los vídeos de lo que hay documentado.</p><p><strong>Lo que hacen bien:</strong> desplazarse por entornos conocidos, transportar cargas moderadas, ejecutar tareas repetitivas en un espacio controlado, reconocer objetos y personas, y mantener conversaciones sencillas.</p><p><strong>Lo que todavía no:</strong> manipular objetos frágiles o irregulares con soltura, trabajar una jornada completa sin recargar, improvisar ante situaciones nuevas, y funcionar de forma fiable en entornos desordenados como una casa real.</p><p>Un humanoide de 2026 es una herramienta útil para tareas acotadas, no un asistente universal. Quien compre esperando lo segundo se va a llevar un disgusto caro.</p>"
+    }
+  ]
+}

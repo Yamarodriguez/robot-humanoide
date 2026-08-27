@@ -1,0 +1,16 @@
+{
+  "titulo": "Sobre Nosotros",
+  "url": "/sobre-nosotros/",
+  "slug": "sobre-nosotros",
+  "h1": "Sobre Nosotros",
+  "entradilla": "",
+  "cta": null,
+  "hero": null,
+  "metaTitulo": "Sobre Nosotros - Robot Humanoide",
+  "metaDescripcion": "Quiénes somos y a qué nos dedicamos.",
+  "focusKeyword": "",
+  "imagenPrincipal": null,
+  "faq": [],
+  "noindex": true,
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><p><strong>PENDIENTE DE REDACTAR.</strong> Esta página está marcada como <code>noindex</code> para que Google no la vea vacía. Al rellenarla, quita <code>\"noindex\": true</code> de <code>src/content/pages/sobre-nosotros.json</code>.</p><h2>Qué contar aquí</h2><ul><li>Quién eres y desde cuándo trabajas con robótica</li><li>Dónde estás: dirección física en España y en Argentina</li><li>Teléfono y datos fiscales (CIF o CUIT)</li><li>Una foto real tuya o del equipo, no de banco de imágenes</li><li>Con qué fabricantes trabajas y desde cuándo</li></ul><p>Estos datos además desbloquean el schema <code>Organization</code> completo, que hoy no se puede generar porque no hay teléfono ni dirección.</p></div></div></section>"
+}

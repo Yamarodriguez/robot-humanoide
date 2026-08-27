@@ -1,0 +1,123 @@
+{
+  "_nota": "Contenido propio de cada pagina de tipo. La entradilla sale de la tarjeta; el resto esta escrito para esta pagina. Editar aqui, no en el HTML. Cada entrada: h1, metaTitulo, metaDescripcion y bloques de contenido.",
+  "robot-industrial": {
+    "h1": "Robot Humanoide Industrial",
+    "metaTitulo": "Robot Humanoide Industrial - Usos, Modelos y Qué Esperar",
+    "metaDescripcion": "Qué hace un robot humanoide industrial en fábrica, qué modelos se están desplegando hoy y qué límites tiene antes de plantear una compra.",
+    "paraQue": "<p>Trabaja en líneas de montaje, manipula piezas y traslada material entre puestos. La ventaja frente a un brazo robótico fijo es que aprovecha instalaciones pensadas para personas: escaleras, pasillos estrechos y estanterías a distintas alturas. No hay que rediseñar la planta.</p><p>Los despliegues reales de hoy se concentran en tareas repetitivas de baja precisión: descargar cajas, alimentar máquinas, mover contenedores entre estaciones.</p>",
+    "modelos": "<p>Figure completó un piloto de once meses en una planta de BMW. Apptronik prueba su Apollo con Mercedes-Benz. Tesla desarrolla Optimus para sus propias fábricas antes de venderlo fuera.</p><p>Ninguno de esos tres se vende al público todavía. Para un proyecto real hoy, la vía practicable pasa por Unitree o por integradores que trabajan con plataformas abiertas.</p>",
+    "tenerEnCuenta": "<ul><li><strong>Autonomía.</strong> Entre dos y cuatro horas de trabajo continuo. Para un turno completo hacen falta baterías intercambiables o una segunda unidad.</li><li><strong>Seguridad.</strong> Si comparte espacio con operarios, necesita evaluación de riesgos y marcado CE. No es opcional.</li><li><strong>Integración.</strong> El robot no sirve solo: hay que conectarlo al sistema de gestión de planta.</li><li><strong>Amortización.</strong> Calcula sobre la tarea concreta, no sobre el catálogo.</li></ul>"
+  },
+  "robot-de-compania": {
+    "h1": "Robot Humanoide de Compañía",
+    "metaTitulo": "Robot de Compañía - Robots Humanoides para Personas Mayores",
+    "metaDescripcion": "Robots humanoides de compañía: qué hacen, para quién sirven y qué expectativas son realistas hoy en acompañamiento y asistencia.",
+    "paraQue": "<p>Acompañan a personas que pasan muchas horas solas, sobre todo mayores. Recuerdan la medicación, mantienen conversación, avisan a un familiar si detectan una caída y sirven de enlace con videollamadas.</p><p>No sustituyen el cuidado humano ni la atención médica. Cubren las horas muertas entre visitas, que es donde más se nota la soledad.</p>",
+    "modelos": "<p>El segmento está partido en dos. Por un lado, robots pequeños de sobremesa con voz e interacción, ya asequibles. Por otro, humanoides completos capaces de moverse por la vivienda, como el NEO de 1X, que empieza a llegar a hogares reales.</p>",
+    "tenerEnCuenta": "<ul><li><strong>Privacidad.</strong> Un robot con cámara y micrófono en casa de un mayor plantea preguntas serias. Comprueba dónde se procesa el audio y quién accede a él.</li><li><strong>Aceptación.</strong> No todas las personas mayores quieren un robot en casa. Conviene probarlo antes de comprarlo.</li><li><strong>Conectividad.</strong> Sin buena conexión, las funciones de voz se degradan mucho.</li></ul>"
+  },
+  "robots-medicos": {
+    "h1": "Robots Humanoides Médicos",
+    "metaTitulo": "Robots Médicos Humanoides - Aplicaciones Clínicas y Asistenciales",
+    "metaDescripcion": "Robots humanoides en el ámbito sanitario: apoyo asistencial, logística hospitalaria y rehabilitación. Qué hacen hoy y qué requisitos legales tienen.",
+    "paraQue": "<p>En hospitales cubren tareas de apoyo: guiar visitantes, trasladar material entre plantas, tomar constantes básicas y aliviar carga administrativa al personal. En residencias, acompañamiento y recordatorio de pautas.</p><p>Conviene separar dos cosas que se confunden: el robot quirúrgico —como Da Vinci— no es humanoide, es un sistema de brazos teledirigido por un cirujano. Los humanoides médicos hacen apoyo, no cirugía.</p>",
+    "modelos": "<p>Fourier Intelligence orienta su GR-2 a rehabilitación y aplicaciones terapéuticas, con movimiento suave para trabajar en contacto con el paciente. UBTech despliega su línea Cruzr en hospitales para recepción y orientación.</p>",
+    "tenerEnCuenta": "<ul><li><strong>Producto sanitario.</strong> Si el robot interviene en diagnóstico o tratamiento, entra en normativa de producto sanitario, con certificación propia. Si solo acompaña o transporta, no.</li><li><strong>Datos de salud.</strong> Son categoría especial en RGPD. El tratamiento tiene requisitos reforzados.</li><li><strong>Higiene.</strong> Superficies desinfectables y protocolo de limpieza compatible con el entorno.</li></ul>"
+  },
+  "robot-camarero": {
+    "h1": "Robot Camarero",
+    "metaTitulo": "Robot Camarero - Cuánto Cuesta y Si Compensa en Hostelería",
+    "metaDescripcion": "Robot camarero para restaurantes: qué tareas cubre, cuánto cuesta, en qué locales funciona y en cuáles no compensa.",
+    "paraQue": "<p>Lleva platos de cocina a mesa y recoge vajilla sucia. Libera al personal de sala del recorrido más repetitivo del turno para que atienda al cliente, que es donde aporta valor.</p><p>Funciona bien en locales grandes con recorridos largos y suelo despejado. En un bar pequeño con pasillos estrechos y mucho movimiento, estorba más de lo que ayuda.</p>",
+    "modelos": "<p>La mayoría del mercado de hostelería no es humanoide: son plataformas con bandejas sobre ruedas, mucho más baratas y perfectamente eficaces para transportar. El humanoide entra cuando además quieres interacción con el cliente, presencia o efecto reclamo.</p>",
+    "tenerEnCuenta": "<ul><li><strong>El suelo manda.</strong> Escalones, alfombras o desniveles limitan el recorrido más que ninguna otra cosa.</li><li><strong>No sustituye al camarero.</strong> No toma comandas complejas, no resuelve incidencias ni cobra.</li><li><strong>Efecto novedad.</strong> Atrae clientela los primeros meses. Cuenta con eso en el retorno, pero no lo conviertas en el argumento principal.</li></ul>"
+  },
+  "robots-educativos": {
+    "h1": "Robots Humanoides Educativos",
+    "metaTitulo": "Robots Educativos - Robótica Humanoide para Colegios y Universidades",
+    "metaDescripcion": "Robots humanoides educativos para centros escolares y universidades: qué se aprende con ellos, qué modelos hay y qué presupuesto hace falta.",
+    "paraQue": "<p>Sirven para enseñar programación, mecánica y percepción con un objeto físico que se mueve delante del alumno. La diferencia con un simulador es la motivación: el error se ve, y eso engancha.</p><p>En secundaria se usan para introducir lógica y secuencias. En formación profesional y universidad, para trabajar control, visión artificial y aprendizaje automático sobre hardware real.</p>",
+    "modelos": "<p>UBTech tiene la línea más establecida en aulas, con material docente por curso. Para universidad, las plataformas abiertas de Unitree permiten programar desde cero con Python y ROS 2, que es lo que el alumno va a encontrarse después en la industria.</p>",
+    "tenerEnCuenta": "<ul><li><strong>Material docente.</strong> Un robot sin currículo asociado acaba en un armario. Pregunta qué incluye antes de comprar.</li><li><strong>Robustez.</strong> En un aula se cae. Comprueba disponibilidad y precio de recambios.</li><li><strong>Formación del profesorado.</strong> Es el factor que más determina si el proyecto funciona o no.</li></ul>"
+  },
+  "robots-para-el-hogar": {
+    "h1": "Robots Humanoides para el Hogar",
+    "metaTitulo": "Robot Humanoide para el Hogar - Qué Puede Hacer Hoy en Casa",
+    "metaDescripcion": "Robots humanoides domésticos: qué tareas resuelven realmente en 2026, cuánto cuestan y qué conviene saber antes de reservar uno.",
+    "paraQue": "<p>Recoger, ordenar, doblar ropa, cargar el lavavajillas y llevar objetos de una habitación a otra. Es el segmento que más ha avanzado y el que más expectativas infladas acumula.</p><p>La realidad de 2026: hacen bien un conjunto acotado de tareas en entornos que conocen. Una casa desordenada y con objetos nuevos cada día sigue siendo difícil.</p>",
+    "modelos": "<p>El NEO de 1X es el primero pensado explícitamente para vivienda: unos 20.000 dólares de compra o 499 al mes en suscripción. Aprende tareas por guiado humano en lugar de programación.</p><p>Tesla trabaja en Optimus para uso doméstico, todavía sin fecha de venta al público.</p>",
+    "tenerEnCuenta": "<ul><li><strong>Aprendizaje guiado.</strong> Varios modelos requieren que un operador humano teleopere el robot al principio para enseñarle. Eso implica que alguien ve tu casa.</li><li><strong>Autonomía.</strong> Vuelve a la base cada pocas horas. No trabaja un día entero.</li><li><strong>Espacio.</strong> Necesita una base de carga fija y recorridos despejados.</li></ul>"
+  },
+  "robots-empresariales": {
+    "h1": "Robots Humanoides para Empresas",
+    "metaTitulo": "Robots Humanoides para Empresas - Usos en Oficinas y Servicios",
+    "metaDescripcion": "Robots humanoides en entorno empresarial: recepción, apoyo interno y representación de marca. Qué aportan y cómo se calcula el retorno.",
+    "paraQue": "<p>Recepción de visitas, orientación en edificios grandes, reparto interno de documentación y material, y apoyo en presentaciones o demostraciones comerciales.</p><p>En muchos casos el retorno no está en el ahorro de personal sino en la imagen: una empresa tecnológica que recibe a sus clientes con un humanoide comunica algo sobre sí misma.</p>",
+    "modelos": "<p>Para recepción e interacción, UBTech Cruzr y Engineered Arts Ameca son las referencias por expresividad y voz. Para reparto interno, casi siempre compensa más una plataforma con ruedas que un humanoide.</p>",
+    "tenerEnCuenta": "<ul><li><strong>Define la tarea antes del modelo.</strong> Es el error más común: comprar el robot y luego buscarle trabajo.</li><li><strong>Quién lo mantiene.</strong> Necesita alguien dentro que se ocupe de actualizaciones e incidencias.</li><li><strong>Alquilar primero.</strong> Para un uso ocasional o de imagen, el alquiler sale mucho más a cuenta que la compra.</li></ul>"
+  },
+  "robots-seguridad": {
+    "h1": "Robots Humanoides de Seguridad",
+    "metaTitulo": "Robots de Seguridad - Vigilancia con Robótica Humanoide",
+    "metaDescripcion": "Robots humanoides de seguridad: rondas, detección de incidencias y disuasión. Qué pueden hacer legalmente y qué no.",
+    "paraQue": "<p>Rondas por instalaciones en horario sin actividad, detección de accesos no autorizados, humo o puertas abiertas, y aviso a la central. Su presencia visible ya tiene efecto disuasorio.</p><p>Cubren el turno de noche sin fatiga y registran cada ronda, lo que deja trazabilidad de la que un parte manual carece.</p>",
+    "modelos": "<p>En seguridad perimetral dominan los robots con ruedas u orugas, más autónomos y baratos. El formato humanoide aporta cuando hay que subir escaleras o abrir puertas pensadas para personas.</p>",
+    "tenerEnCuenta": "<ul><li><strong>Marco legal.</strong> La seguridad privada está regulada. Un robot no sustituye a un vigilante habilitado: complementa, avisa y registra.</li><li><strong>Videovigilancia.</strong> Grabar exige señalización, base jurídica y plazos de conservación definidos.</li><li><strong>Intemperie.</strong> Verifica el grado de protección si va a salir al exterior.</li></ul>"
+  },
+  "robot-de-vigilancia": {
+    "h1": "Robot Humanoide de Vigilancia",
+    "metaTitulo": "Robot de Vigilancia - Monitorización Continua con Humanoides",
+    "metaDescripcion": "Robots humanoides de vigilancia y monitorización: sensores, rondas programadas y qué diferencia hay con un sistema de cámaras fijas.",
+    "paraQue": "<p>Monitorización continua de un recinto, con cámaras térmicas y de visión nocturna, detección de movimiento y lectura de sensores ambientales.</p><p>La diferencia con un circuito de cámaras fijas es que el robot se desplaza: cubre más superficie con menos equipos y llega a puntos ciegos donde no hay instalación.</p>",
+    "modelos": "<p>Se combinan con la infraestructura existente. El robot no reemplaza el circuito cerrado: lo complementa moviéndose por donde las cámaras no llegan.</p>",
+    "tenerEnCuenta": "<ul><li><strong>Falsos positivos.</strong> Son el mayor problema práctico. Un sistema que avisa cada noche por un gato deja de atenderse en dos semanas.</li><li><strong>Comunicación.</strong> Necesita cobertura continua en todo el recorrido, incluidos sótanos y naves metálicas.</li><li><strong>Protección de datos.</strong> Si graba a personas, aplica la normativa de videovigilancia.</li></ul>"
+  },
+  "robots-de-logistica-y-almacen": {
+    "h1": "Robots Humanoides de Logística y Almacén",
+    "metaTitulo": "Robots de Logística - Humanoides en Almacenes y Centros de Distribución",
+    "metaDescripcion": "Robots humanoides en logística: el despliegue comercial más real que existe hoy. Qué tareas cubren en almacén y qué modelos están operando.",
+    "paraQue": "<p>Descargar camiones, mover contenedores entre estaciones, preparar pedidos y alimentar cintas transportadoras. Es, con diferencia, el uso con más despliegue comercial real.</p><p>El argumento no es solo el coste: son puestos con alta rotación y difíciles de cubrir, sobre todo en turnos de noche.</p>",
+    "modelos": "<p>Digit, de Agility Robotics, ya trabaja en almacenes de Amazon moviendo contenedores. Agility construyó RoboFab, la primera fábrica dedicada a producir humanoides en serie, y comercializa contratos de robot como servicio en torno a 8.500 dólares al mes.</p>",
+    "tenerEnCuenta": "<ul><li><strong>El robot como servicio encaja bien aquí.</strong> Cuota mensual con mantenimiento incluido evita inmovilizar capital en tecnología que cambia cada año.</li><li><strong>Volumen mínimo.</strong> Por debajo de cierto número de movimientos por hora no sale a cuenta.</li><li><strong>Convivencia.</strong> Zonas y protocolos definidos para que robots y operarios compartan pasillo con seguridad.</li></ul>"
+  },
+  "robots-de-rehabilitacion": {
+    "h1": "Robots Humanoides de Rehabilitación",
+    "metaTitulo": "Robots de Rehabilitación - Humanoides en Terapia Física",
+    "metaDescripcion": "Robots humanoides aplicados a rehabilitación y recuperación motora: cómo asisten al terapeuta y qué requisitos clínicos tienen.",
+    "paraQue": "<p>Asisten en terapia física guiando movimientos repetitivos con fuerza y recorrido controlados, y registran la evolución sesión a sesión con datos objetivos en lugar de apreciación.</p><p>Permiten sesiones más largas sin desgaste del terapeuta, que puede supervisar en vez de sostener.</p>",
+    "modelos": "<p>Fourier Intelligence es el fabricante más orientado a este campo: su GR-2 está diseñado específicamente para aplicaciones médicas y de rehabilitación.</p>",
+    "tenerEnCuenta": "<ul><li><strong>Certificación.</strong> Si interviene en el tratamiento, es producto sanitario y necesita certificación específica.</li><li><strong>Supervisión.</strong> No trabaja sin profesional presente. Es una herramienta del terapeuta, no un sustituto.</li><li><strong>Historial clínico.</strong> Los datos que registra son de salud y su tratamiento tiene requisitos reforzados.</li></ul>"
+  },
+  "robots-de-investigacion": {
+    "h1": "Robots Humanoides de Investigación",
+    "metaTitulo": "Robots de Investigación - Plataformas Abiertas para I+D",
+    "metaDescripcion": "Robots humanoides para investigación y desarrollo: plataformas con SDK abierto para universidades y laboratorios. Modelos y presupuesto.",
+    "paraQue": "<p>Sirven de banco de pruebas para investigar locomoción, manipulación, percepción y aprendizaje automático sobre hardware real, donde aparecen los problemas que el simulador esconde.</p><p>Son la puerta de entrada habitual de universidades y centros tecnológicos al campo.</p>",
+    "modelos": "<p>Unitree domina este segmento por precio y apertura: el G1 cuesta unos 16.000 dólares en fábrica y 24.900 € con distribuidor en España, una fracción de lo que costaba una plataforma equivalente hace cinco años, y llega con SDK y documentación.</p><p>Para presupuestos más ajustados, el Unitree R1 y el Booster K1 se mueven entre los 4.000 y los 8.900 €. Esa caída de precio es la razón de que hayan aparecido tantos grupos de investigación en robótica humanoide desde 2024.</p>",
+    "tenerEnCuenta": "<ul><li><strong>Comunidad.</strong> Un SDK con comunidad activa vale más que uno mejor documentado pero sin nadie detrás.</li><li><strong>Recambios.</strong> En investigación el robot se cae mucho. Presupuesta piezas desde el principio.</li><li><strong>Simulación primero.</strong> Entrena en entorno virtual antes de tocar la máquina: ahorra averías caras.</li></ul>"
+  },
+  "robots-de-atencion-al-cliente": {
+    "h1": "Robots Humanoides de Atención al Cliente",
+    "metaTitulo": "Robots de Atención al Cliente - Recepción en Tiendas y Hoteles",
+    "metaDescripcion": "Robots humanoides para atención al cliente en comercio, hoteles y oficinas: qué resuelven, qué no y cómo medir si compensan.",
+    "paraQue": "<p>Reciben al visitante, responden preguntas frecuentes, orientan dentro del edificio y acompañan hasta el punto que busca. En comercio, informan sobre producto y disponibilidad.</p><p>Absorben las consultas repetitivas —dónde está el baño, a qué hora cierran— y liberan al personal para lo que requiere criterio.</p>",
+    "modelos": "<p>UBTech Cruzr es la opción más asentada en retail y hoteles. Engineered Arts Ameca destaca por expresividad facial cuando el objetivo es el impacto y la conversación.</p>",
+    "tenerEnCuenta": "<ul><li><strong>Idiomas.</strong> En zona turística es determinante. Comprueba cuántos reconoce de verdad, no cuántos anuncia.</li><li><strong>Ruido.</strong> En entornos ruidosos el reconocimiento de voz se degrada mucho. Pruébalo en tu local.</li><li><strong>Vía de escape.</strong> Siempre debe haber forma rápida de pasar a una persona. Un cliente atascado con un robot es un cliente perdido.</li></ul>"
+  },
+  "robots-de-inspeccion-industrial": {
+    "h1": "Robots Humanoides de Inspección Industrial",
+    "metaTitulo": "Robots de Inspección Industrial - Rondas en Plantas e Infraestructuras",
+    "metaDescripcion": "Robots humanoides de inspección para plantas industriales, subestaciones e infraestructuras. Lecturas automáticas sin parar la producción.",
+    "paraQue": "<p>Rondas de revisión en plantas, subestaciones eléctricas, refinerías e infraestructuras: lectura de manómetros y displays, termografía de cuadros y detección de fugas o vibraciones anómalas.</p><p>El formato humanoide encaja porque accede a escaleras, pasarelas y pasillos diseñados para personas, sin obra de adaptación.</p>",
+    "modelos": "<p>Conviven con robots cuadrúpedos, muy asentados en este uso por estabilidad en terreno irregular. El humanoide gana cuando además hay que manipular: girar una válvula o accionar un interruptor.</p>",
+    "tenerEnCuenta": "<ul><li><strong>Atmósferas explosivas.</strong> En refinería o química hace falta certificación ATEX. Muy pocos robots la tienen.</li><li><strong>Repetibilidad.</strong> El valor está en medir siempre igual, en el mismo punto, para poder comparar en el tiempo.</li><li><strong>Integración.</strong> Las lecturas deben volcarse al sistema de mantenimiento, o se quedan en un informe que nadie abre.</li></ul>"
+  },
+  "robots-para-eventos": {
+    "h1": "Robots Humanoides para Eventos",
+    "metaTitulo": "Robots para Eventos - Alquiler de Humanoides para Ferias y Congresos",
+    "metaDescripcion": "Robots humanoides para ferias, congresos y presentaciones: atraen visitantes al estand, recogen contactos e interactúan con el público.",
+    "paraQue": "<p>Atraen visitantes al estand, interactúan con el público, recogen datos de contacto y hacen demostraciones sin necesidad de personal dedicado a cada visitante.</p><p>En una feria, la métrica es cuánta gente se para. Un humanoide detiene a mucha más gente que un cartel, y esa parada es la que abre la conversación.</p>",
+    "modelos": "<p>Para eventos casi nunca compensa comprar: se alquila por días. Lo determinante no es el modelo sino que llegue montado, calibrado y con operador incluido.</p>",
+    "tenerEnCuenta": "<ul><li><strong>Alquiler, no compra.</strong> Un robot usado tres veces al año no se amortiza jamás.</li><li><strong>Prueba en el recinto.</strong> Suelo, iluminación y ruido cambian el comportamiento. Hay que calibrar in situ.</li><li><strong>Plan B.</strong> Si el robot falla a media feria, el estand no puede quedarse vacío.</li><li><strong>Consentimiento.</strong> Si recoge datos de contacto, aplica la normativa de protección de datos igual que un formulario.</li></ul>"
+  }
+}

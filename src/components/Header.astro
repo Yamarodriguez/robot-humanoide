@@ -1,0 +1,65 @@
+---
+import site from '../data/site.json';
+const { rutaActual } = Astro.props;
+const img = (ruta) => site.baseImagenes + ruta;
+
+const activo = (i) =>
+  i.url === rutaActual ||
+  (i.hijos || []).some((h) => h.url.split('#')[0] === rutaActual);
+---
+<header class="cabecera">
+  <div class="cabecera__aviso">
+    <div class="contenedor">
+      <a href={`mailto:${site.email}`}>{site.email}</a>
+    </div>
+  </div>
+
+  <div class="contenedor cabecera__barra">
+    <a class="cabecera__logo" href="/">
+      <img src={img(site.logo)} alt={site.logoAlt}
+           width="451" height="257" fetchpriority="high" decoding="async" />
+    </a>
+
+    {/* Casilla oculta + etiqueta: hamburguesa sin JavaScript. No uso
+        <details> porque los navegadores ocultan su contenido con
+        content-visibility y no se puede forzar visible en escritorio. */}
+    <input type="checkbox" id="abrir-menu" class="conmutador" />
+    <label for="abrir-menu" class="menu__boton">
+      <span class="menu__barras" aria-hidden="true"></span>
+      <span>Menú</span>
+    </label>
+
+    <nav class="menu__nav" aria-label="Principal">
+      <ul class="nav">
+        {site.navegacion.map((item, n) => item.hijos ? (
+          <li class:list={['nav__grupo', { 'es-activo': activo(item) }]}>
+            <input type="checkbox" id={`grupo-${n}`} class="conmutador" />
+            <label for={`grupo-${n}`} class="nav__cabeza">{item.texto}</label>
+            <ul class:list={['submenu', { 'submenu--ancho': item.hijos.length > 8 }]}>
+              {item.url && (
+                <li class="submenu__todo">
+                  <a href={item.url}
+                     aria-current={rutaActual === item.url ? 'page' : undefined}
+                  >Ver todo</a>
+                </li>
+              )}
+              {item.hijos.map((h) => (
+                <li>
+                  <a href={h.url}
+                     aria-current={rutaActual === h.url ? 'page' : undefined}
+                  >{h.texto}</a>
+                </li>
+              ))}
+            </ul>
+          </li>
+        ) : (
+          <li>
+            <a href={item.url}
+               aria-current={rutaActual === item.url ? 'page' : undefined}
+            >{item.texto}</a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  </div>
+</header>

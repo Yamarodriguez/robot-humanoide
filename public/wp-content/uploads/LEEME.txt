@@ -1,0 +1,9 @@
+Copia aqui el contenido de /wp-content/uploads/ de tu WordPress,
+manteniendo la estructura de carpetas por anio y mes.
+
+Deben quedar rutas como:
+  public/wp-content/uploads/2025/03/robot-humanoide.webp
+  public/wp-content/uploads/2026/01/robot-humanoide-santa-fe.webp
+
+Son 31 archivos. Las paginas ya los referencian con esas rutas exactas,
+asi que no hay que tocar ningun HTML.

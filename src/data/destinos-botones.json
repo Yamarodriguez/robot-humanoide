@@ -1,0 +1,11 @@
+{
+  "_nota": "Elementor guardaba estos botones sin enlace: apuntaban a paginas que no existian. Al crear el silo ya tienen destino. El texto se conserva tal cual estaba en el original; aqui solo se le asigna la URL.",
+  "Tipos de Robot Humanoides actuales": "/tipos/",
+  "Robot Humanoide precio": "/precios/",
+  "Marcas y Empresas de Robots Humanoide": "/marcas/",
+  "Servicios Para Robots Humanoides": "/servicios/",
+  "Formación y Cursos en Robótica Humanoide": "/cursos/",
+  "Accesorios y Repuestos para Robot": "/accesorios/",
+  "_comentario_comprar": "Ya existe /comprar/, que es su destino natural.",
+  "Comprar Robots Humanoides": "/comprar/"
+}

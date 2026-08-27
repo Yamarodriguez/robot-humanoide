@@ -1,0 +1,542 @@
+{
+  "_nota": "Contenido propio de cada pagina de marca. Los precios y estados de disponibilidad son de 2026 y envejecen rapido: conviene revisarlos cada pocos meses.",
+  "unitree-g1": {
+    "h1": "Unitree G1",
+    "metaTitulo": "Unitree G1 - Precio, Características y Dónde Comprarlo",
+    "metaDescripcion": "El Unitree G1 cuesta 24.900 € en España y unos 16.000 $ en fábrica. Ficha técnica completa, qué incluye el precio y plazos de entrega reales.",
+    "queEs": "<p>Es el humanoide que rompió la barrera de precio del sector. Unos 16.000 dólares en fábrica, cuando una plataforma equivalente costaba diez veces más hace cinco años.</p><p><strong>Ojo con ese número:</strong> en España se vende por 24.900 € a través de distribuidor. La diferencia son aranceles, IVA, transporte, garantía y soporte local. Es la brecha que sorprende a casi todo el que compara precios de fábrica china.</p><p>Unitree salió a bolsa en Shanghái con una valoración de 905 millones de dólares. No es un prototipo de laboratorio.</p>",
+    "queHace": "<p>Camina, corre, mantiene el equilibrio ante empujones y se levanta solo después de una caída, que es donde fallan la mayoría de los bípedos. Llega con SDK propio, documentación y una comunidad activa de desarrolladores.</p><p>Es la plataforma de referencia en universidades y centros de investigación desde 2024, precisamente por precio y apertura.</p>",
+    "paraQuien": "<ul><li><strong>Laboratorios y universidades</strong> que necesitan hardware real para investigar locomoción o manipulación.</li><li><strong>Desarrolladores e integradores</strong> que quieren construir encima sin pagar una licencia cerrada.</li><li><strong>Pymes</strong> que exploran automatización sin comprometer un presupuesto de seis cifras.</li></ul><p>No es un robot doméstico listo para usar. Requiere que alguien lo programe.</p>",
+    "aTenerEnCuenta": "<ul><li><strong>Precio de fábrica frente a precio final.</strong> 16.000 $ en China no son 16.000 $ en tu puerta. Con aranceles, IVA y transporte, la cifra realista en España ronda los 24.900 €.</li><li><strong>Plazo.</strong> Los distribuidores españoles trabajan con unos 60 días por riguroso orden de encargo.</li><li><strong>Soporte.</strong> Comprar en AliExpress sale más barato y te deja sin garantía ni servicio técnico local.</li><li><strong>Recambios.</strong> Los actuadores son la pieza que más falla. Presupuéstalos.</li></ul>",
+    "precio": {
+      "fabrica": "16.000 $ (unos 14.000 €)",
+      "espana": "24.900 €",
+      "disponible": "Sí, con distribuidor en España",
+      "entrega": "60 días por orden de encargo"
+    },
+    "ficha": [
+      [
+        "Altura",
+        "1,32 m"
+      ],
+      [
+        "Peso",
+        "35 kg con batería"
+      ],
+      [
+        "Grados de libertad",
+        "23"
+      ],
+      [
+        "Velocidad",
+        "hasta 7 km/h"
+      ],
+      [
+        "Autonomía",
+        "unas 2 horas"
+      ],
+      [
+        "Sensores",
+        "LiDAR 3D + cámara de profundidad"
+      ],
+      [
+        "Par máx. rodilla",
+        "90 Nm"
+      ],
+      [
+        "Cómputo",
+        "CPU de 8 núcleos"
+      ],
+      [
+        "Manos",
+        "tres dedos, opcionales"
+      ],
+      [
+        "SDK",
+        "abierto, Python y ROS 2"
+      ]
+    ]
+  },
+  "1x-technologies-neo": {
+    "h1": "1X Technologies NEO",
+    "metaTitulo": "1X NEO - El Robot Humanoide para el Hogar: Precio y Reserva",
+    "metaDescripcion": "El NEO de 1X cuesta 20.000 dólares o 499 al mes. Es el primer humanoide diseñado para vivienda. Qué tareas hace y qué implica el aprendizaje guiado.",
+    "queEs": "<p>El primer humanoide concebido explícitamente para el hogar, no adaptado desde un modelo industrial. Se vende a unos 20.000 dólares o mediante suscripción de 499 dólares mensuales.</p><p>1X apostó por un diseño ligero y con recubrimiento textil, pensado para convivir con personas en un salón, no para trabajar en una nave.</p>",
+    "queHace": "<p>Ordena, recoge objetos, dobla ropa y ayuda con tareas domésticas repetitivas. No las trae programadas de fábrica: las aprende por guiado humano, observando cómo se hacen.</p><p>Vuelve a su base de carga cada pocas horas. No trabaja una jornada completa sin recargar.</p>",
+    "paraQuien": "<ul><li><strong>Hogares</strong> que quieren delegar tareas repetitivas y aceptan convivir con tecnología en fase temprana.</li><li><strong>Asistencia a personas mayores</strong>, como apoyo en el día a día.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Teleoperación.</strong> En la fase de aprendizaje, un operador humano puede controlar el robot en remoto. Eso significa que alguien ve el interior de tu casa. Pregunta cómo se gestiona antes de firmar.</li><li><strong>Suscripción frente a compra.</strong> A 499 al mes, en tres años y medio superas el precio de compra. Calcula según cuánto tiempo lo quieras.</li><li><strong>Lista de espera.</strong> Se comercializa por reserva. El plazo real hasta recibirlo puede ser largo.</li></ul>",
+    "precio": {
+      "fabrica": "20.000 $ o 499 $/mes",
+      "espana": "Sin distribuidor español",
+      "disponible": "Por reserva",
+      "entrega": "Lista de espera"
+    },
+    "ficha": [
+      [
+        "Diseñado para",
+        "vivienda"
+      ],
+      [
+        "Aprendizaje",
+        "por guiado humano"
+      ],
+      [
+        "Autonomía",
+        "vuelve a base cada pocas horas"
+      ],
+      [
+        "Acabado",
+        "recubrimiento textil"
+      ],
+      [
+        "Suscripción",
+        "499 $/mes"
+      ]
+    ]
+  },
+  "agility-robotics-digit": {
+    "h1": "Agility Robotics Digit",
+    "metaTitulo": "Agility Digit - El Humanoide que Ya Trabaja en Almacenes",
+    "metaDescripcion": "Digit de Agility Robotics es el humanoide con más despliegue comercial real: trabaja en almacenes de Amazon. Modelo de contratación y coste mensual.",
+    "queEs": "<p>El humanoide con más horas de trabajo real acumuladas. No es una demostración: Digit mueve contenedores en almacenes de Amazon.</p><p>Agility construyó RoboFab, la primera fábrica dedicada a producir humanoides en serie, lo que la separa de los fabricantes que siguen montando unidades a mano.</p>",
+    "queHace": "<p>Levanta y traslada contenedores y cajas entre estaciones, descarga y alimenta cintas transportadoras. Su diseño prioriza la fiabilidad en una tarea acotada sobre la versatilidad.</p><p>Las piernas con articulación invertida, inspiradas en las aves, le dan estabilidad y eficiencia energética en desplazamientos largos.</p>",
+    "paraQuien": "<ul><li><strong>Centros logísticos</strong> con volumen alto y tareas repetitivas de traslado.</li><li><strong>Operaciones con turnos difíciles de cubrir</strong>, especialmente nocturnos.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Robot como servicio.</strong> Agility trabaja con contratos en torno a 8.500 dólares al mes, con mantenimiento incluido. Evita inmovilizar capital en tecnología que cambia cada año.</li><li><strong>Volumen mínimo.</strong> Por debajo de cierto número de movimientos por hora, no compensa.</li><li><strong>No es genérico.</strong> Hace bien lo que hace. No esperes que además atienda al cliente.</li></ul>",
+    "precio": {
+      "fabrica": "8.500 $/mes en contrato RaaS",
+      "espana": "Sin distribuidor español",
+      "disponible": "Solo grandes operaciones logísticas",
+      "entrega": "Por proyecto"
+    },
+    "ficha": [
+      [
+        "Uso",
+        "logística de almacén"
+      ],
+      [
+        "Despliegue real",
+        "almacenes de Amazon"
+      ],
+      [
+        "Fabricación",
+        "RoboFab, planta en serie"
+      ],
+      [
+        "Piernas",
+        "articulación invertida"
+      ],
+      [
+        "Modelo comercial",
+        "robot como servicio"
+      ]
+    ]
+  },
+  "figure-ai-figure-03": {
+    "h1": "Figure AI - Figure 03",
+    "metaTitulo": "Figure 03 - El Humanoide de Figure AI y su Piloto en BMW",
+    "metaDescripcion": "Figure AI alcanzó una valoración de 39.000 millones. Su Figure 03 completó un piloto de once meses en BMW. Qué hace y por qué no se vende al público.",
+    "queEs": "<p>La empresa mejor financiada del sector: 39.000 millones de dólares de valoración, con OpenAI, Microsoft y Nvidia entre sus respaldos.</p><p>Su apuesta es la inteligencia incorporada: no programar cada movimiento, sino que el robot aprenda a resolver tareas nuevas a partir de instrucciones en lenguaje natural.</p>",
+    "queHace": "<p>Manipulación de piezas, colocación en líneas de montaje y tareas que requieren coordinación fina de las manos. Completó un piloto de once meses en una planta de BMW, uno de los despliegues industriales más largos documentados.</p>",
+    "paraQuien": "<ul><li><strong>Grandes fabricantes</strong> con capacidad para participar en programas piloto.</li><li>Hoy, nadie más.</li></ul>",
+    "aTenerEnCuenta": "<p><strong>No se vende al público.</strong> Figure trabaja por acuerdos con grandes clientes industriales. Si estás evaluando una compra real a corto plazo, esta marca no es una opción todavía, por mucho que aparezca en todas las noticias.</p><p>Aparece en esta página porque marca hacia dónde va el sector, no porque puedas pedirlo.</p>",
+    "precio": {
+      "fabrica": "No comercializado",
+      "espana": "No disponible",
+      "disponible": "No",
+      "entrega": "—"
+    },
+    "ficha": [
+      [
+        "Respaldo",
+        "OpenAI, Microsoft, Nvidia"
+      ],
+      [
+        "Valoración",
+        "39.000 M$"
+      ],
+      [
+        "Piloto",
+        "11 meses en planta de BMW"
+      ],
+      [
+        "Enfoque",
+        "inteligencia incorporada"
+      ]
+    ]
+  },
+  "ubtech": {
+    "h1": "UBTech",
+    "metaTitulo": "UBTech - Robots Humanoides para Educación y Comercio",
+    "metaDescripcion": "UBTech fabrica robots humanoides que se venden de verdad: la línea Cruzr en hospitales y comercios, y robots educativos con material docente.",
+    "queEs": "<p>Fabricante chino con producto en el mercado desde hace años, cotizado en la bolsa de Hong Kong. Mientras otras marcas anuncian, UBTech factura.</p><p>Su fuerza está en dos nichos concretos: educación y atención al público. No compite en el terreno del humanoide industrial de propósito general.</p>",
+    "queHace": "<p>La línea Cruzr opera en hospitales, hoteles y comercios: recibe visitantes, informa y orienta dentro del edificio. Su gama educativa se usa en aulas para enseñar programación y robótica, con currículo asociado por curso.</p><p>También desarrolla el Walker, un humanoide de mayor tamaño para tareas industriales.</p>",
+    "paraQuien": "<ul><li><strong>Centros educativos</strong> que necesitan material docente junto al hardware.</li><li><strong>Comercio, hostelería y hospitales</strong> para recepción y orientación.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Disponibilidad real.</strong> Es de las pocas marcas donde puedes comprar una unidad sin entrar en un programa piloto.</li><li><strong>Idiomas.</strong> Verifica el reconocimiento de voz en español, especialmente con acento rioplatense.</li><li><strong>Material docente.</strong> Pregunta si viene traducido o solo en inglés y chino.</li></ul>",
+    "precio": {
+      "fabrica": "Según modelo y configuración",
+      "espana": "Vía distribuidor",
+      "disponible": "Sí",
+      "entrega": "Consultar"
+    },
+    "ficha": [
+      [
+        "Líneas",
+        "Cruzr (servicio) y Walker (industrial)"
+      ],
+      [
+        "Uso",
+        "hospitales, hoteles, comercio, aulas"
+      ],
+      [
+        "Material docente",
+        "incluido en gama educativa"
+      ],
+      [
+        "Cotiza en",
+        "bolsa de Hong Kong"
+      ]
+    ]
+  },
+  "fourier-intelligence-gr-2": {
+    "h1": "Fourier Intelligence GR-2",
+    "metaTitulo": "Fourier GR-2 - Robot Humanoide para Rehabilitación y Medicina",
+    "metaDescripcion": "El GR-2 de Fourier Intelligence está diseñado para aplicaciones médicas y de rehabilitación, con movimiento seguro para trabajar junto a pacientes.",
+    "queEs": "<p>Fourier viene de la robótica de rehabilitación, no de la industrial. Esa procedencia se nota: el GR-2 está pensado desde el principio para moverse cerca de personas vulnerables.</p><p>Es de las pocas marcas que ha elegido un nicho clínico en lugar de perseguir el humanoide de propósito general.</p>",
+    "queHace": "<p>Asiste en terapia física guiando movimientos con fuerza y recorrido controlados, y registra la evolución del paciente sesión a sesión con datos objetivos.</p><p>Su control de fuerza permite ceder ante una resistencia inesperada, que es el requisito básico para trabajar en contacto con un cuerpo humano.</p>",
+    "paraQuien": "<ul><li><strong>Centros de rehabilitación</strong> y unidades de fisioterapia.</li><li><strong>Hospitales</strong> con programas de recuperación motora.</li><li><strong>Investigación biomédica.</strong></li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Producto sanitario.</strong> Si interviene en el tratamiento, necesita certificación específica en cada mercado. Confirma cuál tiene para España o Argentina.</li><li><strong>No sustituye al terapeuta.</strong> Trabaja bajo supervisión profesional.</li><li><strong>Datos de salud.</strong> Lo que registra es categoría especial en RGPD.</li></ul>",
+    "precio": {
+      "fabrica": "Consultar",
+      "espana": "Vía distribuidor sanitario",
+      "disponible": "Sí, canal clínico",
+      "entrega": "Consultar"
+    },
+    "ficha": [
+      [
+        "Uso",
+        "rehabilitación y terapia"
+      ],
+      [
+        "Control",
+        "de fuerza, cede ante resistencia"
+      ],
+      [
+        "Registro",
+        "evolución del paciente por sesión"
+      ],
+      [
+        "Certificación",
+        "verificar por mercado"
+      ]
+    ]
+  },
+  "neura-robotics-4ne-1": {
+    "h1": "Neura Robotics 4NE-1",
+    "metaTitulo": "Neura Robotics 4NE-1 - El Humanoide Europeo",
+    "metaDescripcion": "Neura Robotics fabrica el 4NE-1 en Alemania: humanoide para industria y hogar con desarrollo y soporte europeos, sin fricción de importación.",
+    "queEs": "<p>Fabricante alemán, y esa es su principal ventaja competitiva para un cliente español: desarrollo, fabricación y soporte dentro de la Unión Europea.</p><p>Neura lleva años en robótica colaborativa antes de entrar en humanoides, así que su aproximación parte de la seguridad en entornos compartidos con personas.</p>",
+    "queHace": "<p>Manipulación industrial y tareas domésticas, con percepción táctil que le permite detectar contacto y reaccionar. Está pensado para trabajar junto a operarios, no en una celda aislada.</p>",
+    "paraQuien": "<ul><li><strong>Industria europea</strong> que necesita cumplir normativa comunitaria desde el primer día.</li><li><strong>Empresas</strong> que quieren evitar plazos e incertidumbre de una importación extracomunitaria.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Sin aduanas.</strong> Comprar dentro de la UE elimina aranceles, despacho y semanas de tránsito. Ese ahorro rara vez aparece en la comparativa de precio y suele ser decisivo.</li><li><strong>Marcado CE.</strong> Al fabricarse en Alemania, la conformidad viene resuelta de origen.</li><li><strong>Precio.</strong> Superior a las alternativas chinas. La diferencia se compensa en soporte y plazos.</li></ul>",
+    "precio": {
+      "fabrica": "Consultar",
+      "espana": "Compra intracomunitaria",
+      "disponible": "Sí",
+      "entrega": "Sin aduanas"
+    },
+    "ficha": [
+      [
+        "Fabricación",
+        "Alemania"
+      ],
+      [
+        "Percepción",
+        "táctil, detecta contacto"
+      ],
+      [
+        "Uso",
+        "industria y hogar"
+      ],
+      [
+        "Marcado CE",
+        "de origen"
+      ],
+      [
+        "Aranceles",
+        "ninguno, compra en la UE"
+      ]
+    ]
+  },
+  "robot-tesla-bot-optimus": {
+    "h1": "Tesla Optimus",
+    "metaTitulo": "Tesla Optimus - Estado del Robot Humanoide de Tesla",
+    "metaDescripcion": "Tesla desarrolla Optimus para sus propias fábricas antes de venderlo. Qué se sabe de sus capacidades, precio previsto y disponibilidad real.",
+    "queEs": "<p>El humanoide más mediático del sector. Tesla lo desarrolla apoyándose en la visión artificial y los chips de conducción autónoma que ya tenía en marcha.</p><p>Elon Musk ha anunciado precios en el entorno de los 20.000 a 30.000 dólares para una eventual venta al público, sin fecha confirmada.</p>",
+    "queHace": "<p>En las demostraciones publicadas: camina, manipula objetos, clasifica piezas y realiza tareas sencillas de fábrica. Tesla lo prueba primero en sus propias plantas antes de ofrecerlo fuera.</p><p>Conviene distinguir entre las capacidades demostradas en vídeo y las verificadas de forma independiente. En este caso, las segundas son escasas.</p>",
+    "paraQuien": "<p>Hoy, para nadie fuera de Tesla. La producción se destina a uso interno.</p>",
+    "aTenerEnCuenta": "<ul><li><strong>No está a la venta.</strong> No hay canal de compra ni plazo público de entrega.</li><li><strong>Expectativa contra realidad.</strong> Es la marca con mayor distancia entre lo que la gente cree que puede hacer y lo que está documentado.</li><li>Si necesitas un robot este año, mira Unitree o UBTech.</li></ul>",
+    "precio": {
+      "fabrica": "20.000–30.000 € anunciados",
+      "espana": "No disponible",
+      "disponible": "No, uso interno de Tesla",
+      "entrega": "Sin fecha"
+    },
+    "ficha": [
+      [
+        "Generación",
+        "Gen 3"
+      ],
+      [
+        "Base técnica",
+        "visión y chips de conducción autónoma"
+      ],
+      [
+        "Destino actual",
+        "fábricas de Tesla"
+      ],
+      [
+        "Venta al público",
+        "sin fecha confirmada"
+      ]
+    ]
+  },
+  "robot-boston-dynamics-atlas": {
+    "h1": "Boston Dynamics Atlas",
+    "metaTitulo": "Boston Dynamics Atlas - El Humanoide más Ágil del Mercado",
+    "metaDescripcion": "Atlas de Boston Dynamics es la referencia en movilidad y equilibrio. Su nueva versión eléctrica apunta a uso industrial con respaldo de Hyundai.",
+    "queEs": "<p>La referencia técnica del sector en movilidad. Boston Dynamics lleva décadas resolviendo el problema del equilibrio dinámico, y Atlas es el resultado.</p><p>La versión hidráulica se retiró en 2024 y fue sustituida por una eléctrica, más silenciosa, más limpia y orientada a uso real en planta. Hyundai, propietaria de la compañía, es el primer destino previsto.</p>",
+    "queHace": "<p>Corre, salta, se recupera de desequilibrios severos y realiza movimientos que ningún otro humanoide iguala. La nueva versión eléctrica añade articulaciones con rango de giro completo, imposibles para un cuerpo humano.</p>",
+    "paraQuien": "<ul><li><strong>Industria de automoción</strong>, a través de los programas de Hyundai.</li><li><strong>Investigación avanzada</strong> en locomoción y control.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>No se vende suelto.</strong> Boston Dynamics comercializa Spot, su cuadrúpedo, pero Atlas sigue siendo plataforma de desarrollo.</li><li><strong>Spot como alternativa.</strong> Si lo que buscas es inspección o vigilancia, el cuadrúpedo sí está disponible y suele encajar mejor.</li></ul>",
+    "precio": {
+      "fabrica": "No comercializado suelto",
+      "espana": "No disponible",
+      "disponible": "No",
+      "entrega": "—"
+    },
+    "ficha": [
+      [
+        "Versión actual",
+        "eléctrica, sustituye a la hidráulica en 2024"
+      ],
+      [
+        "Propietario",
+        "Hyundai"
+      ],
+      [
+        "Articulaciones",
+        "giro completo, superan el rango humano"
+      ],
+      [
+        "Batería",
+        "autointercambiable"
+      ],
+      [
+        "Alternativa a la venta",
+        "Spot, cuadrúpedo"
+      ]
+    ]
+  },
+  "robot-xiaomi-cyberone": {
+    "h1": "Xiaomi CyberOne",
+    "metaTitulo": "Xiaomi CyberOne - Qué Fue del Humanoide de Xiaomi",
+    "metaDescripcion": "Xiaomi presentó CyberOne en 2022 y nunca lo comercializó. Estado actual del proyecto y alternativas disponibles hoy.",
+    "queEs": "<p>Xiaomi lo presentó en agosto de 2022: 1,77 metros, 52 kilos, con reconocimiento de emociones a través de la voz y visión tridimensional.</p><p>Desde entonces no ha habido lanzamiento comercial ni continuidad pública del proyecto.</p>",
+    "queHace": "<p>Lo mostrado en la presentación: caminar, sostener objetos ligeros y reconocer expresiones. No hay unidades en manos de terceros que permitan verificarlo de forma independiente.</p>",
+    "paraQuien": "<p>Actualmente no está disponible para nadie.</p>",
+    "aTenerEnCuenta": "<p><strong>No se puede comprar.</strong> Aparece aquí porque se cita mucho en artículos sobre el sector, pero no es una opción real de compra.</p><p>Si buscas un humanoide chino disponible hoy, las alternativas son Unitree y UBTech, ambas con producto en el mercado.</p>",
+    "precio": {
+      "fabrica": "Nunca comercializado",
+      "espana": "No disponible",
+      "disponible": "No",
+      "entrega": "—"
+    },
+    "ficha": [
+      [
+        "Presentado",
+        "agosto de 2022"
+      ],
+      [
+        "Altura",
+        "1,77 m"
+      ],
+      [
+        "Peso",
+        "52 kg"
+      ],
+      [
+        "Estado",
+        "sin continuidad pública"
+      ]
+    ]
+  },
+  "robot-honda-asimo": {
+    "h1": "Honda ASIMO",
+    "metaTitulo": "Honda ASIMO - Historia del Primer Robot Humanoide Famoso",
+    "metaDescripcion": "Honda retiró ASIMO en 2022 tras dos décadas. Qué aportó al desarrollo de la robótica humanoide y qué alternativas existen hoy.",
+    "queEs": "<p>Durante veinte años fue <em>el</em> robot humanoide. Honda lo presentó en el año 2000 y ASIMO definió lo que el público entiende por un robot que camina.</p><p><strong>Honda retiró el proyecto en 2022.</strong> No está en producción ni se puede adquirir.</p>",
+    "queHace": "<p>Caminaba, subía escaleras, corría a seis kilómetros por hora, reconocía caras y voces, y servía bebidas. En su momento, décadas por delante de cualquier competidor.</p><p>Su legado técnico sigue presente: buena parte del trabajo posterior sobre marcha bípeda parte de lo que Honda resolvió con ASIMO.</p>",
+    "paraQuien": "<p>Interés histórico y educativo. No hay unidades disponibles.</p>",
+    "aTenerEnCuenta": "<p>Que ASIMO se retirase y hoy exista un Unitree G1 por 24.900 € resume lo ocurrido en el sector: el problema dejó de ser técnico y pasó a ser de coste. Honda demostró que se podía; China ha demostrado que se puede barato.</p>",
+    "precio": {
+      "fabrica": "Retirado en 2022",
+      "espana": "No disponible",
+      "disponible": "No",
+      "entrega": "—"
+    },
+    "ficha": [
+      [
+        "Presentado",
+        "año 2000"
+      ],
+      [
+        "Retirado",
+        "2022"
+      ],
+      [
+        "Velocidad",
+        "6 km/h"
+      ],
+      [
+        "Capacidades",
+        "escaleras, reconocimiento facial y de voz"
+      ]
+    ]
+  },
+  "robot-sophia-hanson-robotics": {
+    "h1": "Sophia - Hanson Robotics",
+    "metaTitulo": "Sophia de Hanson Robotics - Qué Es y Qué No Es",
+    "metaDescripcion": "Sophia es el robot humanoide más mediático del mundo. Qué hace realmente, para qué sirve y por qué no es un producto comercial.",
+    "queEs": "<p>El robot más fotografiado de la historia. Hanson Robotics lo presentó en 2016 y ganó notoriedad al recibir la ciudadanía saudí, un gesto simbólico que generó mucho debate.</p><p>Hanson es una compañía centrada en investigación y comunicación, no en fabricación en serie.</p>",
+    "queHace": "<p>Su fuerte es el rostro: más de sesenta expresiones faciales con una piel sintética que imita el movimiento muscular humano. Mantiene conversación combinando respuestas preparadas con generación automática.</p><p>Sus apariciones públicas suelen estar guionizadas. Lo que se ve en una entrevista no refleja una conversación espontánea.</p>",
+    "paraQuien": "<ul><li><strong>Eventos y divulgación</strong>, donde el impacto visual es el objetivo.</li><li><strong>Investigación</strong> en interacción humano-robot y expresividad facial.</li></ul>",
+    "aTenerEnCuenta": "<p><strong>No es un producto comercial.</strong> No hay catálogo ni precio público.</p><p>Si buscas un robot expresivo para recepción o eventos, Engineered Arts Ameca y la línea Cruzr de UBTech sí están disponibles.</p>",
+    "precio": {
+      "fabrica": "Sin catálogo público",
+      "espana": "No disponible",
+      "disponible": "No",
+      "entrega": "—"
+    },
+    "ficha": [
+      [
+        "Presentada",
+        "2016"
+      ],
+      [
+        "Expresiones faciales",
+        "más de 60"
+      ],
+      [
+        "Piel",
+        "sintética, imita movimiento muscular"
+      ],
+      [
+        "Uso",
+        "eventos e investigación"
+      ]
+    ]
+  },
+  "unitree-r1": {
+    "h1": "Unitree R1",
+    "metaTitulo": "Unitree R1 - El Robot Humanoide de 4.000 € en España",
+    "metaDescripcion": "El Unitree R1 se vende en AliExpress España desde unos 4.000 €. Qué hace, en qué se diferencia del G1 y para quién tiene sentido.",
+    "precio": {
+      "fabrica": "29.000 yuanes, unos 3.700 €",
+      "espana": "desde 8.853 € vía distribuidor europeo",
+      "disponible": "Sí, AliExpress y distribuidor",
+      "entrega": "Consultar según canal"
+    },
+    "ficha": [
+      [
+        "Posición",
+        "gama de entrada"
+      ],
+      [
+        "Objetivo",
+        "venta masiva al público"
+      ],
+      [
+        "Canal",
+        "AliExpress España y distribuidores"
+      ],
+      [
+        "Frente al G1",
+        "mucho más barato, menos capacidades"
+      ]
+    ],
+    "queEs": "<p>El movimiento que Unitree llevaba años preparando: bajar el humanoide del terreno profesional al del consumidor.</p><p>Cuesta unos 3.700 € en fábrica y se vende directamente en AliExpress España. Por canal europeo con garantía, el R1 Basic aparece en torno a 8.853 €.</p><p>Esa horquilla es la historia entera del sector ahora mismo: el mismo robot cuesta el doble según por dónde entre.</p>",
+    "queHace": "<p>Camina, mantiene equilibrio e interactúa. No esperes la destreza del G1: es un modelo de entrada, con menos grados de libertad y menos capacidad de manipulación.</p><p>Su valor está en el precio: permite empezar a trabajar con un humanoide real sin comprometer un presupuesto de cinco cifras.</p>",
+    "paraQuien": "<ul><li><strong>Centros educativos</strong> que quieren hardware real sin gastar 25.000 €.</li><li><strong>Desarrolladores</strong> que empiezan y necesitan una plataforma sobre la que aprender.</li><li><strong>Eventos y demostraciones</strong> donde importa la presencia más que la destreza.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Comprar en AliExpress sale más barato y te deja sin red.</strong> Sin garantía europea, sin servicio técnico y con la aduana a tu cargo.</li><li><strong>Es de entrada.</strong> Si necesitas manipulación fina, mira el G1.</li><li><strong>Precio en movimiento.</strong> Este modelo es tan reciente que las cifras cambian cada pocas semanas.</li></ul>"
+  },
+  "booster-robotics-k1": {
+    "h1": "Booster Robotics K1",
+    "metaTitulo": "Booster K1 - Robot Humanoide Bípedo desde 6.646 €",
+    "metaDescripcion": "El Booster K1 GEEK cuesta 6.646 € con SDK abierto y compatibilidad ROS. Plataforma para investigar marcha bípeda y control sobre hardware real.",
+    "precio": {
+      "fabrica": "Consultar",
+      "espana": "6.646,62 € (edición GEEK)",
+      "disponible": "Sí, canal europeo",
+      "entrega": "Consultar stock"
+    },
+    "ficha": [
+      [
+        "Edición GEEK",
+        "6.646,62 €"
+      ],
+      [
+        "Precio por volumen",
+        "desde 6.314,29 €"
+      ],
+      [
+        "SDK",
+        "abierto"
+      ],
+      [
+        "Compatibilidad",
+        "ROS"
+      ],
+      [
+        "Orientación",
+        "desarrollo e investigación"
+      ]
+    ],
+    "queEs": "<p>Uno de los bípedos completamente funcionales más económicos del mercado europeo. La edición GEEK está pensada explícitamente para desarrolladores.</p><p>Su argumento no es la apariencia: es que puedes desplegar tus propios algoritmos sin middleware propietario que te limite.</p>",
+    "queHace": "<p>Camina, mantiene equilibrio y ejecuta lo que programes. Sirve para investigar dinámica bípeda, control de equilibrio, planificación de marcha y ejecución de tareas con IA sobre un robot físico, no en simulación.</p>",
+    "paraQuien": "<ul><li><strong>Universidades y escuelas técnicas</strong> para proyectos de semestre y competiciones.</li><li><strong>Ingenieros de robótica</strong> que necesitan hardware sin restricciones de software.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Descuento por volumen.</strong> A partir de varias unidades baja a 6.314 €, interesante para un aula completa.</li><li><strong>Requiere programar.</strong> No hace nada útil sacado de la caja.</li><li><strong>Marca menos conocida.</strong> Comprueba comunidad y soporte antes de comprometerte.</li></ul>"
+  },
+  "noetix-bumi": {
+    "h1": "Noetix Bumi",
+    "metaTitulo": "Noetix Bumi - El Robot Humanoide más Barato, unos 1.200 €",
+    "metaDescripcion": "Noetix anuncia el Bumi por debajo de 10.000 yuanes, unos 1.200 €. Qué implica ese precio y qué cabe esperar de un humanoide de consumo.",
+    "precio": {
+      "fabrica": "menos de 10.000 yuanes, unos 1.200 €",
+      "espana": "Sin distribuidor confirmado",
+      "disponible": "Anunciado",
+      "entrega": "Por confirmar"
+    },
+    "ficha": [
+      [
+        "Precio anunciado",
+        "bajo 10.000 yuanes"
+      ],
+      [
+        "Posición",
+        "consumo masivo"
+      ],
+      [
+        "Fabricante",
+        "Noetix Robotics, China"
+      ],
+      [
+        "Estado",
+        "verificar disponibilidad real"
+      ]
+    ],
+    "queEs": "<p>Noetix afirma haber desarrollado el primer humanoide de consumo por debajo de 10.000 yuanes, unos 1.200 €. Si se confirma, rompe el suelo de precio del sector por completo.</p><p>Para hacerse una idea de la escala: Musk prometió Optimus entre 20.000 y 30.000 €, y el G1 se mueve entre 16.000 y 30.000 según canal.</p>",
+    "queHace": "<p>Las capacidades publicadas son las propias de un modelo de consumo: movimiento, interacción básica y poco más. A este precio no cabe esperar manipulación fina ni autonomía prolongada.</p>",
+    "paraQuien": "<ul><li><strong>Educación básica</strong> e iniciación a la robótica.</li><li><strong>Aficionados</strong> que quieren empezar sin riesgo económico.</li></ul>",
+    "aTenerEnCuenta": "<p><strong>Trátalo como un anuncio, no como un producto.</strong> A fecha de hoy no hay distribución confirmada en España ni unidades verificadas por terceros.</p><p>Si necesitas un robot ahora, mira Unitree R1 o Booster K1, que sí se pueden comprar en Europa.</p>"
+  }
+}

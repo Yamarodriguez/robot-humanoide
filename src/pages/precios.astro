@@ -1,0 +1,59 @@
+---
+import Base from '../layouts/Base.astro';
+import Relacionados from '../components/Relacionados.astro';
+import d from '../data/precios.json';
+import site from '../data/site.json';
+
+const pagina = {
+  titulo: d.metaTitulo, url: '/precios/', slug: 'precios', h1: d.h1,
+  entradilla: d.entradilla, cta: null, hero: null, faq: [],
+  metaTitulo: d.metaTitulo, metaDescripcion: d.metaDescripcion, imagenPrincipal: null,
+};
+---
+<Base pagina={pagina} baseImagenes={site.baseImagenes}>
+  <section class="seccion">
+    <div class="contenedor">
+      <div class="prosa"><h2>{d.tabla.titulo}</h2></div>
+      <div class="tabla-envoltorio">
+        <table class="tabla">
+          <thead>
+            <tr>{d.tabla.cabeceras.map((c) => <th scope="col">{c}</th>)}</tr>
+          </thead>
+          <tbody>
+            {d.tabla.filas.map((f) => (
+              <tr>
+                <th scope="row">{f[0]}</th>
+                {f.slice(1).map((c) => <td>{c}</td>)}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="tabla__nota">
+        Precios de referencia recogidos en agosto de 2026. Este sector se mueve
+        muy rápido: confirma siempre antes de decidir.
+      </p>
+    </div>
+  </section>
+
+  <section class="seccion seccion--alt">
+    <div class="contenedor"><div class="prosa"><Fragment set:html={d.porQueDifiere} /></div></div>
+  </section>
+
+  <section class="seccion">
+    <div class="contenedor"><div class="prosa"><Fragment set:html={d.alquilerYRenting} /></div></div>
+  </section>
+
+  <section class="seccion seccion--alt">
+    <div class="contenedor"><div class="prosa"><Fragment set:html={d.costesOcultos} /></div></div>
+  </section>
+
+  <section class="seccion">
+    <div class="contenedor">
+      <div class="prosa"><Fragment set:html={d.plazos} /></div>
+      <p class="seccion__cta"><a class="pildora" href="/contacto/">Pedir presupuesto cerrado</a></p>
+    </div>
+  </section>
+
+  <Relacionados grupoActual="/precios/" slugActual="precios" />
+</Base>

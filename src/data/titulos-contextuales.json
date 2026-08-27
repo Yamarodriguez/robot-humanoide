@@ -1,0 +1,3 @@
+{
+  "_nota": "Los H2 se dejan tal como estan en la home: todos contienen la keyword 'robot humanoide' o un derivado, y reescribirlos la diluia. El mecanismo sigue disponible: para sustituir un titulo en una pagina concreta, anadir aqui \"/pagina/\": { \"/seccion/\": \"Titulo nuevo\" }. Vacio = se usa siempre el original."
+}

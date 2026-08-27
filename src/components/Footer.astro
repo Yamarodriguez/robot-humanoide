@@ -1,0 +1,23 @@
+---
+import site from '../data/site.json';
+const anio = new Date().getFullYear();
+---
+<footer class="pie">
+  <div class="contenedor">
+    <p class="pie__marca">{site.nombre}</p>
+    <p><a href={`mailto:${site.email}`}>{site.email}</a></p>
+
+    {site.pie.enlaces.length > 0 && (
+      <p>
+        {site.pie.enlaces.map((enlace, i) => (
+          <>
+            {i > 0 && ' · '}
+            <a href={enlace.url}>{enlace.texto}</a>
+          </>
+        ))}
+      </p>
+    )}
+
+    <p>© {anio} {site.pie.copyright}</p>
+  </div>
+</footer>

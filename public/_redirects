@@ -1,0 +1,29 @@
+# Redirecciones para Cloudflare Pages y Netlify.
+# Se cargan solas al desplegar: no hay que configurar nada en el panel.
+
+# --- Sitemaps de Yoast ---
+# Google los tiene registrados desde marzo de 2025. Al migrar dejan de
+# existir, así que se redirigen al sitemap nuevo en lugar de dar 404.
+/sitemap_index.xml      /sitemap.xml   301
+/page-sitemap.xml       /sitemap.xml   301
+/post-sitemap.xml       /sitemap.xml   301
+/category-sitemap.xml   /sitemap.xml   301
+/author-sitemap.xml     /sitemap.xml   301
+
+# --- URLs que se dejan caer ---
+# 410 en vez de 404: le dice a Google que han desaparecido para siempre
+# y las desindexa mucho antes.
+/bonjour-tout-le-monde/   410
+/category/non-classe/     410
+/category/*               410
+/author/admin4803/        410
+/author/*                 410
+/feed/                    410
+/comments/feed/           410
+
+# --- Restos de WordPress ---
+# Ya no existen. Evita que los rastreadores insistan durante meses.
+/wp-admin/*      410
+/wp-login.php    410
+/xmlrpc.php      410
+/wp-json/*       410

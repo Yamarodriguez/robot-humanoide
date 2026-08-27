@@ -1,0 +1,12 @@
+---
+import Base from '../layouts/Base.astro';
+import legales from '../data/legales.json';
+import site from '../data/site.json';
+
+const d = legales['aviso-legal'];
+const pagina = { ...d, url: '/aviso-legal/', slug: 'aviso-legal', titulo: d.metaTitulo,
+                 entradilla: '', cta: null, hero: null, faq: [], imagenPrincipal: null };
+---
+<Base pagina={pagina} baseImagenes={site.baseImagenes}>
+  <Fragment set:html={pagina.html} />
+</Base>

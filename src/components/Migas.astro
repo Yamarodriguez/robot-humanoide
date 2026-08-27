@@ -1,0 +1,35 @@
+---
+import nuevas from '../data/paginas-nuevas.json';
+const { url, titulo } = Astro.props;
+
+// Yoast las tenía activadas: inicio "Portada", separador »
+const PADRES = Object.fromEntries(
+  Object.entries(nuevas).filter(([k]) => !k.startsWith('_'))
+    .map(([, v]) => [v.url, v.h1])
+);
+
+const partes = url.split('/').filter(Boolean);
+const migas = [{ url: '/', texto: 'Portada' }];
+
+if (partes.length > 1) {
+  const padre = `/${partes[0]}/`;
+  migas.push({ url: padre, texto: PADRES[padre] ?? partes[0] });
+}
+if (partes.length > 0) migas.push({ url, texto: titulo, actual: true });
+---
+{migas.length > 1 && (
+  <nav class="migas" aria-label="Migas de pan">
+    <div class="contenedor">
+      <ol>
+        {migas.map((m, i) => (
+          <li>
+            {i > 0 && <span class="migas__sep" aria-hidden="true">»</span>}
+            {m.actual
+              ? <span aria-current="page">{m.texto}</span>
+              : <a href={m.url}>{m.texto}</a>}
+          </li>
+        ))}
+      </ol>
+    </div>
+  </nav>
+)}

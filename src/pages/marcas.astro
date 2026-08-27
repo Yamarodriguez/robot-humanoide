@@ -1,0 +1,14 @@
+---
+import Base from '../layouts/Base.astro';
+import { sustituirFaltantes } from '../utils/imagenes.js';
+import pagina from '../content/pages/marcas.json';
+import site from '../data/site.json';
+
+const htmlBruto = site.baseImagenes
+  ? pagina.html.replaceAll('src="/wp-content/', `src="${site.baseImagenes}/wp-content/`)
+  : pagina.html;
+const html = sustituirFaltantes(htmlBruto);
+---
+<Base pagina={pagina} baseImagenes={site.baseImagenes}>
+  <Fragment set:html={html} />
+</Base>

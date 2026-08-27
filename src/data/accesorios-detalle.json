@@ -1,0 +1,113 @@
+{
+  "_nota": "Contenido de cada accesorio. Si vendes estas piezas, conviene añadir marca, compatibilidad por modelo y precio: es lo que busca quien llega a estas páginas.",
+
+  "bateria-para-robot-y-sistemas-de-carga": {
+    "h1": "Baterías para Robots Humanoides",
+    "metaTitulo": "Baterías para Robots Humanoides - Autonomía y Sistemas de Carga",
+    "metaDescripcion": "Baterías y sistemas de carga para robots humanoides. Qué autonomía real esperar, cuándo conviene batería intercambiable y cómo se degradan.",
+    "queEs": "<p>La batería decide la autonomía real del robot, que en los modelos actuales ronda las dos a cuatro horas de trabajo continuo. Es lo primero que sorprende a quien viene del mundo de la maquinaria industrial enchufada a la red.</p>",
+    "paraQueSirve": "<p>Un humanoide consume mucho más de lo que parece: mantener el equilibrio de pie ya gasta energía, aunque no se mueva. Cada articulación corrige constantemente.</p><p>Para cubrir un turno completo hay dos vías: baterías intercambiables en caliente, o una segunda unidad que trabaja mientras la primera carga.</p>",
+    "comoElegir": "<ul><li><strong>Autonomía declarada frente a real.</strong> La cifra del fabricante suele medirse caminando en llano sin carga. Con peso y arranques, baja bastante.</li><li><strong>Intercambio en caliente.</strong> Si el robot debe trabajar sin pausa, es la característica que más importa.</li><li><strong>Ciclos de vida.</strong> Una batería pierde capacidad con el uso. Pregunta cuántos ciclos hasta el 80%.</li><li><strong>Compatibilidad.</strong> No son genéricas: cada modelo lleva la suya.</li></ul>",
+    "aTenerEnCuenta": "<ul><li>Las baterías de litio tienen restricciones de transporte aéreo. Afecta al plazo de un recambio urgente.</li><li>Almacenarlas al 50% de carga alarga su vida. Al 100% se degradan más rápido.</li></ul>"
+  },
+
+  "sensores-de-robots": {
+    "h1": "Sensores para Robots Humanoides",
+    "metaTitulo": "Sensores para Robots Humanoides - Tipos y Para Qué Sirve Cada Uno",
+    "metaDescripcion": "Sensores de robots humanoides: inerciales, de fuerza, de proximidad y táctiles. Qué mide cada uno y cuál necesitas según la tarea.",
+    "queEs": "<p>Son los que permiten al robot saber dónde está, cómo está colocado y qué tiene delante. Sin ellos, un humanoide no se mantiene de pie ni tres segundos.</p>",
+    "paraQueSirve": "<p>Cada familia resuelve un problema distinto:</p><ul><li><strong>Inerciales.</strong> Miden inclinación y aceleración cientos de veces por segundo. Son la base del equilibrio.</li><li><strong>De fuerza y par.</strong> En articulaciones y muñecas. Detectan si el robot está empujando algo que no debería.</li><li><strong>De proximidad.</strong> Avisan de obstáculos cercanos antes del contacto.</li><li><strong>Táctiles.</strong> En las manos. Detectan si un objeto está resbalando.</li></ul>",
+    "comoElegir": "<ul><li>Define primero la tarea. Un robot de transporte necesita cosas muy distintas de uno que manipula objetos frágiles.</li><li>Comprueba la frecuencia de muestreo: para control de equilibrio hacen falta cientos de lecturas por segundo.</li><li>Verifica que el SDK del robot expone las lecturas. Un sensor al que no puedes acceder no sirve.</li></ul>",
+    "aTenerEnCuenta": "<p>Más sensores no es mejor: cada uno añade cómputo, consumo y un punto más de fallo. La pregunta correcta no es cuántos, sino cuáles necesita tu tarea.</p>"
+  },
+
+  "camara-robot-alta-precision": {
+    "h1": "Cámaras para Robots Humanoides",
+    "metaTitulo": "Cámaras para Robots Humanoides - Visión Estéreo y de Profundidad",
+    "metaDescripcion": "Cámaras de alta precisión para robots humanoides: estéreo, profundidad e infrarrojo. Qué resolución hace falta y qué las hace fallar.",
+    "queEs": "<p>Los ojos del robot. De su calidad depende que reconozca un objeto a dos metros o que lo confunda con la pared.</p>",
+    "paraQueSirve": "<p>En un humanoide las cámaras hacen tres trabajos a la vez: reconocer objetos y personas, calcular distancias para no chocar, y estimar dónde pisar.</p><p>Las estereoscópicas usan dos lentes separadas para calcular profundidad por triangulación, igual que los ojos humanos. Las de profundidad proyectan un patrón infrarrojo y miden su deformación.</p>",
+    "comoElegir": "<ul><li><strong>Resolución frente a velocidad.</strong> Más píxeles es más cómputo. Para navegar suele rendir más una cámara rápida que una muy definida.</li><li><strong>Rango útil.</strong> Muchas cámaras de profundidad pierden precisión más allá de tres o cuatro metros.</li><li><strong>Comportamiento con luz difícil.</strong> Contraluz, superficies reflectantes y cristal siguen siendo el punto débil.</li></ul>",
+    "aTenerEnCuenta": "<p>Prueba siempre en tu entorno real antes de comprar. La iluminación de tu nave o tu tienda afecta al resultado más que cualquier especificación de catálogo.</p>"
+  },
+
+  "procesadores-y-software-de-ia": {
+    "h1": "Procesadores y Software de IA para Robots",
+    "metaTitulo": "Procesadores y Software de IA para Robots Humanoides",
+    "metaDescripcion": "Cómputo embarcado para robots humanoides: qué se procesa a bordo, qué en la nube y por qué el equilibrio no puede depender de internet.",
+    "queEs": "<p>El cerebro del robot. Ejecuta la percepción, el control de equilibrio y la planificación de tareas, todo a la vez y en tiempo real.</p>",
+    "paraQueSirve": "<p>Hay una división que conviene entender: <strong>el control del equilibrio se calcula siempre a bordo</strong>, porque no puede depender de una conexión. Si el wifi cae, el robot debe seguir de pie.</p><p>Las tareas pesadas —reconocer una escena compleja, entender una frase larga— pueden delegarse a un servidor, a cambio de latencia y de depender de la red.</p>",
+    "comoElegir": "<ul><li><strong>Cómputo con GPU</strong> si vas a ejecutar modelos de visión o de lenguaje a bordo.</li><li><strong>Consumo.</strong> Cada vatio del procesador sale de la misma batería que mueve las piernas.</li><li><strong>Ecosistema.</strong> Un procesador con buen soporte de bibliotecas de robótica ahorra meses.</li></ul>",
+    "aTenerEnCuenta": "<ul><li>Si algo del robot depende de la nube, define qué pasa cuando no hay conexión. Debe degradarse con seguridad, no quedarse a medias.</li><li>Procesar a bordo evita además enviar imágenes de tu instalación a servidores de terceros.</li></ul>"
+  },
+
+  "piezas-mecanicas-y-brazos-roboticos": {
+    "h1": "Piezas Mecánicas y Brazos Robóticos",
+    "metaTitulo": "Piezas Mecánicas y Brazos Robóticos para Humanoides",
+    "metaDescripcion": "Brazos robóticos y componentes mecánicos para robots humanoides: estructura, articulaciones y elementos de recambio.",
+    "queEs": "<p>La estructura y las extremidades: lo que sostiene el peso y transmite el movimiento. Es la parte menos vistosa y la que más determina la vida útil del robot.</p>",
+    "paraQueSirve": "<p>Un brazo robótico de humanoide tiene que ser ligero, porque cada gramo lo mueve un motor, y a la vez rígido, porque cualquier holgura se traduce en imprecisión en la punta de los dedos.</p><p>Ese compromiso entre peso y rigidez es el problema central del diseño mecánico en robótica humanoide.</p>",
+    "comoElegir": "<ul><li><strong>Material.</strong> El aluminio es barato y ligero; las aleaciones de titanio y la fibra de carbono aguantan más y cuestan mucho más.</li><li><strong>Carga útil.</strong> Cuánto peso puede sostener el brazo extendido, que es bastante menos que pegado al cuerpo.</li><li><strong>Disponibilidad de recambio.</strong> Pregúntalo antes de comprar el robot, no después de romper una pieza.</li></ul>",
+    "aTenerEnCuenta": "<p>Las piezas estructurales son lo primero que se rompe con un golpe y lo más lento de conseguir si tu proveedor no tiene stock. En un robot de aula o de feria, esto pasa.</p>"
+  },
+
+  "actuadores-y-servomotores": {
+    "h1": "Actuadores y Servomotores para Robots Humanoides",
+    "metaTitulo": "Actuadores y Servomotores - La Pieza que Más Falla y Más Encarece",
+    "metaDescripcion": "Actuadores de alto par para robots humanoides: cadera, rodilla y hombro. La pieza que más falla y el principal factor de coste.",
+    "queEs": "<p>Los motores de cada articulación. Son <strong>el principal factor de coste de un humanoide</strong> y también la pieza que más falla, sobre todo los de alto par en cadera y rodilla.</p>",
+    "paraQueSirve": "<p>Un actuador de rodilla tiene que sostener todo el peso del robot y a la vez moverse rápido para corregir el equilibrio. En el Unitree G1 el par máximo de rodilla llega a 90 newton por metro.</p><p>Cuantos más grados de libertad tiene un robot, más actuadores lleva, y de ahí sale buena parte de la diferencia de precio entre modelos.</p>",
+    "comoElegir": "<ul><li><strong>Par nominal y máximo.</strong> El nominal es el que aguanta de forma continua; el máximo, en picos breves.</li><li><strong>Integración.</strong> Los actuadores modernos llevan motor, reductora, encoder y electrónica en un solo módulo. Se sustituyen mucho más rápido.</li><li><strong>Disipación de calor.</strong> Un actuador que se calienta reduce prestaciones justo cuando más las necesitas.</li></ul>",
+    "aTenerEnCuenta": "<ul><li>Ten stock de los actuadores críticos. Es la avería más probable y la que más días de parada provoca.</li><li>Comprueba si se sustituyen en tu instalación o hay que enviar el robot al fabricante. La diferencia son semanas.</li></ul>"
+  },
+
+  "manos-diestras-y-pinzas": {
+    "h1": "Manos Diestras y Pinzas para Robots",
+    "metaTitulo": "Manos Diestras y Pinzas para Robots Humanoides",
+    "metaDescripcion": "Manos multiarticuladas y pinzas intercambiables: determinan qué puede agarrar el robot de verdad. Cuál elegir según la tarea.",
+    "queEs": "<p>Determinan qué puede agarrar el robot de verdad. Es la diferencia entre una demostración impresionante y un trabajo útil.</p>",
+    "paraQueSirve": "<p>Una <strong>mano diestra</strong> con dedos articulados puede manipular objetos de formas muy distintas y ajustar la fuerza según lo que sujeta. Es cara, frágil y compleja de programar.</p><p>Una <strong>pinza</strong> hace una sola cosa, pero la hace bien, aguanta más y cuesta una fracción. Para transportar cajas todo el día, gana la pinza.</p>",
+    "comoElegir": "<ul><li><strong>Cuántos objetos distintos.</strong> Si son pocos y conocidos, pinza. Si son variados e imprevisibles, mano.</li><li><strong>Control de fuerza.</strong> Imprescindible para objetos frágiles: sin él, o se cae o se rompe.</li><li><strong>Sensores táctiles.</strong> Detectan deslizamiento y permiten reajustar el agarre sobre la marcha.</li><li><strong>Intercambiabilidad.</strong> Poder cambiar la mano por una pinza según la tarea vale mucho.</li></ul>",
+    "aTenerEnCuenta": "<p>La destreza manual sigue siendo el mayor límite del sector. Ningún humanoide de 2026 manipula objetos con la soltura de una persona, por mucho que muestren los vídeos.</p>"
+  },
+
+  "reductoras-y-transmisiones": {
+    "h1": "Reductoras y Transmisiones para Robots",
+    "metaTitulo": "Reductoras Armónicas y Cicloidales para Robots Humanoides",
+    "metaDescripcion": "Reductoras y transmisiones para robots humanoides: convierten giro rápido en par elevado. Pieza crítica en precisión y vida útil.",
+    "queEs": "<p>Convierten el giro rápido y débil del motor en movimiento lento y potente. De su precisión depende que el robot se mueva con suavidad o a tirones.</p>",
+    "paraQueSirve": "<p>Un motor eléctrico gira muy rápido con poca fuerza. Una articulación necesita justo lo contrario. La reductora hace esa conversión.</p><p>Las <strong>armónicas</strong> son muy compactas y casi no tienen holgura, por eso se usan donde importa la precisión. Las <strong>cicloidales</strong> aguantan mejor los golpes y se usan donde hay impactos, como las piernas.</p>",
+    "comoElegir": "<ul><li><strong>Relación de reducción.</strong> Más reducción es más par y menos velocidad.</li><li><strong>Holgura.</strong> El juego entre dientes se traduce directamente en imprecisión en la punta del brazo.</li><li><strong>Vida útil en horas.</strong> Es la especificación que más se ignora y la que decide cuándo toca sustituirla.</li></ul>",
+    "aTenerEnCuenta": "<p>Una reductora que empieza a hacer ruido o a tener holgura avisa antes de romperse. Detectarlo a tiempo evita que se lleve por delante el actuador entero.</p>"
+  },
+
+  "estaciones-de-carga": {
+    "h1": "Estaciones de Carga para Robots Humanoides",
+    "metaTitulo": "Estaciones de Carga para Robots Humanoides - Acoplamiento Automático",
+    "metaDescripcion": "Bases de recarga y acoplamiento automático para robots humanoides. La estación define la autonomía real de un robot de uso continuo.",
+    "queEs": "<p>La base donde el robot vuelve a cargar. En un robot de uso continuo, la estación define la autonomía real más que la propia batería.</p>",
+    "paraQueSirve": "<p>Un humanoide trabaja entre dos y cuatro horas y necesita volver a cargar. Con acoplamiento automático, el robot regresa solo cuando detecta batería baja y se reincorpora al terminar, sin que nadie intervenga.</p><p>Sin esa automatización, alguien tiene que estar pendiente de enchufarlo, y ahí se pierde buena parte del ahorro.</p>",
+    "comoElegir": "<ul><li><strong>Acoplamiento automático</strong> frente a conexión manual. Para uso continuo no hay discusión.</li><li><strong>Potencia de carga.</strong> Determina cuánto tiempo está parado el robot.</li><li><strong>Ubicación.</strong> Necesita un punto fijo con toma eléctrica y espacio despejado alrededor.</li></ul>",
+    "aTenerEnCuenta": "<p>Cuenta el tiempo de carga como tiempo no productivo al calcular la amortización. Un robot que trabaja tres horas y carga dos no rinde ocho horas al día.</p>"
+  },
+
+  "lidar-y-sensores-de-profundidad": {
+    "h1": "LiDAR y Sensores de Profundidad",
+    "metaTitulo": "LiDAR para Robots Humanoides - Navegación y Mapeo 3D",
+    "metaDescripcion": "Radar láser y cámaras de profundidad para robots humanoides: cómo construyen el mapa del entorno y qué los hace fallar.",
+    "queEs": "<p>Escáneres láser y cámaras de profundidad. Sin ellos el robot se mueve, pero no entiende dónde está.</p>",
+    "paraQueSirve": "<p>El <strong>radar láser</strong> emite pulsos y mide cuánto tardan en volver. Con eso construye una nube de puntos tridimensional del entorno, con precisión de centímetros y sin depender de la luz ambiente.</p><p>Con esa nube el robot se localiza, detecta obstáculos y decide dónde pisar. El Unitree G1, por ejemplo, combina radar láser tridimensional con cámara de profundidad.</p>",
+    "comoElegir": "<ul><li><strong>Alcance y precisión.</strong> Interior y exterior tienen requisitos muy distintos.</li><li><strong>Frecuencia de barrido.</strong> Cuántas veces por segundo actualiza el mapa.</li><li><strong>Peso y consumo.</strong> Va montado en un robot que carga con él.</li></ul>",
+    "aTenerEnCuenta": "<p>El cristal y las superficies muy reflectantes engañan al láser: el pulso no vuelve o vuelve rebotado. En oficinas con mamparas es un problema real, y se resuelve combinando con cámara.</p>"
+  },
+
+  "carcasas-y-piezas-de-recambio": {
+    "h1": "Carcasas y Piezas de Recambio",
+    "metaTitulo": "Carcasas y Piezas de Recambio para Robots Humanoides",
+    "metaDescripcion": "Cubiertas, paneles y elementos estructurales de recambio: lo primero que se rompe con un golpe y lo más lento de conseguir.",
+    "queEs": "<p>Cubiertas exteriores, paneles y elementos estructurales. Lo primero que se rompe con un golpe y lo más lento de conseguir si no tienes proveedor.</p>",
+    "paraQueSirve": "<p>La carcasa no es decoración: protege la electrónica del polvo y los golpes, canaliza el calor y evita que un dedo llegue a una articulación en movimiento.</p><p>Una cubierta rota deja expuesto lo que hay detrás, y eso convierte un golpe barato en una avería cara.</p>",
+    "comoElegir": "<ul><li><strong>Compatibilidad exacta por modelo y versión.</strong> No son intercambiables entre generaciones.</li><li><strong>Material.</strong> El plástico inyectado es barato; la fibra aguanta más impacto.</li><li><strong>Plazo de entrega.</strong> Es la especificación que más importa aquí.</li></ul>",
+    "aTenerEnCuenta": "<ul><li>Ten stock de las piezas expuestas: manos, antebrazos y cubiertas frontales.</li><li>En robots de aula o de feria, esto no es una posibilidad remota: pasa.</li><li>Algunas piezas se pueden imprimir en 3D como solución temporal, pero comprueba antes que no comprometen la seguridad.</li></ul>"
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "nombre": "Robot Humanoide",
+  "dominio": "https://robothumanoide.org",
+  "idioma": "es",
+  "email": "Contacto@robothumanoide.org",
+  "logo": "/wp-content/uploads/2025/03/robots-humanoides.png",
+  "logoAlt": "robots-humanoides",
+  "_comentario_baseImagenes": "Dejar SIEMPRE en cadena vacia para produccion. Solo se cambia para generar vistas previas antes de copiar la carpeta uploads.",
+  "baseImagenes": "",
+  "navegacion": [
+    {
+      "texto": "Robot Humanoide",
+      "url": "/",
+      "hijos": [
+        {
+          "texto": "¿Qué es un Robot Humanoide?",
+          "url": "/que-es/"
+        }
+      ]
+    },
+    {
+      "texto": "Tipos",
+      "url": "/tipos/",
+      "hijos": [
+        {
+          "texto": "robot industrial",
+          "url": "/tipos/robot-industrial/"
+        },
+        {
+          "texto": "robot de compañia",
+          "url": "/tipos/robot-de-compania/"
+        },
+        {
+          "texto": "Robots Médicos",
+          "url": "/tipos/robots-medicos/"
+        },
+        {
+          "texto": "robot camarero",
+          "url": "/tipos/robot-camarero/"
+        },
+        {
+          "texto": "Robots Educativos",
+          "url": "/tipos/robots-educativos/"
+        },
+        {
+          "texto": "Robots para el Hogar",
+          "url": "/tipos/robots-para-el-hogar/"
+        },
+        {
+          "texto": "Robots Empresariales",
+          "url": "/tipos/robots-empresariales/"
+        },
+        {
+          "texto": "Robots seguridad",
+          "url": "/tipos/robots-seguridad/"
+        },
+        {
+          "texto": "Robot de vigilancia",
+          "url": "/tipos/robot-de-vigilancia/"
+        },
+        {
+          "texto": "Robots de Logística y Almacén",
+          "url": "/tipos/robots-de-logistica-y-almacen/"
+        },
+        {
+          "texto": "Robots de Rehabilitación",
+          "url": "/tipos/robots-de-rehabilitacion/"
+        },
+        {
+          "texto": "Robots de Investigación",
+          "url": "/tipos/robots-de-investigacion/"
+        },
+        {
+          "texto": "Robots de Atención al Cliente",
+          "url": "/tipos/robots-de-atencion-al-cliente/"
+        },
+        {
+          "texto": "Robots de Inspección Industrial",
+          "url": "/tipos/robots-de-inspeccion-industrial/"
+        },
+        {
+          "texto": "Robots para Eventos",
+          "url": "/tipos/robots-para-eventos/"
+        }
+      ]
+    },
+    {
+      "texto": "Precios",
+      "url": "/precios/"
+    },
+    {
+      "texto": "Marcas",
+      "url": "/marcas/",
+      "hijos": [
+        {
+          "texto": "Robot Tesla – Bot (Optimus)",
+          "url": "/marcas/robot-tesla-bot-optimus/"
+        },
+        {
+          "texto": "Robot Boston Dynamics – Atlas",
+          "url": "/marcas/robot-boston-dynamics-atlas/"
+        },
+        {
+          "texto": "Robot Xiaomi -CyberOne",
+          "url": "/marcas/robot-xiaomi-cyberone/"
+        },
+        {
+          "texto": "Robot Honda ASIMO",
+          "url": "/marcas/robot-honda-asimo/"
+        },
+        {
+          "texto": "Robot sophia - Hanson Robotics",
+          "url": "/marcas/robot-sophia-hanson-robotics/"
+        },
+        {
+          "texto": "Unitree – G1",
+          "url": "/marcas/unitree-g1/"
+        },
+        {
+          "texto": "1X Technologies – NEO",
+          "url": "/marcas/1x-technologies-neo/"
+        },
+        {
+          "texto": "Agility Robotics – Digit",
+          "url": "/marcas/agility-robotics-digit/"
+        },
+        {
+          "texto": "Figure AI – Figure 03",
+          "url": "/marcas/figure-ai-figure-03/"
+        },
+        {
+          "texto": "UBTech",
+          "url": "/marcas/ubtech/"
+        },
+        {
+          "texto": "Fourier Intelligence – GR-2",
+          "url": "/marcas/fourier-intelligence-gr-2/"
+        },
+        {
+          "texto": "Neura Robotics – 4NE-1",
+          "url": "/marcas/neura-robotics-4ne-1/"
+        },
+        {
+          "texto": "Unitree – R1",
+          "url": "/marcas/unitree-r1/"
+        },
+        {
+          "texto": "Booster Robotics – K1",
+          "url": "/marcas/booster-robotics-k1/"
+        },
+        {
+          "texto": "Noetix – Bumi",
+          "url": "/marcas/noetix-bumi/"
+        }
+      ]
+    },
+    {
+      "texto": "Servicios",
+      "url": "/servicios/",
+      "hijos": [
+        {
+          "texto": "Venta de Robots Humanoides",
+          "url": "/servicios/venta-de-robots-humanoides/"
+        },
+        {
+          "texto": "Programación de robot Humanoides",
+          "url": "/servicios/programacion-de-robot-humanoides/"
+        },
+        {
+          "texto": "Mantenimiento y Reparación de robot",
+          "url": "/servicios/mantenimiento-y-reparacion-de-robot/"
+        },
+        {
+          "texto": "Alquiler de Robots Humanoides",
+          "url": "/servicios/alquiler-de-robots-humanoides/"
+        },
+        {
+          "texto": "Implementación de robot en Empresas y Negocios",
+          "url": "/servicios/implementacion-de-robot-en-empresas-y-negocios/"
+        },
+        {
+          "texto": "Importación y Gestión Aduanera",
+          "url": "/servicios/importacion-y-gestion-aduanera/"
+        },
+        {
+          "texto": "Alquiler para Eventos",
+          "url": "/servicios/alquiler-para-eventos/"
+        },
+        {
+          "texto": "Formación y Cursos",
+          "url": "/servicios/formacion-y-cursos/"
+        },
+        {
+          "texto": "Estudio de Viabilidad y ROI",
+          "url": "/servicios/estudio-de-viabilidad-y-roi/"
+        },
+        {
+          "texto": "Renting y Robot como Servicio",
+          "url": "/servicios/renting-y-robot-como-servicio/"
+        },
+        {
+          "texto": "Marcado CE y Normativa",
+          "url": "/servicios/marcado-ce-y-normativa/"
+        }
+      ]
+    },
+    {
+      "texto": "Cursos",
+      "url": "/cursos/",
+      "hijos": [
+        {
+          "texto": "Introducción a la Robótica Humanoide",
+          "url": "/cursos/introduccion-a-la-robotica-humanoide/"
+        },
+        {
+          "texto": "Programación con SDK",
+          "url": "/cursos/programacion-con-sdk/"
+        },
+        {
+          "texto": "Operación y Mantenimiento",
+          "url": "/cursos/operacion-y-mantenimiento/"
+        },
+        {
+          "texto": "Robótica para Centros Educativos",
+          "url": "/cursos/robotica-para-centros-educativos/"
+        },
+        {
+          "texto": "Formación para Equipos Técnicos",
+          "url": "/cursos/formacion-para-equipos-tecnicos/"
+        },
+        {
+          "texto": "Seguridad y Robótica Colaborativa",
+          "url": "/cursos/seguridad-y-robotica-colaborativa/"
+        },
+        {
+          "texto": "Visión Artificial y Percepción",
+          "url": "/cursos/vision-artificial-y-percepcion/"
+        },
+        {
+          "texto": "Aprendizaje por Imitación",
+          "url": "/cursos/aprendizaje-por-imitacion/"
+        },
+        {
+          "texto": "Simulación antes del Despliegue",
+          "url": "/cursos/simulacion-antes-del-despliegue/"
+        },
+        {
+          "texto": "Interacción por Voz y Lenguaje",
+          "url": "/cursos/interaccion-por-voz-y-lenguaje/"
+        },
+        {
+          "texto": "Manipulación y Agarre",
+          "url": "/cursos/manipulacion-y-agarre/"
+        },
+        {
+          "texto": "Certificación Profesional",
+          "url": "/cursos/certificacion-profesional/"
+        }
+      ]
+    },
+    {
+      "texto": "Accesorios",
+      "url": "/accesorios/",
+      "hijos": [
+        {
+          "texto": "Batería para robot y Sistemas de Carga",
+          "url": "/accesorios/bateria-para-robot-y-sistemas-de-carga/"
+        },
+        {
+          "texto": "Sensores de robots",
+          "url": "/accesorios/sensores-de-robots/"
+        },
+        {
+          "texto": "Cámara robot alta precisión",
+          "url": "/accesorios/camara-robot-alta-precision/"
+        },
+        {
+          "texto": "Procesadores y Software de IA",
+          "url": "/accesorios/procesadores-y-software-de-ia/"
+        },
+        {
+          "texto": "Piezas Mecánicas y Brazos Robóticos",
+          "url": "/accesorios/piezas-mecanicas-y-brazos-roboticos/"
+        },
+        {
+          "texto": "Actuadores y Servomotores",
+          "url": "/accesorios/actuadores-y-servomotores/"
+        },
+        {
+          "texto": "Manos Diestras y Pinzas",
+          "url": "/accesorios/manos-diestras-y-pinzas/"
+        },
+        {
+          "texto": "Reductoras y Transmisiones",
+          "url": "/accesorios/reductoras-y-transmisiones/"
+        },
+        {
+          "texto": "Estaciones de Carga",
+          "url": "/accesorios/estaciones-de-carga/"
+        },
+        {
+          "texto": "LiDAR y Sensores de Profundidad",
+          "url": "/accesorios/lidar-y-sensores-de-profundidad/"
+        },
+        {
+          "texto": "Carcasas y Piezas de Recambio",
+          "url": "/accesorios/carcasas-y-piezas-de-recambio/"
+        }
+      ]
+    },
+    {
+      "texto": "Sobre nosotros",
+      "url": "/sobre-nosotros/"
+    },
+    {
+      "texto": "Contacto",
+      "url": "/contacto/"
+    },
+    {
+      "texto": "Lugares",
+      "hijos": [
+        {
+          "texto": "Robot Humanoide Santa Fe",
+          "url": "/santa-fe/"
+        }
+      ]
+    }
+  ],
+  "pie": {
+    "copyright": "Robot Humanoide",
+    "enlaces": [
+      {
+        "texto": "Aviso legal",
+        "url": "/aviso-legal/"
+      },
+      {
+        "texto": "Política de privacidad",
+        "url": "/privacidad/"
+      },
+      {
+        "texto": "Política de cookies",
+        "url": "/cookies/"
+      }
+    ]
+  },
+  "formulario": {
+    "proveedor": "Web3Forms",
+    "endpoint": "https://api.web3forms.com/submit",
+    "accessKey": "PENDIENTE-PEGAR-ACCESS-KEY",
+    "asunto": "Nueva consulta desde robothumanoide.org",
+    "redireccion": "https://robothumanoide.org/gracias/"
+  },
+  "verificaciones": {
+    "_nota": "Etiquetas de verificacion que Yoast inyecta en el <head>. Si estan en la web actual y no se migran, se pierde la propiedad verificada en esas herramientas. Copiar solo el valor del content, no la etiqueta entera.",
+    "google": "",
+    "bing": "PENDIENTE — en la web actual hay una etiqueta msvalidate.01"
+  }
+}

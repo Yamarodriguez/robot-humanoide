@@ -1,0 +1,213 @@
+{
+  "_nota": "Tarjetas añadidas despues de la migracion. Se fusionan con las rejillas del contenido original segun el titulo de seccion. No tocar el export de WordPress para editarlas: se edita aqui.",
+  "Marcas y Empresas de Robots Humanoide": [
+    {
+      "titulo": "Unitree – G1",
+      "imagen": "/img/marcas/unitree.svg",
+      "texto": "Humanoide completo por 24.900 € en España, unos 16.000 dólares en fábrica. Camina, se levanta solo tras una caída y llega con SDK propio. La opción más accesible del mercado profesional."
+    },
+    {
+      "titulo": "1X Technologies – NEO",
+      "imagen": "/img/marcas/1x-neo.svg",
+      "texto": "Diseñado específicamente para el hogar: 20.000 dólares de compra o 499 al mes. Aprende tareas domésticas por guiado humano, como limpieza, colada y preparación básica de comidas."
+    },
+    {
+      "titulo": "Agility Robotics – Digit",
+      "imagen": "/img/marcas/agility-digit.svg",
+      "texto": "El humanoide con más despliegue comercial real. Trabaja en almacenes de Amazon moviendo contenedores. Pensado para logística de verdad, no para demostraciones."
+    },
+    {
+      "titulo": "Figure AI – Figure 03",
+      "imagen": "/img/marcas/figure-ai.svg",
+      "texto": "Respaldado por OpenAI, Microsoft y Nvidia. Completó un piloto industrial de once meses en una planta de BMW. Referente en manipulación e inteligencia incorporada."
+    },
+    {
+      "titulo": "UBTech",
+      "imagen": "/img/marcas/ubtech.svg",
+      "texto": "Fabricante chino con producto en el mercado desde hace años. Su línea Cruzr opera en hospitales y comercios, y sus robots educativos enseñan programación en escuelas."
+    },
+    {
+      "titulo": "Fourier Intelligence – GR-2",
+      "imagen": "/img/marcas/fourier.svg",
+      "texto": "Especializado en aplicaciones médicas y de rehabilitación. Movimiento seguro y preciso para uso terapéutico en contacto directo con pacientes."
+    },
+    {
+      "titulo": "Neura Robotics – 4NE-1",
+      "imagen": "/img/marcas/neura.svg",
+      "texto": "Fabricante alemán de humanoides para industria y hogar. Desarrollo y soporte desde Europa, sin la fricción aduanera de una importación extracomunitaria."
+    },
+    {
+      "titulo": "Unitree – R1",
+      "imagen": "/img/marcas/unitree-r1.svg",
+      "texto": "El humanoide de entrada de Unitree. Se vende en AliExpress España y ronda los 4.000 € de fábrica. Es el primero pensado para venta masiva al público general."
+    },
+    {
+      "titulo": "Booster Robotics – K1",
+      "imagen": "/img/marcas/booster-k1.svg",
+      "texto": "Bípedo con SDK abierto y compatibilidad ROS desde 6.646 €. Orientado a desarrolladores que quieren investigar equilibrio y marcha sobre hardware real."
+    },
+    {
+      "titulo": "Noetix – Bumi",
+      "imagen": "/img/marcas/noetix-bumi.svg",
+      "texto": "El humanoide más barato anunciado hasta la fecha: por debajo de 10.000 yuanes, unos 1.200 €. Primer intento serio de robot humanoide de consumo masivo."
+    }
+  ],
+  "Servicios Para Robots Humanoides": [
+    {
+      "titulo": "Importación y Gestión Aduanera",
+      "imagen": "/img/servicios/importacion.svg",
+      "texto": "Nos ocupamos del despacho, la documentación y los trámites de importación en España y Argentina. Es el punto exacto donde se atasca la mayoría de las compras."
+    },
+    {
+      "titulo": "Alquiler para Eventos",
+      "imagen": "/img/servicios/eventos.svg",
+      "texto": "Robots humanoides por días para ferias, congresos, presentaciones y aperturas. Incluye traslado, montaje y operador durante todo el evento."
+    },
+    {
+      "titulo": "Formación y Cursos",
+      "imagen": "/img/servicios/formacion.svg",
+      "texto": "Programas de robótica humanoide para equipos técnicos y centros educativos. Desde la operación básica hasta la programación con el SDK del fabricante."
+    },
+    {
+      "titulo": "Estudio de Viabilidad y ROI",
+      "imagen": "/img/servicios/viabilidad.svg",
+      "texto": "Analizamos la tarea, el entorno y los números antes de que compres: qué modelo encaja, qué no puede hacer todavía y en cuánto tiempo se amortiza."
+    },
+    {
+      "titulo": "Renting y Robot como Servicio",
+      "imagen": "/img/servicios/renting.svg",
+      "texto": "Cuota mensual en lugar de desembolso inicial, con mantenimiento, actualizaciones y sustitución incluidos. Acceso a robots sin inmovilizar capital."
+    },
+    {
+      "titulo": "Marcado CE y Normativa",
+      "imagen": "/img/servicios/marcado-ce.svg",
+      "texto": "Evaluación de conformidad, análisis de riesgos y documentación para que un robot que trabaja junto a personas cumpla la normativa de máquinas."
+    }
+  ],
+  "Tipos de Robot Humanoides actuales": [
+    {
+      "titulo": "Robots de Logística y Almacén",
+      "imagen": "/img/tipos/logistica.svg",
+      "texto": "El despliegue comercial más real hoy. Mueven contenedores, preparan pedidos y descargan camiones en almacenes que ya funcionan, sin rediseñar la instalación."
+    },
+    {
+      "titulo": "Robots de Rehabilitación",
+      "imagen": "/img/tipos/rehabilitacion.svg",
+      "texto": "Asisten en terapia física y recuperación motora. Movimiento suave y controlado para trabajar en contacto directo con el paciente bajo supervisión clínica."
+    },
+    {
+      "titulo": "Robots de Investigación",
+      "imagen": "/img/tipos/investigacion.svg",
+      "texto": "Plataformas abiertas para universidades y laboratorios. Llegan con SDK y documentación para que puedas programar tu propio comportamiento desde cero."
+    },
+    {
+      "titulo": "Robots de Atención al Cliente",
+      "imagen": "/img/tipos/atencion-cliente.svg",
+      "texto": "Recepción, información y acompañamiento en tiendas, hoteles y oficinas. Reconocen al visitante, responden preguntas y lo guían hasta donde necesita ir."
+    },
+    {
+      "titulo": "Robots de Inspección Industrial",
+      "imagen": "/img/tipos/inspeccion.svg",
+      "texto": "Rondas de revisión en plantas, subestaciones e infraestructuras. Acceden a escaleras y pasarelas pensadas para personas, y registran lecturas sin interrumpir la producción."
+    },
+    {
+      "titulo": "Robots para Eventos",
+      "imagen": "/img/tipos/eventos.svg",
+      "texto": "Ferias, congresos y presentaciones. Atraen visitantes al estand, recogen contactos e interactúan con el público sin necesitar personal dedicado."
+    }
+  ],
+  "Accesorios y Repuestos para Robot": [
+    {
+      "titulo": "Actuadores y Servomotores",
+      "imagen": "/img/accesorios/actuadores.svg",
+      "texto": "El componente que más falla y más encarece un humanoide. Articulaciones de alto par para cadera, rodilla y hombro, con recambio compatible por modelo."
+    },
+    {
+      "titulo": "Manos Diestras y Pinzas",
+      "imagen": "/img/accesorios/manos.svg",
+      "texto": "Manos multiarticuladas y pinzas intercambiables. Determinan qué puede agarrar el robot de verdad: es la diferencia entre una demostración y un trabajo útil."
+    },
+    {
+      "titulo": "Reductoras y Transmisiones",
+      "imagen": "/img/accesorios/reductoras.svg",
+      "texto": "Reductoras armónicas y cicloidales para convertir giro rápido en par elevado. Pieza crítica en precisión de movimiento y en vida útil de la articulación."
+    },
+    {
+      "titulo": "Estaciones de Carga",
+      "imagen": "/img/accesorios/carga.svg",
+      "texto": "Bases de recarga y sistemas de acoplamiento automático. Un humanoide de uso continuo vuelve a la base cada pocas horas: la estación define su autonomía real."
+    },
+    {
+      "titulo": "LiDAR y Sensores de Profundidad",
+      "imagen": "/img/accesorios/lidar.svg",
+      "texto": "Escáneres láser y cámaras de profundidad para navegar y esquivar obstáculos. Sin ellos el robot se mueve, pero no entiende dónde está."
+    },
+    {
+      "titulo": "Carcasas y Piezas de Recambio",
+      "imagen": "/img/accesorios/carcasas.svg",
+      "texto": "Cubiertas exteriores, paneles y elementos estructurales. Lo primero que se rompe con un golpe y lo más lento de conseguir si no tienes proveedor."
+    }
+  ],
+  "Formación y Cursos en Robótica Humanoide": [
+    {
+      "titulo": "Introducción a la Robótica Humanoide",
+      "imagen": "/img/cursos/introduccion.svg",
+      "texto": "Qué puede y qué no puede hacer un humanoide hoy. Para quien evalúa una compra y necesita separar lo real de lo que sale en los vídeos."
+    },
+    {
+      "titulo": "Programación con SDK",
+      "imagen": "/img/cursos/sdk.svg",
+      "texto": "Desarrollo sobre el kit del fabricante: control de movimiento, percepción y tareas encadenadas. Con Python y ROS 2 como base de trabajo."
+    },
+    {
+      "titulo": "Operación y Mantenimiento",
+      "imagen": "/img/cursos/mantenimiento.svg",
+      "texto": "Puesta en marcha, calibración, diagnóstico y sustitución de componentes. Para que tu equipo no dependa del servicio técnico en cada incidencia."
+    },
+    {
+      "titulo": "Robótica para Centros Educativos",
+      "imagen": "/img/cursos/educativos.svg",
+      "texto": "Programa STEM adaptado a aula, con material docente y actividades por curso. Los alumnos programan comportamientos reales, no simulaciones."
+    },
+    {
+      "titulo": "Formación para Equipos Técnicos",
+      "imagen": "/img/cursos/equipos.svg",
+      "texto": "Capacitación a medida en tu propia instalación, sobre el robot que vas a usar y la tarea concreta que tiene que ejecutar."
+    },
+    {
+      "titulo": "Seguridad y Robótica Colaborativa",
+      "imagen": "/img/cursos/seguridad.svg",
+      "texto": "Análisis de riesgos, distancias de seguridad y normativa aplicable cuando un robot comparte espacio con personas. Requisito previo a cualquier despliegue."
+    },
+    {
+      "titulo": "Visión Artificial y Percepción",
+      "imagen": "/img/cursos/vision.svg",
+      "texto": "Cómo interpreta el robot lo que ve: calibración de cámaras, nubes de puntos LiDAR y detección de objetos. Sin percepción fiable, el resto del software no sirve de nada."
+    },
+    {
+      "titulo": "Aprendizaje por Imitación",
+      "imagen": "/img/cursos/imitacion.svg",
+      "texto": "Enseñar tareas guiando el robot en lugar de programarlas línea a línea. Es el método con el que los humanoides domésticos aprenden a doblar ropa o recoger una mesa."
+    },
+    {
+      "titulo": "Simulación antes del Despliegue",
+      "imagen": "/img/cursos/simulacion.svg",
+      "texto": "Entrenar y validar en entorno virtual antes de tocar la máquina real. Evita averías caras y permite probar cien variantes de una tarea en una tarde."
+    },
+    {
+      "titulo": "Interacción por Voz y Lenguaje",
+      "imagen": "/img/cursos/voz.svg",
+      "texto": "Integración de modelos de lenguaje para que el robot entienda instrucciones habladas y responda. La diferencia entre operar una máquina y hablar con ella."
+    },
+    {
+      "titulo": "Manipulación y Agarre",
+      "imagen": "/img/cursos/manipulacion.svg",
+      "texto": "Control de manos diestras y pinzas: fuerza, precisión y agarre de objetos frágiles o irregulares. La habilidad que separa un humanoide útil de uno decorativo."
+    },
+    {
+      "titulo": "Certificación Profesional",
+      "imagen": "/img/cursos/certificacion.svg",
+      "texto": "Programa completo con evaluación y acreditación. Recorre percepción, control, seguridad y despliegue, y cierra con un proyecto sobre robot real."
+    }
+  ]
+}
