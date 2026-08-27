@@ -1,0 +1,71 @@
+---
+import Base from '../layouts/Base.astro';
+import Relacionados from '../components/Relacionados.astro';
+import site from '../data/site.json';
+
+import tiposDet from '../data/tipos-detalle.json';
+import marcasDet from '../data/marcas-detalle.json';
+import serviciosDet from '../data/servicios-detalle.json';
+import cursosDet from '../data/cursos-detalle.json';
+import accesoriosDet from '../data/accesorios-detalle.json';
+
+import tiposGrupo from '../content/pages/tipos.json';
+import marcasGrupo from '../content/pages/marcas.json';
+import serviciosGrupo from '../content/pages/servicios.json';
+import cursosGrupo from '../content/pages/cursos.json';
+import accesoriosGrupo from '../content/pages/accesorios.json';
+
+import CuerpoTipos from '../components/detalle/CuerpoTipos.astro';
+import CuerpoMarcas from '../components/detalle/CuerpoMarcas.astro';
+import CuerpoServicios from '../components/detalle/CuerpoServicios.astro';
+import CuerpoCursos from '../components/detalle/CuerpoCursos.astro';
+import CuerpoAccesorios from '../components/detalle/CuerpoAccesorios.astro';
+
+// Registro de secciones. Cada página de detalle se sirve ahora en la raíz
+// (/{slug}/), pero conserva su grupo para el índice de detalle, la tarjeta
+// de origen, el cuerpo específico y el bloque de relacionados.
+const REGISTRO = {
+  '/tipos/':       { det: tiposDet,       grupo: tiposGrupo,       Cuerpo: CuerpoTipos },
+  '/marcas/':      { det: marcasDet,      grupo: marcasGrupo,      Cuerpo: CuerpoMarcas },
+  '/servicios/':   { det: serviciosDet,   grupo: serviciosGrupo,   Cuerpo: CuerpoServicios },
+  '/cursos/':      { det: cursosDet,      grupo: cursosGrupo,      Cuerpo: CuerpoCursos },
+  '/accesorios/':  { det: accesoriosDet,  grupo: accesoriosGrupo,  Cuerpo: CuerpoAccesorios },
+};
+
+export function getStaticPaths() {
+  const grupos = {
+    '/tipos/': tiposDet, '/marcas/': marcasDet, '/servicios/': serviciosDet,
+    '/cursos/': cursosDet, '/accesorios/': accesoriosDet,
+  };
+  const rutas = [];
+  for (const [grupoUrl, det] of Object.entries(grupos)) {
+    for (const slug of Object.keys(det)) {
+      if (slug.startsWith('_')) continue;
+      rutas.push({ params: { slug }, props: { slug, grupoUrl } });
+    }
+  }
+  return rutas;
+}
+
+const { slug, grupoUrl } = Astro.props;
+const { det, grupo, Cuerpo } = REGISTRO[grupoUrl];
+const d = det[slug];
+
+// La entradilla y la imagen se reutilizan de la tarjeta: son la misma pieza.
+const tarjeta = grupo.html.match(
+  new RegExp(`<article class="tarjeta" id="${slug}">([\\s\\S]*?)</article>`)
+)?.[1] ?? '';
+const imagen = tarjeta.match(/<img[^>]*src="([^"]+)"/)?.[1] ?? null;
+const entradilla = (tarjeta.match(/<p>([\s\S]*?)<\/p>/)?.[1] ?? '').trim();
+
+const pagina = {
+  titulo: d.metaTitulo, url: `/${slug}/`, slug,
+  h1: d.h1, entradilla, cta: null, hero: imagen, faq: [],
+  metaTitulo: d.metaTitulo, metaDescripcion: d.metaDescripcion,
+  imagenPrincipal: imagen,
+};
+---
+<Base pagina={pagina} baseImagenes={site.baseImagenes}>
+  <Cuerpo d={d} />
+  <Relacionados grupoActual={grupoUrl} slugActual={slug} />
+</Base>

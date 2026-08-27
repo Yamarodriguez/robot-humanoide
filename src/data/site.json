@@ -24,63 +24,63 @@
       "hijos": [
         {
           "texto": "Robot Humanoide Industrial",
-          "url": "/tipos/robot-industrial/"
+          "url": "/robot-industrial/"
         },
         {
           "texto": "Robot Humanoide de Compañía",
-          "url": "/tipos/robot-de-compania/"
+          "url": "/robot-de-compania/"
         },
         {
           "texto": "Robots Humanoides Médicos",
-          "url": "/tipos/robots-medicos/"
+          "url": "/robots-medicos/"
         },
         {
           "texto": "Robot Camarero",
-          "url": "/tipos/robot-camarero/"
+          "url": "/robot-camarero/"
         },
         {
           "texto": "Robots Humanoides Educativos",
-          "url": "/tipos/robots-educativos/"
+          "url": "/robots-educativos/"
         },
         {
           "texto": "Robots Humanoides para el Hogar",
-          "url": "/tipos/robots-para-el-hogar/"
+          "url": "/robots-para-el-hogar/"
         },
         {
           "texto": "Robots Humanoides para Empresas",
-          "url": "/tipos/robots-empresariales/"
+          "url": "/robots-empresariales/"
         },
         {
           "texto": "Robots Humanoides de Seguridad",
-          "url": "/tipos/robots-seguridad/"
+          "url": "/robots-seguridad/"
         },
         {
           "texto": "Robot Humanoide de Vigilancia",
-          "url": "/tipos/robot-de-vigilancia/"
+          "url": "/robot-de-vigilancia/"
         },
         {
           "texto": "Robots Humanoides de Logística y Almacén",
-          "url": "/tipos/robots-de-logistica-y-almacen/"
+          "url": "/robots-de-logistica-y-almacen/"
         },
         {
           "texto": "Robots Humanoides de Rehabilitación",
-          "url": "/tipos/robots-de-rehabilitacion/"
+          "url": "/robots-de-rehabilitacion/"
         },
         {
           "texto": "Robots Humanoides de Investigación",
-          "url": "/tipos/robots-de-investigacion/"
+          "url": "/robots-de-investigacion/"
         },
         {
           "texto": "Robots Humanoides de Atención al Cliente",
-          "url": "/tipos/robots-de-atencion-al-cliente/"
+          "url": "/robots-de-atencion-al-cliente/"
         },
         {
           "texto": "Robots Humanoides de Inspección Industrial",
-          "url": "/tipos/robots-de-inspeccion-industrial/"
+          "url": "/robots-de-inspeccion-industrial/"
         },
         {
           "texto": "Robots Humanoides para Eventos",
-          "url": "/tipos/robots-para-eventos/"
+          "url": "/robots-para-eventos/"
         }
       ]
     },
@@ -94,63 +94,63 @@
       "hijos": [
         {
           "texto": "Tesla Optimus",
-          "url": "/marcas/robot-tesla-bot-optimus/"
+          "url": "/robot-tesla-bot-optimus/"
         },
         {
           "texto": "Boston Dynamics Atlas",
-          "url": "/marcas/robot-boston-dynamics-atlas/"
+          "url": "/robot-boston-dynamics-atlas/"
         },
         {
           "texto": "Xiaomi CyberOne",
-          "url": "/marcas/robot-xiaomi-cyberone/"
+          "url": "/robot-xiaomi-cyberone/"
         },
         {
           "texto": "Honda ASIMO",
-          "url": "/marcas/robot-honda-asimo/"
+          "url": "/robot-honda-asimo/"
         },
         {
           "texto": "Sophia - Hanson Robotics",
-          "url": "/marcas/robot-sophia-hanson-robotics/"
+          "url": "/robot-sophia-hanson-robotics/"
         },
         {
           "texto": "Unitree G1",
-          "url": "/marcas/unitree-g1/"
+          "url": "/unitree-g1/"
         },
         {
           "texto": "1X Technologies NEO",
-          "url": "/marcas/1x-technologies-neo/"
+          "url": "/1x-technologies-neo/"
         },
         {
           "texto": "Agility Robotics Digit",
-          "url": "/marcas/agility-robotics-digit/"
+          "url": "/agility-robotics-digit/"
         },
         {
           "texto": "Figure AI - Figure 03",
-          "url": "/marcas/figure-ai-figure-03/"
+          "url": "/figure-ai-figure-03/"
         },
         {
           "texto": "UBTech",
-          "url": "/marcas/ubtech/"
+          "url": "/ubtech/"
         },
         {
           "texto": "Fourier Intelligence GR-2",
-          "url": "/marcas/fourier-intelligence-gr-2/"
+          "url": "/fourier-intelligence-gr-2/"
         },
         {
           "texto": "Neura Robotics 4NE-1",
-          "url": "/marcas/neura-robotics-4ne-1/"
+          "url": "/neura-robotics-4ne-1/"
         },
         {
           "texto": "Unitree R1",
-          "url": "/marcas/unitree-r1/"
+          "url": "/unitree-r1/"
         },
         {
           "texto": "Booster Robotics K1",
-          "url": "/marcas/booster-robotics-k1/"
+          "url": "/booster-robotics-k1/"
         },
         {
           "texto": "Noetix Bumi",
-          "url": "/marcas/noetix-bumi/"
+          "url": "/noetix-bumi/"
         }
       ]
     },
@@ -160,47 +160,47 @@
       "hijos": [
         {
           "texto": "Venta de Robots Humanoides",
-          "url": "/servicios/venta-de-robots-humanoides/"
+          "url": "/venta-de-robots-humanoides/"
         },
         {
           "texto": "Programación de Robots Humanoides",
-          "url": "/servicios/programacion-de-robot-humanoides/"
+          "url": "/programacion-de-robot-humanoides/"
         },
         {
           "texto": "Mantenimiento y Reparación de Robots Humanoides",
-          "url": "/servicios/mantenimiento-y-reparacion-de-robot/"
+          "url": "/mantenimiento-y-reparacion-de-robot/"
         },
         {
           "texto": "Alquiler de Robots Humanoides",
-          "url": "/servicios/alquiler-de-robots-humanoides/"
+          "url": "/alquiler-de-robots-humanoides/"
         },
         {
           "texto": "Implementación de Robots en Empresas",
-          "url": "/servicios/implementacion-de-robot-en-empresas-y-negocios/"
+          "url": "/implementacion-de-robot-en-empresas-y-negocios/"
         },
         {
           "texto": "Importación y Gestión Aduanera de Robots",
-          "url": "/servicios/importacion-y-gestion-aduanera/"
+          "url": "/importacion-y-gestion-aduanera/"
         },
         {
           "texto": "Alquiler de Robots para Eventos",
-          "url": "/servicios/alquiler-para-eventos/"
+          "url": "/alquiler-para-eventos/"
         },
         {
           "texto": "Formación y Cursos en Robótica Humanoide",
-          "url": "/servicios/formacion-y-cursos/"
+          "url": "/formacion-y-cursos/"
         },
         {
           "texto": "Estudio de Viabilidad y ROI",
-          "url": "/servicios/estudio-de-viabilidad-y-roi/"
+          "url": "/estudio-de-viabilidad-y-roi/"
         },
         {
           "texto": "Renting y Robot como Servicio",
-          "url": "/servicios/renting-y-robot-como-servicio/"
+          "url": "/renting-y-robot-como-servicio/"
         },
         {
           "texto": "Marcado CE y Normativa para Robots",
-          "url": "/servicios/marcado-ce-y-normativa/"
+          "url": "/marcado-ce-y-normativa/"
         }
       ]
     },
@@ -210,51 +210,51 @@
       "hijos": [
         {
           "texto": "Curso de Introducción a la Robótica Humanoide",
-          "url": "/cursos/introduccion-a-la-robotica-humanoide/"
+          "url": "/introduccion-a-la-robotica-humanoide/"
         },
         {
           "texto": "Curso de Programación de Robots Humanoides con SDK",
-          "url": "/cursos/programacion-con-sdk/"
+          "url": "/programacion-con-sdk/"
         },
         {
           "texto": "Curso de Operación y Mantenimiento de Robots Humanoides",
-          "url": "/cursos/operacion-y-mantenimiento/"
+          "url": "/operacion-y-mantenimiento/"
         },
         {
           "texto": "Robótica Humanoide para Centros Educativos",
-          "url": "/cursos/robotica-para-centros-educativos/"
+          "url": "/robotica-para-centros-educativos/"
         },
         {
           "texto": "Formación para Equipos Técnicos de Empresa",
-          "url": "/cursos/formacion-para-equipos-tecnicos/"
+          "url": "/formacion-para-equipos-tecnicos/"
         },
         {
           "texto": "Curso de Seguridad en Robótica Colaborativa",
-          "url": "/cursos/seguridad-y-robotica-colaborativa/"
+          "url": "/seguridad-y-robotica-colaborativa/"
         },
         {
           "texto": "Curso de Visión Artificial y Percepción para Robots",
-          "url": "/cursos/vision-artificial-y-percepcion/"
+          "url": "/vision-artificial-y-percepcion/"
         },
         {
           "texto": "Curso de Aprendizaje por Imitación",
-          "url": "/cursos/aprendizaje-por-imitacion/"
+          "url": "/aprendizaje-por-imitacion/"
         },
         {
           "texto": "Curso de Simulación de Robots Humanoides",
-          "url": "/cursos/simulacion-antes-del-despliegue/"
+          "url": "/simulacion-antes-del-despliegue/"
         },
         {
           "texto": "Curso de Interacción por Voz y Lenguaje Natural",
-          "url": "/cursos/interaccion-por-voz-y-lenguaje/"
+          "url": "/interaccion-por-voz-y-lenguaje/"
         },
         {
           "texto": "Curso de Manipulación y Agarre",
-          "url": "/cursos/manipulacion-y-agarre/"
+          "url": "/manipulacion-y-agarre/"
         },
         {
           "texto": "Certificación Profesional en Robótica Humanoide",
-          "url": "/cursos/certificacion-profesional/"
+          "url": "/certificacion-profesional/"
         }
       ]
     },
@@ -264,47 +264,47 @@
       "hijos": [
         {
           "texto": "Baterías para Robots Humanoides",
-          "url": "/accesorios/bateria-para-robot-y-sistemas-de-carga/"
+          "url": "/bateria-para-robot-y-sistemas-de-carga/"
         },
         {
           "texto": "Sensores para Robots Humanoides",
-          "url": "/accesorios/sensores-de-robots/"
+          "url": "/sensores-de-robots/"
         },
         {
           "texto": "Cámaras para Robots Humanoides",
-          "url": "/accesorios/camara-robot-alta-precision/"
+          "url": "/camara-robot-alta-precision/"
         },
         {
           "texto": "Procesadores y Software de IA para Robots",
-          "url": "/accesorios/procesadores-y-software-de-ia/"
+          "url": "/procesadores-y-software-de-ia/"
         },
         {
           "texto": "Piezas Mecánicas y Brazos Robóticos",
-          "url": "/accesorios/piezas-mecanicas-y-brazos-roboticos/"
+          "url": "/piezas-mecanicas-y-brazos-roboticos/"
         },
         {
           "texto": "Actuadores y Servomotores para Robots Humanoides",
-          "url": "/accesorios/actuadores-y-servomotores/"
+          "url": "/actuadores-y-servomotores/"
         },
         {
           "texto": "Manos Diestras y Pinzas para Robots",
-          "url": "/accesorios/manos-diestras-y-pinzas/"
+          "url": "/manos-diestras-y-pinzas/"
         },
         {
           "texto": "Reductoras y Transmisiones para Robots",
-          "url": "/accesorios/reductoras-y-transmisiones/"
+          "url": "/reductoras-y-transmisiones/"
         },
         {
           "texto": "Estaciones de Carga para Robots Humanoides",
-          "url": "/accesorios/estaciones-de-carga/"
+          "url": "/estaciones-de-carga/"
         },
         {
           "texto": "LiDAR y Sensores de Profundidad",
-          "url": "/accesorios/lidar-y-sensores-de-profundidad/"
+          "url": "/lidar-y-sensores-de-profundidad/"
         },
         {
           "texto": "Carcasas y Piezas de Recambio",
-          "url": "/accesorios/carcasas-y-piezas-de-recambio/"
+          "url": "/carcasas-y-piezas-de-recambio/"
         }
       ]
     },

@@ -1,0 +1,29 @@
+---
+const { d } = Astro.props;
+---
+<section class="seccion">
+  <div class="contenedor">
+    <div class="prosa"><h2>Qué es</h2><Fragment set:html={d.queEs} /></div>
+  </div>
+</section>
+
+<section class="seccion seccion--alt">
+  <div class="contenedor"><div class="prosa">
+    <h2>Para qué sirve</h2><Fragment set:html={d.paraQueSirve} />
+  </div></div>
+</section>
+
+<section class="seccion seccion--alt">
+  <div class="contenedor"><div class="prosa">
+    <h2>Cómo elegirlo</h2><Fragment set:html={d.comoElegir} />
+  </div></div>
+</section>
+
+<section class="seccion">
+  <div class="contenedor">
+    <div class="prosa">
+      <h2>A tener en cuenta</h2><Fragment set:html={d.aTenerEnCuenta} />
+    </div>
+    <p class="seccion__cta"><a class="pildora" href="/contacto/">Consultar disponibilidad</a></p>
+  </div>
+</section>
