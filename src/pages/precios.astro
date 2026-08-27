@@ -16,6 +16,7 @@ const pagina = {
       <div class="prosa">
         <h2>{d.tabla.titulo}</h2>
         {d.tabla.intro && <p set:html={d.tabla.intro} />}
+        {d.tabla.h3 && <h3>{d.tabla.h3}</h3>}
       </div>
       <div class="tabla-envoltorio">
         <table class="tabla">
