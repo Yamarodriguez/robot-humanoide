@@ -12,16 +12,12 @@ const paginas = Object.values(modulos)
   .filter((p) => p.url && !p.noindex)
   .map((p) => p.url);
 
-// Las páginas de detalle se generan por ruta dinámica: no están en
-// content/pages, así que hay que añadirlas explícitamente.
+// Las páginas de detalle se generan por ruta dinámica en la raíz (/{slug}/):
+// no están en content/pages, así que hay que añadirlas explícitamente.
 const detalles = [
-  ['/tipos/', detalleTipos],
-  ['/marcas/', detalleMarcas],
-  ['/servicios/', detalleServicios],
-  ['/cursos/', detalleCursos],
-  ['/accesorios/', detalleAccesorios],
-].flatMap(([base, datos]) =>
-  Object.keys(datos).filter((k) => !k.startsWith('_')).map((slug) => `${base}${slug}/`)
+  detalleTipos, detalleMarcas, detalleServicios, detalleCursos, detalleAccesorios,
+].flatMap((datos) =>
+  Object.keys(datos).filter((k) => !k.startsWith('_')).map((slug) => `/${slug}/`)
 );
 
 const urls = [...new Set([...paginas, ...detalles])].sort();
