@@ -55,9 +55,29 @@ const pagina = {
   <section class="seccion">
     <div class="contenedor">
       <div class="prosa"><Fragment set:html={d.plazos} /></div>
+    </div>
+  </section>
+
+  {d.preciosServicios && (
+  <section class="seccion seccion--alt">
+    <div class="contenedor"><div class="prosa"><Fragment set:html={d.preciosServicios} /></div></div>
+  </section>
+  )}
+
+  {d.preciosCursos && (
+  <section class="seccion">
+    <div class="contenedor"><div class="prosa"><Fragment set:html={d.preciosCursos} /></div></div>
+  </section>
+  )}
+
+  {d.preciosAccesorios && (
+  <section class="seccion seccion--alt">
+    <div class="contenedor">
+      <div class="prosa"><Fragment set:html={d.preciosAccesorios} /></div>
       <p class="seccion__cta"><a class="pildora" href="/contacto/">Pedir presupuesto cerrado</a></p>
     </div>
   </section>
+  )}
 
   <Relacionados grupoActual="/precios/" slugActual="precios" />
 </Base>
