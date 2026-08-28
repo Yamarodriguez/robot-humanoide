@@ -322,6 +322,14 @@
         {
           "texto": "Robot Humanoide Santa Fe",
           "url": "/santa-fe/"
+        },
+        {
+          "texto": "Robot Humanoide Rosario",
+          "url": "/rosario/"
+        },
+        {
+          "texto": "Robot Humanoide Ávila",
+          "url": "/avila/"
         }
       ]
     }
