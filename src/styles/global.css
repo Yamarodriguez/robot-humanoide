@@ -119,7 +119,7 @@ a:hover { color: var(--azul-osc); }
 
 .cabecera__barra {
   display: flex; flex-wrap: wrap; align-items: center;
-  gap: var(--e-2) var(--e-4);
+  gap: var(--e-2) var(--e-2);
   padding-block: var(--e-2);
 }
 .cabecera__logo img {
@@ -131,7 +131,7 @@ a:hover { color: var(--azul-osc); }
 .nav {
   margin-left: auto;
   display: flex; flex-wrap: wrap;
-  gap: var(--e-1) var(--e-4);
+  gap: var(--e-1) var(--e-2);
   list-style: none; margin-block: 0; padding: 0;
 }
 .nav a {
@@ -633,7 +633,7 @@ a:hover { color: var(--azul-osc); }
 .nav__toggle {
   cursor: pointer;
   position: relative;
-  width: 1.5rem;
+  width: 1.05rem;
   align-self: stretch;
 }
 .nav__toggle::after {
