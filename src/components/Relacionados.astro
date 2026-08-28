@@ -45,7 +45,7 @@ const listar = (g) => (indice[g.url] || [])
         <h3>{propio.h3}</h3>
       </div>
       <ul class="lista-hermanos">
-        {listar(propio).map((t) => <li><a href={t.url}>{t.texto}</a></li>)}
+        {listar(propio).map((t) => <li><h3><a href={t.url}>{t.texto}</a></h3></li>)}
       </ul>
       <p class="seccion__cta"><a class="pildora" href={propio.url}>Ver todos</a></p>
     </div>
@@ -61,7 +61,7 @@ const listar = (g) => (indice[g.url] || [])
         <h3>{g.h3}</h3>
       </div>
       <ul class="lista-hermanos">
-        {listar(g).map((t) => <li><a href={t.url}>{t.texto}</a></li>)}
+        {listar(g).map((t) => <li><h3><a href={t.url}>{t.texto}</a></h3></li>)}
       </ul>
       <p class="seccion__cta"><a class="pildora" href={g.url}>Ver todos</a></p>
     </div>

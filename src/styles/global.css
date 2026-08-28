@@ -1459,6 +1459,9 @@ a:hover { color: var(--azul-osc); }
   text-decoration: none;
   transition: border-color .16s, color .16s;
 }
+/* Cada hermano es un <h3> por SEO; que no genere caja para conservar el
+   diseño de chips en rejilla (el <a> ocupa la celda como antes). */
+.lista-hermanos h3 { margin: 0; font: inherit; display: contents; }
 .lista-hermanos a:hover { border-color: var(--azul); color: var(--azul); }
 
 @media (max-width: 700px) {
