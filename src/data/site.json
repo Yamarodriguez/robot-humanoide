@@ -330,6 +330,10 @@
         {
           "texto": "Robot Humanoide Ávila",
           "url": "/avila/"
+        },
+        {
+          "texto": "Robot Humanoide Valencia",
+          "url": "/valencia/"
         }
       ]
     }
