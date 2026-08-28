@@ -183,6 +183,27 @@ ESCENAS = {
     + suelo(w*0.70, 866, 700) + robot(w*0.70, 860, 720)
     + texto_izq(140, 470, 'Robot Humanoide', 'Santa Fe · Argentina', 84)),
 
+ '/wp-content/uploads/2026/01/robot-humanoide-rosario.webp': (HW, HH, lambda w, h:
+    lienzo(w, h)
+    + f'<circle cx="{w*0.70}" cy="470" r="330" fill="none" stroke="{AZUL}" stroke-width="3" opacity=".30"/>'
+    + f'<circle cx="{w*0.70}" cy="470" r="420" fill="none" stroke="{AZUL}" stroke-width="2" opacity=".16"/>'
+    + suelo(w*0.70, 866, 700) + robot(w*0.70, 860, 720)
+    + texto_izq(140, 470, 'Robot Humanoide', 'Rosario · Argentina', 84)),
+
+ '/wp-content/uploads/2026/01/robot-humanoide-avila.webp': (HW, HH, lambda w, h:
+    lienzo(w, h)
+    + f'<circle cx="{w*0.70}" cy="470" r="330" fill="none" stroke="{AZUL}" stroke-width="3" opacity=".30"/>'
+    + f'<circle cx="{w*0.70}" cy="470" r="420" fill="none" stroke="{AZUL}" stroke-width="2" opacity=".16"/>'
+    + suelo(w*0.70, 866, 700) + robot(w*0.70, 860, 720)
+    + texto_izq(140, 470, 'Robot Humanoide', 'Ávila · España', 84)),
+
+ '/wp-content/uploads/2026/01/robot-humanoide-valencia.webp': (HW, HH, lambda w, h:
+    lienzo(w, h)
+    + f'<circle cx="{w*0.70}" cy="470" r="330" fill="none" stroke="{AZUL}" stroke-width="3" opacity=".30"/>'
+    + f'<circle cx="{w*0.70}" cy="470" r="420" fill="none" stroke="{AZUL}" stroke-width="2" opacity=".16"/>'
+    + suelo(w*0.70, 866, 700) + robot(w*0.70, 860, 720)
+    + texto_izq(140, 470, 'Robot Humanoide', 'Valencia · España', 84)),
+
  '/img/heroes/tipos-de-robot-humanoide.webp': (HW, HH, lambda w, h:
     lienzo(w, h) + suelo(w*0.66, 866, 900)
     + robot(w*0.50, 860, 480, .42) + robot(w*0.82, 860, 480, .42) + robot(w*0.66, 860, 700)
