@@ -1,34 +1,42 @@
 ---
 import indice from '../data/indice-tarjetas.json';
-const { grupoActual, slugActual } = Astro.props;
+const { grupoActual, slugActual, sufijoPrecios = false } = Astro.props;
 
 const GRUPOS = [
   {
     url: '/tipos/', titulo: 'Tipos de Robot Humanoides',
+    tituloPrecios: 'Tipos de Robot Humanoides precios',
     descripcion: 'Descubre los <strong>tipos de robot humanoide</strong> que existen hoy y para qué sirve cada uno, del uso doméstico a la industria.',
     h3: 'Explora los tipos de robot humanoide',
   },
   {
     url: '/marcas/', titulo: 'Marcas y Empresas de Robots Humanoide',
+    tituloPrecios: 'Marcas y Empresas de Robots Humanoide precios',
     descripcion: 'Conoce las <strong>marcas de robots humanoides</strong> líderes en inteligencia artificial y automatización, y cuáles se pueden comprar de verdad.',
     h3: 'Marcas de robots humanoides destacadas',
   },
   {
     url: '/servicios/', titulo: 'Servicios Para Robots Humanoides',
+    tituloPrecios: 'Servicios Para Robots Humanoides precio',
     descripcion: 'Ofrecemos <strong>servicios para robots humanoides</strong>: venta, importación, programación, mantenimiento y alquiler.',
     h3: 'Nuestros servicios para robots humanoides',
   },
   {
     url: '/cursos/', titulo: 'Formación y Cursos en Robótica Humanoide',
+    tituloPrecios: 'Formación y Cursos en Robótica Humanoide precios',
     descripcion: 'Fórmate con nuestros <strong>cursos de robótica humanoide</strong>, desde la operación básica hasta la programación con el SDK del fabricante.',
     h3: 'Cursos de robótica humanoide disponibles',
   },
   {
     url: '/accesorios/', titulo: 'Accesorios y Repuestos para Robot',
+    tituloPrecios: 'Accesorios y Repuestos para Robot precios',
     descripcion: 'Encuentra <strong>accesorios y repuestos para robots humanoides</strong>: baterías, sensores, actuadores, cámaras, reductoras y carcasas.',
     h3: 'Accesorios y repuestos para robots humanoides',
   },
 ];
+
+// El H2 puede llevar el sufijo "precios" (solo en la página de precios).
+const tituloDe = (g) => (sufijoPrecios && g.tituloPrecios) ? g.tituloPrecios : g.titulo;
 
 // El grupo propio va primero y sin el elemento en el que estamos
 const propio = GRUPOS.find((g) => g.url === grupoActual);
@@ -40,7 +48,7 @@ const listar = (g) => (indice[g.url] || [])
   <section class="seccion seccion--alt">
     <div class="contenedor">
       <div class="prosa">
-        <h2>{propio.titulo}</h2>
+        <h2>{tituloDe(propio)}</h2>
         <p set:html={propio.descripcion} />
         <h3>{propio.h3}</h3>
       </div>
@@ -56,7 +64,7 @@ const listar = (g) => (indice[g.url] || [])
   <section class:list={['seccion', { 'seccion--alt': i % 2 === 1 }]}>
     <div class="contenedor">
       <div class="prosa">
-        <h2>{g.titulo}</h2>
+        <h2>{tituloDe(g)}</h2>
         <p set:html={g.descripcion} />
         <h3>{g.h3}</h3>
       </div>
