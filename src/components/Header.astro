@@ -36,13 +36,6 @@ const activo = (i) =>
             <input type="checkbox" id={`grupo-${n}`} class="conmutador" />
             <label for={`grupo-${n}`} class="nav__cabeza">{item.texto}</label>
             <ul class:list={['submenu', { 'submenu--ancho': item.hijos.length > 8 }]}>
-              {item.url && (
-                <li class="submenu__todo">
-                  <a href={item.url}
-                     aria-current={rutaActual === item.url ? 'page' : undefined}
-                  >Ver todo</a>
-                </li>
-              )}
               {item.hijos.map((h) => (
                 <li>
                   <a href={h.url}
