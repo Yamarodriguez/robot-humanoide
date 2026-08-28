@@ -34,7 +34,15 @@ const activo = (i) =>
         {site.navegacion.map((item, n) => item.hijos ? (
           <li class:list={['nav__grupo', { 'es-activo': activo(item) }]}>
             <input type="checkbox" id={`grupo-${n}`} class="conmutador" />
-            <label for={`grupo-${n}`} class="nav__cabeza">{item.texto}</label>
+            <div class="nav__fila">
+              {item.url
+                ? <a class="nav__cabeza" href={item.url}
+                     aria-current={rutaActual === item.url ? 'page' : undefined}
+                  >{item.texto}</a>
+                : <label for={`grupo-${n}`} class="nav__cabeza">{item.texto}</label>}
+              <label for={`grupo-${n}`} class="nav__toggle"
+                     aria-label={`Desplegar ${item.texto}`}></label>
+            </div>
             <ul class:list={['submenu', { 'submenu--ancho': item.hijos.length > 8 }]}>
               {item.hijos.map((h) => (
                 <li>

@@ -616,29 +616,38 @@ a:hover { color: var(--azul-osc); }
 .nav__cabeza:hover { color: var(--azul); }
 
 .nav > li > a[aria-current="page"],
-.nav__grupo.es-activo > .nav__cabeza {
+.nav__grupo.es-activo .nav__cabeza {
   color: var(--azul);
   border-bottom-color: var(--azul);
 }
 
 .nav__grupo { position: relative; }
+.nav__fila { display: flex; align-items: center; }
 
 .nav__cabeza {
   cursor: pointer;
-  padding-right: 1.05rem;
   position: relative;
 }
-.nav__cabeza::after {
+/* La flecha vive en un toggle aparte: el texto del padre es un enlace a
+   su página; la flecha abre el submenú (imprescindible en móvil). */
+.nav__toggle {
+  cursor: pointer;
+  position: relative;
+  width: 1.5rem;
+  align-self: stretch;
+}
+.nav__toggle::after {
   content: "";
-  position: absolute; right: 0; top: 50%;
+  position: absolute; right: .3rem; top: 50%;
   width: 6px; height: 6px; margin-top: -5px;
   border-right: 2px solid currentColor;
   border-bottom: 2px solid currentColor;
+  color: var(--marino);
   transform: rotate(45deg);
   transition: transform .2s ease;
 }
-.conmutador:checked + .nav__cabeza::after { transform: rotate(-135deg); margin-top: -2px; }
-.conmutador:focus-visible + .nav__cabeza { outline: 3px solid var(--azul); outline-offset: 3px; }
+.conmutador:checked ~ .nav__fila .nav__toggle::after { transform: rotate(-135deg); margin-top: -2px; }
+.conmutador:focus-visible ~ .nav__fila .nav__toggle { outline: 3px solid var(--azul); outline-offset: 3px; }
 
 .submenu {
   list-style: none;
@@ -711,7 +720,10 @@ a:hover { color: var(--azul-osc); }
     padding-block: .7rem;
     border-bottom: 0;
   }
-  .nav__cabeza::after { right: .35rem; }
+  .nav__fila { width: 100%; }
+  .nav__fila .nav__cabeza { flex: 1; }
+  .nav__toggle { width: 44px; min-height: 44px; align-self: auto; border-left: 1px solid var(--borde); }
+  .nav__toggle::after { right: 50%; margin-right: -3px; }
 
   .nav__grupo { position: static; }
   .submenu {
