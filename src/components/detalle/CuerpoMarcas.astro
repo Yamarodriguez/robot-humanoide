@@ -10,7 +10,11 @@ const { d } = Astro.props;
 {(d.ficha || d.precio) && (
   <section class="seccion seccion--alt">
     <div class="contenedor">
-      <div class="prosa"><h2>Ficha técnica y precio</h2></div>
+      <div class="prosa">
+        <h2>Ficha técnica y precio</h2>
+        <p>Consulta la <strong>ficha técnica</strong> y el <strong>precio</strong> del {d.h1}: especificaciones, disponibilidad y plazo de entrega.</p>
+        <h3>Especificaciones y precio del {d.h1}</h3>
+      </div>
       <div class="tabla-envoltorio">
         <table class="tabla">
           <tbody>

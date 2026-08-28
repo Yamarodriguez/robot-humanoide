@@ -3,11 +3,31 @@ import indice from '../data/indice-tarjetas.json';
 const { grupoActual, slugActual } = Astro.props;
 
 const GRUPOS = [
-  { url: '/tipos/',       titulo: 'Tipos de Robot Humanoides actuales' },
-  { url: '/marcas/',      titulo: 'Marcas y Empresas de Robots Humanoide' },
-  { url: '/servicios/',   titulo: 'Servicios Para Robots Humanoides' },
-  { url: '/cursos/',      titulo: 'Formación y Cursos en Robótica Humanoide' },
-  { url: '/accesorios/',  titulo: 'Accesorios y Repuestos para Robot' },
+  {
+    url: '/tipos/', titulo: 'Tipos de Robot Humanoides actuales',
+    descripcion: 'Descubre los <strong>tipos de robot humanoide</strong> que existen hoy y para qué sirve cada uno, del uso doméstico a la industria.',
+    h3: 'Explora los tipos de robot humanoide',
+  },
+  {
+    url: '/marcas/', titulo: 'Marcas y Empresas de Robots Humanoide',
+    descripcion: 'Conoce las <strong>marcas de robots humanoides</strong> líderes en inteligencia artificial y automatización, y cuáles se pueden comprar de verdad.',
+    h3: 'Marcas de robots humanoides destacadas',
+  },
+  {
+    url: '/servicios/', titulo: 'Servicios Para Robots Humanoides',
+    descripcion: 'Ofrecemos <strong>servicios para robots humanoides</strong>: venta, importación, programación, mantenimiento y alquiler.',
+    h3: 'Nuestros servicios para robots humanoides',
+  },
+  {
+    url: '/cursos/', titulo: 'Formación y Cursos en Robótica Humanoide',
+    descripcion: 'Fórmate con nuestros <strong>cursos de robótica humanoide</strong>, desde la operación básica hasta la programación con el SDK del fabricante.',
+    h3: 'Cursos de robótica humanoide disponibles',
+  },
+  {
+    url: '/accesorios/', titulo: 'Accesorios y Repuestos para Robot',
+    descripcion: 'Encuentra <strong>accesorios y repuestos para robots humanoides</strong>: baterías, sensores, actuadores, cámaras, reductoras y carcasas.',
+    h3: 'Accesorios y repuestos para robots humanoides',
+  },
 ];
 
 // El grupo propio va primero y sin el elemento en el que estamos
@@ -19,7 +39,11 @@ const listar = (g) => (indice[g.url] || [])
 {propio && (
   <section class="seccion seccion--alt">
     <div class="contenedor">
-      <div class="prosa"><h2>{propio.titulo}</h2></div>
+      <div class="prosa">
+        <h2>{propio.titulo}</h2>
+        <p set:html={propio.descripcion} />
+        <h3>{propio.h3}</h3>
+      </div>
       <ul class="lista-hermanos">
         {listar(propio).map((t) => <li><a href={t.url}>{t.texto}</a></li>)}
       </ul>
@@ -31,7 +55,11 @@ const listar = (g) => (indice[g.url] || [])
 {resto.map((g, i) => (
   <section class:list={['seccion', { 'seccion--alt': i % 2 === 1 }]}>
     <div class="contenedor">
-      <div class="prosa"><h2>{g.titulo}</h2></div>
+      <div class="prosa">
+        <h2>{g.titulo}</h2>
+        <p set:html={g.descripcion} />
+        <h3>{g.h3}</h3>
+      </div>
       <ul class="lista-hermanos">
         {listar(g).map((t) => <li><a href={t.url}>{t.texto}</a></li>)}
       </ul>
@@ -45,7 +73,8 @@ const listar = (g) => (indice[g.url] || [])
   <div class="contenedor">
     <div class="prosa">
       <h2>Robot Humanoide precio</h2>
-      <p>Consulta los precios de referencia por modelo y tipo antes de decidir.</p>
+      <p>Consulta los <strong>precios de referencia</strong> de un robot humanoide por modelo y tipo antes de decidir tu compra.</p>
+      <h3>¿Cuánto cuesta un robot humanoide?</h3>
     </div>
     <p class="seccion__cta"><a class="pildora" href="/precios/">Precios</a></p>
   </div>
