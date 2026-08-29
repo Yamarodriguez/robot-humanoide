@@ -318,6 +318,7 @@
     },
     {
       "texto": "Lugares",
+      "columnaUnica": true,
       "hijos": [
         {
           "texto": "Robot Humanoide Santa Fe",

@@ -43,7 +43,7 @@ const activo = (i) =>
               <label for={`grupo-${n}`} class="nav__toggle"
                      aria-label={`Desplegar ${item.texto}`}></label>
             </div>
-            <ul class:list={['submenu', { 'submenu--ancho': item.hijos.length > 8 }]}>
+            <ul class:list={['submenu', { 'submenu--ancho': item.hijos.length > 8 && !item.columnaUnica }]}>
               {item.hijos.map((h) => (
                 <li>
                   <a href={h.url}
