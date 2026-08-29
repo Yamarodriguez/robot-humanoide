@@ -334,6 +334,46 @@
         {
           "texto": "Robot Humanoide Valencia",
           "url": "/valencia/"
+        },
+        {
+          "texto": "Robot Humanoide Madrid",
+          "url": "/madrid/"
+        },
+        {
+          "texto": "Robot Humanoide Barcelona",
+          "url": "/barcelona/"
+        },
+        {
+          "texto": "Robot Humanoide Sevilla",
+          "url": "/sevilla/"
+        },
+        {
+          "texto": "Robot Humanoide Zaragoza",
+          "url": "/zaragoza/"
+        },
+        {
+          "texto": "Robot Humanoide Málaga",
+          "url": "/malaga/"
+        },
+        {
+          "texto": "Robot Humanoide Murcia",
+          "url": "/murcia/"
+        },
+        {
+          "texto": "Robot Humanoide Bilbao",
+          "url": "/bilbao/"
+        },
+        {
+          "texto": "Robot Humanoide Alicante",
+          "url": "/alicante/"
+        },
+        {
+          "texto": "Robot Humanoide Córdoba",
+          "url": "/cordoba/"
+        },
+        {
+          "texto": "Robot Humanoide Valladolid",
+          "url": "/valladolid/"
         }
       ]
     }
