@@ -415,6 +415,46 @@
         {
           "texto": "Robot Humanoide A Coruña",
           "url": "/a-coruna/"
+        },
+        {
+          "texto": "Robot Humanoide Burgos",
+          "url": "/burgos/"
+        },
+        {
+          "texto": "Robot Humanoide León",
+          "url": "/leon/"
+        },
+        {
+          "texto": "Robot Humanoide Cádiz",
+          "url": "/cadiz/"
+        },
+        {
+          "texto": "Robot Humanoide Huelva",
+          "url": "/huelva/"
+        },
+        {
+          "texto": "Robot Humanoide Jaén",
+          "url": "/jaen/"
+        },
+        {
+          "texto": "Robot Humanoide Logroño",
+          "url": "/logrono/"
+        },
+        {
+          "texto": "Robot Humanoide Badajoz",
+          "url": "/badajoz/"
+        },
+        {
+          "texto": "Robot Humanoide Cáceres",
+          "url": "/caceres/"
+        },
+        {
+          "texto": "Robot Humanoide Tarragona",
+          "url": "/tarragona/"
+        },
+        {
+          "texto": "Robot Humanoide Lleida",
+          "url": "/lleida/"
         }
       ]
     }
