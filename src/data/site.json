@@ -375,6 +375,46 @@
         {
           "texto": "Robot Humanoide Valladolid",
           "url": "/valladolid/"
+        },
+        {
+          "texto": "Robot Humanoide Granada",
+          "url": "/granada/"
+        },
+        {
+          "texto": "Robot Humanoide Toledo",
+          "url": "/toledo/"
+        },
+        {
+          "texto": "Robot Humanoide Salamanca",
+          "url": "/salamanca/"
+        },
+        {
+          "texto": "Robot Humanoide Vigo",
+          "url": "/vigo/"
+        },
+        {
+          "texto": "Robot Humanoide Gijón",
+          "url": "/gijon/"
+        },
+        {
+          "texto": "Robot Humanoide Santander",
+          "url": "/santander/"
+        },
+        {
+          "texto": "Robot Humanoide Pamplona",
+          "url": "/pamplona/"
+        },
+        {
+          "texto": "Robot Humanoide Almería",
+          "url": "/almeria/"
+        },
+        {
+          "texto": "Robot Humanoide San Sebastián",
+          "url": "/san-sebastian/"
+        },
+        {
+          "texto": "Robot Humanoide A Coruña",
+          "url": "/a-coruna/"
         }
       ]
     }
