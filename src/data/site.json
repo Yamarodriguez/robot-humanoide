@@ -535,6 +535,86 @@
         {
           "texto": "Robot Humanoide Melilla",
           "url": "/melilla/"
+        },
+        {
+          "texto": "Robot Humanoide Vitoria-Gasteiz",
+          "url": "/vitoria-gasteiz/"
+        },
+        {
+          "texto": "Robot Humanoide Ceuta",
+          "url": "/ceuta/"
+        },
+        {
+          "texto": "Robot Humanoide Elche",
+          "url": "/elche/"
+        },
+        {
+          "texto": "Robot Humanoide Móstoles",
+          "url": "/mostoles/"
+        },
+        {
+          "texto": "Robot Humanoide Alcalá de Henares",
+          "url": "/alcala-de-henares/"
+        },
+        {
+          "texto": "Robot Humanoide Fuenlabrada",
+          "url": "/fuenlabrada/"
+        },
+        {
+          "texto": "Robot Humanoide Leganés",
+          "url": "/leganes/"
+        },
+        {
+          "texto": "Robot Humanoide Getafe",
+          "url": "/getafe/"
+        },
+        {
+          "texto": "Robot Humanoide Alcorcón",
+          "url": "/alcorcon/"
+        },
+        {
+          "texto": "Robot Humanoide Terrassa",
+          "url": "/terrassa/"
+        },
+        {
+          "texto": "Robot Humanoide Sabadell",
+          "url": "/sabadell/"
+        },
+        {
+          "texto": "Robot Humanoide Badalona",
+          "url": "/badalona/"
+        },
+        {
+          "texto": "Robot Humanoide Marbella",
+          "url": "/marbella/"
+        },
+        {
+          "texto": "Robot Humanoide Jerez de la Frontera",
+          "url": "/jerez-de-la-frontera/"
+        },
+        {
+          "texto": "Robot Humanoide Dos Hermanas",
+          "url": "/dos-hermanas/"
+        },
+        {
+          "texto": "Robot Humanoide Torrejón de Ardoz",
+          "url": "/torrejon-de-ardoz/"
+        },
+        {
+          "texto": "Robot Humanoide Alcobendas",
+          "url": "/alcobendas/"
+        },
+        {
+          "texto": "Robot Humanoide Reus",
+          "url": "/reus/"
+        },
+        {
+          "texto": "Robot Humanoide Mataró",
+          "url": "/mataro/"
+        },
+        {
+          "texto": "Robot Humanoide Parla",
+          "url": "/parla/"
         }
       ]
     }
