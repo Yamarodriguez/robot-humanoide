@@ -455,6 +455,46 @@
         {
           "texto": "Robot Humanoide Lleida",
           "url": "/lleida/"
+        },
+        {
+          "texto": "Robot Humanoide Ourense",
+          "url": "/ourense/"
+        },
+        {
+          "texto": "Robot Humanoide Lugo",
+          "url": "/lugo/"
+        },
+        {
+          "texto": "Robot Humanoide Pontevedra",
+          "url": "/pontevedra/"
+        },
+        {
+          "texto": "Robot Humanoide Segovia",
+          "url": "/segovia/"
+        },
+        {
+          "texto": "Robot Humanoide Soria",
+          "url": "/soria/"
+        },
+        {
+          "texto": "Robot Humanoide Cuenca",
+          "url": "/cuenca/"
+        },
+        {
+          "texto": "Robot Humanoide Guadalajara",
+          "url": "/guadalajara/"
+        },
+        {
+          "texto": "Robot Humanoide Albacete",
+          "url": "/albacete/"
+        },
+        {
+          "texto": "Robot Humanoide Ciudad Real",
+          "url": "/ciudad-real/"
+        },
+        {
+          "texto": "Robot Humanoide Girona",
+          "url": "/girona/"
         }
       ]
     }

@@ -1,0 +1,16 @@
+---
+import Base from '../layouts/Base.astro';
+import { sustituirFaltantes } from '../utils/imagenes.js';
+import pagina from '../content/pages/soria.json';
+import site from '../data/site.json';
+
+// Las rutas de imagen viven en el JSON como rutas relativas.
+// baseImagenes solo se rellena para generar vistas previas.
+const htmlBruto = site.baseImagenes
+  ? pagina.html.replaceAll('src="/wp-content/', `src="${site.baseImagenes}/wp-content/`)
+  : pagina.html;
+const html = sustituirFaltantes(htmlBruto);
+---
+<Base pagina={pagina} baseImagenes={site.baseImagenes}>
+  <Fragment set:html={html} />
+</Base>
