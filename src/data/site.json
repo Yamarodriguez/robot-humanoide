@@ -495,6 +495,46 @@
         {
           "texto": "Robot Humanoide Girona",
           "url": "/girona/"
+        },
+        {
+          "texto": "Robot Humanoide Palencia",
+          "url": "/palencia/"
+        },
+        {
+          "texto": "Robot Humanoide Zamora",
+          "url": "/zamora/"
+        },
+        {
+          "texto": "Robot Humanoide Teruel",
+          "url": "/teruel/"
+        },
+        {
+          "texto": "Robot Humanoide Huesca",
+          "url": "/huesca/"
+        },
+        {
+          "texto": "Robot Humanoide Castellón",
+          "url": "/castellon/"
+        },
+        {
+          "texto": "Robot Humanoide Palma",
+          "url": "/palma/"
+        },
+        {
+          "texto": "Robot Humanoide Las Palmas",
+          "url": "/las-palmas/"
+        },
+        {
+          "texto": "Robot Humanoide Santa Cruz de Tenerife",
+          "url": "/santa-cruz-de-tenerife/"
+        },
+        {
+          "texto": "Robot Humanoide Cartagena",
+          "url": "/cartagena/"
+        },
+        {
+          "texto": "Robot Humanoide Melilla",
+          "url": "/melilla/"
         }
       ]
     }
