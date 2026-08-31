@@ -615,6 +615,46 @@
         {
           "texto": "Robot Humanoide Parla",
           "url": "/parla/"
+        },
+        {
+          "texto": "Robot Humanoide Santa Coloma de Gramenet",
+          "url": "/santa-coloma-de-gramenet/"
+        },
+        {
+          "texto": "Robot Humanoide Cornellà de Llobregat",
+          "url": "/cornella-de-llobregat/"
+        },
+        {
+          "texto": "Robot Humanoide Getxo",
+          "url": "/getxo/"
+        },
+        {
+          "texto": "Robot Humanoide Barakaldo",
+          "url": "/barakaldo/"
+        },
+        {
+          "texto": "Robot Humanoide Torrevieja",
+          "url": "/torrevieja/"
+        },
+        {
+          "texto": "Robot Humanoide Algeciras",
+          "url": "/algeciras/"
+        },
+        {
+          "texto": "Robot Humanoide Roquetas de Mar",
+          "url": "/roquetas-de-mar/"
+        },
+        {
+          "texto": "Robot Humanoide El Ejido",
+          "url": "/el-ejido/"
+        },
+        {
+          "texto": "Robot Humanoide Benidorm",
+          "url": "/benidorm/"
+        },
+        {
+          "texto": "Robot Humanoide Manresa",
+          "url": "/manresa/"
         }
       ]
     }
