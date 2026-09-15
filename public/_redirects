@@ -27,3 +27,81 @@
 /wp-login.php    410
 /xmlrpc.php      410
 /wp-json/*       410
+
+# --- URLs antiguas de detalle (antes de aplanar, 27 ago 2026) ---
+# Las paginas de tipos, marcas, servicios, cursos y accesorios pasaron de
+# /seccion/slug/ a /slug/ sin redireccion y Google las daba por perdidas (404).
+# Generado desde src/data/*-detalle.json.
+# tipos
+/tipos/robot-industrial/   /robot-industrial/   301
+/tipos/robot-de-compania/   /robot-de-compania/   301
+/tipos/robots-medicos/   /robots-medicos/   301
+/tipos/robot-camarero/   /robot-camarero/   301
+/tipos/robots-educativos/   /robots-educativos/   301
+/tipos/robots-para-el-hogar/   /robots-para-el-hogar/   301
+/tipos/robots-empresariales/   /robots-empresariales/   301
+/tipos/robots-seguridad/   /robots-seguridad/   301
+/tipos/robot-de-vigilancia/   /robot-de-vigilancia/   301
+/tipos/robots-de-logistica-y-almacen/   /robots-de-logistica-y-almacen/   301
+/tipos/robots-de-rehabilitacion/   /robots-de-rehabilitacion/   301
+/tipos/robots-de-investigacion/   /robots-de-investigacion/   301
+/tipos/robots-de-atencion-al-cliente/   /robots-de-atencion-al-cliente/   301
+/tipos/robots-de-inspeccion-industrial/   /robots-de-inspeccion-industrial/   301
+/tipos/robots-para-eventos/   /robots-para-eventos/   301
+
+# marcas
+/marcas/unitree-g1/   /unitree-g1/   301
+/marcas/1x-technologies-neo/   /1x-technologies-neo/   301
+/marcas/agility-robotics-digit/   /agility-robotics-digit/   301
+/marcas/figure-ai-figure-03/   /figure-ai-figure-03/   301
+/marcas/ubtech/   /ubtech/   301
+/marcas/fourier-intelligence-gr-2/   /fourier-intelligence-gr-2/   301
+/marcas/neura-robotics-4ne-1/   /neura-robotics-4ne-1/   301
+/marcas/robot-tesla-bot-optimus/   /robot-tesla-bot-optimus/   301
+/marcas/robot-boston-dynamics-atlas/   /robot-boston-dynamics-atlas/   301
+/marcas/robot-xiaomi-cyberone/   /robot-xiaomi-cyberone/   301
+/marcas/robot-honda-asimo/   /robot-honda-asimo/   301
+/marcas/robot-sophia-hanson-robotics/   /robot-sophia-hanson-robotics/   301
+/marcas/unitree-r1/   /unitree-r1/   301
+/marcas/booster-robotics-k1/   /booster-robotics-k1/   301
+/marcas/noetix-bumi/   /noetix-bumi/   301
+
+# servicios
+/servicios/venta-de-robots-humanoides/   /venta-de-robots-humanoides/   301
+/servicios/programacion-de-robot-humanoides/   /programacion-de-robot-humanoides/   301
+/servicios/mantenimiento-y-reparacion-de-robot/   /mantenimiento-y-reparacion-de-robot/   301
+/servicios/alquiler-de-robots-humanoides/   /alquiler-de-robots-humanoides/   301
+/servicios/implementacion-de-robot-en-empresas-y-negocios/   /implementacion-de-robot-en-empresas-y-negocios/   301
+/servicios/importacion-y-gestion-aduanera/   /importacion-y-gestion-aduanera/   301
+/servicios/alquiler-para-eventos/   /alquiler-para-eventos/   301
+/servicios/formacion-y-cursos/   /formacion-y-cursos/   301
+/servicios/estudio-de-viabilidad-y-roi/   /estudio-de-viabilidad-y-roi/   301
+/servicios/renting-y-robot-como-servicio/   /renting-y-robot-como-servicio/   301
+/servicios/marcado-ce-y-normativa/   /marcado-ce-y-normativa/   301
+
+# cursos
+/cursos/introduccion-a-la-robotica-humanoide/   /introduccion-a-la-robotica-humanoide/   301
+/cursos/programacion-con-sdk/   /programacion-con-sdk/   301
+/cursos/operacion-y-mantenimiento/   /operacion-y-mantenimiento/   301
+/cursos/robotica-para-centros-educativos/   /robotica-para-centros-educativos/   301
+/cursos/formacion-para-equipos-tecnicos/   /formacion-para-equipos-tecnicos/   301
+/cursos/seguridad-y-robotica-colaborativa/   /seguridad-y-robotica-colaborativa/   301
+/cursos/vision-artificial-y-percepcion/   /vision-artificial-y-percepcion/   301
+/cursos/aprendizaje-por-imitacion/   /aprendizaje-por-imitacion/   301
+/cursos/simulacion-antes-del-despliegue/   /simulacion-antes-del-despliegue/   301
+/cursos/interaccion-por-voz-y-lenguaje/   /interaccion-por-voz-y-lenguaje/   301
+/cursos/manipulacion-y-agarre/   /manipulacion-y-agarre/   301
+/cursos/certificacion-profesional/   /certificacion-profesional/   301
+
+# accesorios
+/accesorios/bateria-para-robot-y-sistemas-de-carga/   /bateria-para-robot-y-sistemas-de-carga/   301
+/accesorios/sensores-de-robots/   /sensores-de-robots/   301
+/accesorios/camara-robot-alta-precision/   /camara-robot-alta-precision/   301
+/accesorios/procesadores-y-software-de-ia/   /procesadores-y-software-de-ia/   301
+/accesorios/piezas-mecanicas-y-brazos-roboticos/   /piezas-mecanicas-y-brazos-roboticos/   301
+/accesorios/actuadores-y-servomotores/   /actuadores-y-servomotores/   301
+/accesorios/manos-diestras-y-pinzas/   /manos-diestras-y-pinzas/   301
+/accesorios/reductoras-y-transmisiones/   /reductoras-y-transmisiones/   301
+/accesorios/estaciones-de-carga/   /estaciones-de-carga/   301
+/accesorios/lidar-y-sensores-de-profundidad/   /lidar-y-sensores-de-profundidad/   301
+/accesorios/carcasas-y-piezas-de-recambio/   /carcasas-y-piezas-de-recambio/   301
