@@ -3,6 +3,14 @@ import site from '../data/site.json';
 const { rutaActual } = Astro.props;
 const img = (ruta) => site.baseImagenes + ruta;
 
+import { esAR, equivalente } from '../utils/paises.js';
+const argentina = esAR(rutaActual);
+const navegacion = argentina ? site.navegacionAR : site.navegacion;
+
+// Selector de país: lleva a la página equivalente si existe, si no a la
+// portada de cada versión.
+const otraVersion = equivalente(rutaActual) ?? (argentina ? '/' : '/ar/');
+
 const activo = (i) =>
   i.url === rutaActual ||
   (i.hijos || []).some((h) => h.url.split('#')[0] === rutaActual);
@@ -11,11 +19,16 @@ const activo = (i) =>
   <div class="cabecera__aviso">
     <div class="contenedor">
       <a href={`mailto:${site.email}`}>{site.email}</a>
+      <span class="paises">
+        {argentina
+          ? <><a href={otraVersion} hreflang="es">España</a> · <span aria-current="true">Argentina</span></>
+          : <><span aria-current="true">España</span> · <a href={otraVersion} hreflang="es-AR">Argentina</a></>}
+      </span>
     </div>
   </div>
 
   <div class="contenedor cabecera__barra">
-    <a class="cabecera__logo" href="/">
+    <a class="cabecera__logo" href={argentina ? '/ar/' : '/'}>
       <img src={img(site.logo)} alt={site.logoAlt}
            width="451" height="257" fetchpriority="high" decoding="async" />
     </a>
@@ -31,7 +44,7 @@ const activo = (i) =>
 
     <nav class="menu__nav" aria-label="Principal">
       <ul class="nav">
-        {site.navegacion.map((item, n) => item.hijos ? (
+        {navegacion.map((item, n) => item.hijos ? (
           <li class:list={['nav__grupo', { 'es-activo': activo(item) }]}>
             <input type="checkbox" id={`grupo-${n}`} class="conmutador" />
             <div class="nav__fila">

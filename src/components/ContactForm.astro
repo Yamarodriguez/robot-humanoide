@@ -1,6 +1,8 @@
 ---
 import site from '../data/site.json';
 const f = site.formulario;
+// En /ar/ el país llega ya marcado.
+const { pais } = Astro.props;
 ---
 <form class="formulario" action={f.endpoint} method="POST">
   <input type="hidden" name="access_key" value={f.accessKey} />
@@ -32,8 +34,8 @@ const f = site.formulario;
       <label for="pais">País</label>
       <select id="pais" name="pais" required>
         <option value="">Selecciona…</option>
-        <option>España</option>
-        <option>Argentina</option>
+        <option selected={pais === 'España'}>España</option>
+        <option selected={pais === 'Argentina'}>Argentina</option>
         <option>Otro</option>
       </select>
     </div>

@@ -5,7 +5,7 @@ import detalleServicios from '../data/servicios-detalle.json';
 import detalleCursos from '../data/cursos-detalle.json';
 import detalleAccesorios from '../data/accesorios-detalle.json';
 
-const modulos = import.meta.glob('../content/pages/*.json', { eager: true });
+const modulos = import.meta.glob('../content/pages/**/*.json', { eager: true });
 
 const paginas = Object.values(modulos)
   .map((m) => m.default ?? m)

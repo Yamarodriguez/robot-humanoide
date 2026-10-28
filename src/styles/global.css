@@ -116,6 +116,10 @@ a:hover { color: var(--azul-osc); }
 }
 .cabecera__aviso a { color: #9fc0ff; text-decoration: none; }
 .cabecera__aviso a:hover { text-decoration: underline; }
+.cabecera__aviso .contenedor {
+  display: flex; flex-wrap: wrap; justify-content: space-between; gap: .25rem 1rem;
+}
+.paises [aria-current] { color: #fff; font-weight: 600; }
 
 .cabecera__barra {
   display: flex; flex-wrap: wrap; align-items: center;

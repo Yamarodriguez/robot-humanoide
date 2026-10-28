@@ -105,3 +105,8 @@
 /accesorios/estaciones-de-carga/   /estaciones-de-carga/   301
 /accesorios/lidar-y-sensores-de-profundidad/   /lidar-y-sensores-de-profundidad/   301
 /accesorios/carcasas-y-piezas-de-recambio/   /carcasas-y-piezas-de-recambio/   301
+
+# --- Ciudades argentinas movidas a /ar/ (oct 2026) ---
+# Pasan a la versión argentina del sitio, que tiene hreflang es-AR.
+/rosario/    /ar/rosario/    301
+/santa-fe/   /ar/santa-fe/   301

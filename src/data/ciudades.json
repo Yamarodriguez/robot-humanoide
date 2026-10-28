@@ -3294,51 +3294,5 @@
       "Teruel"
     ],
     "eventos": "Feria de Zaragoza, el Palacio de Congresos de la Expo, el Auditorio y el Príncipe Felipe son los recintos donde más se alquilan robots para eventos en Aragón."
-  },
-  "rosario": {
-    "nombre": "Rosario",
-    "provincia": "Santa Fe",
-    "comunidad": "Provincia de Santa Fe",
-    "pais": "Argentina",
-    "rasgo": "Rosario es la tercera ciudad de Argentina y el corazón del Gran Rosario, el mayor complejo agroexportador del mundo en soja y derivados: decenas de terminales portuarias sobre el Paraná, plantas de crushing, biodiésel y una industria metalmecánica, de maquinaria agrícola y alimentaria muy potente. La Universidad Nacional de Rosario, el Polo Tecnológico Rosario y el CONICET aportan investigación y talento en software e ingeniería.",
-    "sectores": [
-      {
-        "nombre": "Agroexportación y puertos",
-        "tipo": "robots-de-logistica-y-almacen",
-        "texto": "Las terminales de San Lorenzo, Timbúes y Villa Gobernador Gálvez y los depósitos de la región mueven millones de toneladas; los robots humanoides de logística ayudan en inventario, movimiento de carga ligera y control de expediciones."
-      },
-      {
-        "nombre": "Metalmecánica y maquinaria agrícola",
-        "tipo": "robot-industrial",
-        "texto": "Las fábricas de maquinaria agrícola, autopartes y metalmecánica de Rosario y su cordón industrial pueden integrar humanoides industriales en manipulación, soldadura asistida y control de calidad."
-      },
-      {
-        "nombre": "Polo Tecnológico y software",
-        "tipo": "robots-de-investigacion",
-        "texto": "Las empresas del Polo Tecnológico Rosario, los grupos de la UNR y el CIFASIS (CONICET) utilizan plataformas humanoides para investigación en IA, visión y control."
-      },
-      {
-        "nombre": "Inspección de plantas",
-        "tipo": "robots-de-inspeccion-industrial",
-        "texto": "Las plantas de crushing, biodiésel y química del cordón industrial requieren inspección de silos, cintas e instalaciones donde un humanoide reduce riesgos."
-      },
-      {
-        "nombre": "Eventos y congresos",
-        "tipo": "robots-para-eventos",
-        "texto": "El Centro de Convenciones Metropolitano, el Predio Ferial y ferias como Expoagro o Agroactiva en la región son escenarios donde un robot humanoide para eventos atrae a miles de asistentes."
-      }
-    ],
-    "centros": "La Universidad Nacional de Rosario imparte en la Facultad de Ciencias Exactas, Ingeniería y Agrimensura las carreras de Ingeniería Electrónica, Ingeniería Mecánica, Ingeniería Industrial y Licenciatura en Ciencias de la Computación, con el CIFASIS (CONICET-UNR) como centro de investigación; la UTN Facultad Regional Rosario y la UCA completan la oferta. Los institutos técnicos de la ciudad forman técnicos en electrónica, mecatrónica y automatización.",
-    "acceso": "El aeropuerto internacional Islas Malvinas, la autopista Rosario-Buenos Aires y Rosario-Córdoba y el puerto sobre el Paraná facilitan la llegada de equipos; la importación de robots requiere despacho aduanero, gestión que asesoramos.",
-    "cercanas": [
-      "Santa Fe",
-      "Villa Gobernador Gálvez",
-      "San Lorenzo",
-      "Funes",
-      "Roldán",
-      "Granadero Baigorria",
-      "Casilda"
-    ],
-    "eventos": "El Centro de Convenciones Metropolitano Rosario, el Predio Ferial de La Rural, el Hipódromo y el Estadio Gigante de Arroyito son los espacios donde más se alquilan robots para eventos en la región."
   }
 }

@@ -16,6 +16,9 @@ const { pagina, baseImagenes = '' } = Astro.props;
    todavía, se sirve el marcador .svg del mismo nombre. */
 const declarado = heroes[pagina.url];
 import { resolverImagen, existe } from '../utils/imagenes.js';
+import { esAR, alternas } from '../utils/paises.js';
+const argentina = esAR(pagina.url);
+const hreflangs = alternas(pagina.url);
 const rutaHero = resolverImagen(pagina.hero ?? declarado?.imagen ?? null);
 
 /* Variante estrecha para móviles: se sirve si existe un archivo
@@ -53,6 +56,7 @@ const organizacion = {
   '@id': site.dominio + '/#organizacion',
   name: site.nombre,
   url: site.dominio,
+  ...(argentina && { areaServed: { '@type': 'Country', name: 'Argentina' } }),
   email: site.email,
   logo: {
     '@type': 'ImageObject',
@@ -61,7 +65,11 @@ const organizacion = {
 };
 
 const trozos = pagina.url.split('/').filter(Boolean);
-const recorrido = [{ name: 'Portada', item: site.dominio + '/' }];
+const recorrido = argentina
+  ? [{ name: 'Argentina', item: site.dominio + '/ar/' }]
+  : [{ name: 'Portada', item: site.dominio + '/' }];
+// En /ar/ la carpeta del país hace de portada, no de sección padre.
+if (argentina) trozos.shift();
 const TITULOS_PADRE = Object.fromEntries(
   Object.entries(nuevas).filter(([k]) => !k.startsWith('_'))
     .map(([, v]) => [v.url, v.h1])
@@ -73,7 +81,7 @@ if (trozos.length > 1) {
     item: site.dominio + padre,
   });
 }
-if (pagina.url !== '/') {
+if (pagina.url !== '/' && pagina.url !== '/ar/') {
   recorrido.push({ name: pagina.h1 || pagina.titulo, item: canonical });
 }
 const migas = {
@@ -89,7 +97,7 @@ const paginaWeb = {
   url: canonical,
   name: titulo,
   description: pagina.metaDescripcion,
-  inLanguage: 'es',
+  inLanguage: argentina ? 'es-AR' : 'es',
   isPartOf: { '@id': site.dominio + '/#organizacion' },
 };
 
@@ -110,7 +118,7 @@ if (pagina.faq && pagina.faq.length > 0) {
 const jsonLd = { '@context': 'https://schema.org', '@graph': bloques };
 ---
 <!doctype html>
-<html lang={site.idioma}>
+<html lang={argentina ? 'es-AR' : site.idioma}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -133,12 +141,13 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': bloques };
     <link rel="apple-touch-icon" href="/robots-humanoides-apple-touch-icon.png" />
     <meta name="theme-color" content="#1c244b" />
     <link rel="canonical" href={canonical} />
+    {hreflangs.map((h) => <link rel="alternate" hreflang={h.hreflang} href={h.href} />)}
     <meta name="robots" content={pagina.noindex
       ? "noindex, follow"
       : "index, follow, max-image-preview:large"} />
 
     <meta property="og:type" content="website" />
-    <meta property="og:locale" content="es_ES" />
+    <meta property="og:locale" content={argentina ? 'es_AR' : 'es_ES'} />
     <meta property="og:site_name" content={site.nombre} />
     <meta property="og:title" content={titulo} />
     <meta property="og:description" content={pagina.metaDescripcion} />

@@ -8,8 +8,16 @@ const PADRES = Object.fromEntries(
     .map(([, v]) => [v.url, v.h1])
 );
 
+import { esAR } from '../utils/paises.js';
+
 const partes = url.split('/').filter(Boolean);
 const migas = [{ url: '/', texto: 'Portada' }];
+
+// En /ar/ la carpeta del país hace de portada.
+if (esAR(url)) {
+  partes.shift();
+  migas[0] = { url: '/ar/', texto: 'Argentina' };
+}
 
 if (partes.length > 1) {
   const padre = `/${partes[0]}/`;

@@ -1,0 +1,19 @@
+---
+import Base from '../layouts/Base.astro';
+import ContactForm from './ContactForm.astro';
+import { sustituirFaltantes } from '../utils/imagenes.js';
+import site from '../data/site.json';
+
+// Pinta cualquier página de /ar/ a partir de su JSON. Si el HTML lleva el
+// marcador {FORMULARIO}, en ese punto se inserta el formulario de contacto.
+const { pagina } = Astro.props;
+const arreglar = (h) => sustituirFaltantes(site.baseImagenes
+  ? h.replaceAll('src="/wp-content/', `src="${site.baseImagenes}/wp-content/`)
+  : h);
+const [antes, despues] = pagina.html.split('{FORMULARIO}');
+---
+<Base pagina={pagina} baseImagenes={site.baseImagenes}>
+  <Fragment set:html={arreglar(antes)} />
+  {despues !== undefined && <ContactForm pais="Argentina" />}
+  {despues !== undefined && <Fragment set:html={arreglar(despues)} />}
+</Base>

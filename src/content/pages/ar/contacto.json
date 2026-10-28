@@ -1,0 +1,17 @@
+{
+  "titulo": "Contacto - Robot Humanoide Argentina",
+  "url": "/ar/contacto/",
+  "slug": "contacto",
+  "alterna": "/contacto/",
+  "h1": "Contacto",
+  "entradilla": "Vendemos, importamos, alquilamos y damos soporte a <strong>robots humanoides</strong> en toda Argentina. Contanos qué necesitás.",
+  "cta": null,
+  "hero": null,
+  "metaTitulo": "Contacto - Comprar o Alquilar un Robot Humanoide en Argentina",
+  "metaDescripcion": "Consultanos para comprar, importar o alquilar un robot humanoide en Argentina. Te decimos qué modelo encaja, cuánto cuesta puesto en el país y en qué plazo.",
+  "focusKeyword": "contacto robot humanoide Argentina",
+  "imagenPrincipal": null,
+  "faq": [],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"contacto-datos\"><div class=\"dato\"><h3>Email</h3><p><a href=\"mailto:Contacto@robothumanoide.org\">Contacto@robothumanoide.org</a></p></div><div class=\"dato\"><h3>Cobertura</h3><p>Todo el país: Buenos Aires, Córdoba, Rosario, Mendoza y el resto de las provincias.</p></div></div><div class=\"contacto-cara\"><div class=\"prosa\"><h2>Escribinos</h2><p>Cuanto más concreto seas, más útil va a ser la respuesta. Nos sirve saber <strong>para qué tarea</strong> lo necesitás, <strong>en qué ciudad</strong> va a trabajar, <strong>si comprás como empresa o particular</strong> y <strong>qué presupuesto en dólares</strong> manejás.</p><h3>Qué pasa después</h3><ul><li>Revisamos si hoy existe un robot que haga lo que necesitás. A veces la respuesta honesta es que todavía no.</li><li>Si existe, te decimos qué modelos encajan y cuánto cuestan <strong>puestos en Argentina</strong>, con importación incluida.</li><li>Te avisamos de los costos que no aparecen en el precio: flete, aduana, capacitación y mantenimiento.</li></ul></div><div>{FORMULARIO}</div></div></div></section>"
+}

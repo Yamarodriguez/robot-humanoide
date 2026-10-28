@@ -1,0 +1,15 @@
+---
+import PaginaAR from '../../components/PaginaAR.astro';
+import { paginasAR } from '../../utils/paises.js';
+
+// Todas las páginas de /ar/ salen de src/content/pages/ar/*.json.
+// La portada (/ar/) tiene su propio archivo, index.astro.
+export function getStaticPaths() {
+  return paginasAR
+    .filter((p) => p.url !== '/ar/')
+    .map((p) => ({ params: { slug: p.slug }, props: { pagina: p } }));
+}
+
+const { pagina } = Astro.props;
+---
+<PaginaAR pagina={pagina} />
