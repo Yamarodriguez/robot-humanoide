@@ -1,0 +1,29 @@
+{
+  "titulo": "Robots Humanoides para el Hogar en Argentina",
+  "url": "/ar/robots-para-el-hogar/",
+  "slug": "robots-para-el-hogar",
+  "alterna": "/robots-para-el-hogar/",
+  "h1": "Robots Humanoides para el Hogar en Argentina",
+  "entradilla": "La pregunta más repetida es si existe un robot que lave los platos y doble la ropa. Existe en videos y en primeras entregas en Estados Unidos; en la Argentina todavía no hay una opción comercial que lo haga sola.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir asesoramiento"
+  },
+  "hero": "/wp-content/uploads/2025/03/robot-para-el-hogar.jpeg",
+  "metaTitulo": "Robot Humanoide para la Casa en Argentina - Qué se Puede Comprar",
+  "metaDescripcion": "Robots humanoides domésticos en Argentina: qué modelos llegan, cuáles no, qué tareas hacen y cuánto cuesta traer uno.",
+  "focusKeyword": "robots humanoides para el hogar en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/robot-para-el-hogar.jpeg",
+  "faq": [
+    {
+      "pregunta": "¿Puede usarlo un chico?",
+      "respuesta": "Solo con supervisión. Pesa decenas de kilos y tiene motores potentes."
+    },
+    {
+      "pregunta": "¿Y con 220 V?",
+      "respuesta": "La mayoría de los equipos chinos carga con 220 V y 50 Hz; se verifica el cargador."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué hay disponible para una casa argentina</h2><ul><li><strong><a href=\"/ar/1x-technologies-neo/\">1X NEO</a></strong>: diseñado para vivienda, sin venta en el país.</li><li><strong><a href=\"/ar/unitree-r1/\">Unitree R1</a></strong>: se puede importar; camina y responde, no hace tareas domésticas.</li><li><strong><a href=\"/ar/noetix-bumi/\">Noetix Bumi</a></strong>: anunciado a precio bajo, disponibilidad por confirmar.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Problemas prácticos en casa</h2><p>Escaleras caracol, alfombras sueltas, mascotas y cortes de luz. Un bípedo que pierde energía puede caerse: dejalo siempre en su base o soporte. Sumalo al seguro del hogar si tu póliza lo permite.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>¿Esperar o comprar?</h2><p>Si lo querés para aprender, programar o crear contenido, comprar hoy tiene sentido. Si buscás ayuda doméstica, esperar es la decisión correcta.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Robots Humanoides para el Hogar en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Puede usarlo un chico?</summary><div class=\"pregunta__resp\"><p>Solo con supervisión. Pesa decenas de kilos y tiene motores potentes.</p></div></details><details class=\"pregunta\"><summary>¿Y con 220 V?</summary><div class=\"pregunta__resp\"><p>La mayoría de los equipos chinos carga con 220 V y 50 Hz; se verifica el cargador.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros tipos de robots humanoides</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/robots-empresariales/\">Robots Humanoides para Empresas</a></h3></li><li><h3><a href=\"/ar/robots-seguridad/\">Robots de Seguridad</a></h3></li><li><h3><a href=\"/ar/robot-de-vigilancia/\">Robot de Vigilancia</a></h3></li><li><h3><a href=\"/ar/robot-industrial/\">Robot Humanoide Industrial</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/tipos/\">Ver todos los tipos</a></p></div></section>"
+}

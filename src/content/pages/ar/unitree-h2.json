@@ -1,0 +1,29 @@
+{
+  "titulo": "Unitree H2 en Argentina",
+  "url": "/ar/unitree-h2/",
+  "slug": "unitree-h2",
+  "alterna": "/unitree-h2/",
+  "h1": "Unitree H2 en Argentina",
+  "entradilla": "Un adulto mecánico de 70 kilos no viaja como un G1. El H2 cambia el embalaje, el flete y también las condiciones del laboratorio argentino que lo recibe.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar por este modelo"
+  },
+  "hero": "/img/marcas/unitree-h2.svg",
+  "metaTitulo": "Unitree H2 en Argentina - Humanoide de 1,82 m",
+  "metaDescripcion": "Unitree H2 en Argentina: 1,82 m, 70 kg y 31 grados de libertad. Precio por consulta, flete y seguridad para traerlo.",
+  "focusKeyword": "unitree h2 en argentina",
+  "imagenPrincipal": "/img/marcas/unitree-h2.svg",
+  "faq": [
+    {
+      "pregunta": "¿Ya hay precio argentino?",
+      "respuesta": "No uno verificado. La web oficial remite a ventas."
+    },
+    {
+      "pregunta": "¿Incluye manos?",
+      "respuesta": "Depende de la configuración; tiene que figurar en la proforma."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Unitree H2: ficha y precio en Argentina</h2></div><div class=\"tabla-envoltorio\"><table class=\"tabla\"><thead><tr><th scope=\"col\">Dato</th><th scope=\"col\">Detalle</th></tr></thead><tbody><tr><th scope=\"row\">Precio en origen</th><td>A consultar; terceros citan desde 29.900 USD</td></tr><tr><th scope=\"row\">Puesto en Argentina</th><td>A cotizar</td></tr><tr><th scope=\"row\">¿Se puede comprar?</th><td>Bajo pedido</td></tr><tr><th scope=\"row\">Plazo</th><td>Por fases</td></tr><tr><th scope=\"row\">Altura</th><td>1,82 m</td></tr><tr><th scope=\"row\">Peso</th><td>unos 70 kg con batería</td></tr><tr><th scope=\"row\">Grados de libertad</th><td>31</td></tr><tr><th scope=\"row\">Piernas</th><td>6 por pierna</td></tr><tr><th scope=\"row\">Brazos</th><td>7 por brazo</td></tr><tr><th scope=\"row\">Cintura y cabeza</th><td>3 y 2</td></tr></tbody></table></div><p class=\"tabla__nota\">Valores orientativos en dólares. Se confirman al cotizar.</p></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Antes de elegir tamaño</h2><p>Si la investigación es de algoritmos, un robot menor puede rendir más. El H2 se justifica cuando hace falta alcanzar mesadas o interactuar a altura de persona.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Infraestructura local</h2><p>Prevé pórtico, zona libre, dos operadores y una ruta de descarga. El costo del aula puede pesar tanto como un accesorio.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Unitree H2 en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Ya hay precio argentino?</summary><div class=\"pregunta__resp\"><p>No uno verificado. La web oficial remite a ventas.</p></div></details><details class=\"pregunta\"><summary>¿Incluye manos?</summary><div class=\"pregunta__resp\"><p>Depende de la configuración; tiene que figurar en la proforma.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otras marcas y modelos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/engineai-pm01/\">EngineAI PM01</a></h3></li><li><h3><a href=\"/ar/engineai-t800/\">EngineAI T800</a></h3></li><li><h3><a href=\"/ar/pal-robotics-talos/\">TALOS de PAL Robotics</a></h3></li><li><h3><a href=\"/ar/pal-robotics-kangaroo/\">Kangaroo de PAL Robotics</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/marcas/\">Ver todas las marcas</a></p></div></section>"
+}

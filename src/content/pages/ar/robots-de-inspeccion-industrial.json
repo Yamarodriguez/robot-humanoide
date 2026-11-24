@@ -1,0 +1,29 @@
+{
+  "titulo": "Robots de Inspección Industrial en Argentina",
+  "url": "/ar/robots-de-inspeccion-industrial/",
+  "slug": "robots-de-inspeccion-industrial",
+  "alterna": "/robots-de-inspeccion-industrial/",
+  "h1": "Robots de Inspección Industrial en Argentina",
+  "entradilla": "Neuquén, la Puna y el polo petroquímico de Bahía Blanca comparten una dificultad: instalaciones críticas lejos de todo, con recorridas diarias que alguien tiene que hacer con viento, calor o altura. Automatizar esa recorrida reduce exposición y deja registro.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir asesoramiento"
+  },
+  "hero": "/img/tipos/inspeccion.svg",
+  "metaTitulo": "Robots Humanoides de Inspección para Energía e Industria en Argentina",
+  "metaDescripcion": "Robots humanoides de inspección para petróleo, gas, minería y energía en Argentina: rondas, zonas clasificadas, conectividad y alternativas.",
+  "focusKeyword": "robots de inspección industrial en argentina",
+  "imagenPrincipal": "/img/tipos/inspeccion.svg",
+  "faq": [
+    {
+      "pregunta": "¿Un cuadrúpedo no es mejor?",
+      "respuesta": "Muchas veces sí: es más estable en ripio y tiene más autonomía. El humanoide conviene si hay escaleras de mano, puertas o perillas."
+    },
+    {
+      "pregunta": "¿Sirve para parques eólicos y solares?",
+      "respuesta": "Para salas eléctricas, sí. Para recorrer hectáreas a campo, un dron rinde más."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué puede hacer en una ronda</h2><ul><li>Leer manómetros y tableros con cámara y guardar la foto con hora.</li><li>Detectar puntos calientes con una cámara térmica.</li><li>Escuchar ruidos anómalos en bombas y compresores.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Atención con las zonas clasificadas</h2><p>La mayoría de los humanoides a la venta <strong>no tiene certificación para atmósferas explosivas</strong>. En boca de pozo, baterías o plantas de gas eso los deja afuera de las áreas clasificadas. Sirven en salas de control, almacenes, talleres y perímetros; el resto necesita un equipo certificado.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Altura, polvo y conexión</h2><p>En un salar a 4.000 metros el aire refrigera menos y la radio no siempre llega. Pedí rango de temperatura, grado de protección IP y confirmá si el robot completa la ronda sin internet.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Robots de Inspección Industrial en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Un cuadrúpedo no es mejor?</summary><div class=\"pregunta__resp\"><p>Muchas veces sí: es más estable en ripio y tiene más autonomía. El humanoide conviene si hay escaleras de mano, puertas o perillas.</p></div></details><details class=\"pregunta\"><summary>¿Sirve para parques eólicos y solares?</summary><div class=\"pregunta__resp\"><p>Para salas eléctricas, sí. Para recorrer hectáreas a campo, un dron rinde más.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros tipos de robots humanoides</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/robots-de-atencion-al-cliente/\">Robots de Atención al Cliente</a></h3></li><li><h3><a href=\"/ar/robots-educativos/\">Robots Humanoides Educativos</a></h3></li><li><h3><a href=\"/ar/robots-de-investigacion/\">Robots Humanoides de Investigación</a></h3></li><li><h3><a href=\"/ar/robots-medicos/\">Robots Humanoides Médicos</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/tipos/\">Ver todos los tipos</a></p></div></section>"
+}

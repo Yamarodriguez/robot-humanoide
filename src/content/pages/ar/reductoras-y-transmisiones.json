@@ -1,0 +1,29 @@
+{
+  "titulo": "Reductoras y Transmisiones para Robots en Argentina",
+  "url": "/ar/reductoras-y-transmisiones/",
+  "slug": "reductoras-y-transmisiones",
+  "alterna": "/reductoras-y-transmisiones/",
+  "h1": "Reductoras y Transmisiones para Robots en Argentina",
+  "entradilla": "Entre el motor y el movimiento hay un reductor, y de su juego depende que la mano llegue donde debe. Es una pieza silenciosa hasta que deja de serlo.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar disponibilidad"
+  },
+  "hero": "/img/accesorios/reductoras.svg",
+  "metaTitulo": "Reductoras para Robots en Argentina - Armónicas y Planetarias",
+  "metaDescripcion": "Reductoras armónicas y planetarias para robots en Argentina: diferencias, desgaste, lubricación y cómo conseguir el repuesto.",
+  "focusKeyword": "reductoras y transmisiones para robots en argentina",
+  "imagenPrincipal": "/img/accesorios/reductoras.svg",
+  "faq": [
+    {
+      "pregunta": "¿Le pongo cualquier grasa?",
+      "respuesta": "No. Usá la especificada; una equivocada acorta la vida."
+    },
+    {
+      "pregunta": "¿Cuánto dura?",
+      "respuesta": "Depende de carga y caídas, por eso se mide."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Planetaria o armónica</h2><p><strong>Planetaria</strong>: aguanta golpes y cuesta menos; habitual en piernas. <strong>Armónica</strong>: casi sin juego, cara y sensible al impacto; habitual en brazos de precisión.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Detectar el desgaste</h2><p>Medí la holgura con el robot apagado y repetí cada mes. La tendencia importa más que el valor. Virutas en la grasa son motivo para detener el equipo.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Repuesto en Argentina</h2><p>Suele venir integrado con el <a href=\"/ar/actuadores-y-servomotores/\">actuador</a>, y cambiar el conjunto es lo práctico. Para proyectos propios, hay reductores planetarios industriales de origen nacional en tamaños mayores.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Reductoras y Transmisiones para Robots en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Le pongo cualquier grasa?</summary><div class=\"pregunta__resp\"><p>No. Usá la especificada; una equivocada acorta la vida.</p></div></details><details class=\"pregunta\"><summary>¿Cuánto dura?</summary><div class=\"pregunta__resp\"><p>Depende de carga y caídas, por eso se mide.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros accesorios y repuestos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/manos-diestras-y-pinzas/\">Manos Diestras y Pinzas Robóticas</a></h3></li><li><h3><a href=\"/ar/carcasas-y-piezas-de-recambio/\">Carcasas y Repuestos para Robots</a></h3></li><li><h3><a href=\"/ar/bateria-para-robot-y-sistemas-de-carga/\">Baterías para Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/estaciones-de-carga/\">Estaciones de Carga para Robots</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/accesorios/\">Ver todos los accesorios</a></p></div></section>"
+}

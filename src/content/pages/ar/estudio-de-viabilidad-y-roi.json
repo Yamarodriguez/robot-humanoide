@@ -1,0 +1,29 @@
+{
+  "titulo": "Estudio de Viabilidad y ROI en Argentina",
+  "url": "/ar/estudio-de-viabilidad-y-roi/",
+  "slug": "estudio-de-viabilidad-y-roi",
+  "alterna": "/estudio-de-viabilidad-y-roi/",
+  "h1": "Estudio de Viabilidad y ROI en Argentina",
+  "entradilla": "La cuenta que circula en internet usa salarios de Estados Unidos. Con costos argentinos el resultado cambia por completo, y muchas veces la respuesta es «todavía no».",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir presupuesto"
+  },
+  "hero": "/img/servicios/viabilidad.svg",
+  "metaTitulo": "Estudio de Viabilidad y ROI de un Robot Humanoide en Argentina",
+  "metaDescripcion": "¿Se paga un robot humanoide en Argentina? Cómo calcular el retorno en dólares con costos laborales, impuestos, repuestos y horas reales.",
+  "focusKeyword": "estudio de viabilidad y roi en argentina",
+  "imagenPrincipal": "/img/servicios/viabilidad.svg",
+  "faq": [
+    {
+      "pregunta": "¿Se hace en pesos o en dólares?",
+      "respuesta": "En dólares, con el costo laboral convertido y una prueba de sensibilidad cambiaria."
+    },
+    {
+      "pregunta": "¿Cuánto demora?",
+      "respuesta": "Depende de los datos disponibles; con la tarea ya medida es mucho más rápido."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué entra en la cuenta</h2><ul><li>Costo puesto en planta, menos lo que recuperás de impuestos.</li><li>Programación, capacitación, energía y repuestos.</li><li>Costo laboral total de la tarea, con cargas y ausentismo.</li><li>Horas efectivas: las de trabajo, no las de encendido.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Un ejemplo para entenderlo</h2><p>Un equipo de 26.000 dólares amortizado en tres años cuesta unos 720 por mes antes de mantenimiento. Si reemplaza solo dos horas diarias, difícilmente se pague. Si habilita un turno nocturno que hoy no existe, puede cerrar.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué recibís</h2><p>Un informe con tarea, modelos posibles, tres escenarios y una recomendación, incluida la de no comprar.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Estudio de Viabilidad y ROI en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Se hace en pesos o en dólares?</summary><div class=\"pregunta__resp\"><p>En dólares, con el costo laboral convertido y una prueba de sensibilidad cambiaria.</p></div></details><details class=\"pregunta\"><summary>¿Cuánto demora?</summary><div class=\"pregunta__resp\"><p>Depende de los datos disponibles; con la tarea ya medida es mucho más rápido.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros servicios</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/renting-y-robot-como-servicio/\">Leasing y Robot como Servicio</a></h3></li><li><h3><a href=\"/ar/formacion-y-cursos/\">Capacitación en Robótica Humanoide</a></h3></li><li><h3><a href=\"/ar/normativa-y-certificaciones/\">Normativa para Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/venta-de-robots-humanoides/\">Venta de Robots Humanoides</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/servicios/\">Ver todos los servicios</a></p></div></section>"
+}

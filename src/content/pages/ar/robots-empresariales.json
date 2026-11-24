@@ -1,0 +1,29 @@
+{
+  "titulo": "Robots Humanoides para Empresas en Argentina",
+  "url": "/ar/robots-empresariales/",
+  "slug": "robots-empresariales",
+  "alterna": "/robots-empresariales/",
+  "h1": "Robots Humanoides para Empresas en Argentina",
+  "entradilla": "Para una pyme argentina la discusión no es tecnológica, es de caja: inmovilizar dólares en un equipo nuevo tiene que justificarse contra stock, personal o una máquina conocida.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir asesoramiento"
+  },
+  "hero": "/wp-content/uploads/2025/03/robot-humanoide-para-empresas.jpeg",
+  "metaTitulo": "Robots Humanoides para Empresas y Pymes de Argentina",
+  "metaDescripcion": "Robots humanoides para empresas argentinas: casos que cierran, impuestos, amortización y cómo armar un piloto sin inmovilizar capital.",
+  "focusKeyword": "robots humanoides para empresas en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/robot-humanoide-para-empresas.jpeg",
+  "faq": [
+    {
+      "pregunta": "¿Hay que avisar al personal?",
+      "respuesta": "Sí, y temprano. La resistencia baja cuando se explica qué tarea cambia."
+    },
+    {
+      "pregunta": "¿Lo puede importar una SAS o una SRL?",
+      "respuesta": "Sí, si está habilitada para importar, o mediante un tercero."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Tres motivos que suelen cerrar</h2><ul><li><strong>Comercial</strong>: diferenciar un showroom o un lanzamiento.</li><li><strong>Desarrollo</strong>: construir un producto o servicio sobre el robot.</li><li><strong>Operativo</strong>: una tarea repetitiva medida, con piloto previo.</li></ul><p>«Modernizarse» no es un motivo: sin tarea, el robot queda de adorno.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cómo mirarlo con el contador</h2><p>Como bien de uso se amortiza y el IVA de compra se computa según tu situación. Las percepciones de aduana también pueden ser pagos a cuenta. El costo financiero cambia mucho según cuándo recuperás ese saldo.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Un piloto en tres meses</h2><p>Mes uno, medir la tarea actual. Mes dos, probar con equipo <a href=\"/ar/alquiler-de-robots-humanoides/\">alquilado</a>. Mes tres, comparar y decidir. El <a href=\"/ar/estudio-de-viabilidad-y-roi/\">estudio de viabilidad</a> ordena ese proceso.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Robots Humanoides para Empresas en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Hay que avisar al personal?</summary><div class=\"pregunta__resp\"><p>Sí, y temprano. La resistencia baja cuando se explica qué tarea cambia.</p></div></details><details class=\"pregunta\"><summary>¿Lo puede importar una SAS o una SRL?</summary><div class=\"pregunta__resp\"><p>Sí, si está habilitada para importar, o mediante un tercero.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros tipos de robots humanoides</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/robots-seguridad/\">Robots de Seguridad</a></h3></li><li><h3><a href=\"/ar/robot-de-vigilancia/\">Robot de Vigilancia</a></h3></li><li><h3><a href=\"/ar/robot-industrial/\">Robot Humanoide Industrial</a></h3></li><li><h3><a href=\"/ar/robots-de-logistica-y-almacen/\">Robots Humanoides de Logística</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/tipos/\">Ver todos los tipos</a></p></div></section>"
+}

@@ -1,0 +1,29 @@
+{
+  "titulo": "Hexagon AEON en Argentina",
+  "url": "/ar/hexagon-aeon/",
+  "slug": "hexagon-aeon",
+  "alterna": "/hexagon-aeon/",
+  "h1": "Hexagon AEON en Argentina",
+  "entradilla": "BMW no puso un robot a mirar: lo llevó a una planta para tareas concretas. Esa diferencia hace que AEON merezca atención aunque no se compre desde acá.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar por este modelo"
+  },
+  "hero": "/img/marcas/hexagon-aeon.svg",
+  "metaTitulo": "Hexagon AEON en Argentina - Caso BMW para la Industria",
+  "metaDescripcion": "Hexagon AEON visto desde Argentina: pruebas en BMW Leipzig, uso industrial, disponibilidad y lecciones para autopartes.",
+  "focusKeyword": "hexagon aeon en argentina",
+  "imagenPrincipal": "/img/marcas/hexagon-aeon.svg",
+  "faq": [
+    {
+      "pregunta": "¿Está funcionando en BMW?",
+      "respuesta": "Hexagon comunicó tareas de producción en Leipzig en junio de 2026."
+    },
+    {
+      "pregunta": "¿Tiene precio?",
+      "respuesta": "No publicado para compra unitaria."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Hexagon AEON: ficha y precio en Argentina</h2></div><div class=\"tabla-envoltorio\"><table class=\"tabla\"><thead><tr><th scope=\"col\">Dato</th><th scope=\"col\">Detalle</th></tr></thead><tbody><tr><th scope=\"row\">Precio en origen</th><td>No publicado</td></tr><tr><th scope=\"row\">Puesto en Argentina</th><td>No disponible como unidad</td></tr><tr><th scope=\"row\">¿Se puede comprar?</th><td>Por proyecto con Hexagon</td></tr><tr><th scope=\"row\">Plazo</th><td>Según proyecto</td></tr><tr><th scope=\"row\">Fabricante</th><td>Hexagon Robotics, Zúrich</td></tr><tr><th scope=\"row\">Presentación</th><td>junio de 2025</td></tr><tr><th scope=\"row\">Planta</th><td>BMW Leipzig</td></tr><tr><th scope=\"row\">Tareas</th><td>baterías y componentes</td></tr><tr><th scope=\"row\">Otros socios</th><td>Pilatus y Schaeffler</td></tr></tbody></table></div><p class=\"tabla__nota\">Valores orientativos en dólares. Se confirman al cotizar.</p></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Datos de calidad</h2><p>Hexagon viene del mundo de la medición. Para una autopartista el aprendizaje está en unir pieza, recorrido y trazabilidad, no en copiar la forma humana.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cómo iniciar una conversación</h2><p>Una filial puede coordinar con su casa matriz y preparar un caso con volumen, peso y layout. Sin ese dato, la respuesta comercial será genérica.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Hexagon AEON en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Está funcionando en BMW?</summary><div class=\"pregunta__resp\"><p>Hexagon comunicó tareas de producción en Leipzig en junio de 2026.</p></div></details><details class=\"pregunta\"><summary>¿Tiene precio?</summary><div class=\"pregunta__resp\"><p>No publicado para compra unitaria.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otras marcas y modelos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/engineered-arts-ameca/\">Robot Ameca</a></h3></li><li><h3><a href=\"/ar/kepler-k2/\">Kepler K2</a></h3></li><li><h3><a href=\"/ar/unitree-g1/\">Unitree G1</a></h3></li><li><h3><a href=\"/ar/unitree-r1/\">Unitree R1</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/marcas/\">Ver todas las marcas</a></p></div></section>"
+}

@@ -1,0 +1,29 @@
+{
+  "titulo": "Robots de Seguridad en Argentina",
+  "url": "/ar/robots-seguridad/",
+  "slug": "robots-seguridad",
+  "alterna": "/robots-seguridad/",
+  "h1": "Robots de Seguridad en Argentina",
+  "entradilla": "Un country, un parque industrial o un depósito ya tienen cámaras, alarmas y guardias. Un robot agrega presencia móvil: pasa por donde la cámara no ve y deja constancia de la ronda.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir asesoramiento"
+  },
+  "hero": "/wp-content/uploads/2025/03/robot-seguridad.jpeg",
+  "metaTitulo": "Robots de Seguridad para Countries y Depósitos en Argentina",
+  "metaDescripcion": "Robots de seguridad en Argentina: rondas en barrios cerrados y depósitos, leyes provinciales, límites legales y cómo sumarlos a la vigilancia.",
+  "focusKeyword": "robots de seguridad en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/robot-seguridad.jpeg",
+  "faq": [
+    {
+      "pregunta": "¿Reemplaza al guardia?",
+      "respuesta": "No. Le ahorra rondas y le da información; alguien tiene que responder."
+    },
+    {
+      "pregunta": "¿Y si lo roban o lo golpean?",
+      "respuesta": "Pesa decenas de kilos y transmite ubicación si hay señal. Igual, aseguralo."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Dónde encaja</h2><p>Recorridos interiores, estacionamientos cubiertos y naves cerradas. A la intemperie, con lluvia o barro, un bípedo no es la herramienta indicada.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué puede y qué no puede hacer</h2><p>Puede observar, registrar, avisar y hablar. No puede detener, revisar ni usar la fuerza. Tampoco conviene que siga a personas por la vía pública, donde además rigen reglas de videovigilancia.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Marco legal</h2><p>La seguridad privada se regula por jurisdicción: en CABA la Ley 5.688 y en cada provincia su propia norma. Si una empresa brinda el servicio a terceros, tiene que estar habilitada. Las imágenes caen bajo la Ley 25.326 y requieren cartelería.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Robots de Seguridad en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Reemplaza al guardia?</summary><div class=\"pregunta__resp\"><p>No. Le ahorra rondas y le da información; alguien tiene que responder.</p></div></details><details class=\"pregunta\"><summary>¿Y si lo roban o lo golpean?</summary><div class=\"pregunta__resp\"><p>Pesa decenas de kilos y transmite ubicación si hay señal. Igual, aseguralo.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros tipos de robots humanoides</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/robot-de-vigilancia/\">Robot de Vigilancia</a></h3></li><li><h3><a href=\"/ar/robot-industrial/\">Robot Humanoide Industrial</a></h3></li><li><h3><a href=\"/ar/robots-de-logistica-y-almacen/\">Robots Humanoides de Logística</a></h3></li><li><h3><a href=\"/ar/robots-de-inspeccion-industrial/\">Robots de Inspección Industrial</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/tipos/\">Ver todos los tipos</a></p></div></section>"
+}

@@ -1,0 +1,29 @@
+{
+  "titulo": "UBTech en Argentina",
+  "url": "/ar/ubtech/",
+  "slug": "ubtech",
+  "alterna": "/ubtech/",
+  "h1": "UBTech en Argentina",
+  "entradilla": "UBTech fabrica cosas muy distintas bajo el mismo nombre, y de eso vienen los malentendidos: alguien pide «un UBTech» pensando en el Walker y recibe precio de un kit escolar.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar por este modelo"
+  },
+  "hero": "/img/marcas/ubtech.svg",
+  "metaTitulo": "UBTech en Argentina - Robots de Servicio y Educativos",
+  "metaDescripcion": "Robots UBTech en Argentina: línea educativa, Cruzr de servicio y Walker industrial. Qué se puede importar y en qué fijarse.",
+  "focusKeyword": "ubtech en argentina",
+  "imagenPrincipal": "/img/marcas/ubtech.svg",
+  "faq": [
+    {
+      "pregunta": "¿El Cruzr camina?",
+      "respuesta": "No, se desplaza sobre ruedas."
+    },
+    {
+      "pregunta": "¿Cuál va para primaria?",
+      "respuesta": "Los kits educativos armables, con programación por bloques."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>UBTech: ficha y precio en Argentina</h2></div><div class=\"tabla-envoltorio\"><table class=\"tabla\"><thead><tr><th scope=\"col\">Dato</th><th scope=\"col\">Detalle</th></tr></thead><tbody><tr><th scope=\"row\">Precio en origen</th><td>Según modelo y configuración</td></tr><tr><th scope=\"row\">Puesto en Argentina</th><td>Según modelo, a cotizar</td></tr><tr><th scope=\"row\">¿Se puede comprar?</th><td>Sí, por pedido</td></tr><tr><th scope=\"row\">Plazo</th><td>A consultar por línea</td></tr><tr><th scope=\"row\">Líneas</th><td>Cruzr (servicio) y Walker (industrial)</td></tr><tr><th scope=\"row\">Uso</th><td>hospitales, hoteles, comercio, aulas</td></tr><tr><th scope=\"row\">Material docente</th><td>incluido en gama educativa</td></tr><tr><th scope=\"row\">Cotiza en</th><td>bolsa de Hong Kong</td></tr></tbody></table></div><p class=\"tabla__nota\">Valores orientativos en dólares. Se confirman al cotizar.</p></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Las tres líneas</h2><ul><li><strong>Educativa</strong>: humanoides chicos y material de clase. La más accesible para escuelas argentinas.</li><li><strong>Servicio (Cruzr)</strong>: cuerpo con ruedas para recepción en hoteles, bancos y hospitales.</li><li><strong>Industrial (Walker)</strong>: proyectos con fábricas, fuera del alcance de una compra suelta.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Antes de importar un Cruzr</h2><p>Un robot de recepción vale por su conversación. Confirmá idioma español, posibilidad de conectar tu propio asistente y si la plataforma sigue activa para equipos vendidos en Sudamérica. Mirá también <a href=\"/ar/robots-de-atencion-al-cliente/\">robots de atención</a>.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cuidado con el usado</h2><p>Circulan equipos de segunda mano con cuentas bloqueadas o software descontinuado. Sin transferencia de licencia, no sirven.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre UBTech en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿El Cruzr camina?</summary><div class=\"pregunta__resp\"><p>No, se desplaza sobre ruedas.</p></div></details><details class=\"pregunta\"><summary>¿Cuál va para primaria?</summary><div class=\"pregunta__resp\"><p>Los kits educativos armables, con programación por bloques.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otras marcas y modelos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/fourier-intelligence-gr-2/\">Fourier GR-2</a></h3></li><li><h3><a href=\"/ar/neura-robotics-4ne-1/\">Neura 4NE-1</a></h3></li><li><h3><a href=\"/ar/1x-technologies-neo/\">1X NEO</a></h3></li><li><h3><a href=\"/ar/agility-robotics-digit/\">Agility Digit</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/marcas/\">Ver todas las marcas</a></p></div></section>"
+}

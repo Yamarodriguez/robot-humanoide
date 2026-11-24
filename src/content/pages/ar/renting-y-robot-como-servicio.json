@@ -1,0 +1,29 @@
+{
+  "titulo": "Leasing y Robot como Servicio en Argentina",
+  "url": "/ar/renting-y-robot-como-servicio/",
+  "slug": "renting-y-robot-como-servicio",
+  "alterna": "/renting-y-robot-como-servicio/",
+  "h1": "Leasing y Robot como Servicio en Argentina",
+  "entradilla": "Acá «renting» se dice poco: las empresas preguntan por leasing o alquiler mensual. No son lo mismo y la diferencia aparece en el balance.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir presupuesto"
+  },
+  "hero": "/img/servicios/renting.svg",
+  "metaTitulo": "Leasing de Robots Humanoides en Argentina y Robot como Servicio",
+  "metaDescripcion": "Leasing, alquiler mensual y robot como servicio en Argentina: diferencias, IVA, opción de compra y qué mirar en el contrato.",
+  "focusKeyword": "leasing y robot como servicio en argentina",
+  "imagenPrincipal": "/img/servicios/renting.svg",
+  "faq": [
+    {
+      "pregunta": "¿La cuota se deduce?",
+      "respuesta": "En general es un gasto vinculado a la actividad; confirmalo con tu contador."
+    },
+    {
+      "pregunta": "¿Puedo cambiar de modelo?",
+      "respuesta": "Solo si el contrato lo prevé."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Tres figuras distintas</h2><ul><li><strong>Leasing</strong>: contrato con opción de compra, regulado en el Código Civil y Comercial. Suele darlo un banco o una compañía especializada.</li><li><strong>Alquiler mensual</strong>: pagás el uso y devolvés el equipo.</li><li><strong>Robot como servicio</strong>: pagás por resultado u horas, con soporte incluido.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué mirar en la cuota</h2><p>Moneda y ajuste, plazo mínimo, penalidad por salida, quién asegura y qué pasa si la aduana demora un repuesto. Una cuota barata con soporte en otro huso horario sale cara.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Disponibilidad real</h2><p>Que un banco acepte un humanoide como bien de leasing no está garantizado: es un activo nuevo y con poco mercado de reventa. Consultá antes de planificar sobre esa base.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Leasing y Robot como Servicio en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿La cuota se deduce?</summary><div class=\"pregunta__resp\"><p>En general es un gasto vinculado a la actividad; confirmalo con tu contador.</p></div></details><details class=\"pregunta\"><summary>¿Puedo cambiar de modelo?</summary><div class=\"pregunta__resp\"><p>Solo si el contrato lo prevé.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros servicios</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/formacion-y-cursos/\">Capacitación en Robótica Humanoide</a></h3></li><li><h3><a href=\"/ar/normativa-y-certificaciones/\">Normativa para Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/venta-de-robots-humanoides/\">Venta de Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/importacion-y-gestion-aduanera/\">Importación de Robots Humanoides a Argentina</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/servicios/\">Ver todos los servicios</a></p></div></section>"
+}

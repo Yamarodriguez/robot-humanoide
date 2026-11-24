@@ -1,0 +1,29 @@
+{
+  "titulo": "Baterías para Robots Humanoides en Argentina",
+  "url": "/ar/bateria-para-robot-y-sistemas-de-carga/",
+  "slug": "bateria-para-robot-y-sistemas-de-carga",
+  "alterna": "/bateria-para-robot-y-sistemas-de-carga/",
+  "h1": "Baterías para Robots Humanoides en Argentina",
+  "entradilla": "Es el accesorio que primero se pide y el más incómodo de traer. Una batería de humanoide supera el tamaño que las aerolíneas aceptan en equipaje y viaja como mercancía peligrosa.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar disponibilidad"
+  },
+  "hero": "/wp-content/uploads/2025/03/Baterias-robot.jpeg",
+  "metaTitulo": "Baterías para Robots Humanoides en Argentina - Importación y Cuidado",
+  "metaDescripcion": "Baterías para robots humanoides en Argentina: compatibilidad, transporte de litio, calor, cortes de luz y descarte responsable.",
+  "focusKeyword": "baterías para robots humanoides en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/Baterias-robot.jpeg",
+  "faq": [
+    {
+      "pregunta": "¿Puedo armar una local?",
+      "respuesta": "No lo recomendamos: pierde la comunicación con el robot y es un riesgo de incendio."
+    },
+    {
+      "pregunta": "¿Cuánto dura?",
+      "respuesta": "Unas dos horas por carga en un G1, según el uso."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Pedila junto con el robot</h2><p>Viajando en el mismo embarque se aprovecha la documentación (UN 38.3, ficha de seguridad) y el flete. Un envío suelto de urgencia puede costar casi lo mismo que la pieza.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Uso en clima argentino</h2><ul><li>En Cuyo y el norte, no cargues un pack caliente ni lo dejes en el auto.</li><li>En la Patagonia, guardalo bajo techo: el frío reduce la autonomía.</li><li>Con microcortes, usá protección de tensión en el cargador.</li></ul></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Señales de recambio</h2><p>Hinchazón, calentamiento o caída brusca de porcentaje. Aislá el pack y no lo tires a la basura: es residuo especial y se gestiona con un operador habilitado.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Baterías para Robots Humanoides en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Puedo armar una local?</summary><div class=\"pregunta__resp\"><p>No lo recomendamos: pierde la comunicación con el robot y es un riesgo de incendio.</p></div></details><details class=\"pregunta\"><summary>¿Cuánto dura?</summary><div class=\"pregunta__resp\"><p>Unas dos horas por carga en un G1, según el uso.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros accesorios y repuestos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/estaciones-de-carga/\">Estaciones de Carga para Robots</a></h3></li><li><h3><a href=\"/ar/sensores-de-robots/\">Sensores para Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/lidar-y-sensores-de-profundidad/\">LiDAR y Sensores de Profundidad</a></h3></li><li><h3><a href=\"/ar/camara-robot-alta-precision/\">Cámaras para Robots</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/accesorios/\">Ver todos los accesorios</a></p></div></section>"
+}

@@ -1,0 +1,29 @@
+{
+  "titulo": "Curso de Introducción a la Robótica Humanoide en Argentina",
+  "url": "/ar/introduccion-a-la-robotica-humanoide/",
+  "slug": "introduccion-a-la-robotica-humanoide",
+  "alterna": "/introduccion-a-la-robotica-humanoide/",
+  "h1": "Curso de Introducción a la Robótica Humanoide en Argentina",
+  "entradilla": "Pensado para quien tiene que decir sí o no a una inversión en dólares y escucha promesas de todos lados. Se sale con una lista de preguntas y una cuenta propia.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar fechas"
+  },
+  "hero": "/img/cursos/introduccion.svg",
+  "metaTitulo": "Curso de Introducción a la Robótica Humanoide en Argentina",
+  "metaDescripcion": "Curso introductorio de robótica humanoide en Argentina, online y sin requisitos técnicos, para decidir una compra con criterio local.",
+  "focusKeyword": "curso de introducción a la robótica humanoide en argentina",
+  "imagenPrincipal": "/img/cursos/introduccion.svg",
+  "faq": [
+    {
+      "pregunta": "¿Hay que saber programar?",
+      "respuesta": "No."
+    },
+    {
+      "pregunta": "¿Sirve si todavía no pienso comprar?",
+      "respuesta": "Sí, justamente para saber cuándo conviene."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Temas</h2><ul><li>Qué hay a la venta para un comprador argentino y qué es solo video.</li><li>Leer una ficha: autonomía, carga, versión y acceso al SDK.</li><li>Del precio de fábrica al costo puesto en tu ciudad.</li><li>Humanoide, cobot, AMR o cuadrúpedo: cuál para qué.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Trabajo práctico</h2><p>Cada participante trae una tarea de su organización y la pasa por una matriz de viabilidad. Las mejores preguntas aparecen ahí.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Quiénes suelen tomarlo</h2><p>Gerencias de operaciones, dueños de pymes, directivos de escuelas técnicas y periodistas que cubren tecnología.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Curso de Introducción a la Robótica Humanoide en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Hay que saber programar?</summary><div class=\"pregunta__resp\"><p>No.</p></div></details><details class=\"pregunta\"><summary>¿Sirve si todavía no pienso comprar?</summary><div class=\"pregunta__resp\"><p>Sí, justamente para saber cuándo conviene.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros cursos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/programacion-con-sdk/\">Curso de Programación de Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/operacion-y-mantenimiento/\">Curso de Operación y Mantenimiento de Robots</a></h3></li><li><h3><a href=\"/ar/robotica-para-centros-educativos/\">Robótica Humanoide para Escuelas</a></h3></li><li><h3><a href=\"/ar/formacion-para-equipos-tecnicos/\">Formación para Equipos Técnicos</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/cursos/\">Ver todos los cursos</a></p></div></section>"
+}

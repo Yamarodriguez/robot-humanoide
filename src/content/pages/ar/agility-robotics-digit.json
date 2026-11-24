@@ -1,0 +1,29 @@
+{
+  "titulo": "Agility Digit en Argentina",
+  "url": "/ar/agility-robotics-digit/",
+  "slug": "agility-robotics-digit",
+  "alterna": "/agility-robotics-digit/",
+  "h1": "Agility Digit en Argentina",
+  "entradilla": "Digit es la prueba de que un humanoide puede trabajar en un depósito real. También muestra el modelo que le falta a la Argentina: se contrata como servicio, con técnicos del fabricante cerca.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar por este modelo"
+  },
+  "hero": "/img/marcas/agility-digit.svg",
+  "metaTitulo": "Agility Robotics Digit en Argentina - Logística con Humanoides",
+  "metaDescripcion": "Digit de Agility Robotics visto desde Argentina: modelo de contratación, por qué no llega y cómo probar algo similar en un depósito local.",
+  "focusKeyword": "agility digit en argentina",
+  "imagenPrincipal": "/img/marcas/agility-digit.svg",
+  "faq": [
+    {
+      "pregunta": "¿Hay una opción comprable?",
+      "respuesta": "Sí, un G1 programado, con menos carga y robustez."
+    },
+    {
+      "pregunta": "¿Trabaja con pallets?",
+      "respuesta": "No, con contenedores y cajas."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Agility Digit: ficha y precio en Argentina</h2></div><div class=\"tabla-envoltorio\"><table class=\"tabla\"><thead><tr><th scope=\"col\">Dato</th><th scope=\"col\">Detalle</th></tr></thead><tbody><tr><th scope=\"row\">Precio en origen</th><td>8.500 USD/mes en contrato RaaS</td></tr><tr><th scope=\"row\">Puesto en Argentina</th><td>No disponible</td></tr><tr><th scope=\"row\">¿Se puede comprar?</th><td>No, solo grandes operaciones por contrato</td></tr><tr><th scope=\"row\">Plazo</th><td>Por proyecto</td></tr><tr><th scope=\"row\">Uso</th><td>logística de almacén</td></tr><tr><th scope=\"row\">Despliegue real</th><td>almacenes de Amazon</td></tr><tr><th scope=\"row\">Fabricación</th><td>RoboFab, planta en serie</td></tr><tr><th scope=\"row\">Piernas</th><td>articulación invertida</td></tr><tr><th scope=\"row\">Modelo comercial</th><td>robot como servicio</td></tr></tbody></table></div><p class=\"tabla__nota\">Valores orientativos en dólares. Se confirman al cotizar.</p></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Por qué no llega todavía</h2><p>Un contrato de robot como servicio exige escala, repuestos a mano y personal propio. Con pocas operaciones por país, al fabricante no le cierra. Una multinacional logística con sede en Estados Unidos podría gestionarlo desde su matriz.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué se puede copiar hoy</h2><p>Su caso de uso: tomar contenedores de medidas iguales y dejarlos en un transportador. Si tu depósito estandariza cajas y pasillos, después cualquier robot rinde más. Empezá por ahí y por un <a href=\"/ar/estudio-de-viabilidad-y-roi/\">estudio de viabilidad</a>.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>La cuenta de referencia</h2><p>El contrato de 8.500 dólares mensuales que se toma de referencia supera con holgura el costo de un operario argentino. A esos valores, acá solo cerraría en varios turnos.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Agility Digit en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Hay una opción comprable?</summary><div class=\"pregunta__resp\"><p>Sí, un G1 programado, con menos carga y robustez.</p></div></details><details class=\"pregunta\"><summary>¿Trabaja con pallets?</summary><div class=\"pregunta__resp\"><p>No, con contenedores y cajas.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otras marcas y modelos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/figure-ai-figure-03/\">Figure 03</a></h3></li><li><h3><a href=\"/ar/robot-tesla-bot-optimus/\">Tesla Optimus</a></h3></li><li><h3><a href=\"/ar/robot-boston-dynamics-atlas/\">Boston Dynamics Atlas</a></h3></li><li><h3><a href=\"/ar/robot-xiaomi-cyberone/\">Xiaomi CyberOne</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/marcas/\">Ver todas las marcas</a></p></div></section>"
+}

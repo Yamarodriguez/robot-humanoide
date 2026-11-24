@@ -1,0 +1,29 @@
+{
+  "titulo": "EngineAI PM01 en Argentina",
+  "url": "/ar/engineai-pm01/",
+  "slug": "engineai-pm01",
+  "alterna": "/engineai-pm01/",
+  "h1": "EngineAI PM01 en Argentina",
+  "entradilla": "El precio de lanzamiento, cerca de 12.000 dólares, puso al PM01 en la lista corta de muchas facultades. Ese valor ya no debe tomarse como presupuesto.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar por este modelo"
+  },
+  "hero": "/img/marcas/engineai-pm01.svg",
+  "metaTitulo": "EngineAI PM01 en Argentina - Precio y Uso Educativo",
+  "metaDescripcion": "EngineAI PM01 en Argentina: alternativa de unos 12.000 USD al lanzamiento. Edición EDU, soporte y comparación con Unitree.",
+  "focusKeyword": "engineai pm01 en argentina",
+  "imagenPrincipal": "/img/marcas/engineai-pm01.svg",
+  "faq": [
+    {
+      "pregunta": "¿Entra por courier?",
+      "respuesta": "Por valor y tamaño, no en el régimen habitual de hasta 3.000 USD."
+    },
+    {
+      "pregunta": "¿PM01 o G1?",
+      "respuesta": "PM01 por propuesta de precio; G1 por ecosistema. Compará ediciones equivalentes."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>EngineAI PM01: ficha y precio en Argentina</h2></div><div class=\"tabla-envoltorio\"><table class=\"tabla\"><thead><tr><th scope=\"col\">Dato</th><th scope=\"col\">Detalle</th></tr></thead><tbody><tr><th scope=\"row\">Precio en origen</th><td>88.000 yuanes en el lanzamiento</td></tr><tr><th scope=\"row\">Puesto en Argentina</th><td>A cotizar</td></tr><tr><th scope=\"row\">¿Se puede comprar?</th><td>Bajo pedido</td></tr><tr><th scope=\"row\">Plazo</th><td>A consultar</td></tr><tr><th scope=\"row\">Altura</th><td>unos 1,38–1,40 m</td></tr><tr><th scope=\"row\">Peso</th><td>40–42 kg según fuente</td></tr><tr><th scope=\"row\">Cintura</th><td>giro de hasta 320°</td></tr><tr><th scope=\"row\">Ediciones</th><td>comercial y EDU</td></tr></tbody></table></div><p class=\"tabla__nota\">Valores orientativos en dólares. Se confirman al cotizar.</p></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>EDU no es una etiqueta decorativa</h2><p>Pedí qué articulaciones se pueden controlar, qué simulador ofrece y si los ejemplos compilan con la versión que recibís.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Riesgo de una marca menos instalada</h2><p>Sin comunidad local, cada falla depende más del fabricante. Un grupo con electrónica propia puede aceptarlo; una escuela necesita soporte más cercano.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre EngineAI PM01 en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Entra por courier?</summary><div class=\"pregunta__resp\"><p>Por valor y tamaño, no en el régimen habitual de hasta 3.000 USD.</p></div></details><details class=\"pregunta\"><summary>¿PM01 o G1?</summary><div class=\"pregunta__resp\"><p>PM01 por propuesta de precio; <a href=\"/ar/unitree-g1/\">G1</a> por ecosistema. Compará ediciones equivalentes.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otras marcas y modelos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/engineai-t800/\">EngineAI T800</a></h3></li><li><h3><a href=\"/ar/pal-robotics-talos/\">TALOS de PAL Robotics</a></h3></li><li><h3><a href=\"/ar/pal-robotics-kangaroo/\">Kangaroo de PAL Robotics</a></h3></li><li><h3><a href=\"/ar/apptronik-apollo/\">Apptronik Apollo</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/marcas/\">Ver todas las marcas</a></p></div></section>"
+}

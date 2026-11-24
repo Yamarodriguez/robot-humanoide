@@ -1,0 +1,29 @@
+{
+  "titulo": "Venta de Robots Humanoides en Argentina",
+  "url": "/ar/venta-de-robots-humanoides/",
+  "slug": "venta-de-robots-humanoides",
+  "alterna": "/venta-de-robots-humanoides/",
+  "h1": "Venta de Robots Humanoides en Argentina",
+  "entradilla": "Vender un humanoide en Argentina es, en los hechos, armar una operación de comercio exterior con un robot adentro. Por eso la cotización separa cada concepto y no muestra solo el precio de fábrica.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir presupuesto"
+  },
+  "hero": "/wp-content/uploads/2025/03/venta-robot-humanoide.jpeg",
+  "metaTitulo": "Venta de Robots Humanoides en Argentina - Precio Puesto en el País",
+  "metaDescripcion": "Venta de robots humanoides en Argentina con costo total en dólares: robot, flete, tributos, despacho y capacitación. Cómo cotizamos.",
+  "focusKeyword": "venta de robots humanoides en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/venta-robot-humanoide.jpeg",
+  "faq": [
+    {
+      "pregunta": "¿Facturan en dólares?",
+      "respuesta": "El valor se expresa en dólares; moneda y forma de pago se definen en la propuesta."
+    },
+    {
+      "pregunta": "¿La cotización vence?",
+      "respuesta": "Sí. Tipo de cambio, flete y normativa cambian, por eso lleva fecha."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué incluye la cotización</h2><ul><li>Modelo y versión exactos, con accesorios.</li><li>Flete y seguro internacionales, por avión o barco.</li><li>Estimación de derechos, tasa de estadística, IVA y percepciones.</li><li>Despacho, entrega y puesta en marcha.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cómo se cierra una compra</h2><p>Definimos la tarea, descartamos modelos, emitimos la propuesta y acordamos quién figura como importador. Con la seña se confirma el pedido; el saldo se paga según el avance acordado por escrito.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Para empresa o para particular</h2><p>Una empresa puede computar parte de los tributos según su situación fiscal. Un particular absorbe casi todo. La misma máquina puede tener dos costos finales: consultá con tu contador y mirá la tabla de <a href=\"/ar/precios/\">precios</a>.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Venta de Robots Humanoides en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Facturan en dólares?</summary><div class=\"pregunta__resp\"><p>El valor se expresa en dólares; moneda y forma de pago se definen en la propuesta.</p></div></details><details class=\"pregunta\"><summary>¿La cotización vence?</summary><div class=\"pregunta__resp\"><p>Sí. Tipo de cambio, flete y normativa cambian, por eso lleva fecha.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros servicios</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/importacion-y-gestion-aduanera/\">Importación de Robots Humanoides a Argentina</a></h3></li><li><h3><a href=\"/ar/programacion-de-robot-humanoides/\">Programación de Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/mantenimiento-y-reparacion-de-robot/\">Mantenimiento y Reparación de Robots</a></h3></li><li><h3><a href=\"/ar/alquiler-de-robots-humanoides/\">Alquiler de Robots Humanoides</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/servicios/\">Ver todos los servicios</a></p></div></section>"
+}

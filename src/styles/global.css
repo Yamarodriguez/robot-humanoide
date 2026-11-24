@@ -1571,3 +1571,12 @@ a:hover { color: var(--azul-osc); }
 .migas a:hover { color: var(--azul); text-decoration: underline; }
 .migas [aria-current="page"] { font-weight: 400; }
 .migas__sep { color: var(--borde-fuerte); }
+
+/* Respuesta corta al inicio de cada página (capa de refuerzo SEO/AEO). */
+.respuesta-rapida {
+  margin: 1.5rem auto 0;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid var(--azul);
+  background: rgba(28, 36, 75, .04);
+}
+.respuesta-rapida p { margin: 0; }

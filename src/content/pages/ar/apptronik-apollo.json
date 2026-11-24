@@ -1,0 +1,29 @@
+{
+  "titulo": "Apptronik Apollo en Argentina",
+  "url": "/ar/apptronik-apollo/",
+  "slug": "apptronik-apollo",
+  "alterna": "/apptronik-apollo/",
+  "h1": "Apptronik Apollo en Argentina",
+  "entradilla": "Apollo no está en una tienda ni tiene preventa argentina. Su experiencia con Mercedes-Benz importa porque muestra cuánto trabajo hay antes de abrir un catálogo.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar por este modelo"
+  },
+  "hero": "/img/marcas/apptronik-apollo.svg",
+  "metaTitulo": "Apptronik Apollo en Argentina - ¿Se Puede Comprar?",
+  "metaDescripcion": "Apptronik Apollo en Argentina: piloto de Mercedes-Benz, por qué no se vende suelto y qué puede aprender la industria.",
+  "focusKeyword": "apptronik apollo en argentina",
+  "imagenPrincipal": "/img/marcas/apptronik-apollo.svg",
+  "faq": [
+    {
+      "pregunta": "¿Puede contratarlo una multinacional en Argentina?",
+      "respuesta": "Debe negociarse con Apptronik; no consta canal local."
+    },
+    {
+      "pregunta": "¿Cuánto levanta?",
+      "respuesta": "Se difundieron 25 kg para la versión anterior, sin confirmar para Apollo 2."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Apptronik Apollo: ficha y precio en Argentina</h2></div><div class=\"tabla-envoltorio\"><table class=\"tabla\"><thead><tr><th scope=\"col\">Dato</th><th scope=\"col\">Detalle</th></tr></thead><tbody><tr><th scope=\"row\">Precio en origen</th><td>No publicado</td></tr><tr><th scope=\"row\">Puesto en Argentina</th><td>No disponible</td></tr><tr><th scope=\"row\">¿Se puede comprar?</th><td>No, proyectos empresariales</td></tr><tr><th scope=\"row\">Plazo</th><td>Sin fecha pública</td></tr><tr><th scope=\"row\">Altura</th><td>unos 1,73 m</td></tr><tr><th scope=\"row\">Peso</th><td>unos 72,5 kg</td></tr><tr><th scope=\"row\">Carga difundida</th><td>25 kg</td></tr><tr><th scope=\"row\">Pruebas</th><td>plantas de Mercedes-Benz</td></tr><tr><th scope=\"row\">Generación posterior</th><td>Apollo 2</td></tr></tbody></table></div><p class=\"tabla__nota\">Valores orientativos en dólares. Se confirman al cotizar.</p></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Una lección para autopartes</h2><p>Elegir una tarea y recoger datos durante meses resulta más valioso que una presentación de un día. Ese método se puede copiar con simulación y equipos accesibles.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Apollo 2</h2><p>La empresa ya comunicó una generación posterior. No uses fichas del primer modelo para dimensionar una inversión futura.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Apptronik Apollo en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Puede contratarlo una multinacional en Argentina?</summary><div class=\"pregunta__resp\"><p>Debe negociarse con Apptronik; no consta canal local.</p></div></details><details class=\"pregunta\"><summary>¿Cuánto levanta?</summary><div class=\"pregunta__resp\"><p>Se difundieron 25 kg para la versión anterior, sin confirmar para Apollo 2.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otras marcas y modelos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/xpeng-iron/\">XPeng IRON</a></h3></li><li><h3><a href=\"/ar/fourier-gr-3/\">Fourier GR-3</a></h3></li><li><h3><a href=\"/ar/limx-oli/\">LimX Oli</a></h3></li><li><h3><a href=\"/ar/reachy-2/\">Reachy 2</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/marcas/\">Ver todas las marcas</a></p></div></section>"
+}

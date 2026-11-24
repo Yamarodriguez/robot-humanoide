@@ -1,0 +1,29 @@
+{
+  "titulo": "Robots de Rehabilitación en Argentina",
+  "url": "/ar/robots-de-rehabilitacion/",
+  "slug": "robots-de-rehabilitacion",
+  "alterna": "/robots-de-rehabilitacion/",
+  "h1": "Robots de Rehabilitación en Argentina",
+  "entradilla": "Repetir un movimiento doscientas veces con buena técnica cansa al paciente y también al kinesiólogo. La robótica aporta constancia y datos; la decisión clínica sigue siendo del profesional.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir asesoramiento"
+  },
+  "hero": "/img/tipos/rehabilitacion.svg",
+  "metaTitulo": "Robots Humanoides de Rehabilitación y Kinesiología en Argentina",
+  "metaDescripcion": "Robots para centros de rehabilitación y kinesiología de Argentina: qué aportan a la sesión, ANMAT, obras sociales y cómo evaluar la inversión.",
+  "focusKeyword": "robots de rehabilitación en argentina",
+  "imagenPrincipal": "/img/tipos/rehabilitacion.svg",
+  "faq": [
+    {
+      "pregunta": "¿Sirve para chicos?",
+      "respuesta": "Los humanoides chicos se usan como estímulo en terapias infantiles, siempre conducidas por un profesional."
+    },
+    {
+      "pregunta": "¿Puedo probarlo antes?",
+      "respuesta": "Es lo recomendable: pedí una demostración sobre tu rutina de trabajo."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Humanoide, exoesqueleto o plataforma</h2><p>Conviene distinguirlos porque se venden mezclados. El <strong>exoesqueleto</strong> moviliza el cuerpo; la <strong>plataforma robótica</strong> guía un miembro; el <strong>humanoide</strong> muestra el ejercicio, cuenta repeticiones y motiva. Para lo último existe el <a href=\"/ar/fourier-intelligence-gr-2/\">GR-2 de Fourier</a>.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Requisitos en Argentina</h2><p>Todo equipo con finalidad terapéutica declarada requiere registro como producto médico en ANMAT. Verificá que el registro exista y quién es el titular antes de señar nada.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>¿Lo reconocen las prepagas?</h2><p>Que una obra social cubra la sesión no significa que pague un plus por usar robot. Armá los números con tu nomenclador actual y tomá cualquier extra como ganancia.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Robots de Rehabilitación en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Sirve para chicos?</summary><div class=\"pregunta__resp\"><p>Los humanoides chicos se usan como estímulo en terapias infantiles, siempre conducidas por un profesional.</p></div></details><details class=\"pregunta\"><summary>¿Puedo probarlo antes?</summary><div class=\"pregunta__resp\"><p>Es lo recomendable: pedí una demostración sobre tu rutina de trabajo.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros tipos de robots humanoides</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/robots-para-eventos/\">Robots Humanoides para Eventos</a></h3></li><li><h3><a href=\"/ar/robot-camarero/\">Robot Mozo o Camarero</a></h3></li><li><h3><a href=\"/ar/robot-de-compania/\">Robot Humanoide de Compañía</a></h3></li><li><h3><a href=\"/ar/robots-para-el-hogar/\">Robots Humanoides para el Hogar</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/tipos/\">Ver todos los tipos</a></p></div></section>"
+}

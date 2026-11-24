@@ -1,0 +1,29 @@
+{
+  "titulo": "Curso de Simulación de Robots en Argentina",
+  "url": "/ar/simulacion-antes-del-despliegue/",
+  "slug": "simulacion-antes-del-despliegue",
+  "alterna": "/simulacion-antes-del-despliegue/",
+  "h1": "Curso de Simulación de Robots en Argentina",
+  "entradilla": "Romper un robot simulado es gratis. Donde cada repuesto paga aduana, simular primero es sentido común.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar fechas"
+  },
+  "hero": "/img/cursos/simulacion.svg",
+  "metaTitulo": "Curso de Simulación de Robots Humanoides en Argentina",
+  "metaDescripcion": "Curso de simulación de robots humanoides en Argentina con herramientas libres: del modelo al robot real, sin hardware caro.",
+  "focusKeyword": "curso de simulación de robots en argentina",
+  "imagenPrincipal": "/img/cursos/simulacion.svg",
+  "faq": [
+    {
+      "pregunta": "¿Se puede hacer desde cualquier provincia?",
+      "respuesta": "Sí, es íntegramente online."
+    },
+    {
+      "pregunta": "¿Qué me llevo?",
+      "respuesta": "Un repositorio con entorno, experimento y resultados reproducibles."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Herramientas</h2><ul><li>MuJoCo para empezar, por liviano y abierto.</li><li>Gazebo con ROS 2 para navegación y sensores.</li><li>Isaac Sim o Isaac Lab, si hay placa compatible.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Lo que se aprende</h2><p>Cargar el modelo oficial, variar rozamiento y masa, entrenar una marcha simple y comparar con mediciones. La brecha entre simulación y realidad es el tema central, no una nota al pie.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Para grupos sin placa de video</h2><p>Los ejercicios base corren en una notebook. Los de entrenamiento intensivo se hacen en la nube con costo acotado y previsto.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Curso de Simulación de Robots en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Se puede hacer desde cualquier provincia?</summary><div class=\"pregunta__resp\"><p>Sí, es íntegramente online.</p></div></details><details class=\"pregunta\"><summary>¿Qué me llevo?</summary><div class=\"pregunta__resp\"><p>Un repositorio con entorno, experimento y resultados reproducibles.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros cursos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/interaccion-por-voz-y-lenguaje/\">Curso de Voz y Lenguaje para Robots</a></h3></li><li><h3><a href=\"/ar/manipulacion-y-agarre/\">Curso de Manipulación y Agarre Robótico</a></h3></li><li><h3><a href=\"/ar/certificacion-profesional/\">Certificación en Robótica Humanoide</a></h3></li><li><h3><a href=\"/ar/introduccion-a-la-robotica-humanoide/\">Curso de Introducción a la Robótica Humanoide</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/cursos/\">Ver todos los cursos</a></p></div></section>"
+}

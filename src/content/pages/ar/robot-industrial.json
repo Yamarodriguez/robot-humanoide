@@ -1,0 +1,29 @@
+{
+  "titulo": "Robot Humanoide Industrial en Argentina",
+  "url": "/ar/robot-industrial/",
+  "slug": "robot-industrial",
+  "alterna": "/robot-industrial/",
+  "h1": "Robot Humanoide Industrial en Argentina",
+  "entradilla": "Una planta argentina rara vez es nueva: conviven máquinas de distintas décadas, pasillos angostos y entrepisos. Ahí un humanoide tiene sentido, porque usa el espacio que hoy usa una persona y no obliga a tirar abajo media línea.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir asesoramiento"
+  },
+  "hero": "/wp-content/uploads/2025/03/robot-humanoide-industrial.jpg",
+  "metaTitulo": "Robot Humanoide Industrial en Argentina - Usos y Costos",
+  "metaDescripcion": "Robots humanoides industriales para fábricas argentinas: autopartes, metalmecánica y alimentos. Qué tareas asumen, qué exige la ART y cuánto cuestan.",
+  "focusKeyword": "robot humanoide industrial en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/robot-humanoide-industrial.jpg",
+  "faq": [
+    {
+      "pregunta": "¿Reemplaza a un brazo robótico?",
+      "respuesta": "No. Para una tarea fija, rápida y precisa, un brazo o un cobot rinde más y cuesta menos. El humanoide conviene cuando la tarea cambia de lugar."
+    },
+    {
+      "pregunta": "¿Puede cubrir un turno de ocho horas?",
+      "respuesta": "No de corrido. Con baterías de dos a cuatro horas hay que prever recambio o turnos partidos."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Dónde probarlo primero en una fábrica argentina</h2><ul><li><strong>Autopartes de Córdoba y zona norte del GBA</strong>: alimentar prensas, retirar piezas y acercar contenedores al puesto.</li><li><strong>Metalmecánica de Santa Fe</strong>: mover piezas livianas entre mecanizado, pintura y control.</li><li><strong>Alimentos y bebidas</strong>: paletizado de cajas livianas, siempre lejos de zonas de lavado a presión.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Seguridad e higiene en la planta</h2><p>La Ley 19.587 de Higiene y Seguridad alcanza a cualquier máquina que ingrese al puesto de trabajo. Antes de encenderlo, involucrá al responsable de higiene y seguridad, actualizá el relevamiento de riesgos y avisá a la ART. Si el robot se mueve entre operarios, definí velocidad, distancia y parada de emergencia.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué modelo se consigue hoy</h2><p>Optimus, Figure y Atlas no se venden acá ni afuera al público. Para un piloto real se importa un <a href=\"/ar/unitree-g1/\">Unitree G1</a> en versión para desarrolladores y se programa la tarea. Presupuestá además <a href=\"/ar/programacion-de-robot-humanoides/\">programación</a> y una batería extra.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Robot Humanoide Industrial en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Reemplaza a un brazo robótico?</summary><div class=\"pregunta__resp\"><p>No. Para una tarea fija, rápida y precisa, un brazo o un cobot rinde más y cuesta menos. El humanoide conviene cuando la tarea cambia de lugar.</p></div></details><details class=\"pregunta\"><summary>¿Puede cubrir un turno de ocho horas?</summary><div class=\"pregunta__resp\"><p>No de corrido. Con baterías de dos a cuatro horas hay que prever recambio o turnos partidos.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros tipos de robots humanoides</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/robots-de-logistica-y-almacen/\">Robots Humanoides de Logística</a></h3></li><li><h3><a href=\"/ar/robots-de-inspeccion-industrial/\">Robots de Inspección Industrial</a></h3></li><li><h3><a href=\"/ar/robots-de-atencion-al-cliente/\">Robots de Atención al Cliente</a></h3></li><li><h3><a href=\"/ar/robots-educativos/\">Robots Humanoides Educativos</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/tipos/\">Ver todos los tipos</a></p></div></section>"
+}

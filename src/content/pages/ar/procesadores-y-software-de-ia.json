@@ -1,0 +1,29 @@
+{
+  "titulo": "Procesadores e IA para Robots en Argentina",
+  "url": "/ar/procesadores-y-software-de-ia/",
+  "slug": "procesadores-y-software-de-ia",
+  "alterna": "/procesadores-y-software-de-ia/",
+  "h1": "Procesadores e IA para Robots en Argentina",
+  "entradilla": "Con centros de datos lejos y conexiones dispares, en Argentina conviene que lo importante corra en el robot. El equilibrio nunca puede depender de internet.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar disponibilidad"
+  },
+  "hero": "/wp-content/uploads/2025/03/procesador-robot.jpg",
+  "metaTitulo": "Procesadores y Software de IA para Robots en Argentina",
+  "metaDescripcion": "Cómputo a bordo y software de IA para robots en Argentina: placas Jetson, nube, latencia y licencias. Qué conviene comprar.",
+  "focusKeyword": "procesadores e ia para robots en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/procesador-robot.jpg",
+  "faq": [
+    {
+      "pregunta": "¿Puedo usar modelos abiertos?",
+      "respuesta": "Sí, y evitan pagos por consulta si tenés cómputo."
+    },
+    {
+      "pregunta": "¿El 4G alcanza?",
+      "respuesta": "Para supervisión sí; para control en tiempo real, no."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Repartir el trabajo</h2><ul><li><strong>A bordo</strong>: equilibrio, obstáculos y parada.</li><li><strong>PC local</strong>: visión pesada y mapas.</li><li><strong>Nube</strong>: conversación y análisis no urgente.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Comprar la placa</h2><p>Los módulos Jetson tienen revendedores locales, a menudo con sobreprecio. Compará con la importación y controlá que sea la memoria que pide tu modelo. Las versiones EDU de algunos robots ya la traen.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Costos en dólares que se olvidan</h2><p>Servicios de IA por uso, almacenamiento y licencias mensuales, más los impuestos a servicios digitales del exterior. Poné un tope desde el inicio.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Procesadores e IA para Robots en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Puedo usar modelos abiertos?</summary><div class=\"pregunta__resp\"><p>Sí, y evitan pagos por consulta si tenés cómputo.</p></div></details><details class=\"pregunta\"><summary>¿El 4G alcanza?</summary><div class=\"pregunta__resp\"><p>Para supervisión sí; para control en tiempo real, no.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros accesorios y repuestos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/piezas-mecanicas-y-brazos-roboticos/\">Piezas Mecánicas y Brazos Robóticos</a></h3></li><li><h3><a href=\"/ar/actuadores-y-servomotores/\">Actuadores y Servomotores para Robots</a></h3></li><li><h3><a href=\"/ar/reductoras-y-transmisiones/\">Reductoras y Transmisiones para Robots</a></h3></li><li><h3><a href=\"/ar/manos-diestras-y-pinzas/\">Manos Diestras y Pinzas Robóticas</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/accesorios/\">Ver todos los accesorios</a></p></div></section>"
+}

@@ -1,0 +1,104 @@
+@/agibot-x2/
+> AgiBot X2 es un humanoide de 1,31 m y 35 kg. MediaMarkt España lo mostró por 25.699 €; las versiones Base, Lite y Ultra cambian en prestaciones y garantía.
+## ¿AgiBot X2 o Unitree G1?
+Comparten tamaño aproximado. X2 resulta interesante para comercio y espectáculo; [G1](/unitree-g1/) tiene una comunidad de desarrollo muy amplia. Compara versión con versión.
+? ¿Se puede comprar AgiBot X2 en España?
+= Sí, se ha listado en tienda online. Comprueba existencias y edición.
+
+@/unitree-h2/
+> Unitree H2 mide 1,82 m, pesa unos 70 kg y tiene 31 grados de libertad. Su precio oficial se solicita a ventas.
+## ¿Qué diferencia hay entre Unitree G1 y H2?
+G1 es compacto y más fácil de alojar. H2 ofrece escala humana, con más exigencia de espacio, transporte y seguridad.
+? ¿Cuánto cuesta Unitree H2?
+= Hay cifras dispares de terceros; pide una cotización oficial con manos, impuestos y envío.
+
+@/engineai-pm01/
+> EngineAI PM01 mide cerca de 1,4 m y pesa 40–42 kg. Se lanzó por 88.000 yuanes, unos 12.000 dólares, una cifra que no garantiza el precio actual.
+## ¿Para qué sirve EngineAI PM01?
+Para educación, demostración y desarrollo de movimiento, especialmente en su edición EDU.
+? ¿PM01 es más barato que Unitree G1?
+= Su oferta de lanzamiento lo era; compara presupuestos actuales e iguales versiones.
+
+@/engineai-t800/
+> EngineAI T800 es un humanoide de 1,73 m con autonomía declarada de 4–5 horas y batería extraíble. No tiene un precio oficial público vigente verificado.
+## ¿El robot T800 existe de verdad?
+Sí, EngineAI lo presentó como plataforma humanoide. Los vídeos promocionales deben contrastarse con una demostración técnica.
+? ¿Es un robot para combate?
+= Su comunicación usa ese imaginario, pero no conviene emplearlo cerca de personas fuera de un entorno controlado.
+
+@/pal-robotics-talos/
+> TALOS es un humanoide de investigación fabricado por PAL Robotics, de Barcelona. Mide 1,75 m, tiene 32 grados de libertad y trabaja con ROS.
+## ¿Hay robots humanoides fabricados en España?
+Sí. PAL Robotics desarrolla en Barcelona plataformas como TALOS y [Kangaroo](/pal-robotics-kangaroo/), orientadas a investigación.
+? ¿Cuánto cuesta TALOS?
+= No hay precio oficial publicado en las fuentes consultadas; se solicita al fabricante.
+
+@/pal-robotics-kangaroo/
+> Kangaroo es un bípedo de PAL Robotics para investigar locomoción. La ficha del fabricante indica 1,60 m, 40 kg y seis horas de autonomía.
+## ¿Qué diferencia hay entre Kangaroo y TALOS?
+Kangaroo se centra en piernas dinámicas; [TALOS](/pal-robotics-talos/) en un humanoide de cuerpo completo con brazos.
+? ¿Kangaroo es español?
+= Sí, lo desarrolla PAL Robotics en Barcelona.
+
+@/apptronik-apollo/
+> Apollo es un humanoide industrial de Apptronik probado por Mercedes-Benz. No tiene venta unitaria abierta ni precio público.
+## ¿Qué hace Apollo en Mercedes-Benz?
+Se ha probado en tareas de movimiento de componentes y planta, como parte de una colaboración industrial.
+? ¿Se puede comprar Apollo en España?
+= No consta venta abierta; es un proyecto empresarial.
+
+@/xpeng-iron/
+> XPeng IRON es un humanoide con 76 grados de libertad anunciados. La empresa planea entregas desde 2027 y todavía no publica precio para España.
+## ¿Cuándo llegará XPeng IRON a Europa?
+La previsión comunicada sitúa su promoción europea en el segundo semestre de 2027. Puede cambiar.
+? ¿Cuánto costará XPeng IRON?
+= No hay una tarifa oficial publicada en la información consultada.
+
+@/fourier-gr-3/
+> Fourier GR-3 es un humanoide social de 1,65 m y 71 kg con hasta 55 grados de libertad. Se orienta a compañía y cuidado, sin que eso pruebe un uso médico.
+## ¿Fourier GR-3 es un robot para personas mayores?
+Puede estudiarse para interacción y acompañamiento supervisado. No sustituye personal ni sistemas de emergencia.
+? ¿Cuánto cuesta Fourier GR-3?
+= Las cifras externas no están verificadas; solicita presupuesto.
+
+@/limx-oli/
+> LimX Oli mide 1,65 m, pesa menos de 55 kg y tiene 31 grados de libertad sin manos. Se anunció en China desde 158.000 yuanes.
+## ¿Qué versión de LimX Oli elegir?
+Para programar, consulta EDU o Super y el acceso exacto. Lite puede no cubrir una investigación de bajo nivel.
+? ¿LimX Oli se vende en España?
+= Confirma la versión global y el distribuidor con el fabricante.
+
+@/reachy-2/
+> Reachy 2 es un robot de torso humanoide y código abierto de Pollen Robotics y Hugging Face. Cuesta alrededor de 70.000 dólares y no camina.
+## ¿Reachy 2 es open source?
+Sí, su ecosistema ofrece software abierto con ROS 2 y Python. La licencia de cada componente debe revisarse.
+? ¿Reachy 2 tiene piernas?
+= No. Usa base móvil o configuración fija según versión.
+
+@/reachy-mini/
+> Reachy Mini es un robot de escritorio desde 399 dólares, más impuestos y envío. Tiene cabeza expresiva, pero no es un humanoide completo ni camina.
+## ¿Merece la pena Reachy Mini para aprender IA?
+Para voz, gestos y programación, sí puede ser una opción accesible. Para locomoción o agarre, no.
+? ¿Qué incluye Reachy Mini Lite?
+= Comprueba ordenador, alimentación y montaje en la ficha de compra.
+
+@/hexagon-aeon/
+> AEON es un humanoide industrial de Hexagon, con proyecto en BMW Leipzig. No se vende como producto de consumo y su precio no es público.
+## ¿Qué robot humanoide usa BMW en Alemania?
+BMW incorporó AEON a un piloto en Leipzig. Antes, el grupo había probado un robot de [Figure](/figure-ai-figure-03/) en Estados Unidos.
+? ¿Qué tareas hace AEON?
+= Tareas vinculadas a baterías y componentes dentro del proyecto de planta.
+
+@/engineered-arts-ameca/
+> Ameca es un humanoide británico especializado en expresión facial y conversación. No está hecho para caminar ni realizar trabajo físico.
+## ¿Ameca o Sophia: qué diferencia hay?
+Ambas son plataformas sociales. Ameca pertenece a Engineered Arts y [Sophia](/robot-sophia-hanson-robotics/) a Hanson Robotics, con diseño y software propios.
+? ¿Cuánto cuesta Ameca?
+= No hay precio oficial verificado; las estimaciones de terceros varían mucho.
+
+@/kepler-k2/
+> Kepler K2 Bumblebee es un humanoide industrial de 1,75 m y 75 kg. En 2025 se comunicó un precio base de 30.000 dólares.
+## ¿Qué ventaja tienen las manos de Kepler K2?
+Se comunicaron 11 grados por mano y sensores de fuerza en los dedos, útiles para investigar agarres delicados.
+? ¿Kepler K2 está disponible en España?
+= Debe consultarse con el fabricante, incluida la conformidad europea.

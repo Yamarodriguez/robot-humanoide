@@ -1,0 +1,29 @@
+{
+  "titulo": "Tesla Optimus en Argentina",
+  "url": "/ar/robot-tesla-bot-optimus/",
+  "slug": "robot-tesla-bot-optimus",
+  "alterna": "/robot-tesla-bot-optimus/",
+  "h1": "Tesla Optimus en Argentina",
+  "entradilla": "Optimus es el robot más buscado y también el más usado como gancho para estafas. Al día de hoy Tesla no lo vende al público en ningún país.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar por este modelo"
+  },
+  "hero": "/wp-content/uploads/2025/03/robot-tesla.jpg",
+  "metaTitulo": "Tesla Optimus en Argentina - Precio y Fecha de Venta",
+  "metaDescripcion": "Tesla Optimus en Argentina: precio anunciado, por qué no se vende, estafas frecuentes y qué robot se puede comprar hoy.",
+  "focusKeyword": "tesla optimus en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/robot-tesla.jpg",
+  "faq": [
+    {
+      "pregunta": "¿Tesla tiene venta oficial en Argentina?",
+      "respuesta": "Consultá siempre su sitio. Que se vean autos importados no implica venta del robot."
+    },
+    {
+      "pregunta": "¿Llegará a Argentina?",
+      "respuesta": "No hay anuncio oficial."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Tesla Optimus: ficha y precio en Argentina</h2></div><div class=\"tabla-envoltorio\"><table class=\"tabla\"><thead><tr><th scope=\"col\">Dato</th><th scope=\"col\">Detalle</th></tr></thead><tbody><tr><th scope=\"row\">Precio en origen</th><td>20.000–30.000 USD anunciados</td></tr><tr><th scope=\"row\">Puesto en Argentina</th><td>No disponible</td></tr><tr><th scope=\"row\">¿Se puede comprar?</th><td>No, sin venta al público</td></tr><tr><th scope=\"row\">Plazo</th><td>Sin fecha</td></tr><tr><th scope=\"row\">Generación</th><td>Gen 3</td></tr><tr><th scope=\"row\">Base técnica</th><td>visión y chips de conducción autónoma</td></tr><tr><th scope=\"row\">Destino actual</th><td>fábricas de Tesla</td></tr><tr><th scope=\"row\">Venta al público</th><td>sin fecha confirmada</td></tr></tbody></table></div><p class=\"tabla__nota\">Valores orientativos en dólares. Se confirman al cotizar.</p></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué se sabe del precio</h2><p>Se anunciaron cifras de entre 20.000 y 30.000 dólares como objetivo. No es un precio de lista. Aplicando el sobrecosto de importación habitual, un equipo así rondaría los 28.000 a 51.000 dólares puesto en Argentina; es una cuenta hipotética, no una oferta.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cómo reconocer una estafa</h2><ul><li>Pide seña en cripto o transferencia a una persona.</li><li>Promete entrega inmediata o «lote para Latinoamérica».</li><li>Usa videos de Musk con voz doblada.</li></ul><p>Nosotros no tomamos reservas de Optimus.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué comprar si no querés esperar</h2><p>Para desarrollo, <a href=\"/ar/unitree-g1/\">Unitree G1</a>. Para un evento, conviene alquilar.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Tesla Optimus en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Tesla tiene venta oficial en Argentina?</summary><div class=\"pregunta__resp\"><p>Consultá siempre su sitio. Que se vean autos importados no implica venta del robot.</p></div></details><details class=\"pregunta\"><summary>¿Llegará a Argentina?</summary><div class=\"pregunta__resp\"><p>No hay anuncio oficial.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otras marcas y modelos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/robot-boston-dynamics-atlas/\">Boston Dynamics Atlas</a></h3></li><li><h3><a href=\"/ar/robot-xiaomi-cyberone/\">Xiaomi CyberOne</a></h3></li><li><h3><a href=\"/ar/robot-honda-asimo/\">Honda ASIMO</a></h3></li><li><h3><a href=\"/ar/robot-sophia-hanson-robotics/\">Robot Sophia</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/marcas/\">Ver todas las marcas</a></p></div></section>"
+}

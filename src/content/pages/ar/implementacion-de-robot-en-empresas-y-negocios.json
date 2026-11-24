@@ -1,0 +1,29 @@
+{
+  "titulo": "Implementación de Robots en Empresas de Argentina",
+  "url": "/ar/implementacion-de-robot-en-empresas-y-negocios/",
+  "slug": "implementacion-de-robot-en-empresas-y-negocios",
+  "alterna": "/implementacion-de-robot-en-empresas-y-negocios/",
+  "h1": "Implementación de Robots en Empresas de Argentina",
+  "entradilla": "Comprar el robot lleva semanas; que siga trabajando a los seis meses es otra historia. La implementación cubre esa segunda parte.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir presupuesto"
+  },
+  "hero": "/wp-content/uploads/2025/03/empresas-robot-humanoide.jpeg",
+  "metaTitulo": "Implementación de Robots Humanoides en Empresas Argentinas",
+  "metaDescripcion": "Implementar un robot humanoide en una empresa argentina: relevamiento, sindicato, ART, integración y métricas de los primeros 90 días.",
+  "focusKeyword": "implementación de robots en empresas de argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/empresas-robot-humanoide.jpeg",
+  "faq": [
+    {
+      "pregunta": "¿Hace falta un área de sistemas?",
+      "respuesta": "Al menos un referente interno que conozca red y procesos."
+    },
+    {
+      "pregunta": "¿Y si el piloto da mal?",
+      "respuesta": "Se frena. Por eso proponemos empezar con equipo alquilado."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Primero la gente</h2><p>Delegados y operarios se enteran antes de que llegue la caja. Se explica qué tarea asume, quién lo supervisa y qué pasa con ese puesto. Según el convenio, el cambio puede requerir una conversación formal.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Los primeros 90 días</h2><ul><li><strong>Días 1 a 30</strong>: instalación, zonas marcadas y operación con supervisor.</li><li><strong>Días 31 a 60</strong>: tarea real en horario acotado, registrando paradas.</li><li><strong>Días 61 a 90</strong>: ajuste y decisión de ampliar, corregir o frenar.</li></ul></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué medimos</h2><p>Ciclos buenos por hora, intervenciones humanas, horas fuera de servicio y costo por ciclo. Con esos cuatro números la dirección decide sin marketing.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Implementación de Robots en Empresas en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Hace falta un área de sistemas?</summary><div class=\"pregunta__resp\"><p>Al menos un referente interno que conozca red y procesos.</p></div></details><details class=\"pregunta\"><summary>¿Y si el piloto da mal?</summary><div class=\"pregunta__resp\"><p>Se frena. Por eso proponemos empezar con equipo alquilado.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros servicios</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/estudio-de-viabilidad-y-roi/\">Estudio de Viabilidad y ROI</a></h3></li><li><h3><a href=\"/ar/renting-y-robot-como-servicio/\">Leasing y Robot como Servicio</a></h3></li><li><h3><a href=\"/ar/formacion-y-cursos/\">Capacitación en Robótica Humanoide</a></h3></li><li><h3><a href=\"/ar/normativa-y-certificaciones/\">Normativa para Robots Humanoides</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/servicios/\">Ver todos los servicios</a></p></div></section>"
+}

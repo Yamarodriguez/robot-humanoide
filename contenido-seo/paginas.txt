@@ -1,0 +1,181 @@
+@/
+> Un robot humanoide es una máquina con cuerpo y movimientos parecidos a los humanos que camina, percibe su entorno y ejecuta tareas. En España se compra desde menos de 9.000 € en modelos de entrada y por unos 24.900 € en el caso del Unitree G1; también se puede alquilar.
+## ¿Qué robot humanoide se puede comprar hoy en España?
+Los modelos con canal de compra son sobre todo [Unitree R1](/unitree-r1/), [Unitree G1](/unitree-g1/), [Booster K1](/booster-robotics-k1/) y la gama [UBTech](/ubtech/). Tesla Optimus, Figure 03 y Atlas no se venden al público. Antes de comparar marcas conviene mirar la [tabla de precios](/precios/).
+## Comprar, alquilar o contratar renting: cómo decidir
+- **Comprar**: uso diario, tarea ya probada y equipo formado.
+- **[Alquilar](/alquiler-de-robots-humanoides/)**: un evento, una temporada o una prueba piloto.
+- **[Renting](/renting-y-robot-como-servicio/)**: cuota mensual con mantenimiento y sin inmovilizar capital.
+
+@/precios/
+> El precio de un robot humanoide en España va de unos 6.650 € (Booster K1) a 24.900 € (Unitree G1), con el Unitree R1 cerca de 8.900 € por distribuidor europeo. Las plataformas industriales se cotizan por proyecto. Al precio hay que sumar programación, formación y recambios.
+## ¿Cuánto cuesta un robot humanoide barato?
+El más económico anunciado es el [Noetix Bumi](/noetix-bumi/), por menos de 1.400 dólares en origen, pensado para ocio y educación. Con SDK abierto y canal europeo, el [Booster K1](/booster-robotics-k1/) es una entrada más sólida para desarrollar.
+## ¿Cuánto cuesta alquilar un robot humanoide?
+El precio de alquiler depende del modelo, los días, la ciudad y el operador. Como referencia internacional, AgiBot anunció su servicio desde 1.000 dólares al día con entrega e instalación. Para un presupuesto en España, consulta el [alquiler para eventos](/alquiler-para-eventos/).
+## Precios de nuevos robots humanoides en 2026
+Son referencias de origen o tienda y cambian por versión, impuestos y transporte:
+- [AgiBot X2](/agibot-x2/): 25.699 € en MediaMarkt, según la consulta de 2026.
+- [EngineAI PM01](/engineai-pm01/): unos 12.000 $ en su lanzamiento.
+- [LimX Oli](/limx-oli/): desde unos 21.800 $ en China.
+- [Kepler K2](/kepler-k2/): 30.000 $ comunicados en 2025.
+- [Reachy 2](/reachy-2/): unos 70.000 $.
+- [Reachy Mini](/reachy-mini/): 399 $ más impuestos y envío; robot de escritorio.
+? ¿El precio de un robot humanoide incluye IVA?
+= Depende del vendedor. Pide siempre el total con IVA, transporte, aranceles y garantía por escrito.
+? ¿Por qué el mismo modelo tiene precios tan distintos?
+= Porque cambian la versión (básica o EDU), las manos, el cómputo, la garantía y quién asume la importación.
+
+@/que-es/
+> Un robot humanoide es un robot con forma y movimientos inspirados en el cuerpo humano: cabeza, tronco, brazos y, en muchos casos, piernas. Combina sensores, motores e inteligencia artificial para desplazarse, manipular objetos o interactuar con personas.
+## Robot humanoide: definición corta para estudiantes
+Es una máquina programable que imita la forma de una persona para moverse y trabajar en lugares hechos para personas. No siente ni tiene conciencia: calcula, percibe y actúa según su programación y sus modelos de [inteligencia artificial](/procesadores-y-software-de-ia/).
+## ¿Cuáles son las partes de un robot humanoide?
+- **Estructura**: esqueleto y [carcasas](/carcasas-y-piezas-de-recambio/).
+- **[Actuadores](/actuadores-y-servomotores/)**: los músculos.
+- **[Sensores](/sensores-de-robots/)**: equilibrio, tacto y vista.
+- **Ordenador y software**: el cerebro.
+- **[Batería](/bateria-para-robot-y-sistemas-de-carga/)**: la energía.
+
+@/comprar/
+> Para comprar un robot humanoide en España define primero la tarea, elige un modelo disponible, pide un presupuesto cerrado y comprueba marcado CE, garantía, recambios y plazo. Los canales son distribuidor, importación gestionada o plataforma online.
+## ¿Dónde comprar un robot humanoide en España?
+Hay tres vías: un **distribuidor o integrador** con soporte, la **[importación gestionada](/importacion-y-gestion-aduanera/)** y las **grandes tiendas online**, que ya listan humanoides como el Unitree G1 o el AgiBot X2. La diferencia está en quién responde cuando falla.
+## Lista de comprobación antes de pagar
+- Versión exacta y acceso al SDK.
+- Declaración UE de conformidad y manual.
+- Quién figura como importador.
+- Garantía, recambios y tiempo de reparación.
+- Formación y puesta en marcha incluidas.
+? ¿Puede comprar un robot humanoide un particular?
+= Sí. Hay modelos a la venta, aunque la mayoría requiere espacio, supervisión y algo de programación.
+? ¿Es mejor comprar en AliExpress o a un distribuidor?
+= AliExpress puede ser más barato; un distribuidor aporta factura, soporte y garantía más fáciles de ejercer.
+
+@/tipos/
+> Los robots humanoides se clasifican por uso: industriales, logísticos, médicos, educativos, domésticos, de compañía, seguridad, atención al cliente, eventos e investigación. También por locomoción: bípedos, que caminan, o con ruedas.
+## ¿Qué tipo de robot humanoide necesito?
+- Mover cajas: [logística y almacén](/robots-de-logistica-y-almacen/).
+- Recibir público: [atención al cliente](/robots-de-atencion-al-cliente/).
+- Enseñar: [educativo](/robots-educativos/).
+- Programar y publicar: [investigación](/robots-de-investigacion/).
+- Atraer visitantes: [eventos](/robots-para-eventos/).
+## Humanoide bípedo o con ruedas: diferencias
+El bípedo supera escalones y usa espacios humanos, pero gasta más energía. El de ruedas es más estable, autónomo y barato en suelo liso. Si no hay escaleras, las ruedas suelen ganar.
+? ¿Cuál es el tipo de robot humanoide más vendido?
+= En unidades, las plataformas para investigación, educación y desarrollo tienen hoy el canal comercial más claro.
+
+@/marcas/
+> Entre las principales marcas de robots humanoides están Unitree, UBTech, Booster Robotics, Fourier, Neura, 1X, Agility, Figure AI, Tesla y Boston Dynamics. En España las más accesibles son Unitree, Booster y UBTech; varias de las más famosas no venden al público.
+## ¿Cuál es la mejor marca de robot humanoide?
+Depende del uso: **Unitree** por precio y comunidad, **Booster** para fútbol robótico y docencia, **UBTech** para aulas y servicio, **Agility** en logística y **1X** como propuesta doméstica. Compara disponibilidad antes que vídeos.
+## Marcas chinas, estadounidenses y europeas
+China lidera en precio y oferta con Unitree, UBTech, Fourier, AgiBot o Noetix. Estados Unidos concentra Tesla, Figure y Agility. En Europa destaca la alemana [Neura](/neura-robotics-4ne-1/), y 1X tiene origen noruego.
+## Nuevas marcas de robots humanoides en 2026
+Se incorporan AgiBot, EngineAI, LimX, Kepler, XPeng, Apptronik, Hexagon, Engineered Arts, Pollen Robotics y la española PAL Robotics.
+- **Con canal de compra**: [AgiBot X2](/agibot-x2/) y [Reachy Mini](/reachy-mini/).
+- **Fabricados en España**: [TALOS](/pal-robotics-talos/) y [Kangaroo](/pal-robotics-kangaroo/).
+- **Industria**: [Apollo](/apptronik-apollo/), [AEON](/hexagon-aeon/) y [Kepler K2](/kepler-k2/).
+- **Próximos**: [XPeng IRON](/xpeng-iron/).
+? ¿Qué marcas de robots humanoides no se pueden comprar?
+= Tesla Optimus, Figure 03 y Atlas no tienen venta abierta al público. ASIMO está retirado y CyberOne no llegó a comercializarse.
+
+@/servicios/
+> Los servicios para robots humanoides cubren todo el ciclo: estudio de viabilidad, venta, importación, normativa, programación, implantación, formación, mantenimiento, alquiler y renting.
+## ¿Qué servicio necesito según mi fase?
+- **Idea**: [estudio de viabilidad](/estudio-de-viabilidad-y-roi/).
+- **Prueba**: [alquiler](/alquiler-de-robots-humanoides/).
+- **Compra**: [venta](/venta-de-robots-humanoides/) e [importación](/importacion-y-gestion-aduanera/).
+- **Uso**: [programación](/programacion-de-robot-humanoides/) y [formación](/formacion-y-cursos/).
+- **Vida útil**: [mantenimiento](/mantenimiento-y-reparacion-de-robot/).
+## Empresas de robótica humanoide: qué preguntar al proveedor
+Pide una demostración de tu tarea, no de un baile. Pregunta quién repara, dónde están los recambios, qué queda documentado y qué ocurre si el piloto no cumple.
+? ¿Se puede contratar solo la programación?
+= Sí, si el modelo permite acceso de desarrollo y hay documentación disponible.
+
+@/cursos/
+> Un curso de robótica humanoide enseña a operar, programar o evaluar estos robots. Para empezar a programar conviene saber Python; para decidir una compra u operar el equipo no hace falta.
+## ¿Qué estudiar para trabajar con robots humanoides?
+Las bases habituales son ingeniería robótica, electrónica, informática o mecatrónica, y en FP la automatización y robótica industrial. Encima se añaden [SDK y ROS 2](/programacion-con-sdk/), [visión](/vision-artificial-y-percepcion/) y [simulación](/simulacion-antes-del-despliegue/).
+## Ruta de aprendizaje de robótica humanoide
+- Principiante: [introducción](/introduccion-a-la-robotica-humanoide/).
+- Intermedio: [SDK](/programacion-con-sdk/) y [simulación](/simulacion-antes-del-despliegue/).
+- Avanzado: [imitación](/aprendizaje-por-imitacion/) y [manipulación](/manipulacion-y-agarre/).
+? ¿Se puede aprender robótica humanoide sin tener un robot?
+= Sí. Con simuladores se aprende locomoción, percepción y control antes de usar hardware.
+
+@/accesorios/
+> Los accesorios y repuestos principales de un robot humanoide son baterías, actuadores, manos, sensores, cámaras, procesadores, reductoras y carcasas. Los primeros que conviene tener en reserva son batería y actuadores.
+## ¿Qué repuestos necesita un robot humanoide?
+Como mínimo, una [batería](/bateria-para-robot-y-sistemas-de-carga/), [actuadores](/actuadores-y-servomotores/) de las articulaciones más cargadas, cables y [cubiertas](/carcasas-y-piezas-de-recambio/). El resto depende de las horas y la tarea.
+## Repuestos originales o compatibles
+En carcasas y soportes, una pieza compatible puede valer. En baterías, encoders y actuadores conviene el original por seguridad, comunicación y garantía.
+? ¿Son universales los accesorios para robots humanoides?
+= No. Casi todos dependen de marca, modelo y versión; comprueba el número de pieza.
+
+@/contacto/
+> Para pedir presupuesto de un robot humanoide indica tarea, ciudad, fecha, horas de uso y si prefieres compra o alquiler. Con esos datos se puede descartar o proponer un modelo concreto.
+## Qué datos incluir al pedir presupuesto de un robot humanoide
+- Tarea y horas diarias.
+- Ciudad, tipo de suelo y escaleras.
+- Compra, alquiler o renting.
+- Necesidad de programación o formación.
+- Fecha y presupuesto orientativo.
+
+@/ar/
+> En Argentina un robot humanoide se compra casi siempre por importación. El Unitree G1 se estima entre 23.000 y 28.000 USD puesto en el país y el Unitree R1 entre 8.500 y 10.500 USD, según flete, impuestos y despacho.
+## ¿Qué robot humanoide se consigue en Argentina?
+Los más viables son [Unitree R1](/ar/unitree-r1/), [Unitree G1](/ar/unitree-g1/), [Booster K1](/ar/booster-robotics-k1/) y la línea educativa de [UBTech](/ar/ubtech/). También hay importadores locales que ya presentaron equipos Unitree: compará versión, garantía y soporte.
+## Robot humanoide para empresa, escuela o casa
+Para una empresa, empezá por [viabilidad](/ar/estudio-de-viabilidad-y-roi/). Para una escuela, por [robots educativos](/ar/robots-educativos/). Para la casa, leé primero [qué hacen de verdad](/ar/robots-para-el-hogar/).
+
+@/ar/precios/
+> El precio de un robot humanoide en Argentina parte de unos 1.500 USD en educativos chicos, 8.500 a 10.500 USD en el Unitree R1 y 23.000 a 28.000 USD en el Unitree G1, como estimación puesta en el país.
+## ¿Cuánto sale alquilar un robot humanoide?
+Depende de modelo, días, operador y provincia. Como referencia internacional, AgiBot anunció valores desde 1.000 USD por día. Para un evento local, pedí [presupuesto con técnico y traslado](/ar/alquiler-para-eventos/).
+## Precio en dólares, pesos y cuotas
+El equipo se cotiza en dólares. El monto en pesos depende del tipo de cambio y del momento de pago, y la financiación, de la entidad. Para cuotas mirá [leasing y robot como servicio](/ar/renting-y-robot-como-servicio/).
+## Precio en origen de nuevos robots humanoides
+No incluyen flete, impuestos ni despacho a Argentina:
+- [Reachy Mini](/ar/reachy-mini/): 399 USD.
+- [EngineAI PM01](/ar/engineai-pm01/): unos 12.000 USD en su lanzamiento.
+- [LimX Oli](/ar/limx-oli/): desde unos 21.800 USD.
+- [Kepler K2](/ar/kepler-k2/): 30.000 USD comunicados en 2025.
+- [Reachy 2](/ar/reachy-2/): unos 70.000 USD.
+
+@/ar/que-es/
+> Un robot humanoide es un robot con forma inspirada en el cuerpo humano, capaz de percibir, moverse e interactuar. Puede caminar en dos piernas o desplazarse sobre ruedas con torso y brazos.
+## ¿Para qué sirve un robot humanoide?
+Hoy se usa sobre todo en [investigación](/ar/robots-de-investigacion/), [educación](/ar/robots-educativos/), [eventos](/ar/robots-para-eventos/) y pilotos de [logística](/ar/robots-de-logistica-y-almacen/). Las tareas domésticas completas siguen en desarrollo.
+
+@/ar/comprar/
+> Para comprar un robot humanoide en Argentina definí la tarea, elegí versión, calculá el costo puesto en el país y confirmá importador, despacho, garantía y repuestos antes de señar.
+## ¿Dónde comprar un robot humanoide en Argentina?
+A un importador local, mediante importación llave en mano o con tu propia empresa habilitada. En los marketplaces verificá que no sea un juguete y pedí factura y despacho.
+
+@/ar/tipos/
+> Los tipos de robots humanoides más útiles para Argentina hoy son educativos, de investigación, eventos y atención; en industria, energía y logística conviene empezar por un piloto.
+## ¿Qué tipo de robot humanoide conviene en Argentina?
+Elegí por tarea, repuestos y conectividad. Un equipo [educativo](/ar/robots-educativos/) exige docentes; uno [industrial](/ar/robot-industrial/), análisis de riesgos; uno de [eventos](/ar/robots-para-eventos/), operador.
+
+@/ar/servicios/
+> Los servicios incluyen viabilidad, importación, programación, capacitación, mantenimiento y alquiler de robots humanoides, coordinados para empresas e instituciones argentinas.
+## ¿Qué servicio contratar primero?
+Si no sabés si la tarea es posible, [viabilidad](/ar/estudio-de-viabilidad-y-roi/). Si ya elegiste modelo, [importación](/ar/importacion-y-gestion-aduanera/). Si ya lo tenés, [programación](/ar/programacion-de-robot-humanoides/) o [mantenimiento](/ar/mantenimiento-y-reparacion-de-robot/).
+
+@/ar/cursos/
+> Los cursos de robótica humanoide para Argentina van de la introducción sin código al SDK, ROS 2, visión y simulación. Se puede empezar sin robot propio.
+## ¿Dónde estudiar robótica en Argentina?
+Para un título, mirá ingenierías y tecnicaturas en robótica, mecatrónica, electrónica o computación de universidades y la UTN. Los cursos específicos suman práctica sobre humanoides, sin reemplazar la carrera.
+
+@/ar/marcas/
+> Las marcas de robots humanoides más accesibles desde Argentina son Unitree, Booster y UBTech. Tesla Optimus, Figure 03 y Atlas no tienen venta abierta.
+## ¿Qué marca de robot humanoide es la más barata?
+Noetix anunció el [Bumi](/ar/noetix-bumi/) por debajo de 1.400 USD, con disponibilidad a confirmar. Entre los equipos de mayor porte, el [Unitree R1](/ar/unitree-r1/) es una opción de entrada.
+## Nuevas marcas de robots humanoides para seguir desde Argentina
+[AgiBot](/ar/agibot-x2/), [EngineAI](/ar/engineai-pm01/), [LimX](/ar/limx-oli/) y [Kepler](/ar/kepler-k2/) se cotizan por pedido. [XPeng IRON](/ar/xpeng-iron/) y [Apollo](/ar/apptronik-apollo/) no tienen venta local.
+
+@/ar/accesorios/
+> Los repuestos que conviene pedir junto con el robot son batería, actuadores y cables. Carcasas, soportes y herramental se pueden fabricar en Argentina.
+## ¿Dónde conseguir repuestos de robots en Argentina?
+Electrónica didáctica e impresión 3D se consiguen localmente. Baterías, encoders y actuadores originales se piden al fabricante o distribuidor según número de parte.

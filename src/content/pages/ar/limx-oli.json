@@ -1,0 +1,29 @@
+{
+  "titulo": "LimX Oli en Argentina",
+  "url": "/ar/limx-oli/",
+  "slug": "limx-oli",
+  "alterna": "/limx-oli/",
+  "h1": "LimX Oli en Argentina",
+  "entradilla": "Entre el G1 y los equipos de gran porte queda un hueco. Oli apunta ahí con 1,65 metros y menos de 55 kilos, una combinación atractiva para laboratorio.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar por este modelo"
+  },
+  "hero": "/img/marcas/limx-oli.svg",
+  "metaTitulo": "LimX Oli en Argentina - Precio en Origen y Versiones",
+  "metaDescripcion": "LimX Oli en Argentina: humanoide modular desde unos 21.800 USD en China. EDU, importación y mercado global.",
+  "focusKeyword": "limx oli en argentina",
+  "imagenPrincipal": "/img/marcas/limx-oli.svg",
+  "faq": [
+    {
+      "pregunta": "¿Hay venta en Argentina?",
+      "respuesta": "No tenemos verificado un distribuidor."
+    },
+    {
+      "pregunta": "¿Trae manos?",
+      "respuesta": "Los 31 grados comunicados no incluyen extremos; consultá opciones."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>LimX Oli: ficha y precio en Argentina</h2></div><div class=\"tabla-envoltorio\"><table class=\"tabla\"><thead><tr><th scope=\"col\">Dato</th><th scope=\"col\">Detalle</th></tr></thead><tbody><tr><th scope=\"row\">Precio en origen</th><td>158.000 yuanes</td></tr><tr><th scope=\"row\">Puesto en Argentina</th><td>A cotizar</td></tr><tr><th scope=\"row\">¿Se puede comprar?</th><td>Bajo pedido, versión global por confirmar</td></tr><tr><th scope=\"row\">Plazo</th><td>A consultar</td></tr><tr><th scope=\"row\">Altura</th><td>1,65 m</td></tr><tr><th scope=\"row\">Peso</th><td>menos de 55 kg con batería</td></tr><tr><th scope=\"row\">Grados de libertad</th><td>31 sin manos</td></tr><tr><th scope=\"row\">Versiones</th><td>Lite, EDU y Super</td></tr><tr><th scope=\"row\">Diseño</th><td>modular</td></tr></tbody></table></div><p class=\"tabla__nota\">Valores orientativos en dólares. Se confirman al cotizar.</p></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>El precio chino como punto de partida</h2><p>Los 158.000 yuanes de lanzamiento no incluyen el camino a Buenos Aires ni una edición determinada de desarrollo. Pedí incoterm, batería y accesorios en la misma hoja.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Modularidad que hay que demostrar</h2><p>Solicitá planos de interfaces y un ejemplo de cambio de extremo. Sin documentación, «modular» puede significar solo que se desmonta.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre LimX Oli en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Hay venta en Argentina?</summary><div class=\"pregunta__resp\"><p>No tenemos verificado un distribuidor.</p></div></details><details class=\"pregunta\"><summary>¿Trae manos?</summary><div class=\"pregunta__resp\"><p>Los 31 grados comunicados no incluyen extremos; consultá opciones.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otras marcas y modelos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/reachy-2/\">Reachy 2</a></h3></li><li><h3><a href=\"/ar/reachy-mini/\">Reachy Mini</a></h3></li><li><h3><a href=\"/ar/hexagon-aeon/\">Hexagon AEON</a></h3></li><li><h3><a href=\"/ar/engineered-arts-ameca/\">Robot Ameca</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/marcas/\">Ver todas las marcas</a></p></div></section>"
+}

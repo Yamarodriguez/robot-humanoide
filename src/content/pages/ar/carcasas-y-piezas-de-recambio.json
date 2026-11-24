@@ -1,0 +1,29 @@
+{
+  "titulo": "Carcasas y Repuestos para Robots en Argentina",
+  "url": "/ar/carcasas-y-piezas-de-recambio/",
+  "slug": "carcasas-y-piezas-de-recambio",
+  "alterna": "/carcasas-y-piezas-de-recambio/",
+  "h1": "Carcasas y Repuestos para Robots en Argentina",
+  "entradilla": "Es lo primero que se raya y lo más fácil de resolver sin importar. La impresión 3D y el ploteo vehicular hacen buena parte del trabajo.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar disponibilidad"
+  },
+  "hero": "/img/accesorios/carcasas.svg",
+  "metaTitulo": "Carcasas y Repuestos para Robots Humanoides en Argentina",
+  "metaDescripcion": "Carcasas y repuestos para robots humanoides en Argentina: impresión 3D local, ploteo de marca, piezas originales y kit de urgencia.",
+  "focusKeyword": "carcasas y repuestos para robots en argentina",
+  "imagenPrincipal": "/img/accesorios/carcasas.svg",
+  "faq": [
+    {
+      "pregunta": "¿Puedo pintar el robot?",
+      "respuesta": "Las cubiertas sí, desmontadas. No pintes sensores ni antenas."
+    },
+    {
+      "pregunta": "¿Hay archivos 3D oficiales?",
+      "respuesta": "Algunos fabricantes publican modelos; revisá la licencia de uso."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué se puede hacer local</h2><ul><li>Cubiertas en PETG, ABS o nylon.</li><li>Ploteo con marca para eventos.</li><li>Fundas de tela contra polvo y rayones.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué no tapar</h2><p>Ventilaciones, sensores, parada de emergencia y salidas de batería. Una funda linda que recalienta un motor sale carísima.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Kit para llevar a un evento</h2><p>Tornillos, precintos, cinta, dos cubiertas, llaves y limpiador. Entra en una valija y salva la función.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Carcasas y Repuestos para Robots en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Puedo pintar el robot?</summary><div class=\"pregunta__resp\"><p>Las cubiertas sí, desmontadas. No pintes sensores ni antenas.</p></div></details><details class=\"pregunta\"><summary>¿Hay archivos 3D oficiales?</summary><div class=\"pregunta__resp\"><p>Algunos fabricantes publican modelos; revisá la licencia de uso.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros accesorios y repuestos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/bateria-para-robot-y-sistemas-de-carga/\">Baterías para Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/estaciones-de-carga/\">Estaciones de Carga para Robots</a></h3></li><li><h3><a href=\"/ar/sensores-de-robots/\">Sensores para Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/lidar-y-sensores-de-profundidad/\">LiDAR y Sensores de Profundidad</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/accesorios/\">Ver todos los accesorios</a></p></div></section>"
+}

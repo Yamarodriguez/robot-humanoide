@@ -1,0 +1,29 @@
+{
+  "titulo": "Unitree G1 en Argentina",
+  "url": "/ar/unitree-g1/",
+  "slug": "unitree-g1",
+  "alterna": "/unitree-g1/",
+  "h1": "Unitree G1 en Argentina",
+  "entradilla": "Es el humanoide por el que más se pregunta desde Argentina, y el que tiene la cuenta más clara: cerca de 16.000 dólares en fábrica que terminan en 23.000 a 28.000 con todo adentro.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar por este modelo"
+  },
+  "hero": "/img/marcas/unitree.svg",
+  "metaTitulo": "Unitree G1 en Argentina - Precio en Dólares e Importación",
+  "metaDescripcion": "Precio del Unitree G1 en Argentina: unos 16.000 USD en fábrica y entre 23.000 y 28.000 USD puesto en el país. Versiones, importación y repuestos.",
+  "focusKeyword": "unitree g1 en argentina",
+  "imagenPrincipal": "/img/marcas/unitree.svg",
+  "faq": [
+    {
+      "pregunta": "¿Se vende en Mercado Libre?",
+      "respuesta": "Pueden aparecer publicaciones. Pedí factura, despacho de importación y versión exacta antes de pagar."
+    },
+    {
+      "pregunta": "¿Sirve para una fábrica?",
+      "respuesta": "Para un piloto, sí. No viene con tareas industriales resueltas."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Unitree G1: ficha y precio en Argentina</h2></div><div class=\"tabla-envoltorio\"><table class=\"tabla\"><thead><tr><th scope=\"col\">Dato</th><th scope=\"col\">Detalle</th></tr></thead><tbody><tr><th scope=\"row\">Precio en origen</th><td>16.000 USD</td></tr><tr><th scope=\"row\">Puesto en Argentina</th><td>23.000 – 28.000 USD (estimado)</td></tr><tr><th scope=\"row\">¿Se puede comprar?</th><td>Sí, por importación formal</td></tr><tr><th scope=\"row\">Plazo</th><td>unos 60 días más flete y aduana</td></tr><tr><th scope=\"row\">Altura</th><td>1,32 m</td></tr><tr><th scope=\"row\">Peso</th><td>35 kg con batería</td></tr><tr><th scope=\"row\">Grados de libertad</th><td>23</td></tr><tr><th scope=\"row\">Velocidad</th><td>hasta 7 km/h</td></tr><tr><th scope=\"row\">Autonomía</th><td>unas 2 horas</td></tr><tr><th scope=\"row\">Sensores</th><td>LiDAR 3D + cámara de profundidad</td></tr><tr><th scope=\"row\">Par máx. rodilla</th><td>90 Nm</td></tr><tr><th scope=\"row\">Cómputo</th><td>CPU de 8 núcleos</td></tr><tr><th scope=\"row\">Manos</th><td>tres dedos, opcionales</td></tr><tr><th scope=\"row\">SDK</th><td>abierto, Python y ROS 2</td></tr></tbody></table></div><p class=\"tabla__nota\">Valores orientativos en dólares. Se confirman al cotizar.</p></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Básico o EDU: la decisión que más importa</h2><p>El básico camina, se levanta y hace demostraciones. El EDU habilita desarrollo con acceso a articulaciones y más cómputo. Una universidad o un integrador que compra el básico descubre tarde que no puede programar lo que quería.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cómo entra al país</h2><p>Por valor y peso no califica para courier. Va como importación formal, con despachante, y la batería de litio exige documentación de mercancía peligrosa. Detalle en <a href=\"/ar/importacion-y-gestion-aduanera/\">importación y aduana</a>.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué sumar al pedido</h2><ul><li>Batería extra, porque dura unas dos horas.</li><li>Un juego de actuadores de repuesto.</li><li>Arnés o soporte para las primeras pruebas.</li></ul></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Unitree G1 en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Se vende en Mercado Libre?</summary><div class=\"pregunta__resp\"><p>Pueden aparecer publicaciones. Pedí factura, despacho de importación y versión exacta antes de pagar.</p></div></details><details class=\"pregunta\"><summary>¿Sirve para una fábrica?</summary><div class=\"pregunta__resp\"><p>Para un piloto, sí. No viene con tareas industriales resueltas.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otras marcas y modelos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/unitree-r1/\">Unitree R1</a></h3></li><li><h3><a href=\"/ar/booster-robotics-k1/\">Booster K1</a></h3></li><li><h3><a href=\"/ar/noetix-bumi/\">Noetix Bumi</a></h3></li><li><h3><a href=\"/ar/ubtech/\">UBTech</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/marcas/\">Ver todas las marcas</a></p></div></section>"
+}

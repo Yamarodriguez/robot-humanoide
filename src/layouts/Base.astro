@@ -3,6 +3,9 @@ import site from '../data/site.json';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import Migas from '../components/Migas.astro';
+import Refuerzo from '../components/Refuerzo.astro';
+import cursosDetalle from '../data/cursos-detalle.json';
+import refuerzo from '../data/refuerzo.json';
 import nuevas from '../data/paginas-nuevas.json';
 import heroes from '../data/heroes.json';
 import '@fontsource-variable/space-grotesk';
@@ -14,7 +17,7 @@ const { pagina, baseImagenes = '' } = Astro.props;
 /* La imagen principal sale, por este orden: de la que traiga la propia
    página, o del mapa heroes.json. Si el archivo declarado no existe
    todavía, se sirve el marcador .svg del mismo nombre. */
-const declarado = heroes[pagina.url];
+const declarado = heroes[pagina.url] ?? heroes[pagina.alterna];
 import { resolverImagen, existe } from '../utils/imagenes.js';
 import { esAR, alternas } from '../utils/paises.js';
 const argentina = esAR(pagina.url);
@@ -103,15 +106,42 @@ const paginaWeb = {
 
 const bloques = [organizacion, migas, paginaWeb];
 
-if (pagina.faq && pagina.faq.length > 0) {
+// Preguntas de la página más las de la capa de refuerzo.
+const faqTotal = [...(pagina.faq ?? []), ...(refuerzo[pagina.url]?.faq ?? [])];
+if (faqTotal.length > 0) {
   bloques.push({
     '@type': 'FAQPage',
     '@id': canonical + '#faq',
-    mainEntity: pagina.faq.map((f) => ({
+    mainEntity: faqTotal.map((f) => ({
       '@type': 'Question',
       name: f.pregunta,
       acceptedAnswer: { '@type': 'Answer', text: f.respuesta },
     })),
+  });
+}
+
+// Ciudades: el servicio se declara con su zona. Cursos: ficha de curso.
+const ciudad = /^Robot Humanoide en (.+) - (España|Argentina)$/.exec(pagina.h1 ?? '');
+if (ciudad) {
+  bloques.push({
+    '@type': 'Service',
+    '@id': canonical + '#servicio',
+    name: pagina.h1,
+    serviceType: 'Venta, alquiler y formación en robots humanoides',
+    areaServed: {
+      '@type': 'City', name: ciudad[1],
+      containedInPlace: { '@type': 'Country', name: ciudad[2] },
+    },
+    provider: { '@id': site.dominio + '/#organizacion' },
+  });
+}
+if (pagina.slug in cursosDetalle) {
+  bloques.push({
+    '@type': 'Course',
+    '@id': canonical + '#curso',
+    name: pagina.h1,
+    description: pagina.metaDescripcion,
+    provider: { '@id': site.dominio + '/#organizacion' },
   });
 }
 
@@ -201,7 +231,11 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': bloques };
         )}
       </div>
 
+      <Refuerzo url={pagina.url} parte="arriba" />
+
       <slot />
+
+      <Refuerzo url={pagina.url} parte="abajo" />
     </main>
 
     <Footer />

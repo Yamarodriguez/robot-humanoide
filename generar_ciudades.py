@@ -8,8 +8,8 @@
 #
 # Uso:  python generar_ciudades.py
 # Toca solo los ficheros de ciudades presentes en ciudades.json (España, en
-# la raíz) y ciudades-ar.json (Argentina, en /ar/). santa-fe se deja como
-# está porque tiene contenido propio y ya posiciona.
+# la raíz) y ciudades-ar.json (Argentina, en /ar/). Después, ejecutar
+# generar_fichas_ar.py para que los enlaces de /ar/ apunten a /ar/.
 
 import hashlib
 import json

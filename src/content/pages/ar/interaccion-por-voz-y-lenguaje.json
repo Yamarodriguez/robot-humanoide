@@ -1,0 +1,29 @@
+{
+  "titulo": "Curso de Voz y Lenguaje para Robots en Argentina",
+  "url": "/ar/interaccion-por-voz-y-lenguaje/",
+  "slug": "interaccion-por-voz-y-lenguaje",
+  "alterna": "/interaccion-por-voz-y-lenguaje/",
+  "h1": "Curso de Voz y Lenguaje para Robots en Argentina",
+  "entradilla": "«Che, ¿me decís dónde queda el baño?» es una prueba dura para un robot importado. El curso trabaja sobre la cadena completa: escuchar, entender, decidir y contestar.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar fechas"
+  },
+  "hero": "/img/cursos/voz.svg",
+  "metaTitulo": "Curso de Interacción por Voz para Robots en Español Rioplatense",
+  "metaDescripcion": "Curso de voz y modelos de lenguaje para robots en Argentina: reconocimiento con acento local, voseo, latencia y control de respuestas.",
+  "focusKeyword": "curso de voz y lenguaje para robots en argentina",
+  "imagenPrincipal": "/img/cursos/voz.svg",
+  "faq": [
+    {
+      "pregunta": "¿Funciona sin internet?",
+      "respuesta": "En parte, con modelos chicos locales."
+    },
+    {
+      "pregunta": "¿Necesito un humanoide?",
+      "respuesta": "No. Se practica con parlante y micrófono."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Programa</h2><ul><li>Micrófonos, ruido y detección de turno de habla.</li><li>Reconocimiento con acentos del país.</li><li>Modelos de lenguaje con información propia y límites.</li><li>Voz sintética con voseo natural.</li><li>Acciones del robot disparadas por lenguaje.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Latencia desde Argentina</h2><p>Los servidores están lejos y cada tramo suma. Medimos cuánto tarda, qué conviene procesar a bordo y cómo disimular la espera con gestos.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Que no invente</h2><p>Se arma una batería de preguntas difíciles y se define cuándo el robot debe decir «no sé» o llamar a una persona.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Curso de Voz y Lenguaje para Robots en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Funciona sin internet?</summary><div class=\"pregunta__resp\"><p>En parte, con modelos chicos locales.</p></div></details><details class=\"pregunta\"><summary>¿Necesito un humanoide?</summary><div class=\"pregunta__resp\"><p>No. Se practica con parlante y micrófono.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros cursos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/manipulacion-y-agarre/\">Curso de Manipulación y Agarre Robótico</a></h3></li><li><h3><a href=\"/ar/certificacion-profesional/\">Certificación en Robótica Humanoide</a></h3></li><li><h3><a href=\"/ar/introduccion-a-la-robotica-humanoide/\">Curso de Introducción a la Robótica Humanoide</a></h3></li><li><h3><a href=\"/ar/programacion-con-sdk/\">Curso de Programación de Robots Humanoides</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/cursos/\">Ver todos los cursos</a></p></div></section>"
+}

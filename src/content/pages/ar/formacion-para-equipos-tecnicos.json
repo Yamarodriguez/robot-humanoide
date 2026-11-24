@@ -1,0 +1,29 @@
+{
+  "titulo": "Formación para Equipos Técnicos en Argentina",
+  "url": "/ar/formacion-para-equipos-tecnicos/",
+  "slug": "formacion-para-equipos-tecnicos",
+  "alterna": "/formacion-para-equipos-tecnicos/",
+  "h1": "Formación para Equipos Técnicos en Argentina",
+  "entradilla": "Un curso general enseña el robot; este enseña <strong>tu</strong> robot haciendo <strong>tu</strong> tarea. Se diseña después de un relevamiento.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar fechas"
+  },
+  "hero": "/img/cursos/equipos.svg",
+  "metaTitulo": "Formación In Company en Robótica Humanoide - Argentina",
+  "metaDescripcion": "Formación in company en robótica humanoide para equipos técnicos de empresas argentinas, armada sobre tu robot, tu tarea y tu planta.",
+  "focusKeyword": "formación para equipos técnicos en argentina",
+  "imagenPrincipal": "/img/cursos/equipos.svg",
+  "faq": [
+    {
+      "pregunta": "¿Cuál es el tamaño del grupo?",
+      "respuesta": "Entre cuatro y diez personas por robot."
+    },
+    {
+      "pregunta": "¿Queda material propio?",
+      "respuesta": "Sí, con procedimientos adaptados a tu instalación."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cómo se arma</h2><p>Entrevista con mantenimiento, sistemas y producción; definición de tres competencias que el equipo debe demostrar; práctica en planta y una evaluación frente al puesto.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Temas habituales según la industria</h2><ul><li><strong>Energía</strong>: rondas, registros y trabajo con conexión limitada.</li><li><strong>Autopartes</strong>: alimentación de línea y zonas compartidas.</li><li><strong>Servicios</strong>: voz, atención y protocolo con el público.</li></ul></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Turnos y sedes</h2><p>Se dicta repartido por turno para no parar la producción. Las empresas con varias plantas pueden formar instructores internos que repliquen el curso.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Formación para Equipos Técnicos en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Cuál es el tamaño del grupo?</summary><div class=\"pregunta__resp\"><p>Entre cuatro y diez personas por robot.</p></div></details><details class=\"pregunta\"><summary>¿Queda material propio?</summary><div class=\"pregunta__resp\"><p>Sí, con procedimientos adaptados a tu instalación.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros cursos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/seguridad-y-robotica-colaborativa/\">Curso de Seguridad en Robótica Colaborativa</a></h3></li><li><h3><a href=\"/ar/vision-artificial-y-percepcion/\">Curso de Visión Artificial para Robots</a></h3></li><li><h3><a href=\"/ar/aprendizaje-por-imitacion/\">Curso de Aprendizaje por Imitación</a></h3></li><li><h3><a href=\"/ar/simulacion-antes-del-despliegue/\">Curso de Simulación de Robots</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/cursos/\">Ver todos los cursos</a></p></div></section>"
+}

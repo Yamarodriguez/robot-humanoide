@@ -1,0 +1,29 @@
+{
+  "titulo": "Robots Humanoides Educativos en Argentina",
+  "url": "/ar/robots-educativos/",
+  "slug": "robots-educativos",
+  "alterna": "/robots-educativos/",
+  "h1": "Robots Humanoides Educativos en Argentina",
+  "entradilla": "En una escuela técnica el problema no suele ser el interés de los chicos sino qué pasa con el equipo al segundo año. Un robot educativo se elige por la facilidad para dar clase con él, no por la ficha más larga.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir asesoramiento"
+  },
+  "hero": "/wp-content/uploads/2025/03/robot-educativo.jpeg",
+  "metaTitulo": "Robots Humanoides Educativos para Escuelas de Argentina",
+  "metaDescripcion": "Robots humanoides para escuelas técnicas, terciarios y universidades de Argentina: qué comprar según el nivel, formas de financiarlo y errores comunes.",
+  "focusKeyword": "robots humanoides educativos en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/robot-educativo.jpeg",
+  "faq": [
+    {
+      "pregunta": "¿Cuántos alumnos trabajan con un robot?",
+      "respuesta": "Grupos de cuatro a seis sobre el equipo, y el resto en simulador, rotando."
+    },
+    {
+      "pregunta": "¿Entra por courier?",
+      "respuesta": "Los modelos chicos pueden entrar si el valor no supera el tope vigente del régimen."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué comprar según el nivel</h2><ul><li><strong>Primaria</strong>: kits chicos con programación por bloques. No hace falta un humanoide que camine.</li><li><strong>Secundaria técnica</strong>: humanoide de mesa o de gama de entrada con Python.</li><li><strong>Terciario y universidad</strong>: <a href=\"/ar/booster-robotics-k1/\">Booster K1</a> o <a href=\"/ar/unitree-g1/\">Unitree G1</a> con SDK abierto.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cómo se suele financiar</h2><p>Cooperadoras, programas provinciales y convenios con empresas son los caminos habituales. Para escuelas técnicas, consultá si está abierta la línea de Crédito Fiscal del INET, que permite a empresas aportar equipamiento. Las universidades nacionales cuentan con un régimen propio de importación para investigación: preguntá en la secretaría correspondiente.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Lo que hace fracasar la compra</h2><p>Un solo docente capacitado, wifi que no llega al taller y ningún repuesto. Pedí <a href=\"/ar/robotica-para-centros-educativos/\">capacitación docente</a> para al menos tres personas.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Robots Humanoides Educativos en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Cuántos alumnos trabajan con un robot?</summary><div class=\"pregunta__resp\"><p>Grupos de cuatro a seis sobre el equipo, y el resto en simulador, rotando.</p></div></details><details class=\"pregunta\"><summary>¿Entra por courier?</summary><div class=\"pregunta__resp\"><p>Los modelos chicos pueden entrar si el valor no supera el tope vigente del régimen.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros tipos de robots humanoides</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/robots-de-investigacion/\">Robots Humanoides de Investigación</a></h3></li><li><h3><a href=\"/ar/robots-medicos/\">Robots Humanoides Médicos</a></h3></li><li><h3><a href=\"/ar/robots-de-rehabilitacion/\">Robots de Rehabilitación</a></h3></li><li><h3><a href=\"/ar/robots-para-eventos/\">Robots Humanoides para Eventos</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/tipos/\">Ver todos los tipos</a></p></div></section>"
+}

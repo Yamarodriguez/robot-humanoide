@@ -1,0 +1,164 @@
+@bateria-para-robot-y-sistemas-de-carga|Baterías para Robots Humanoides en Argentina|Baterías para Robots Humanoides en Argentina - Importación y Cuidado|Baterías para robots humanoides en Argentina: compatibilidad, transporte de litio, calor, cortes de luz y descarte responsable.
+Es el accesorio que primero se pide y el más incómodo de traer. Una batería de humanoide supera el tamaño que las aerolíneas aceptan en equipaje y viaja como mercancía peligrosa.
+## Pedila junto con el robot
+Viajando en el mismo embarque se aprovecha la documentación (UN 38.3, ficha de seguridad) y el flete. Un envío suelto de urgencia puede costar casi lo mismo que la pieza.
+## Uso en clima argentino
+- En Cuyo y el norte, no cargues un pack caliente ni lo dejes en el auto.
+- En la Patagonia, guardalo bajo techo: el frío reduce la autonomía.
+- Con microcortes, usá protección de tensión en el cargador.
+## Señales de recambio
+Hinchazón, calentamiento o caída brusca de porcentaje. Aislá el pack y no lo tires a la basura: es residuo especial y se gestiona con un operador habilitado.
+? ¿Puedo armar una local?
+= No lo recomendamos: pierde la comunicación con el robot y es un riesgo de incendio.
+? ¿Cuánto dura?
+= Unas dos horas por carga en un G1, según el uso.
+
+@estaciones-de-carga|Estaciones de Carga para Robots en Argentina|Estaciones de Carga para Robots Humanoides en Argentina - 220 V|Estaciones de carga para robots humanoides en Argentina: 220 V, puesta a tierra, ficha, protección y ubicación segura.
+La instalación eléctrica decide más que la base. En galpones y escuelas viejas, lo primero es revisar tierra y disyuntor.
+## Requisitos eléctricos
+- Línea propia de 220 V y 50 Hz con térmica y diferencial.
+- Puesta a tierra medida, no supuesta.
+- Ficha compatible: aunque la china se parece a la nuestra, la polaridad está invertida. Usá el cable adecuado.
+## Dónde ubicarla
+Lugar ventilado, piso nivelado, sin materiales inflamables y con detector de humo. No en un pasillo de evacuación.
+## Acople automático o manual
+El automático sirve para rondas sin personal y exige que el modelo lo soporte. Para demostraciones o docencia, carga manual y dos baterías resulta más barato.
+? ¿Funciona con grupo electrógeno?
+= Con salida estable o inversor, sí. Con tensión irregular, se arriesga el cargador.
+? ¿Y con energía solar?
+= A través de un inversor de onda pura dimensionado.
+
+@sensores-de-robots|Sensores para Robots Humanoides en Argentina|Sensores para Robots en Argentina - Fuerza, Inerciales y Tacto|Sensores para robots humanoides en Argentina: qué se consigue local, qué hay que importar y cómo elegir según la tarea.
+Parte de los sensores se compra en casas de electrónica del país y parte no tiene reemplazo local. Saber cuál es cuál ahorra semanas.
+## Qué se suele conseguir acá
+Inerciales de uso didáctico, ultrasonido, distancia, temperatura y celdas de carga. Alcanzan para docencia y prototipos.
+## Qué hay que importar
+- Fuerza y par de seis ejes para muñeca o tobillo.
+- Encoders originales de articulación.
+- Piel táctil y sensores de dedos.
+## Cómo elegir
+Empezá por la pregunta: qué decisión toma el robot con ese dato. Si no hay una, el sensor sobra. Después mirá frecuencia, interfaz y calibración.
+? ¿Puedo cambiar un encoder por uno genérico?
+= Casi nunca: el firmware espera el original.
+? ¿Entran por courier?
+= Muchos sí, por valor y tamaño.
+
+@lidar-y-sensores-de-profundidad|LiDAR y Sensores de Profundidad en Argentina|LiDAR para Robots en Argentina - Modelos y Compra|LiDAR y cámaras de profundidad para robots en Argentina: interior, polvo, sol, importación y cuándo alcanza con un sensor económico.
+Un LiDAR de interior trabaja bien en una oficina de Puerto Madero y puede volverse loco en un acopio con polvo en suspensión. El entorno elige el sensor.
+## Según dónde trabaje
+- **Oficina o aula**: cámara de profundidad.
+- **Depósito**: LiDAR 2D o 3D para mapa y obstáculos.
+- **Campo o acopio**: buen rechazo de sol, sellado y limpieza frecuente.
+## Comprar en Argentina
+Hay sensores 2D de bajo costo en tiendas de robótica. Los 3D se importan; por tratarse de láser, pedí la clase de seguridad ocular (clase 1) en la documentación.
+## Cuidado del lente
+Paño de microfibra y aire limpio. El alcohol de farmacia puede dañar algunos recubrimientos.
+? ¿El G1 ya trae?
+= Sí, LiDAR 3D y cámara de profundidad según la ficha del fabricante.
+? ¿Ve vidrios?
+= Mal. Señalizá mamparas o limitá la zona en el mapa.
+
+@camara-robot-alta-precision|Cámaras para Robots en Argentina|Cámaras de Alta Precisión para Robots en Argentina|Cámaras para robots humanoides en Argentina: estéreo, infrarroja y térmica, elección según la tarea, datos personales y compra.
+Antes de pedir más megapíxeles, pensá en la luz. La mayoría de las fallas de visión que vemos en galpones se arregla con iluminación pareja.
+## Qué cámara para qué
+- **RGB global shutter**: leer códigos en movimiento.
+- **Estéreo o profundidad**: ubicar objetos a mano.
+- **Infrarroja**: rondas nocturnas.
+- **Térmica**: tableros y motores; verificá si el modelo tiene restricciones de exportación en origen.
+## Integración
+Confirmá conexión, soporte en Linux y lugar para el montaje. Una cámara USB barata por cabeza puede saturar el bus del robot.
+## Privacidad
+Si enfoca a personas, aplicá la Ley 25.326: cartel, plazo de guarda y acceso limitado.
+? ¿Se reemplaza la cámara original?
+= En general se suma otra, sin tocar la de fábrica.
+? ¿Qué resolución necesito?
+= La que ponga al menos veinte píxeles sobre el detalle a reconocer.
+
+@procesadores-y-software-de-ia|Procesadores e IA para Robots en Argentina|Procesadores y Software de IA para Robots en Argentina|Cómputo a bordo y software de IA para robots en Argentina: placas Jetson, nube, latencia y licencias. Qué conviene comprar.
+Con centros de datos lejos y conexiones dispares, en Argentina conviene que lo importante corra en el robot. El equilibrio nunca puede depender de internet.
+## Repartir el trabajo
+- **A bordo**: equilibrio, obstáculos y parada.
+- **PC local**: visión pesada y mapas.
+- **Nube**: conversación y análisis no urgente.
+## Comprar la placa
+Los módulos Jetson tienen revendedores locales, a menudo con sobreprecio. Compará con la importación y controlá que sea la memoria que pide tu modelo. Las versiones EDU de algunos robots ya la traen.
+## Costos en dólares que se olvidan
+Servicios de IA por uso, almacenamiento y licencias mensuales, más los impuestos a servicios digitales del exterior. Poné un tope desde el inicio.
+? ¿Puedo usar modelos abiertos?
+= Sí, y evitan pagos por consulta si tenés cómputo.
+? ¿El 4G alcanza?
+= Para supervisión sí; para control en tiempo real, no.
+
+@piezas-mecanicas-y-brazos-roboticos|Piezas Mecánicas y Brazos Robóticos en Argentina|Piezas Mecánicas y Brazos Robóticos en Argentina|Piezas mecánicas y brazos para robots en Argentina: qué se mecaniza localmente, qué se importa y cómo evitar daños por copias.
+La red de talleres CNC de Córdoba, Rafaela, Rosario y el conurbano permite resolver acá muchas piezas estructurales que en otros países se esperan por correo.
+## Qué se puede fabricar local
+- Soportes, adaptadores y herramental de brazo.
+- Placas de aluminio y separadores.
+- Prototipos impresos en nylon o con fibra.
+## Qué conviene original
+Ejes de articulación, rodamientos especiales y piezas tratadas. Una diferencia de centésimas termina en vibración y en un actuador roto.
+## Cómo pedir un mecanizado
+Plano con tolerancias, material con norma y una pieza de muestra. Guardá medidas antes de la primera rotura.
+? ¿Un brazo suelto sirve para practicar?
+= Sí, y cuesta mucho menos que un humanoide.
+? ¿Pierdo garantía si modifico?
+= Es probable. Consultá al fabricante.
+
+@actuadores-y-servomotores|Actuadores y Servomotores para Robots en Argentina|Actuadores y Servomotores para Robots en Argentina|Actuadores para robots humanoides en Argentina: qué repuestos tener en stock, síntomas de falla, importación y alternativas para docencia.
+Rodillas y tobillos reciben cada paso y cada caída. Quien importa un humanoide sin actuadores de repuesto suele tener el robot parado en el primer semestre de uso intenso.
+## Qué guardar en el cajón
+Uno de rodilla y uno de tobillo para uso liviano; el doble para investigación. Anotá número de parte y lado: no siempre son intercambiables.
+## Síntomas
+- Temperatura distinta entre piernas.
+- Juego al mover con el robot apagado.
+- Zumbido o error repetido del mismo motor.
+## Traerlos
+Al ser livianos, pueden calificar para courier si el valor entra. El despachante o el operador confirma la posición. Evitá repuestos sin trazabilidad.
+? ¿Se rebobinan acá?
+= No es habitual ni recomendable; se cambia el conjunto.
+? ¿Y para estudiantes?
+= Servos con bus serie de bajo costo, que se consiguen en el país.
+
+@reductoras-y-transmisiones|Reductoras y Transmisiones para Robots en Argentina|Reductoras para Robots en Argentina - Armónicas y Planetarias|Reductoras armónicas y planetarias para robots en Argentina: diferencias, desgaste, lubricación y cómo conseguir el repuesto.
+Entre el motor y el movimiento hay un reductor, y de su juego depende que la mano llegue donde debe. Es una pieza silenciosa hasta que deja de serlo.
+## Planetaria o armónica
+**Planetaria**: aguanta golpes y cuesta menos; habitual en piernas. **Armónica**: casi sin juego, cara y sensible al impacto; habitual en brazos de precisión.
+## Detectar el desgaste
+Medí la holgura con el robot apagado y repetí cada mes. La tendencia importa más que el valor. Virutas en la grasa son motivo para detener el equipo.
+## Repuesto en Argentina
+Suele venir integrado con el [[actuadores-y-servomotores|actuador]], y cambiar el conjunto es lo práctico. Para proyectos propios, hay reductores planetarios industriales de origen nacional en tamaños mayores.
+? ¿Le pongo cualquier grasa?
+= No. Usá la especificada; una equivocada acorta la vida.
+? ¿Cuánto dura?
+= Depende de carga y caídas, por eso se mide.
+
+@manos-diestras-y-pinzas|Manos Diestras y Pinzas Robóticas en Argentina|Manos Robóticas y Pinzas en Argentina - Cuál Elegir|Manos diestras y pinzas para robots en Argentina: cuándo alcanza una pinza, compatibilidad, costos de importación y repuestos de dedos.
+La mano puede costar tanto como una parte importante del robot. Antes de pagarla en dólares, probá si una pinza impresa hace el trabajo.
+## Cuál elegir
+- **Pinza de dos dedos**: cajas, botellas, piezas rígidas.
+- **Tres dedos**: objetos variados con robustez.
+- **Mano de cinco dedos**: herramientas, investigación y teleoperación.
+- **Ventosa**: cartón y superficies lisas.
+## Compatibilidad
+Confirmá brida, tensión, protocolo y carga de muñeca. Una mano de 800 gramos le resta eso mismo a lo que el brazo puede levantar.
+## Lo que se gasta
+Yemas, tendones y cables. Pedí un juego extra en el mismo envío; las yemas de silicona también se pueden moldear localmente.
+? ¿El G1 básico incluye manos diestras?
+= Son opcionales y dependen de la versión.
+? ¿Puede manipular alimentos?
+= Solo con materiales aptos y cubierta higiénica.
+
+@carcasas-y-piezas-de-recambio|Carcasas y Repuestos para Robots en Argentina|Carcasas y Repuestos para Robots Humanoides en Argentina|Carcasas y repuestos para robots humanoides en Argentina: impresión 3D local, ploteo de marca, piezas originales y kit de urgencia.
+Es lo primero que se raya y lo más fácil de resolver sin importar. La impresión 3D y el ploteo vehicular hacen buena parte del trabajo.
+## Qué se puede hacer local
+- Cubiertas en PETG, ABS o nylon.
+- Ploteo con marca para eventos.
+- Fundas de tela contra polvo y rayones.
+## Qué no tapar
+Ventilaciones, sensores, parada de emergencia y salidas de batería. Una funda linda que recalienta un motor sale carísima.
+## Kit para llevar a un evento
+Tornillos, precintos, cinta, dos cubiertas, llaves y limpiador. Entra en una valija y salva la función.
+? ¿Puedo pintar el robot?
+= Las cubiertas sí, desmontadas. No pintes sensores ni antenas.
+? ¿Hay archivos 3D oficiales?
+= Algunos fabricantes publican modelos; revisá la licencia de uso.

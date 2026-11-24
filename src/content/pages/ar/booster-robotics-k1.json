@@ -1,0 +1,29 @@
+{
+  "titulo": "Booster K1 en Argentina",
+  "url": "/ar/booster-robotics-k1/",
+  "slug": "booster-robotics-k1",
+  "alterna": "/booster-robotics-k1/",
+  "h1": "Booster K1 en Argentina",
+  "entradilla": "Para una facultad que compite en RoboCup o quiere armarse un equipo, el K1 es un candidato natural: compacto, pensado para caerse y volver a empezar.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar por este modelo"
+  },
+  "hero": "/img/marcas/booster-k1.svg",
+  "metaTitulo": "Booster Robotics K1 en Argentina - Plataforma para Universidades",
+  "metaDescripcion": "Booster K1 en Argentina: humanoide compacto con SDK abierto y ROS para fútbol robótico, docencia e investigación. Cómo pedirlo.",
+  "focusKeyword": "booster k1 en argentina",
+  "imagenPrincipal": "/img/marcas/booster-k1.svg",
+  "faq": [
+    {
+      "pregunta": "¿Se consigue el repuesto?",
+      "respuesta": "Por importación. Conviene pedir articulaciones extra en el mismo envío."
+    },
+    {
+      "pregunta": "¿Es apto para secundaria?",
+      "respuesta": "Con docentes de programación, sí."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Booster K1: ficha y precio en Argentina</h2></div><div class=\"tabla-envoltorio\"><table class=\"tabla\"><thead><tr><th scope=\"col\">Dato</th><th scope=\"col\">Detalle</th></tr></thead><tbody><tr><th scope=\"row\">Precio en origen</th><td>Consultar</td></tr><tr><th scope=\"row\">Puesto en Argentina</th><td>A cotizar</td></tr><tr><th scope=\"row\">¿Se puede comprar?</th><td>Sí, bajo pedido</td></tr><tr><th scope=\"row\">Plazo</th><td>Según stock del fabricante</td></tr><tr><th scope=\"row\">SDK</th><td>abierto</td></tr><tr><th scope=\"row\">Compatibilidad</th><td>ROS</td></tr><tr><th scope=\"row\">Orientación</th><td>desarrollo e investigación</td></tr></tbody></table></div><p class=\"tabla__nota\">Valores orientativos en dólares. Se confirman al cotizar.</p></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Por qué interesa en la universidad</h2><ul><li>SDK abierto y compatibilidad con ROS.</li><li>Tamaño manejable: entra en un auto y en un aula.</li><li>Comunidad orientada a fútbol robótico y control de marcha.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>K1 o G1 para un laboratorio</h2><p>El K1 sale menos y tolera mejor el uso de estudiantes. El <a href=\"/ar/unitree-g1/\">G1</a> tiene más literatura y más alcance para manipulación. Si vas a publicar sobre locomoción, ambos sirven; decidí por presupuesto y simulador.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cómo comprarlo desde Argentina</h2><p>No hay lista de precios local. Se pide proforma al fabricante o a un distribuidor y se calcula el costo puesto acá. Una universidad debería consultar el régimen de importación para ciencia antes de la orden de compra.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Booster K1 en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Se consigue el repuesto?</summary><div class=\"pregunta__resp\"><p>Por importación. Conviene pedir articulaciones extra en el mismo envío.</p></div></details><details class=\"pregunta\"><summary>¿Es apto para secundaria?</summary><div class=\"pregunta__resp\"><p>Con docentes de programación, sí.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otras marcas y modelos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/noetix-bumi/\">Noetix Bumi</a></h3></li><li><h3><a href=\"/ar/ubtech/\">UBTech</a></h3></li><li><h3><a href=\"/ar/fourier-intelligence-gr-2/\">Fourier GR-2</a></h3></li><li><h3><a href=\"/ar/neura-robotics-4ne-1/\">Neura 4NE-1</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/marcas/\">Ver todas las marcas</a></p></div></section>"
+}

@@ -1,0 +1,29 @@
+{
+  "titulo": "Sensores para Robots Humanoides en Argentina",
+  "url": "/ar/sensores-de-robots/",
+  "slug": "sensores-de-robots",
+  "alterna": "/sensores-de-robots/",
+  "h1": "Sensores para Robots Humanoides en Argentina",
+  "entradilla": "Parte de los sensores se compra en casas de electrónica del país y parte no tiene reemplazo local. Saber cuál es cuál ahorra semanas.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar disponibilidad"
+  },
+  "hero": "/wp-content/uploads/2025/03/sensores-robots.jpeg",
+  "metaTitulo": "Sensores para Robots en Argentina - Fuerza, Inerciales y Tacto",
+  "metaDescripcion": "Sensores para robots humanoides en Argentina: qué se consigue local, qué hay que importar y cómo elegir según la tarea.",
+  "focusKeyword": "sensores para robots humanoides en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/sensores-robots.jpeg",
+  "faq": [
+    {
+      "pregunta": "¿Puedo cambiar un encoder por uno genérico?",
+      "respuesta": "Casi nunca: el firmware espera el original."
+    },
+    {
+      "pregunta": "¿Entran por courier?",
+      "respuesta": "Muchos sí, por valor y tamaño."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué se suele conseguir acá</h2><p>Inerciales de uso didáctico, ultrasonido, distancia, temperatura y celdas de carga. Alcanzan para docencia y prototipos.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué hay que importar</h2><ul><li>Fuerza y par de seis ejes para muñeca o tobillo.</li><li>Encoders originales de articulación.</li><li>Piel táctil y sensores de dedos.</li></ul></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cómo elegir</h2><p>Empezá por la pregunta: qué decisión toma el robot con ese dato. Si no hay una, el sensor sobra. Después mirá frecuencia, interfaz y calibración.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Sensores para Robots Humanoides en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Puedo cambiar un encoder por uno genérico?</summary><div class=\"pregunta__resp\"><p>Casi nunca: el firmware espera el original.</p></div></details><details class=\"pregunta\"><summary>¿Entran por courier?</summary><div class=\"pregunta__resp\"><p>Muchos sí, por valor y tamaño.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros accesorios y repuestos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/lidar-y-sensores-de-profundidad/\">LiDAR y Sensores de Profundidad</a></h3></li><li><h3><a href=\"/ar/camara-robot-alta-precision/\">Cámaras para Robots</a></h3></li><li><h3><a href=\"/ar/procesadores-y-software-de-ia/\">Procesadores e IA para Robots</a></h3></li><li><h3><a href=\"/ar/piezas-mecanicas-y-brazos-roboticos/\">Piezas Mecánicas y Brazos Robóticos</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/accesorios/\">Ver todos los accesorios</a></p></div></section>"
+}

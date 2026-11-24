@@ -1,0 +1,29 @@
+{
+  "titulo": "TALOS de PAL Robotics en Argentina",
+  "url": "/ar/pal-robotics-talos/",
+  "slug": "pal-robotics-talos",
+  "alterna": "/pal-robotics-talos/",
+  "h1": "TALOS de PAL Robotics en Argentina",
+  "entradilla": "Un fabricante que responde en español ayuda, aunque TALOS siga siendo una inversión de gran laboratorio. Su lugar natural es un proyecto compartido.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar por este modelo"
+  },
+  "hero": "/img/marcas/pal-robotics-talos.svg",
+  "metaTitulo": "TALOS en Argentina - Humanoide Español para Investigación",
+  "metaDescripcion": "TALOS de PAL Robotics en Argentina: 1,75 m, ROS y control de par. Cuándo tiene sentido para universidades y CONICET.",
+  "focusKeyword": "talos de pal robotics en argentina",
+  "imagenPrincipal": "/img/marcas/pal-robotics-talos.svg",
+  "faq": [
+    {
+      "pregunta": "¿Se puede usar a distancia?",
+      "respuesta": "Puede acordarse acceso remoto o colaboración con un centro, sin importar el equipo."
+    },
+    {
+      "pregunta": "¿Funciona con ROS?",
+      "respuesta": "Sí, forma parte de su ecosistema."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>TALOS de PAL Robotics: ficha y precio en Argentina</h2></div><div class=\"tabla-envoltorio\"><table class=\"tabla\"><thead><tr><th scope=\"col\">Dato</th><th scope=\"col\">Detalle</th></tr></thead><tbody><tr><th scope=\"row\">Precio en origen</th><td>A consultar</td></tr><tr><th scope=\"row\">Puesto en Argentina</th><td>A cotizar por proyecto</td></tr><tr><th scope=\"row\">¿Se puede comprar?</th><td>Sí, para investigación</td></tr><tr><th scope=\"row\">Plazo</th><td>A consultar</td></tr><tr><th scope=\"row\">Altura</th><td>1,75 m</td></tr><tr><th scope=\"row\">Peso</th><td>95–100 kg según fuente</td></tr><tr><th scope=\"row\">Grados de libertad</th><td>32</td></tr><tr><th scope=\"row\">Carga</th><td>6 kg por brazo</td></tr><tr><th scope=\"row\">Software</th><td>ROS</td></tr><tr><th scope=\"row\">Fabricante</th><td>PAL Robotics, Barcelona</td></tr></tbody></table></div><p class=\"tabla__nota\">Valores orientativos en dólares. Se confirman al cotizar.</p></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Por qué un grupo argentino lo estudiaría</h2><p>El control de par permite investigar contacto, equilibrio y fuerza. Antes del hardware, el modelo de simulación puede formar al equipo.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cooperación y financiamiento</h2><p>Un consorcio con España puede repartir horas, estadías y experimentos. Definí dónde queda el robot y quién asume reparación antes de firmar.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre TALOS de PAL Robotics en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Se puede usar a distancia?</summary><div class=\"pregunta__resp\"><p>Puede acordarse acceso remoto o colaboración con un centro, sin importar el equipo.</p></div></details><details class=\"pregunta\"><summary>¿Funciona con ROS?</summary><div class=\"pregunta__resp\"><p>Sí, forma parte de su ecosistema.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otras marcas y modelos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/pal-robotics-kangaroo/\">Kangaroo de PAL Robotics</a></h3></li><li><h3><a href=\"/ar/apptronik-apollo/\">Apptronik Apollo</a></h3></li><li><h3><a href=\"/ar/xpeng-iron/\">XPeng IRON</a></h3></li><li><h3><a href=\"/ar/fourier-gr-3/\">Fourier GR-3</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/marcas/\">Ver todas las marcas</a></p></div></section>"
+}

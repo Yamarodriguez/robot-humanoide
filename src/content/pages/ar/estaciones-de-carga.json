@@ -1,0 +1,29 @@
+{
+  "titulo": "Estaciones de Carga para Robots en Argentina",
+  "url": "/ar/estaciones-de-carga/",
+  "slug": "estaciones-de-carga",
+  "alterna": "/estaciones-de-carga/",
+  "h1": "Estaciones de Carga para Robots en Argentina",
+  "entradilla": "La instalación eléctrica decide más que la base. En galpones y escuelas viejas, lo primero es revisar tierra y disyuntor.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar disponibilidad"
+  },
+  "hero": "/img/accesorios/carga.svg",
+  "metaTitulo": "Estaciones de Carga para Robots Humanoides en Argentina - 220 V",
+  "metaDescripcion": "Estaciones de carga para robots humanoides en Argentina: 220 V, puesta a tierra, ficha, protección y ubicación segura.",
+  "focusKeyword": "estaciones de carga para robots en argentina",
+  "imagenPrincipal": "/img/accesorios/carga.svg",
+  "faq": [
+    {
+      "pregunta": "¿Funciona con grupo electrógeno?",
+      "respuesta": "Con salida estable o inversor, sí. Con tensión irregular, se arriesga el cargador."
+    },
+    {
+      "pregunta": "¿Y con energía solar?",
+      "respuesta": "A través de un inversor de onda pura dimensionado."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Requisitos eléctricos</h2><ul><li>Línea propia de 220 V y 50 Hz con térmica y diferencial.</li><li>Puesta a tierra medida, no supuesta.</li><li>Ficha compatible: aunque la china se parece a la nuestra, la polaridad está invertida. Usá el cable adecuado.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Dónde ubicarla</h2><p>Lugar ventilado, piso nivelado, sin materiales inflamables y con detector de humo. No en un pasillo de evacuación.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Acople automático o manual</h2><p>El automático sirve para rondas sin personal y exige que el modelo lo soporte. Para demostraciones o docencia, carga manual y dos baterías resulta más barato.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Estaciones de Carga para Robots en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Funciona con grupo electrógeno?</summary><div class=\"pregunta__resp\"><p>Con salida estable o inversor, sí. Con tensión irregular, se arriesga el cargador.</p></div></details><details class=\"pregunta\"><summary>¿Y con energía solar?</summary><div class=\"pregunta__resp\"><p>A través de un inversor de onda pura dimensionado.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros accesorios y repuestos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/sensores-de-robots/\">Sensores para Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/lidar-y-sensores-de-profundidad/\">LiDAR y Sensores de Profundidad</a></h3></li><li><h3><a href=\"/ar/camara-robot-alta-precision/\">Cámaras para Robots</a></h3></li><li><h3><a href=\"/ar/procesadores-y-software-de-ia/\">Procesadores e IA para Robots</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/accesorios/\">Ver todos los accesorios</a></p></div></section>"
+}

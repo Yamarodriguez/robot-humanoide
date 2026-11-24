@@ -1,0 +1,29 @@
+{
+  "titulo": "1X NEO en Argentina",
+  "url": "/ar/1x-technologies-neo/",
+  "slug": "1x-technologies-neo",
+  "alterna": "/1x-technologies-neo/",
+  "h1": "1X NEO en Argentina",
+  "entradilla": "Respuesta corta: hoy no. NEO se comercializa en Estados Unidos, por 20.000 dólares o una suscripción de 499 mensuales, y no hay fecha anunciada para Argentina.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar por este modelo"
+  },
+  "hero": "/img/marcas/1x-neo.svg",
+  "metaTitulo": "1X NEO en Argentina - ¿Se Puede Comprar?",
+  "metaDescripcion": "1X NEO en Argentina: precio de 20.000 USD o 499 USD al mes, por qué todavía no se vende acá y qué alternativas hay.",
+  "focusKeyword": "1x neo en argentina",
+  "imagenPrincipal": "/img/marcas/1x-neo.svg",
+  "faq": [
+    {
+      "pregunta": "¿La suscripción se puede pagar desde acá?",
+      "respuesta": "El medio de pago no es el obstáculo: el servicio no está habilitado para el país."
+    },
+    {
+      "pregunta": "¿Me avisan cuando llegue?",
+      "respuesta": "Sí, dejanos tu contacto."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>1X NEO: ficha y precio en Argentina</h2></div><div class=\"tabla-envoltorio\"><table class=\"tabla\"><thead><tr><th scope=\"col\">Dato</th><th scope=\"col\">Detalle</th></tr></thead><tbody><tr><th scope=\"row\">Precio en origen</th><td>20.000 USD o 499 USD/mes</td></tr><tr><th scope=\"row\">Puesto en Argentina</th><td>No disponible</td></tr><tr><th scope=\"row\">¿Se puede comprar?</th><td>No, solo Estados Unidos por ahora</td></tr><tr><th scope=\"row\">Plazo</th><td>Sin fecha para Argentina</td></tr><tr><th scope=\"row\">Diseñado para</th><td>vivienda</td></tr><tr><th scope=\"row\">Aprendizaje</th><td>por guiado humano</td></tr><tr><th scope=\"row\">Autonomía</th><td>vuelve a base cada pocas horas</td></tr><tr><th scope=\"row\">Acabado</th><td>recubrimiento textil</td></tr></tbody></table></div><p class=\"tabla__nota\">Valores orientativos en dólares. Se confirman al cotizar.</p></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Por qué no alcanza con mandarlo a un casillero</h2><p>NEO depende de un servicio: actualizaciones, soporte y asistencia remota del fabricante. Un equipo reenviado a Buenos Aires podría quedar sin activación ni garantía, y el costo de importarlo ya estaría pagado.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>La cuestión de la teleoperación</h2><p>Cuando no sabe hacer algo, un operador puede guiarlo a distancia viendo tu casa. Antes de desear uno, preguntate quién mira, desde qué país y qué se guarda. La Ley 25.326 regula la transferencia internacional de datos.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué hacer mientras tanto</h2><p>Si querés experimentar, el <a href=\"/ar/unitree-r1/\">Unitree R1</a> es importable. Si querés ayuda doméstica, <a href=\"/ar/robots-para-el-hogar/\">conviene esperar</a>.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre 1X NEO en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿La suscripción se puede pagar desde acá?</summary><div class=\"pregunta__resp\"><p>El medio de pago no es el obstáculo: el servicio no está habilitado para el país.</p></div></details><details class=\"pregunta\"><summary>¿Me avisan cuando llegue?</summary><div class=\"pregunta__resp\"><p>Sí, dejanos tu contacto.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otras marcas y modelos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/agility-robotics-digit/\">Agility Digit</a></h3></li><li><h3><a href=\"/ar/figure-ai-figure-03/\">Figure 03</a></h3></li><li><h3><a href=\"/ar/robot-tesla-bot-optimus/\">Tesla Optimus</a></h3></li><li><h3><a href=\"/ar/robot-boston-dynamics-atlas/\">Boston Dynamics Atlas</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/marcas/\">Ver todas las marcas</a></p></div></section>"
+}

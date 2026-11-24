@@ -121,6 +121,66 @@
     {
       "texto": "Noetix Bumi",
       "url": "/noetix-bumi/"
+    },
+    {
+      "texto": "AgiBot X2",
+      "url": "/agibot-x2/"
+    },
+    {
+      "texto": "Unitree H2",
+      "url": "/unitree-h2/"
+    },
+    {
+      "texto": "EngineAI PM01",
+      "url": "/engineai-pm01/"
+    },
+    {
+      "texto": "EngineAI T800",
+      "url": "/engineai-t800/"
+    },
+    {
+      "texto": "PAL Robotics TALOS",
+      "url": "/pal-robotics-talos/"
+    },
+    {
+      "texto": "PAL Robotics Kangaroo",
+      "url": "/pal-robotics-kangaroo/"
+    },
+    {
+      "texto": "Apptronik Apollo",
+      "url": "/apptronik-apollo/"
+    },
+    {
+      "texto": "XPeng IRON",
+      "url": "/xpeng-iron/"
+    },
+    {
+      "texto": "Fourier GR-3",
+      "url": "/fourier-gr-3/"
+    },
+    {
+      "texto": "LimX Oli",
+      "url": "/limx-oli/"
+    },
+    {
+      "texto": "Reachy 2",
+      "url": "/reachy-2/"
+    },
+    {
+      "texto": "Reachy Mini",
+      "url": "/reachy-mini/"
+    },
+    {
+      "texto": "Hexagon AEON",
+      "url": "/hexagon-aeon/"
+    },
+    {
+      "texto": "Ameca",
+      "url": "/engineered-arts-ameca/"
+    },
+    {
+      "texto": "Kepler K2 Bumblebee",
+      "url": "/kepler-k2/"
     }
   ],
   "/servicios/": [

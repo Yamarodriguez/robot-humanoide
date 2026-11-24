@@ -1,0 +1,29 @@
+{
+  "titulo": "Robot Ameca en Argentina",
+  "url": "/ar/engineered-arts-ameca/",
+  "slug": "engineered-arts-ameca",
+  "alterna": "/engineered-arts-ameca/",
+  "h1": "Robot Ameca en Argentina",
+  "entradilla": "Ameca mira y sonríe con una naturalidad que llena pantallas. Traerla es montar una instalación internacional, no alquilar una notebook con cara.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar por este modelo"
+  },
+  "hero": "/img/marcas/engineered-arts-ameca.svg",
+  "metaTitulo": "Robot Ameca en Argentina - Contratación y Precio",
+  "metaDescripcion": "Ameca en Argentina: robot de expresión facial para museos y eventos. Qué hace, por qué no camina y cómo contratarlo.",
+  "focusKeyword": "robot ameca en argentina",
+  "imagenPrincipal": "/img/marcas/engineered-arts-ameca.svg",
+  "faq": [
+    {
+      "pregunta": "¿Ameca tiene emociones?",
+      "respuesta": "No. Reproduce expresiones y conversa mediante software."
+    },
+    {
+      "pregunta": "¿Camina por el escenario?",
+      "respuesta": "Se presenta como instalación de interacción, sin desplazamiento autónomo."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Robot Ameca: ficha y precio en Argentina</h2></div><div class=\"tabla-envoltorio\"><table class=\"tabla\"><thead><tr><th scope=\"col\">Dato</th><th scope=\"col\">Detalle</th></tr></thead><tbody><tr><th scope=\"row\">Precio en origen</th><td>A consultar; estimaciones externas muy dispares</td></tr><tr><th scope=\"row\">Puesto en Argentina</th><td>A cotizar</td></tr><tr><th scope=\"row\">¿Se puede comprar?</th><td>Por contrato con Engineered Arts</td></tr><tr><th scope=\"row\">Plazo</th><td>A consultar</td></tr><tr><th scope=\"row\">Fabricante</th><td>Engineered Arts, Reino Unido</td></tr><tr><th scope=\"row\">Altura</th><td>1,80–1,87 m según fuente</td></tr><tr><th scope=\"row\">Peso</th><td>fuentes contradictorias</td></tr><tr><th scope=\"row\">Especialidad</th><td>expresión facial y conversación</td></tr><tr><th scope=\"row\">Software</th><td>Tritium</td></tr></tbody></table></div><p class=\"tabla__nota\">Valores orientativos en dólares. Se confirman al cotizar.</p></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Para un museo</h2><p>Una estadía larga amortiza transporte y adaptación. Conviene preparar preguntas en castellano y decir claramente qué respuestas genera un modelo.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Para una noche</h2><p>Los costos pueden superar al impacto. Un humanoide disponible localmente con guion propio resuelve muchos lanzamientos.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Robot Ameca en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Ameca tiene emociones?</summary><div class=\"pregunta__resp\"><p>No. Reproduce expresiones y conversa mediante software.</p></div></details><details class=\"pregunta\"><summary>¿Camina por el escenario?</summary><div class=\"pregunta__resp\"><p>Se presenta como instalación de interacción, sin desplazamiento autónomo.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otras marcas y modelos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/kepler-k2/\">Kepler K2</a></h3></li><li><h3><a href=\"/ar/unitree-g1/\">Unitree G1</a></h3></li><li><h3><a href=\"/ar/unitree-r1/\">Unitree R1</a></h3></li><li><h3><a href=\"/ar/booster-robotics-k1/\">Booster K1</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/marcas/\">Ver todas las marcas</a></p></div></section>"
+}

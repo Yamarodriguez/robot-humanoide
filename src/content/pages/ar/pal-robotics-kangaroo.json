@@ -1,0 +1,29 @@
+{
+  "titulo": "Kangaroo de PAL Robotics en Argentina",
+  "url": "/ar/pal-robotics-kangaroo/",
+  "slug": "pal-robotics-kangaroo",
+  "alterna": "/pal-robotics-kangaroo/",
+  "h1": "Kangaroo de PAL Robotics en Argentina",
+  "entradilla": "Para quien estudia saltos, un par de piernas bien diseñadas vale más que una cara expresiva. Kangaroo está hecho para esa pregunta.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar por este modelo"
+  },
+  "hero": "/img/marcas/pal-robotics-kangaroo.svg",
+  "metaTitulo": "Kangaroo PAL Robotics en Argentina - Bípedo de Investigación",
+  "metaDescripcion": "Kangaroo de PAL Robotics en Argentina: bípedo para locomoción, 1,60 m y 40 kg. Uso, transporte y alternativas.",
+  "focusKeyword": "kangaroo de pal robotics en argentina",
+  "imagenPrincipal": "/img/marcas/pal-robotics-kangaroo.svg",
+  "faq": [
+    {
+      "pregunta": "¿Tiene brazos?",
+      "respuesta": "La configuración depende de la versión. Kangaroo Pro amplía la plataforma."
+    },
+    {
+      "pregunta": "¿Es doméstico?",
+      "respuesta": "No. Es una herramienta de laboratorio."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Kangaroo de PAL Robotics: ficha y precio en Argentina</h2></div><div class=\"tabla-envoltorio\"><table class=\"tabla\"><thead><tr><th scope=\"col\">Dato</th><th scope=\"col\">Detalle</th></tr></thead><tbody><tr><th scope=\"row\">Precio en origen</th><td>A consultar</td></tr><tr><th scope=\"row\">Puesto en Argentina</th><td>A cotizar por proyecto</td></tr><tr><th scope=\"row\">¿Se puede comprar?</th><td>Sí, para investigación</td></tr><tr><th scope=\"row\">Plazo</th><td>A consultar</td></tr><tr><th scope=\"row\">Altura</th><td>1,60 m</td></tr><tr><th scope=\"row\">Peso</th><td>40 kg</td></tr><tr><th scope=\"row\">Piernas</th><td>6 grados de libertad cada una</td></tr><tr><th scope=\"row\">Autonomía declarada</th><td>6 horas</td></tr><tr><th scope=\"row\">Software</th><td>Linux y ROS</td></tr><tr><th scope=\"row\">Versión superior</th><td>Kangaroo Pro</td></tr></tbody></table></div><p class=\"tabla__nota\">Valores orientativos en dólares. Se confirman al cotizar.</p></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Lo que se puede investigar</h2><p>Impacto, masa distal y recuperación son temas donde el hardware marca diferencias. Con simulación se prepara la campaña y se reserva el robot para confirmar.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Alternativa con menos presupuesto</h2><p>Construir una pierna sobre guía enseña gran parte del control. Un bípedo completo debería llegar después de demostrarlo.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Kangaroo de PAL Robotics en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Tiene brazos?</summary><div class=\"pregunta__resp\"><p>La configuración depende de la versión. Kangaroo Pro amplía la plataforma.</p></div></details><details class=\"pregunta\"><summary>¿Es doméstico?</summary><div class=\"pregunta__resp\"><p>No. Es una herramienta de laboratorio.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otras marcas y modelos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/apptronik-apollo/\">Apptronik Apollo</a></h3></li><li><h3><a href=\"/ar/xpeng-iron/\">XPeng IRON</a></h3></li><li><h3><a href=\"/ar/fourier-gr-3/\">Fourier GR-3</a></h3></li><li><h3><a href=\"/ar/limx-oli/\">LimX Oli</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/marcas/\">Ver todas las marcas</a></p></div></section>"
+}

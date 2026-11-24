@@ -1,0 +1,29 @@
+{
+  "titulo": "LiDAR y Sensores de Profundidad en Argentina",
+  "url": "/ar/lidar-y-sensores-de-profundidad/",
+  "slug": "lidar-y-sensores-de-profundidad",
+  "alterna": "/lidar-y-sensores-de-profundidad/",
+  "h1": "LiDAR y Sensores de Profundidad en Argentina",
+  "entradilla": "Un LiDAR de interior trabaja bien en una oficina de Puerto Madero y puede volverse loco en un acopio con polvo en suspensión. El entorno elige el sensor.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar disponibilidad"
+  },
+  "hero": "/img/accesorios/lidar.svg",
+  "metaTitulo": "LiDAR para Robots en Argentina - Modelos y Compra",
+  "metaDescripcion": "LiDAR y cámaras de profundidad para robots en Argentina: interior, polvo, sol, importación y cuándo alcanza con un sensor económico.",
+  "focusKeyword": "lidar y sensores de profundidad en argentina",
+  "imagenPrincipal": "/img/accesorios/lidar.svg",
+  "faq": [
+    {
+      "pregunta": "¿El G1 ya trae?",
+      "respuesta": "Sí, LiDAR 3D y cámara de profundidad según la ficha del fabricante."
+    },
+    {
+      "pregunta": "¿Ve vidrios?",
+      "respuesta": "Mal. Señalizá mamparas o limitá la zona en el mapa."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Según dónde trabaje</h2><ul><li><strong>Oficina o aula</strong>: cámara de profundidad.</li><li><strong>Depósito</strong>: LiDAR 2D o 3D para mapa y obstáculos.</li><li><strong>Campo o acopio</strong>: buen rechazo de sol, sellado y limpieza frecuente.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Comprar en Argentina</h2><p>Hay sensores 2D de bajo costo en tiendas de robótica. Los 3D se importan; por tratarse de láser, pedí la clase de seguridad ocular (clase 1) en la documentación.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cuidado del lente</h2><p>Paño de microfibra y aire limpio. El alcohol de farmacia puede dañar algunos recubrimientos.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre LiDAR y Sensores de Profundidad en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿El G1 ya trae?</summary><div class=\"pregunta__resp\"><p>Sí, LiDAR 3D y cámara de profundidad según la ficha del fabricante.</p></div></details><details class=\"pregunta\"><summary>¿Ve vidrios?</summary><div class=\"pregunta__resp\"><p>Mal. Señalizá mamparas o limitá la zona en el mapa.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros accesorios y repuestos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/camara-robot-alta-precision/\">Cámaras para Robots</a></h3></li><li><h3><a href=\"/ar/procesadores-y-software-de-ia/\">Procesadores e IA para Robots</a></h3></li><li><h3><a href=\"/ar/piezas-mecanicas-y-brazos-roboticos/\">Piezas Mecánicas y Brazos Robóticos</a></h3></li><li><h3><a href=\"/ar/actuadores-y-servomotores/\">Actuadores y Servomotores para Robots</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/accesorios/\">Ver todos los accesorios</a></p></div></section>"
+}

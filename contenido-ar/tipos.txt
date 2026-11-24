@@ -1,0 +1,224 @@
+@robot-industrial|Robot Humanoide Industrial en Argentina|Robot Humanoide Industrial en Argentina - Usos y Costos|Robots humanoides industriales para fábricas argentinas: autopartes, metalmecánica y alimentos. Qué tareas asumen, qué exige la ART y cuánto cuestan.
+Una planta argentina rara vez es nueva: conviven máquinas de distintas décadas, pasillos angostos y entrepisos. Ahí un humanoide tiene sentido, porque usa el espacio que hoy usa una persona y no obliga a tirar abajo media línea.
+## Dónde probarlo primero en una fábrica argentina
+- **Autopartes de Córdoba y zona norte del GBA**: alimentar prensas, retirar piezas y acercar contenedores al puesto.
+- **Metalmecánica de Santa Fe**: mover piezas livianas entre mecanizado, pintura y control.
+- **Alimentos y bebidas**: paletizado de cajas livianas, siempre lejos de zonas de lavado a presión.
+## Seguridad e higiene en la planta
+La Ley 19.587 de Higiene y Seguridad alcanza a cualquier máquina que ingrese al puesto de trabajo. Antes de encenderlo, involucrá al responsable de higiene y seguridad, actualizá el relevamiento de riesgos y avisá a la ART. Si el robot se mueve entre operarios, definí velocidad, distancia y parada de emergencia.
+## Qué modelo se consigue hoy
+Optimus, Figure y Atlas no se venden acá ni afuera al público. Para un piloto real se importa un [[unitree-g1|Unitree G1]] en versión para desarrolladores y se programa la tarea. Presupuestá además [[programacion-de-robot-humanoides|programación]] y una batería extra.
+? ¿Reemplaza a un brazo robótico?
+= No. Para una tarea fija, rápida y precisa, un brazo o un cobot rinde más y cuesta menos. El humanoide conviene cuando la tarea cambia de lugar.
+? ¿Puede cubrir un turno de ocho horas?
+= No de corrido. Con baterías de dos a cuatro horas hay que prever recambio o turnos partidos.
+
+@robots-de-logistica-y-almacen|Robots Humanoides de Logística en Argentina|Robots Humanoides para Logística y Depósitos en Argentina|Robots humanoides para depósitos, centros de distribución y empaques argentinos: tareas viables, límites de carga, frío y cómo hacer un piloto.
+El e-commerce llenó de depósitos el corredor de Panamericana, Ezeiza y Mercado Central, y cada Hot Sale repite el mismo problema: picos que no se cubren con personal fijo. Es el escenario donde los humanoides acumulan más experiencia comercial en el mundo.
+## Tareas que hoy son viables en un depósito
+- Pasar contenedores plásticos de un transportador a un carro.
+- Acercar cajas vacías al sector de armado de pedidos.
+- Retirar descartes y cartón entre turnos.
+## Empaques de fruta y cámaras de frío
+En el Alto Valle, Mendoza y Tucumán el pico dura pocas semanas. Comprar un equipo para usarlo un trimestre no cierra: mirá primero el [[alquiler-de-robots-humanoides|alquiler por temporada]]. En cámara, además, el frío le resta autonomía a la batería de litio y la condensación complica sensores y cámaras.
+## Qué pedirle al proveedor antes del piloto
+- Carga útil con el brazo extendido, no solo el máximo de catálogo.
+- Ciclos por hora medidos con tus cajas.
+- Integración con tu WMS y quién la programa.
+? ¿Se consigue el Digit de Agility en Argentina?
+= No por canal comercial local. Se contrata como servicio para operaciones grandes en Estados Unidos. Lo explicamos en [[agility-robotics-digit|Agility Digit]].
+? ¿Conviene un humanoide o un AMR?
+= Si solo hay que mover pallets o carros, un AMR es más simple. El humanoide suma cuando hay que agarrar y dejar.
+
+@robots-de-inspeccion-industrial|Robots de Inspección Industrial en Argentina|Robots Humanoides de Inspección para Energía e Industria en Argentina|Robots humanoides de inspección para petróleo, gas, minería y energía en Argentina: rondas, zonas clasificadas, conectividad y alternativas.
+Neuquén, la Puna y el polo petroquímico de Bahía Blanca comparten una dificultad: instalaciones críticas lejos de todo, con recorridas diarias que alguien tiene que hacer con viento, calor o altura. Automatizar esa recorrida reduce exposición y deja registro.
+## Qué puede hacer en una ronda
+- Leer manómetros y tableros con cámara y guardar la foto con hora.
+- Detectar puntos calientes con una cámara térmica.
+- Escuchar ruidos anómalos en bombas y compresores.
+## Atención con las zonas clasificadas
+La mayoría de los humanoides a la venta **no tiene certificación para atmósferas explosivas**. En boca de pozo, baterías o plantas de gas eso los deja afuera de las áreas clasificadas. Sirven en salas de control, almacenes, talleres y perímetros; el resto necesita un equipo certificado.
+## Altura, polvo y conexión
+En un salar a 4.000 metros el aire refrigera menos y la radio no siempre llega. Pedí rango de temperatura, grado de protección IP y confirmá si el robot completa la ronda sin internet.
+? ¿Un cuadrúpedo no es mejor?
+= Muchas veces sí: es más estable en ripio y tiene más autonomía. El humanoide conviene si hay escaleras de mano, puertas o perillas.
+? ¿Sirve para parques eólicos y solares?
+= Para salas eléctricas, sí. Para recorrer hectáreas a campo, un dron rinde más.
+
+@robots-de-atencion-al-cliente|Robots de Atención al Cliente en Argentina|Robots de Atención al Cliente en Argentina - Bancos, Shoppings y Hoteles|Robots humanoides para atender público en bancos, shoppings, hoteles y concesionarias de Argentina: qué resuelven, datos personales y cómo medirlo.
+Un robot que recibe gente en un shopping porteño o en un hotel de Bariloche tiene dos trabajos: resolver consultas repetidas y hacer que la gente se acerque. Conviene separar los dos al medir si vale la pena.
+## Consultas que resuelve bien
+- Dónde queda un local, una sala o un trámite.
+- Turnos, horarios y requisitos que no cambian seguido.
+- Recepción en español, inglés y portugués para turismo.
+## Entender el castellano rioplatense
+El reconocimiento de voz de fábrica suele venir entrenado en inglés o chino. Para que entienda «¿dónde saco turno?» o «vengo por un reclamo» hay que integrar un motor de voz probado con voseo y ruido de fondo. Ese trabajo se cotiza aparte, como [[programacion-de-robot-humanoides|programación]].
+## Cámaras y Ley 25.326
+Si el robot graba o reconoce caras, entra la Ley de Protección de Datos Personales: cartel visible, finalidad clara y, si corresponde, inscripción de la base ante la AAIP. Para dar indicaciones no hace falta identificar a nadie.
+? ¿Puede cobrar o tomar datos de tarjeta?
+= No lo recomendamos. Puede derivar a una caja o mostrar un QR de pago de tu sistema.
+? ¿Qué pasa si no entiende?
+= Tiene que derivar a una persona. Sin esa salida, la experiencia empeora.
+
+@robots-educativos|Robots Humanoides Educativos en Argentina|Robots Humanoides Educativos para Escuelas de Argentina|Robots humanoides para escuelas técnicas, terciarios y universidades de Argentina: qué comprar según el nivel, formas de financiarlo y errores comunes.
+En una escuela técnica el problema no suele ser el interés de los chicos sino qué pasa con el equipo al segundo año. Un robot educativo se elige por la facilidad para dar clase con él, no por la ficha más larga.
+## Qué comprar según el nivel
+- **Primaria**: kits chicos con programación por bloques. No hace falta un humanoide que camine.
+- **Secundaria técnica**: humanoide de mesa o de gama de entrada con Python.
+- **Terciario y universidad**: [[booster-robotics-k1|Booster K1]] o [[unitree-g1|Unitree G1]] con SDK abierto.
+## Cómo se suele financiar
+Cooperadoras, programas provinciales y convenios con empresas son los caminos habituales. Para escuelas técnicas, consultá si está abierta la línea de Crédito Fiscal del INET, que permite a empresas aportar equipamiento. Las universidades nacionales cuentan con un régimen propio de importación para investigación: preguntá en la secretaría correspondiente.
+## Lo que hace fracasar la compra
+Un solo docente capacitado, wifi que no llega al taller y ningún repuesto. Pedí [[robotica-para-centros-educativos|capacitación docente]] para al menos tres personas.
+? ¿Cuántos alumnos trabajan con un robot?
+= Grupos de cuatro a seis sobre el equipo, y el resto en simulador, rotando.
+? ¿Entra por courier?
+= Los modelos chicos pueden entrar si el valor no supera el tope vigente del régimen.
+
+@robots-de-investigacion|Robots Humanoides de Investigación en Argentina|Robots Humanoides para Investigación en Argentina - UBA, CONICET y UTN|Plataformas humanoides con SDK abierto para laboratorios argentinos: modelos, beneficios de importación para ciencia y repuestos.
+Para un grupo del CONICET o de una facultad de ingeniería, el humanoide es un instrumento de laboratorio. Lo que importa es acceso al control de bajo nivel, documentación y que otro grupo ya haya publicado con esa plataforma.
+## Qué acceso necesitás
+- **Alto nivel**: caminar, girar, hablar. Alcanza para interacción humano-robot.
+- **Bajo nivel**: torque y posición por articulación. Indispensable para control y aprendizaje por refuerzo. En varios modelos solo viene en la versión EDU.
+- **Simulación**: modelo URDF o MJCF oficial, para entrenar antes.
+## Importar para ciencia y tecnología
+La Ley 25.613 prevé un régimen de importaciones para insumos destinados a investigación, con beneficios para organismos inscriptos en el registro correspondiente (ROECYT). Iniciá ese trámite antes de emitir la orden: después del embarque suele ser tarde.
+## Presupuesto del proyecto
+Sumá al equipo un arnés o pórtico de seguridad, una batería extra y actuadores. Un subsidio que solo cubre el robot deja el laboratorio parado en la primera rotura.
+? ¿Qué versión del G1 conviene?
+= Para investigar, una EDU. La básica limita el acceso de desarrollo, y es el error de compra más común.
+? ¿Se puede compartir entre universidades?
+= Sí. Un convenio entre facultades reparte el costo y aumenta las horas de uso.
+
+@robots-medicos|Robots Humanoides Médicos en Argentina|Robots Humanoides en Salud - Hospitales y Sanatorios de Argentina|Robots humanoides para hospitales, sanatorios y geriátricos de Argentina: logística interna, acompañamiento, ANMAT y datos de salud.
+En un hospital argentino el personal de enfermería camina kilómetros por guardia llevando cosas. Ese traslado, y no el acto médico, es lo que hoy puede aliviar un robot.
+## Usos con sentido hoy
+- Llevar muestras, ropa o medicación entre sectores, con registro de entrega.
+- Orientar a pacientes y familiares en el ingreso.
+- Acompañar actividades en geriátricos, con un profesional presente.
+## ¿Interviene ANMAT?
+Depende del uso declarado. Un robot que lleva bandejas no es un producto médico. Si el fabricante le atribuye fines de diagnóstico, tratamiento o rehabilitación, necesita registro en ANMAT y un importador habilitado. Definilo **antes** de importar: cambiarlo después es caro.
+## Datos de pacientes
+Los datos de salud son sensibles para la Ley 25.326. Desactivá el envío de video a servidores del exterior o acordalo por contrato, y apagá cámaras en habitaciones.
+? ¿Puede levantar a un paciente?
+= No. Ningún humanoide comercial accesible tiene fuerza y certificación para eso.
+? ¿Se puede desinfectar?
+= Solo con los productos que autorice el fabricante. Pedí esa lista antes de comprar.
+
+@robots-de-rehabilitacion|Robots de Rehabilitación en Argentina|Robots Humanoides de Rehabilitación y Kinesiología en Argentina|Robots para centros de rehabilitación y kinesiología de Argentina: qué aportan a la sesión, ANMAT, obras sociales y cómo evaluar la inversión.
+Repetir un movimiento doscientas veces con buena técnica cansa al paciente y también al kinesiólogo. La robótica aporta constancia y datos; la decisión clínica sigue siendo del profesional.
+## Humanoide, exoesqueleto o plataforma
+Conviene distinguirlos porque se venden mezclados. El **exoesqueleto** moviliza el cuerpo; la **plataforma robótica** guía un miembro; el **humanoide** muestra el ejercicio, cuenta repeticiones y motiva. Para lo último existe el [[fourier-intelligence-gr-2|GR-2 de Fourier]].
+## Requisitos en Argentina
+Todo equipo con finalidad terapéutica declarada requiere registro como producto médico en ANMAT. Verificá que el registro exista y quién es el titular antes de señar nada.
+## ¿Lo reconocen las prepagas?
+Que una obra social cubra la sesión no significa que pague un plus por usar robot. Armá los números con tu nomenclador actual y tomá cualquier extra como ganancia.
+? ¿Sirve para chicos?
+= Los humanoides chicos se usan como estímulo en terapias infantiles, siempre conducidas por un profesional.
+? ¿Puedo probarlo antes?
+= Es lo recomendable: pedí una demostración sobre tu rutina de trabajo.
+
+@robots-para-eventos|Robots Humanoides para Eventos en Argentina|Robots Humanoides para Eventos en Buenos Aires y Argentina|Robots humanoides para ferias, lanzamientos y congresos en Argentina: La Rural, Expoagro y Costa Salguero, guion, operador y logística.
+En una feria con doscientos stands, un humanoide que saluda junta gente en minutos. El resultado comercial depende de qué pasa después de la foto.
+## Formatos que funcionan
+- **Anfitrión de stand**: saluda, baila y deriva al equipo comercial.
+- **Presentador**: abre un lanzamiento con guion ensayado.
+- **Recorrida**: camina entre el público con operador y perímetro.
+## Según el predio
+En La Rural o en un centro de convenciones el piso es parejo y hay energía cerca. En Expoagro o Agroactiva hay tierra, viento y polvo: se trabaja sobre tarima y bajo techo. En todos los casos se coordina con el organizador el seguro de responsabilidad civil.
+## Qué definir con anticipación
+Guion, idioma, música con derechos, horario de recambio de baterías y quién carga los contactos. Para contratarlo con técnico, mirá [[alquiler-para-eventos|alquiler para eventos]].
+? ¿Viajan al interior?
+= Sí, se cotiza el traslado. Para cordilleras o Patagonia conviene sumar un día de margen.
+? ¿Cuánto dura una función?
+= Bloques de 20 a 40 minutos con pausas de carga dan mejor resultado que un uso continuo.
+
+@robot-camarero|Robot Mozo o Camarero en Argentina|Robot Mozo en Argentina - Robot Camarero para Restaurantes|Robot mozo para restaurantes, hoteles y balnearios argentinos: qué tareas hace, en qué locales funciona y cómo calcular si conviene.
+Acá se lo busca como robot mozo. Aclaración útil: los que se ven en restaurantes casi nunca son humanoides, sino bandejas con ruedas. Y para llevar platos, suelen ser la mejor opción.
+## En qué locales funciona
+- Salones amplios, parrillas grandes, buffets y comedores de hotel.
+- Pasillos de más de 80 centímetros y sin escalones.
+- Casinos y salas con recorridos repetidos.
+En un bodegón con mesas pegadas o en una vereda despareja, no.
+## Qué hace el mozo y qué el robot
+El robot lleva la carga pesada y levanta la vajilla. El mozo recomienda, resuelve y cobra. Planteado así, se camina menos y se atiende más; planteado como reemplazo, genera rechazo en el equipo y con el gremio.
+## Cómo hacer la cuenta
+Contá viajes por hora en el pico de un sábado, no el promedio semanal. En la Costa o en Bariloche, donde la demanda es estacional, compará con un [[alquiler-de-robots-humanoides|alquiler de temporada]].
+? ¿Atiende en español?
+= Sí, con frases grabadas o voz sintética, que se pueden adaptar al voseo.
+? ¿Un humanoide puede servir vino?
+= Como show, sí. Como servicio constante, todavía no.
+
+@robot-de-compania|Robot Humanoide de Compañía en Argentina|Robot de Compañía para Adultos Mayores en Argentina|Robots de compañía en Argentina: qué esperar para adultos mayores, privacidad, conectividad y preguntas antes de comprar.
+Muchas consultas llegan de hijos que viven lejos y buscan algo para acompañar a un padre o una madre. Merecen una respuesta franca: ayuda con rutinas y conversación, y no cuida.
+## Lo que sí hace
+- Recuerda turnos y medicación a la hora cargada.
+- Facilita una videollamada con la familia.
+- Conversa y propone música o juegos.
+## Lo que no hace
+No detecta de forma confiable una emergencia médica, no levanta a nadie y no reemplaza a un cuidador ni a un botón de alerta. Si hay riesgo de caídas, ese es el primer gasto.
+## Antes de decidir
+Probá primero un parlante inteligente o una tablet: si no se usan, un robot tampoco. Revisá que el equipo hable español rioplatense, que el wifi sea estable y qué ocurre con los datos si el fabricante cierra el servicio.
+? ¿Necesita internet?
+= Para conversar con fluidez, casi siempre.
+? ¿Cuánto cuesta?
+= Los modelos de mesa son mucho más accesibles que un bípedo. Pedí cotización según el uso.
+
+@robots-para-el-hogar|Robots Humanoides para el Hogar en Argentina|Robot Humanoide para la Casa en Argentina - Qué se Puede Comprar|Robots humanoides domésticos en Argentina: qué modelos llegan, cuáles no, qué tareas hacen y cuánto cuesta traer uno.
+La pregunta más repetida es si existe un robot que lave los platos y doble la ropa. Existe en videos y en primeras entregas en Estados Unidos; en la Argentina todavía no hay una opción comercial que lo haga sola.
+## Qué hay disponible para una casa argentina
+- **[[1x-technologies-neo|1X NEO]]**: diseñado para vivienda, sin venta en el país.
+- **[[unitree-r1|Unitree R1]]**: se puede importar; camina y responde, no hace tareas domésticas.
+- **[[noetix-bumi|Noetix Bumi]]**: anunciado a precio bajo, disponibilidad por confirmar.
+## Problemas prácticos en casa
+Escaleras caracol, alfombras sueltas, mascotas y cortes de luz. Un bípedo que pierde energía puede caerse: dejalo siempre en su base o soporte. Sumalo al seguro del hogar si tu póliza lo permite.
+## ¿Esperar o comprar?
+Si lo querés para aprender, programar o crear contenido, comprar hoy tiene sentido. Si buscás ayuda doméstica, esperar es la decisión correcta.
+? ¿Puede usarlo un chico?
+= Solo con supervisión. Pesa decenas de kilos y tiene motores potentes.
+? ¿Y con 220 V?
+= La mayoría de los equipos chinos carga con 220 V y 50 Hz; se verifica el cargador.
+
+@robots-empresariales|Robots Humanoides para Empresas en Argentina|Robots Humanoides para Empresas y Pymes de Argentina|Robots humanoides para empresas argentinas: casos que cierran, impuestos, amortización y cómo armar un piloto sin inmovilizar capital.
+Para una pyme argentina la discusión no es tecnológica, es de caja: inmovilizar dólares en un equipo nuevo tiene que justificarse contra stock, personal o una máquina conocida.
+## Tres motivos que suelen cerrar
+- **Comercial**: diferenciar un showroom o un lanzamiento.
+- **Desarrollo**: construir un producto o servicio sobre el robot.
+- **Operativo**: una tarea repetitiva medida, con piloto previo.
+«Modernizarse» no es un motivo: sin tarea, el robot queda de adorno.
+## Cómo mirarlo con el contador
+Como bien de uso se amortiza y el IVA de compra se computa según tu situación. Las percepciones de aduana también pueden ser pagos a cuenta. El costo financiero cambia mucho según cuándo recuperás ese saldo.
+## Un piloto en tres meses
+Mes uno, medir la tarea actual. Mes dos, probar con equipo [[alquiler-de-robots-humanoides|alquilado]]. Mes tres, comparar y decidir. El [[estudio-de-viabilidad-y-roi|estudio de viabilidad]] ordena ese proceso.
+? ¿Hay que avisar al personal?
+= Sí, y temprano. La resistencia baja cuando se explica qué tarea cambia.
+? ¿Lo puede importar una SAS o una SRL?
+= Sí, si está habilitada para importar, o mediante un tercero.
+
+@robots-seguridad|Robots de Seguridad en Argentina|Robots de Seguridad para Countries y Depósitos en Argentina|Robots de seguridad en Argentina: rondas en barrios cerrados y depósitos, leyes provinciales, límites legales y cómo sumarlos a la vigilancia.
+Un country, un parque industrial o un depósito ya tienen cámaras, alarmas y guardias. Un robot agrega presencia móvil: pasa por donde la cámara no ve y deja constancia de la ronda.
+## Dónde encaja
+Recorridos interiores, estacionamientos cubiertos y naves cerradas. A la intemperie, con lluvia o barro, un bípedo no es la herramienta indicada.
+## Qué puede y qué no puede hacer
+Puede observar, registrar, avisar y hablar. No puede detener, revisar ni usar la fuerza. Tampoco conviene que siga a personas por la vía pública, donde además rigen reglas de videovigilancia.
+## Marco legal
+La seguridad privada se regula por jurisdicción: en CABA la Ley 5.688 y en cada provincia su propia norma. Si una empresa brinda el servicio a terceros, tiene que estar habilitada. Las imágenes caen bajo la Ley 25.326 y requieren cartelería.
+? ¿Reemplaza al guardia?
+= No. Le ahorra rondas y le da información; alguien tiene que responder.
+? ¿Y si lo roban o lo golpean?
+= Pesa decenas de kilos y transmite ubicación si hay señal. Igual, aseguralo.
+
+@robot-de-vigilancia|Robot de Vigilancia en Argentina|Robot de Vigilancia y Monitoreo en Argentina - Plantas y Edificios|Robot de vigilancia para plantas, oficinas y obras de Argentina: sensores, monitoreo remoto, conectividad y comparación con cámaras fijas.
+La diferencia con un robot de seguridad es el objetivo: vigilar es **medir y avisar**. Una fuga de agua en un centro de datos o una heladera industrial que deja de enfriar también son incidentes.
+## Qué monitorea
+- Temperatura, humo y humedad en recorridos nocturnos.
+- Puertas y portones que quedaron abiertos.
+- Cambios contra la imagen de referencia de cada punto.
+## Comparado con cámaras fijas
+La cámara graba siempre y no se queda sin batería. El robot llega a zonas muertas y acerca sensores. En la práctica, primero se completa la instalación fija y recién después se evalúa la ronda.
+## Que funcione de noche en la Argentina real
+Microcortes, 4G irregular y wifi que no llega al fondo del galpón son lo normal. Pedí que guarde los datos a bordo, que retome la ronda solo y que avise cuando perdió conexión. Para interiores, sumá [[camara-robot-alta-precision|cámara infrarroja]].
+? ¿Se conecta a mi central de monitoreo?
+= En general sí, por API o video estándar. Requiere integración.
+? ¿Cuánto recorre por carga?
+= Con unas dos horas de autonomía, planificá rondas cortas con vuelta a la base.

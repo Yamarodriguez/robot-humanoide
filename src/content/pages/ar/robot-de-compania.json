@@ -1,0 +1,29 @@
+{
+  "titulo": "Robot Humanoide de Compañía en Argentina",
+  "url": "/ar/robot-de-compania/",
+  "slug": "robot-de-compania",
+  "alterna": "/robot-de-compania/",
+  "h1": "Robot Humanoide de Compañía en Argentina",
+  "entradilla": "Muchas consultas llegan de hijos que viven lejos y buscan algo para acompañar a un padre o una madre. Merecen una respuesta franca: ayuda con rutinas y conversación, y no cuida.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir asesoramiento"
+  },
+  "hero": "/wp-content/uploads/2025/03/robot-humanoide-de-compania.jpeg",
+  "metaTitulo": "Robot de Compañía para Adultos Mayores en Argentina",
+  "metaDescripcion": "Robots de compañía en Argentina: qué esperar para adultos mayores, privacidad, conectividad y preguntas antes de comprar.",
+  "focusKeyword": "robot humanoide de compañía en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/robot-humanoide-de-compania.jpeg",
+  "faq": [
+    {
+      "pregunta": "¿Necesita internet?",
+      "respuesta": "Para conversar con fluidez, casi siempre."
+    },
+    {
+      "pregunta": "¿Cuánto cuesta?",
+      "respuesta": "Los modelos de mesa son mucho más accesibles que un bípedo. Pedí cotización según el uso."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Lo que sí hace</h2><ul><li>Recuerda turnos y medicación a la hora cargada.</li><li>Facilita una videollamada con la familia.</li><li>Conversa y propone música o juegos.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Lo que no hace</h2><p>No detecta de forma confiable una emergencia médica, no levanta a nadie y no reemplaza a un cuidador ni a un botón de alerta. Si hay riesgo de caídas, ese es el primer gasto.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Antes de decidir</h2><p>Probá primero un parlante inteligente o una tablet: si no se usan, un robot tampoco. Revisá que el equipo hable español rioplatense, que el wifi sea estable y qué ocurre con los datos si el fabricante cierra el servicio.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Robot Humanoide de Compañía en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Necesita internet?</summary><div class=\"pregunta__resp\"><p>Para conversar con fluidez, casi siempre.</p></div></details><details class=\"pregunta\"><summary>¿Cuánto cuesta?</summary><div class=\"pregunta__resp\"><p>Los modelos de mesa son mucho más accesibles que un bípedo. Pedí cotización según el uso.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros tipos de robots humanoides</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/robots-para-el-hogar/\">Robots Humanoides para el Hogar</a></h3></li><li><h3><a href=\"/ar/robots-empresariales/\">Robots Humanoides para Empresas</a></h3></li><li><h3><a href=\"/ar/robots-seguridad/\">Robots de Seguridad</a></h3></li><li><h3><a href=\"/ar/robot-de-vigilancia/\">Robot de Vigilancia</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/tipos/\">Ver todos los tipos</a></p></div></section>"
+}

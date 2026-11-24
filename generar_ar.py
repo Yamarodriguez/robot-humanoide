@@ -117,6 +117,8 @@ IMG = {
     'implementacion-de-robot-en-empresas-y-negocios': (U + 'empresas-robot-humanoide.jpeg', (1280, 1280)),
     'importacion-y-gestion-aduanera': ('/img/servicios/importacion.svg', (800, 600)),
     'alquiler-para-eventos': ('/img/servicios/eventos.svg', (800, 600)),
+    'renting-y-robot-como-servicio': ('/img/servicios/renting.svg', (800, 600)),
+    'marcado-ce-y-normativa': ('/img/servicios/marcado-ce.svg', (800, 600)),
     'formacion-y-cursos': ('/img/servicios/formacion.svg', (800, 600)),
     'estudio-de-viabilidad-y-roi': ('/img/servicios/viabilidad.svg', (800, 600)),
     'renting-y-robot-como-servicio': ('/img/servicios/renting.svg', (800, 600)),
@@ -183,7 +185,7 @@ FAQ_GENERAL = [
     ('¿Tiene garantía y servicio técnico en Argentina?',
      'Sí. La garantía de fábrica suele ser de uno a dos años; nosotros damos soporte remoto, gestionamos repuestos originales y coordinamos la reparación cuando hace falta intervenir el equipo.'),
     ('¿Funciona con la corriente de Argentina?',
-     'Sí. Los humanoides de fabricantes chinos como Unitree trabajan con 220 V y 50 Hz, igual que la red argentina, y sus cargadores suelen traer el mismo tipo de enchufe que se usa acá. Igual lo verificamos modelo por modelo antes de importar.'),
+     'Sí. Los humanoides de fabricantes chinos como Unitree trabajan con 220 V y 50 Hz, igual que la red argentina, pero la ficha china, aunque se parece a la nuestra, tiene la polaridad invertida: hay que usar el cable adecuado. Igual lo verificamos modelo por modelo antes de importar.'),
 ]
 
 
@@ -478,6 +480,8 @@ def servicios():
         ('alquiler-para-eventos', 'Alquiler para Eventos', 'Humanoides para ferias, congresos y lanzamientos en todo el país, con técnico y guion.'),
         ('implementacion-de-robot-en-empresas-y-negocios', 'Implementación en Empresas', 'Integración con tus procesos, zonas de seguridad, capacitación del personal y medición de resultados.'),
         ('estudio-de-viabilidad-y-roi', 'Estudio de Viabilidad y ROI', 'Antes de invertir en dólares: si la tarea se puede automatizar hoy y en cuánto tiempo se paga el robot.'),
+        ('renting-y-robot-como-servicio', 'Leasing y Robot como Servicio', 'Cuota mensual, leasing o pago por uso: qué existe de verdad en el país y qué mirar en el contrato.'),
+        ('marcado-ce-y-normativa', 'Normativa y Certificaciones', 'Seguridad eléctrica, ENACOM, ANMAT, ART y datos personales: qué se activa según el equipo y el uso.'),
         ('formacion-y-cursos', 'Formación y Cursos', 'Capacitación online en horario de Argentina o presencial en tu empresa o universidad.'),
     ]
     s = [
@@ -516,6 +520,9 @@ def cursos():
         ('aprendizaje-por-imitacion', 'Aprendizaje por Imitación', 'Cómo enseñarle una tarea al robot mostrándosela, con teleoperación y datos de demostración.'),
         ('simulacion-antes-del-despliegue', 'Simulación antes del Despliegue', 'Probar en simulador antes de tocar el robot real: menos riesgo y menos horas de máquina.'),
         ('seguridad-y-robotica-colaborativa', 'Seguridad y Robótica Colaborativa', 'Zonas, protocolos y buenas prácticas para trabajar al lado de un humanoide.'),
+        ('interaccion-por-voz-y-lenguaje', 'Voz y Lenguaje en Español Rioplatense', 'Reconocimiento con acento local, voseo y modelos de lenguaje con límites.'),
+        ('manipulacion-y-agarre', 'Manipulación y Agarre', 'Pinzas, manos y control de fuerza con objetos reales.'),
+        ('certificacion-profesional', 'Certificación Profesional', 'Recorrido completo con evaluación y proyecto final.'),
     ]
     faq = [
         ('¿Los cursos son en horario de Argentina?', 'Sí. Las clases online en vivo se dan en horario argentino y quedan grabadas para repasar.'),

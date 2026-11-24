@@ -1,0 +1,447 @@
+@/robot-industrial/
+> Un robot humanoide industrial manipula piezas y mueve material en espacios diseñados para personas. Hoy sirve para pilotos con tareas repetitivas y cargas ligeras, no para sustituir una línea automatizada.
+## ¿Qué diferencia hay entre un humanoide industrial y un cobot?
+El cobot es fijo, preciso y más barato por ciclo. El humanoide se desplaza y cambia de puesto, a cambio de menos velocidad y autonomía.
+? ¿Cuánto cuesta un robot humanoide industrial?
+= Las plataformas accesibles para un piloto rondan los 25.000 €, más programación y seguridad; las industriales se presupuestan por proyecto.
+
+@/robot-de-compania/
+> Un robot de compañía conversa, recuerda rutinas y facilita videollamadas. Acompaña, pero no sustituye a un cuidador ni a la teleasistencia.
+## ¿Es útil un robot de compañía para personas mayores?
+Puede ayudar si la persona lo acepta, tiene conexión estable y alguien lo configura. Para caídas o urgencias, la prioridad es un sistema de alerta homologado.
+? ¿Un robot de compañía graba las conversaciones?
+= Algunos envían audio a la nube. Revisa permisos, conservación y borrado antes de usarlo.
+
+@/robots-medicos/
+> Un robot humanoide médico se usa en logística hospitalaria, orientación y apoyo asistencial. No diagnostica ni opera, y un uso clínico declarado exige cumplir la normativa de productos sanitarios.
+## ¿Qué tareas hace un robot humanoide en un hospital?
+Transportar material ligero, guiar visitantes, dar información y acompañar actividades supervisadas. Las tareas de contacto físico siguen siendo del personal.
+? ¿Puede un robot cuidar a un paciente solo?
+= No. Necesita supervisión y un protocolo de derivación.
+
+@/robot-camarero/
+> Un robot camarero transporta platos y retira vajilla. La mayoría son bandejas autónomas con ruedas, no humanoides, y rinden en salones amplios.
+## ¿Merece la pena un robot camarero en un restaurante?
+Cuando hay muchos viajes largos y suelo liso. En locales estrechos, con escalones o poca distancia a cocina, apenas ahorra.
+? ¿Un robot camarero puede llevar bebidas?
+= Sí, con base estable y velocidad limitada; las copas altas requieren prueba previa.
+
+@/robots-educativos/
+> Los robots humanoides educativos enseñan programación, electrónica e inteligencia artificial con un equipo físico. El modelo depende de la etapa y de la formación del profesorado.
+## ¿A qué edad se puede usar un robot educativo?
+Con bloques, desde primaria; con Python, desde secundaria o FP; con SDK y ROS 2, en universidad. El tamaño y la supervisión cambian en cada etapa.
+? ¿Cuántos robots necesita un aula?
+= Un equipo puede servir a varios grupos si el resto trabaja en simulador y se rota.
+
+@/robots-para-el-hogar/
+> Los robots humanoides para el hogar están en fase inicial. Algunos conversan, caminan o realizan tareas guiadas, pero ninguno accesible en España limpia, cocina y ordena con plena autonomía.
+## ¿Existe un robot que haga las tareas de casa?
+Hay primeros modelos domésticos con ayuda remota en algunas tareas, como [NEO](/1x-technologies-neo/). Para limpiar suelos, un robot aspirador sigue siendo más fiable.
+? ¿Es seguro con niños o mascotas?
+= Solo con supervisión, zona despejada y siguiendo el manual; es una máquina pesada con motores.
+
+@/robots-empresariales/
+> Un robot humanoide para empresas se usa en recepción, demostraciones, formación o pilotos operativos. Compensa cuando hay una tarea medible o un retorno comercial claro.
+## ¿Qué empresas usan robots humanoides?
+Hay pilotos conocidos en automoción y logística, como los de [Figure](/figure-ai-figure-03/) y [Agility](/agility-robotics-digit/). En pymes predominan demostración, formación e innovación.
+? ¿Por dónde empieza una pyme?
+= Por medir una tarea y probar con alquiler antes de comprar.
+
+@/robots-seguridad/
+> Un robot de seguridad realiza rondas, registra incidencias y avisa a un operador. No puede detener ni cachear, y debe integrarse en un servicio de seguridad conforme a la ley.
+## ¿Es legal usar un robot de seguridad en España?
+Puede usarse como herramienta, respetando la Ley 5/2014 de Seguridad Privada, el RGPD y las normas del recinto. La captación de vía pública tiene límites específicos.
+? ¿Sustituye a un vigilante?
+= No. Apoya las rondas; la respuesta corresponde a personal habilitado.
+
+@/robot-de-vigilancia/
+> Un robot de vigilancia recorre puntos programados, toma imágenes o mediciones y alerta de cambios. Complementa las cámaras fijas en zonas muertas.
+## ¿Robot de vigilancia o cámaras de seguridad?
+Las cámaras ofrecen continuidad y menor coste. El robot añade movilidad, sensores cercanos y verificación de alarmas.
+? ¿Puede vigilar de noche?
+= Sí, con iluminación, infrarrojos o térmica y un recorrido probado.
+
+@/robots-de-logistica-y-almacen/
+> Los robots humanoides de logística cogen contenedores y los trasladan entre estaciones. Es uno de los usos con más pilotos reales, siempre en flujos acotados.
+## ¿Humanoide, AMR o AGV para un almacén?
+AMR y AGV transportan mejor. El humanoide aporta brazos para coger y dejar. Muchas veces la solución combina ambos.
+? ¿Cuánto peso levanta un humanoide de almacén?
+= Depende del modelo y de la postura; pide la carga útil con el brazo extendido y en uso continuo.
+
+@/robots-de-rehabilitacion/
+> Los robots de rehabilitación ayudan a repetir, medir y motivar ejercicios bajo control profesional. Un humanoide no equivale a un exoesqueleto terapéutico.
+## ¿Qué robot se usa en fisioterapia?
+Exoesqueletos, dispositivos de mano o marcha y plataformas sociales. La elección depende de la lesión, la evidencia clínica y la certificación.
+? ¿Puede usarse en casa?
+= Solo si el producto y el profesional lo prevén, con formación y seguimiento.
+
+@/robots-de-investigacion/
+> Un robot humanoide de investigación ofrece SDK, acceso a motores y sensores para estudiar locomoción, manipulación o IA. La versión concreta importa tanto como la marca.
+## ¿Cuál es el mejor robot humanoide para una universidad?
+[Unitree G1 EDU](/unitree-g1/) por comunidad y [Booster K1](/booster-robotics-k1/) por tamaño y docencia son candidatos habituales. Decide según simulador, acceso de bajo nivel y recambios.
+? ¿Son compatibles con ROS 2?
+= Varios sí, aunque el nivel de acceso depende de la edición.
+
+@/robots-de-atencion-al-cliente/
+> Un robot de atención al cliente recibe, orienta y responde preguntas frecuentes. Funciona mejor con un ámbito limitado y derivación inmediata a una persona.
+## ¿Qué negocios pueden usar un robot recepcionista?
+Hoteles, centros comerciales, clínicas, ferias y sedes con consultas repetidas. Si hay pocas visitas, una pantalla suele bastar.
+? ¿Puede conectarse a ChatGPT u otro modelo de IA?
+= Técnicamente sí, si el robot permite integración; hay que limitar respuestas y proteger datos.
+
+@/robots-de-inspeccion-industrial/
+> Un robot de inspección lee indicadores, detecta calor o ruidos y documenta rondas. Antes de usarlo en zonas con gases o polvo hay que comprobar su certificación ATEX.
+## ¿Humanoide, dron o cuadrúpedo para inspección?
+Dron para altura, cuadrúpedo para terreno irregular y humanoide para puertas, escaleras y mandos pensados para personas.
+? ¿Puede sustituir una inspección obligatoria?
+= No por sí solo; puede aportar datos a un técnico autorizado.
+
+@/robots-para-eventos/
+> Un robot humanoide para eventos saluda, baila, presenta y atrae visitantes con un operador. El impacto mejora con guion, espacio seguro y captación de contactos.
+## ¿Qué puede hacer un robot en una feria o congreso?
+Recibir, hacer una demostración breve, interactuar en fotos y derivar visitantes. Conviene trabajar por pases.
+? ¿Cuánto espacio necesita?
+= Como referencia, una zona despejada de unos 4 × 4 metros, según modelo y movimientos.
+
+@/unitree-g1/
+> El Unitree G1 mide 1,32 m, pesa unos 35 kg y tiene unas dos horas de autonomía. Su referencia de precio es 24.900 € en España y unos 16.000 dólares en fábrica.
+## ¿Qué diferencia hay entre Unitree G1 y G1 EDU?
+El G1 básico se orienta a demostración. El EDU añade opciones de desarrollo y mayor acceso, por lo que es el indicado para investigación.
+? ¿El Unitree G1 puede trabajar en casa?
+= No viene preparado para resolver tareas domésticas de forma autónoma.
+
+@/1x-technologies-neo/
+> 1X NEO es un humanoide doméstico anunciado a 20.000 dólares o 499 dólares al mes. No tiene distribuidor verificado en España y puede recurrir a asistencia remota.
+## ¿Se puede comprar 1X NEO en España?
+No consta una venta local abierta. Confirma mercados, garantía y privacidad en el canal oficial antes de reservar.
+? ¿NEO funciona solo?
+= Parte de sus tareas se plantea con autonomía y otra con guiado de personas.
+
+@/agility-robotics-digit/
+> Digit es un humanoide de Agility Robotics para mover contenedores en almacenes. Se contrata por proyecto y no está pensado para particulares.
+## ¿Qué hace Digit en un almacén?
+Recoge y deposita contenedores entre carros, estantes y transportadores, un flujo repetitivo con medidas conocidas.
+? ¿Cuánto cuesta Digit?
+= Se usa como referencia un modelo de servicio de unos 8.500 dólares al mes; el contrato depende del proyecto.
+
+@/figure-ai-figure-03/
+> Figure 03 es el humanoide de Figure AI. No se vende al público y su experiencia industrial más citada procede de un piloto en BMW.
+## ¿Cuándo saldrá a la venta Figure 03?
+No consta una fecha de venta abierta en España. Desconfía de reservas fuera de canales oficiales.
+? ¿Qué alternativa a Figure se puede comprar?
+= El Unitree G1 es accesible para desarrollo, aunque no equivale en capacidades.
+
+@/ubtech/
+> UBTech fabrica robots educativos, de servicio como Cruzr e industriales como Walker. La gama educativa es la más accesible; Walker se plantea por proyecto.
+## ¿Qué diferencia hay entre UBTech Walker y Cruzr?
+Walker es bípedo e industrial. Cruzr se mueve con ruedas y se orienta a recepción y servicio.
+? ¿UBTech vende robots para niños?
+= Sí, tiene líneas educativas; comprueba edad, idioma y aplicación.
+
+@/fourier-intelligence-gr-2/
+> El Fourier GR-2 es un humanoide de investigación de una empresa con experiencia en rehabilitación. Su uso con pacientes requiere verificar la certificación concreta.
+## ¿El Fourier GR-2 es un robot médico?
+No debe darse por hecho. Un fabricante puede tener equipos sanitarios y un humanoide de investigación con situaciones regulatorias distintas.
+? ¿Para quién es el GR-2?
+= Laboratorios e integradores que trabajan interacción, manipulación o teleoperación.
+
+@/neura-robotics-4ne-1/
+> El 4NE-1 es el humanoide de la alemana Neura Robotics, orientado a industria y entornos de servicio. La compra se consulta con el fabricante.
+## ¿Es Neura 4NE-1 un robot humanoide europeo?
+Sí, la empresa es alemana. Confirma siempre versión, declaración de conformidad y disponibilidad.
+? ¿Se pagan aranceles en España?
+= Un bien en libre práctica comprado dentro de la UE no tiene arancel intracomunitario; el IVA sigue sus reglas.
+
+@/robot-tesla-bot-optimus/
+> Tesla Optimus no se vende al público. Se han anunciado objetivos de 20.000 a 30.000, pero no hay precio de lista ni fecha confirmada para España.
+## ¿Cuándo se podrá comprar Tesla Optimus?
+Sin una apertura oficial de pedidos no hay fecha fiable. Las preventas de terceros deben tratarse como sospechosas.
+? ¿Optimus ya trabaja?
+= Tesla lo desarrolla y prueba en sus instalaciones; eso no equivale a venta comercial.
+
+@/robot-boston-dynamics-atlas/
+> Atlas es el humanoide eléctrico de Boston Dynamics, empresa controlada por Hyundai. Se orienta a industria y no se vende como unidad al público.
+## ¿Cuánto cuesta el robot Atlas?
+No hay un precio público. El producto de la marca con comercialización más conocida es Spot, un cuadrúpedo.
+? ¿Atlas es hidráulico?
+= La versión actual es eléctrica; la hidráulica se retiró en 2024.
+
+@/robot-xiaomi-cyberone/
+> CyberOne es un prototipo humanoide presentado por Xiaomi en 2022. Mide 1,77 m, pesa 52 kg y nunca se comercializó.
+## ¿Por qué no se puede comprar Xiaomi CyberOne?
+Porque se presentó como desarrollo tecnológico, sin canal de venta. Los artículos baratos con ese nombre no son el robot real.
+? ¿CyberOne y CyberDog son lo mismo?
+= No. CyberDog es un cuadrúpedo.
+
+@/robot-honda-asimo/
+> ASIMO fue el humanoide de Honda presentado en 2000 y retirado en 2022. Caminaba, subía escaleras y alcanzaba 6 km/h, pero no se vendía.
+## ¿Qué significa ASIMO y por qué fue importante?
+Son las siglas de Advanced Step in Innovative Mobility. Popularizó la marcha bípeda fluida y mostró lo difícil que era convertirla en producto.
+? ¿Dónde está ASIMO hoy?
+= Ya no realiza demostraciones regulares; sus unidades son parte del legado de Honda.
+
+@/robot-sophia-hanson-robotics/
+> Sophia es un robot social de Hanson Robotics presentado en 2016. Destaca por sus expresiones y combina guion e IA; no es consciente.
+## ¿El robot Sophia tiene ciudadanía?
+Arabia Saudita lo anunció en 2017, en un gesto simbólico y muy debatido. No convierte al robot en persona.
+? ¿Se puede contratar a Sophia?
+= La participación en eventos se consulta con Hanson Robotics.
+
+@/unitree-r1/
+> El Unitree R1 es un humanoide de entrada con precio en origen cercano a 29.000 yuanes y referencia de 8.853 € mediante distribuidor europeo. Prioriza agilidad y acceso.
+## ¿Unitree R1 o G1?
+R1 para iniciación, contenido y demostración. G1 para manipulación, investigación y mayor ampliación.
+? ¿El Unitree R1 limpia la casa?
+= No es un robot doméstico listo para tareas.
+
+@/booster-robotics-k1/
+> Booster K1 es un humanoide compacto para docencia e investigación, con SDK y compatibilidad ROS. La edición GEEK tiene una referencia de 6.646,62 €.
+## ¿Booster K1 es bueno para RoboCup?
+Su tamaño y enfoque lo hacen interesante para fútbol robótico. Comprueba la categoría y reglas de la edición en la que compitas.
+? ¿Necesito programar para usarlo?
+= Para sacarle partido, sí; está orientado a desarrollo.
+
+@/noetix-bumi/
+> Noetix Bumi es un humanoide pequeño anunciado por menos de 1.400 dólares. Se orienta a educación y ocio, y en España hay que verificar disponibilidad y garantía.
+## ¿Qué puede hacer Noetix Bumi?
+Moverse, demostrar gestos e introducir programación. No debe confundirse con un humanoide de trabajo.
+? ¿Es fiable comprarlo fuera de la UE?
+= Revisa canal oficial, marcado CE, batería, aduanas y devoluciones.
+
+@/venta-de-robots-humanoides/
+> La venta de un robot humanoide debe incluir modelo exacto, transporte, impuestos, conformidad, garantía y puesta en marcha. El precio de catálogo no es el coste total.
+## ¿Qué incluye la compra llave en mano?
+Selección, gestión de pedido, entrega, configuración y formación básica, según presupuesto. La programación de una tarea se define aparte.
+? ¿Se puede pagar a plazos?
+= Depende de financiación aprobada o de una fórmula de renting.
+
+@/programacion-de-robot-humanoides/
+> Programar un robot humanoide consiste en combinar SDK, sensores, navegación, voz y seguridad para resolver una tarea. Suele usarse Python, C++ y ROS 2.
+## ¿Cuánto cuesta programar un robot humanoide?
+Depende de la tarea: un guion de evento requiere mucho menos que manipular objetos variables. Se presupuesta por entregables.
+? ¿Se puede programar con IA?
+= Sí, con modelos de lenguaje o políticas entrenadas, siempre con límites y pruebas.
+
+@/mantenimiento-y-reparacion-de-robot/
+> El mantenimiento de robots humanoides incluye limpieza, calibración, software, batería, actuadores y comprobaciones de seguridad. La frecuencia depende de horas, carga y manual.
+## ¿Cuáles son las averías más frecuentes?
+Juego o calor en articulaciones, cables dañados, sensores descalibrados y degradación de batería. Un registro de uso facilita el diagnóstico.
+? ¿Se repara en España?
+= Depende de marca, pieza y garantía; el diagnóstico inicial puede hacerse a distancia.
+
+@/alquiler-de-robots-humanoides/
+> El alquiler de robots humanoides permite usar un equipo durante semanas o meses sin comprarlo. Es adecuado para pilotos, temporadas y formación.
+## ¿Qué debe incluir un contrato de alquiler?
+Horas, soporte, sustitución, seguro, transporte, operador y tratamiento de datos. También quién responde por caídas.
+? ¿Hay opción de compra?
+= Solo si figura en el contrato o presupuesto.
+
+@/implementacion-de-robot-en-empresas-y-negocios/
+> Implantar un robot humanoide exige definir una tarea, analizar riesgos, integrar sistemas, formar al equipo y medir resultados antes de ampliar.
+## ¿Cuánto tarda la implantación de un robot?
+Una demostración puede prepararse en poco tiempo; un proceso productivo necesita piloto, integración y validación. El calendario depende de la tarea.
+? ¿Qué indicadores se usan?
+= Ciclos correctos, paradas, intervenciones, coste por ciclo y seguridad.
+
+@/importacion-y-gestion-aduanera/
+> Importar un robot a España requiere clasificación arancelaria, DUA, IVA de importación, posible arancel y documentación de conformidad y batería. El importador asume obligaciones.
+## ¿Qué documentos pide la aduana para importar un robot?
+Factura, lista de bultos, transporte, EORI si procede, declaración de conformidad y documentación de la batería de litio. Puede requerirse más según el producto.
+? ¿Puede un particular importar un robot?
+= Puede intentarlo, pero debe cumplir trámites y asumir riesgos; para equipos grandes conviene un profesional.
+
+@/alquiler-para-eventos/
+> El alquiler de un robot para eventos se contrata por horas o días, normalmente con operador, transporte y guion. El precio depende de modelo, ciudad y programación.
+## ¿Cómo contratar un robot para un evento?
+Indica fecha, lugar, público, superficie y objetivo. Con eso se prepara el guion, el perímetro y la logística.
+? ¿Con cuánta antelación se reserva?
+= Cuanto antes: la programación a medida y los desplazamientos necesitan margen.
+
+@/formacion-y-cursos/
+> La formación en robótica humanoide se adapta a quien decide, opera, programa o previene riesgos. Puede ser online o sobre el robot del cliente.
+## ¿Qué curso necesita cada perfil?
+Dirección: introducción. Operarios: uso y mantenimiento. Desarrolladores: SDK. Prevención: seguridad.
+? ¿Es formación bonificable?
+= Depende de requisitos y entidad organizadora; confírmalo con FUNDAE antes de empezar.
+
+@/estudio-de-viabilidad-y-roi/
+> Un estudio de viabilidad compara la tarea actual con el coste total de un robot: compra, integración, energía, mantenimiento, supervisión y horas productivas.
+## ¿Cómo se calcula el ROI de un robot humanoide?
+ROI = (beneficio neto anual menos coste anual) dividido por la inversión. Debe calcularse con varios escenarios y tiempo real de actividad.
+? ¿Puede salir negativo?
+= Sí, y detectarlo antes de comprar es parte del valor del estudio.
+
+@/renting-y-robot-como-servicio/
+> En renting se paga una cuota por usar el robot con servicios acordados. En robot como servicio, el pago puede vincularse a horas o resultados.
+## ¿Renting, leasing o alquiler de un robot?
+Renting incluye uso y servicios; leasing suele tener opción de compra; alquiler cubre periodos concretos. Las condiciones mandan sobre el nombre.
+? ¿La cuota es deducible?
+= Consulta tu caso con la asesoría fiscal.
+
+@/marcado-ce-y-normativa/
+> Un robot vendido en la UE debe cumplir los requisitos que le apliquen y llevar marcado CE cuando corresponda. El Reglamento (UE) 2023/1230 de máquinas se aplica desde el 20 de enero de 2027.
+## ¿Qué cambia el Reglamento de máquinas en 2027?
+Sustituye a la Directiva 2006/42/CE y tiene en cuenta la maquinaria móvil autónoma, el software y los riesgos digitales. Revisa la versión consolidada y la fecha de comercialización.
+? ¿Basta con que el robot tenga CE?
+= No. También cuenta cómo se instala, integra y usa en el puesto.
+
+@/introduccion-a-la-robotica-humanoide/
+> Este curso introductorio explica qué hacen los humanoides, sus límites, costes y requisitos para decidir si una tarea es viable. No exige programar.
+## ¿Cómo empezar en robótica humanoide desde cero?
+Aprende primero conceptos, luego Python y un simulador. El hardware llega después.
+? ¿Sirve para directivos?
+= Sí, está orientado a criterio y decisión.
+
+@/programacion-con-sdk/
+> Un curso de programación con SDK enseña a controlar movimiento, sensores y tareas mediante Python y ROS 2. Requiere bases de programación.
+## ¿Python o C++ para programar robots humanoides?
+Python para aprender, integrar e investigar; C++ donde se necesita rendimiento. Muchos proyectos usan ambos.
+? ¿Qué es un SDK de robot?
+= Las librerías y herramientas que ofrece el fabricante para controlarlo.
+
+@/operacion-y-mantenimiento/
+> El curso de operación enseña arranque, parada segura, carga, calibración, inspección y registro de incidencias. Va dirigido a usuarios y técnicos.
+## ¿Quién puede operar un robot humanoide?
+Una persona formada en el equipo, el entorno y la emergencia. La cualificación exigible depende del puesto.
+? ¿Incluye reparación electrónica?
+= El foco es operación y mantenimiento autorizado, no reparar placas.
+
+@/robotica-para-centros-educativos/
+> La robótica humanoide para centros educativos combina formación docente, proyectos por etapa y prácticas seguras con simulador y robot.
+## ¿Cómo introducir robots humanoides en el aula?
+Empieza por un reto curricular, grupos pequeños y evaluación. El equipo se elige al final.
+? ¿Sirve para FP?
+= Sí, con proyectos de automatización, programación y mantenimiento.
+
+@/formacion-para-equipos-tecnicos/
+> La formación para equipos técnicos se imparte sobre el robot, la planta y la tarea de la empresa, con prácticas y criterios de evaluación.
+## ¿Qué ventajas tiene la formación in company?
+Usa procesos y riesgos reales, reduce dudas al arrancar y deja procedimientos propios.
+? ¿Puede hacerse por turnos?
+= Sí, si se planifica disponibilidad del robot y del personal.
+
+@/seguridad-y-robotica-colaborativa/
+> La seguridad en robótica colaborativa parte de una evaluación de riesgos y aplica distancia, velocidad, fuerza, parada y formación. Un robot «colaborativo» no es seguro por nombre.
+## ¿Qué normas ISO se aplican a robots humanoides?
+ISO 10218 orienta robots industriales e ISO 13482 robots de cuidado personal. La aplicabilidad a bípedos debe analizarse caso por caso.
+? ¿Hace falta vallado?
+= Depende de la evaluación de riesgos.
+
+@/vision-artificial-y-percepcion/
+> La visión artificial permite al robot detectar, medir y localizar objetos con cámaras y LiDAR. El curso cubre calibración, nubes de puntos y modelos.
+## ¿Cómo ve un robot humanoide?
+Combina color, profundidad e inercia para estimar dónde está y qué tiene delante. La luz y los datos determinan la fiabilidad.
+? ¿Hace falta una GPU?
+= Ayuda en entrenamiento; para empezar puede usarse un equipo modesto o nube.
+
+@/aprendizaje-por-imitacion/
+> En aprendizaje por imitación el robot entrena con demostraciones humanas. Es útil para manipulación difícil de programar paso a paso.
+## ¿Imitación o aprendizaje por refuerzo?
+La imitación aprende de ejemplos; el refuerzo explora con recompensas. Pueden combinarse.
+? ¿Cuántos datos necesita?
+= Depende de la variabilidad de la tarea; importa más la diversidad que repetir lo mismo.
+
+@/simulacion-antes-del-despliegue/
+> Simular un robot permite probar control y seguridad sin dañar hardware. MuJoCo, Gazebo e Isaac Sim son herramientas habituales.
+## ¿Qué es sim-to-real en robótica?
+Es trasladar al robot físico lo aprendido en simulación. Se varían fricción, masa y sensores para reducir la diferencia.
+? ¿La simulación sustituye la prueba real?
+= No. Reduce riesgos y tiempo antes de ella.
+
+@/interaccion-por-voz-y-lenguaje/
+> La interacción por voz une micrófono, reconocimiento, modelo de lenguaje, voz sintética y acciones del robot. La latencia y los límites de respuesta son decisivos.
+## ¿Cómo se integra ChatGPT en un robot?
+Mediante una API o un modelo local que interpreta la petición y devuelve texto o acciones permitidas. La seguridad no debe depender del modelo.
+? ¿Puede funcionar sin conexión?
+= Sí, con modelos locales y prestaciones acotadas.
+
+@/manipulacion-y-agarre/
+> La manipulación robótica enseña a localizar, agarrar y colocar objetos controlando posición y fuerza. Una pinza simple suele superar a una mano compleja.
+## ¿Por qué es difícil que un robot agarre objetos?
+Cambian forma, peso, fricción y posición. El robot debe percibir y corregir durante el contacto.
+? ¿Qué objeto es más difícil?
+= Los blandos, transparentes o deformables suelen ser los más exigentes.
+
+@/certificacion-profesional/
+> Esta certificación propia reúne programación, percepción, seguridad y proyecto final. Acredita el programa cursado y no equivale a un título oficial.
+## ¿Qué certificación sirve para trabajar en robótica?
+Los títulos oficiales aportan base; los certificados de herramientas y un proyecto demostrable completan el perfil.
+? ¿Qué valora una empresa?
+= Código, resultados reproducibles y conocimiento de seguridad.
+
+@/bateria-para-robot-y-sistemas-de-carga/
+> La batería de un robot humanoide suele dar unas dos a cuatro horas, según modelo y actividad. Debe ser compatible y cargarse con el sistema indicado.
+## ¿Cuánto dura la batería de un robot humanoide?
+Caminar, correr o cargar peso reduce el tiempo. Pide la autonomía medida en tu tarea.
+? ¿Puede dejarse cargando sin vigilancia?
+= Solo si el fabricante lo permite y la instalación es adecuada.
+
+@/sensores-de-robots/
+> Los sensores de un humanoide miden equilibrio, posición, fuerza, distancia y entorno. Los principales son IMU, encoders, fuerza, tacto, cámara y LiDAR.
+## ¿Qué sensores tiene un robot humanoide?
+Internos, para conocer su cuerpo, y externos, para conocer el entorno. La fusión de ambos evita caídas y choques.
+? ¿Qué es una IMU?
+= Un sensor que mide aceleración y giro para estimar orientación.
+
+@/camara-robot-alta-precision/
+> Una cámara para robot puede ser RGB, estéreo, de profundidad, infrarroja o térmica. La elección depende de distancia, luz y detalle.
+## ¿Qué cámara elegir para visión robótica?
+Global shutter para movimiento, profundidad para agarre, infrarroja para oscuridad y térmica para temperatura.
+? ¿Más megapíxeles es mejor?
+= No siempre; aumentan datos y latencia.
+
+@/procesadores-y-software-de-ia/
+> El ordenador del robot separa control en tiempo real e inteligencia artificial. El equilibrio se calcula a bordo; tareas lentas pueden ir a un servidor.
+## ¿Qué procesador usa un robot humanoide?
+Combina microcontroladores, CPU y, en algunos modelos, GPU como NVIDIA Jetson. La configuración cambia por edición.
+? ¿Necesita internet?
+= Para caminar no debería; para conversación en la nube, sí.
+
+@/piezas-mecanicas-y-brazos-roboticos/
+> Las piezas mecánicas forman estructura, articulaciones y brazos. Tolerancia, material y peso influyen en precisión y autonomía.
+## ¿De qué material está hecho un robot humanoide?
+Aluminio, acero, plásticos técnicos y compuestos, según carga y coste. Las cubiertas no suelen ser estructurales.
+? ¿Qué son los grados de libertad?
+= Los movimientos independientes que puede realizar una articulación o robot.
+
+@/actuadores-y-servomotores/
+> Un actuador convierte energía en movimiento y suele integrar motor, reductora, encoder y control. Es una de las piezas más exigidas del humanoide.
+## ¿Actuador, motor y servo son lo mismo?
+No. El motor genera giro; el servo añade control; el actuador es el conjunto que mueve la articulación.
+? ¿Por qué se calienta?
+= Por carga, fricción, mala calibración o refrigeración; un aumento anormal exige parar.
+
+@/manos-diestras-y-pinzas/
+> Una mano diestra ofrece varios dedos y movimientos; una pinza es más simple y robusta. La mejor es la que resuelve el objeto y la tarea.
+## ¿Mano robótica o pinza?
+Pinza para objetos conocidos; mano para herramientas, variedad o investigación; ventosa para superficies lisas.
+? ¿Cuántos grados de libertad necesita una mano?
+= Los que pida el agarre; más grados añaden coste y mantenimiento.
+
+@/reductoras-y-transmisiones/
+> Una reductora baja velocidad y aumenta par entre motor y articulación. Las planetarias resisten golpes; las armónicas ofrecen poco juego.
+## ¿Qué es una reductora armónica?
+Un reductor con engranaje flexible que consigue gran relación y precisión en poco espacio. Es sensible a impactos.
+? ¿Qué indica el juego mecánico?
+= Holgura o desgaste que reduce precisión.
+
+@/estaciones-de-carga/
+> Una estación de carga alimenta y, en algunos modelos, acopla automáticamente el robot. Requiere electricidad adecuada, ventilación y espacio despejado.
+## ¿Cómo se carga un robot humanoide?
+Con cable, cambio de batería o acople. La carga automática debe ser compatible con modelo y entorno.
+? ¿Vale un enchufe doméstico?
+= Depende de potencia, protección e instrucciones del cargador.
+
+@/lidar-y-sensores-de-profundidad/
+> LiDAR mide distancia con láser y la cámara de profundidad estima volumen. Juntos ayudan a crear mapas y evitar obstáculos.
+## ¿LiDAR o cámara de profundidad?
+LiDAR para alcance y mapa; profundidad para objetos cercanos. Cristal, polvo y sol afectan de forma distinta.
+? ¿El LiDAR daña los ojos?
+= Los equipos comerciales deben indicar clase láser; usa los de clase adecuada y sigue el manual.
+
+@/carcasas-y-piezas-de-recambio/
+> Las carcasas protegen y dan acabado, mientras que otras piezas soportan esfuerzos. Antes de imprimir una copia hay que distinguir cuál es estructural.
+## ¿Se pueden imprimir repuestos en 3D?
+Cubiertas, soportes y prototipos, sí. Piezas de carga, calor o seguridad requieren cálculo y validación.
+? ¿Personalizar anula la garantía?
+= Puede hacerlo si altera sensores, peso o ventilación.

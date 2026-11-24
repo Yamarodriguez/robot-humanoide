@@ -1,0 +1,407 @@
+@unitree-g1|Unitree G1 en Argentina|Unitree G1 en Argentina - Precio en Dólares e Importación|Precio del Unitree G1 en Argentina: unos 16.000 USD en fábrica y entre 23.000 y 28.000 USD puesto en el país. Versiones, importación y repuestos.
+!precio|23.000 – 28.000 USD (estimado)|Sí, por importación formal|unos 60 días más flete y aduana
+Es el humanoide por el que más se pregunta desde Argentina, y el que tiene la cuenta más clara: cerca de 16.000 dólares en fábrica que terminan en 23.000 a 28.000 con todo adentro.
+## Básico o EDU: la decisión que más importa
+El básico camina, se levanta y hace demostraciones. El EDU habilita desarrollo con acceso a articulaciones y más cómputo. Una universidad o un integrador que compra el básico descubre tarde que no puede programar lo que quería.
+## Cómo entra al país
+Por valor y peso no califica para courier. Va como importación formal, con despachante, y la batería de litio exige documentación de mercancía peligrosa. Detalle en [[importacion-y-gestion-aduanera|importación y aduana]].
+## Qué sumar al pedido
+- Batería extra, porque dura unas dos horas.
+- Un juego de actuadores de repuesto.
+- Arnés o soporte para las primeras pruebas.
+? ¿Se vende en Mercado Libre?
+= Pueden aparecer publicaciones. Pedí factura, despacho de importación y versión exacta antes de pagar.
+? ¿Sirve para una fábrica?
+= Para un piloto, sí. No viene con tareas industriales resueltas.
+
+@unitree-r1|Unitree R1 en Argentina|Unitree R1 en Argentina - Precio y Cómo Traerlo|Unitree R1 en Argentina: cerca de 5.900 USD en fábrica y 8.500 a 10.500 USD puesto en el país. Qué hace y para quién conviene.
+!precio|8.500 – 10.500 USD (estimado)|Sí, por importación formal|Según stock del canal
+El R1 bajó el piso de entrada al humanoide de cuerpo entero. Para un argentino que quiere aprender o mostrar la tecnología, es la primera opción que no exige el presupuesto de un auto nuevo.
+## Qué ganás y qué resignás frente al G1
+Es más liviano y barato, muy ágil en demostraciones. A cambio hay menos fuerza, menos opciones de manos y menor margen para investigación. Si tu plan es manipular objetos, mirá el [[unitree-g1|G1]].
+## El límite del courier
+El valor de fábrica ya supera el tope vigente de 3.000 dólares por envío. Los avisos que prometen traerlo «puerta a puerta sin trámite» merecen desconfianza: un equipo subdeclarado puede quedar retenido en aduana.
+## Para quién conviene
+- Creadores de contenido y agencias de eventos.
+- Escuelas técnicas con docentes entrenados.
+- Programadores que quieren hardware propio.
+? ¿Hace tareas de la casa?
+= No. Camina, gesticula y conversa según configuración.
+? ¿Se puede programar?
+= Depende de la edición. Confirmalo por escrito en la cotización.
+
+@booster-robotics-k1|Booster K1 en Argentina|Booster Robotics K1 en Argentina - Plataforma para Universidades|Booster K1 en Argentina: humanoide compacto con SDK abierto y ROS para fútbol robótico, docencia e investigación. Cómo pedirlo.
+!precio|A cotizar|Sí, bajo pedido|Según stock del fabricante
+Para una facultad que compite en RoboCup o quiere armarse un equipo, el K1 es un candidato natural: compacto, pensado para caerse y volver a empezar.
+## Por qué interesa en la universidad
+- SDK abierto y compatibilidad con ROS.
+- Tamaño manejable: entra en un auto y en un aula.
+- Comunidad orientada a fútbol robótico y control de marcha.
+## K1 o G1 para un laboratorio
+El K1 sale menos y tolera mejor el uso de estudiantes. El [[unitree-g1|G1]] tiene más literatura y más alcance para manipulación. Si vas a publicar sobre locomoción, ambos sirven; decidí por presupuesto y simulador.
+## Cómo comprarlo desde Argentina
+No hay lista de precios local. Se pide proforma al fabricante o a un distribuidor y se calcula el costo puesto acá. Una universidad debería consultar el régimen de importación para ciencia antes de la orden de compra.
+? ¿Se consigue el repuesto?
+= Por importación. Conviene pedir articulaciones extra en el mismo envío.
+? ¿Es apto para secundaria?
+= Con docentes de programación, sí.
+
+@noetix-bumi|Noetix Bumi en Argentina|Noetix Bumi en Argentina - Precio, Courier y Disponibilidad|Noetix Bumi en Argentina: humanoide anunciado por menos de 1.400 USD. Si entra por courier, qué falta confirmar y alternativas.
+!precio|A confirmar|Anunciado, sin stock verificado|Por confirmar
+Un humanoide por debajo de 1.400 dólares sería el único que, por valor, podría entrar en el régimen de courier argentino. Por eso genera tanto interés, y por eso hay que ir despacio.
+## Lo que falta confirmar
+- Que haya venta abierta fuera de China.
+- Idioma, aplicación y servidores disponibles en español.
+- Garantía real para un comprador sudamericano.
+## Si lo traés por courier
+Además del valor cuentan el peso, la cantidad y la batería. No todos los operadores aceptan litio de ese tamaño. Preguntá antes de comprar y guardá la factura: el valor declarado tiene que ser el pagado.
+## Qué esperar de un robot de ese precio
+Un equipo de entretenimiento y aprendizaje. Para desarrollar en serio, el salto es al [[unitree-r1|Unitree R1]] o al [[booster-robotics-k1|K1]].
+? ¿Conviene señar una preventa?
+= Solo en canales oficiales y con condiciones de reembolso.
+? ¿Hay distribuidor argentino?
+= No tenemos verificado ninguno.
+
+@ubtech|UBTech en Argentina|UBTech en Argentina - Robots de Servicio y Educativos|Robots UBTech en Argentina: línea educativa, Cruzr de servicio y Walker industrial. Qué se puede importar y en qué fijarse.
+!precio|Según modelo, a cotizar|Sí, por pedido|A consultar por línea
+UBTech fabrica cosas muy distintas bajo el mismo nombre, y de eso vienen los malentendidos: alguien pide «un UBTech» pensando en el Walker y recibe precio de un kit escolar.
+## Las tres líneas
+- **Educativa**: humanoides chicos y material de clase. La más accesible para escuelas argentinas.
+- **Servicio (Cruzr)**: cuerpo con ruedas para recepción en hoteles, bancos y hospitales.
+- **Industrial (Walker)**: proyectos con fábricas, fuera del alcance de una compra suelta.
+## Antes de importar un Cruzr
+Un robot de recepción vale por su conversación. Confirmá idioma español, posibilidad de conectar tu propio asistente y si la plataforma sigue activa para equipos vendidos en Sudamérica. Mirá también [[robots-de-atencion-al-cliente|robots de atención]].
+## Cuidado con el usado
+Circulan equipos de segunda mano con cuentas bloqueadas o software descontinuado. Sin transferencia de licencia, no sirven.
+? ¿El Cruzr camina?
+= No, se desplaza sobre ruedas.
+? ¿Cuál va para primaria?
+= Los kits educativos armables, con programación por bloques.
+
+@fourier-intelligence-gr-2|Fourier GR-2 en Argentina|Fourier Intelligence GR-2 en Argentina - Rehabilitación e Investigación|Fourier GR-2 en Argentina: humanoide de investigación con origen en rehabilitación. ANMAT, importación y para qué centros tiene sentido.
+!precio|A cotizar|Sí, por proyecto|A consultar
+Fourier llegó al humanoide desde la rehabilitación, y eso se nota en el control de fuerza. En Argentina interesa a dos públicos que compran distinto: centros clínicos y laboratorios.
+## Si sos un centro de rehabilitación
+No asumas que el humanoide está habilitado para tratar pacientes. Todo uso terapéutico necesita registro en ANMAT. Los equipos de rehabilitación de la marca y el GR-2 son productos diferentes: pedí la documentación del que vas a usar.
+## Si sos un laboratorio
+Es una plataforma de cuerpo completo con manos, para interacción física y teleoperación. Al comparar con el [[unitree-g1|G1]], mirá carga de brazos y apoyo del fabricante más que velocidad.
+## Costos a prever
+Es más grande y pesado: flete, pórtico y espacio aumentan. Pedí el peso embalado desde la primera cotización.
+? ¿Hay unidades en el país?
+= No tenemos verificada ninguna a la venta.
+? ¿Puede trabajar solo con pacientes?
+= No. Siempre con un profesional presente.
+
+@neura-robotics-4ne-1|Neura 4NE-1 en Argentina|Neura Robotics 4NE-1 en Argentina - Humanoide Alemán|Neura 4NE-1 en Argentina: humanoide alemán para industria. Importación desde la Unión Europea, disponibilidad y alternativas.
+!precio|A cotizar|Por proyecto con el fabricante|Según proyecto
+Para filiales argentinas de empresas alemanas, el 4NE-1 tiene un atractivo concreto: la casa matriz ya puede estar evaluándolo y el soporte habla el mismo idioma que el proyecto.
+## Lo que cambia respecto de Europa
+Comprado desde Argentina no es intracomunitario: paga flete, derechos y despacho como cualquier equipo extrazona. El acuerdo entre Mercosur y la Unión Europea puede modificar el arancel de algunas posiciones; consultá al despachante el estado vigente.
+## Cuándo tiene sentido
+- Proyecto corporativo con respaldo de la matriz.
+- Necesidad de documentación de seguridad europea.
+- Tarea industrial donde la percepción táctil aporta.
+Para una pyme o una universidad, hoy es más realista [[unitree-g1|Unitree]].
+? ¿El marcado CE vale en Argentina?
+= Es una referencia técnica útil, no un permiso local. Ver [[normativa-y-certificaciones|normativa]].
+? ¿Se compra de a uno?
+= Depende del fabricante; suele evaluarse por proyecto.
+
+@1x-technologies-neo|1X NEO en Argentina|1X NEO en Argentina - ¿Se Puede Comprar?|1X NEO en Argentina: precio de 20.000 USD o 499 USD al mes, por qué todavía no se vende acá y qué alternativas hay.
+!precio|No disponible|No, solo Estados Unidos por ahora|Sin fecha para Argentina
+Respuesta corta: hoy no. NEO se comercializa en Estados Unidos, por 20.000 dólares o una suscripción de 499 mensuales, y no hay fecha anunciada para Argentina.
+## Por qué no alcanza con mandarlo a un casillero
+NEO depende de un servicio: actualizaciones, soporte y asistencia remota del fabricante. Un equipo reenviado a Buenos Aires podría quedar sin activación ni garantía, y el costo de importarlo ya estaría pagado.
+## La cuestión de la teleoperación
+Cuando no sabe hacer algo, un operador puede guiarlo a distancia viendo tu casa. Antes de desear uno, preguntate quién mira, desde qué país y qué se guarda. La Ley 25.326 regula la transferencia internacional de datos.
+## Qué hacer mientras tanto
+Si querés experimentar, el [[unitree-r1|Unitree R1]] es importable. Si querés ayuda doméstica, [[robots-para-el-hogar|conviene esperar]].
+? ¿La suscripción se puede pagar desde acá?
+= El medio de pago no es el obstáculo: el servicio no está habilitado para el país.
+? ¿Me avisan cuando llegue?
+= Sí, dejanos tu contacto.
+
+@agility-robotics-digit|Agility Digit en Argentina|Agility Robotics Digit en Argentina - Logística con Humanoides|Digit de Agility Robotics visto desde Argentina: modelo de contratación, por qué no llega y cómo probar algo similar en un depósito local.
+!precio|No disponible|No, solo grandes operaciones por contrato|Por proyecto
+Digit es la prueba de que un humanoide puede trabajar en un depósito real. También muestra el modelo que le falta a la Argentina: se contrata como servicio, con técnicos del fabricante cerca.
+## Por qué no llega todavía
+Un contrato de robot como servicio exige escala, repuestos a mano y personal propio. Con pocas operaciones por país, al fabricante no le cierra. Una multinacional logística con sede en Estados Unidos podría gestionarlo desde su matriz.
+## Qué se puede copiar hoy
+Su caso de uso: tomar contenedores de medidas iguales y dejarlos en un transportador. Si tu depósito estandariza cajas y pasillos, después cualquier robot rinde más. Empezá por ahí y por un [[estudio-de-viabilidad-y-roi|estudio de viabilidad]].
+## La cuenta de referencia
+El contrato de 8.500 dólares mensuales que se toma de referencia supera con holgura el costo de un operario argentino. A esos valores, acá solo cerraría en varios turnos.
+? ¿Hay una opción comprable?
+= Sí, un G1 programado, con menos carga y robustez.
+? ¿Trabaja con pallets?
+= No, con contenedores y cajas.
+
+@figure-ai-figure-03|Figure 03 en Argentina|Figure 03 en Argentina - Disponibilidad y Alternativas|Figure 03 de Figure AI: por qué no se puede comprar en Argentina, qué mostró en BMW y qué alternativas se pueden importar.
+!precio|No disponible|No|Sin fecha
+Si llegaste por un video de Figure doblando ropa, el dato clave es que la empresa no vende unidades sueltas, ni en Argentina ni en otro país.
+## Qué está demostrado
+Un piloto de once meses en una planta de BMW, con tareas de carga de piezas. Es trabajo real, acotado y supervisado por el fabricante. Las demostraciones domésticas son otra cosa: muestran capacidad, no un producto con garantía.
+## Qué le sirve a una automotriz argentina
+La lección es de método: una sola estación, una métrica, meses de prueba. Las terminales de Córdoba, Zárate o Pacheco pueden replicarlo con otra plataforma.
+## Desconfiá de las ofertas
+No hay representante ni preventa en el país. Quien ofrezca «reservar» un Figure está ofreciendo algo que no puede entregar.
+? ¿Qué se parece más y se puede traer?
+= Por tamaño y apertura, el [[unitree-g1|Unitree G1]], con menos capacidad de manos.
+? ¿Figure cotiza en bolsa?
+= Es una empresa privada.
+
+@robot-tesla-bot-optimus|Tesla Optimus en Argentina|Tesla Optimus en Argentina - Precio y Fecha de Venta|Tesla Optimus en Argentina: precio anunciado, por qué no se vende, estafas frecuentes y qué robot se puede comprar hoy.
+!precio|No disponible|No, sin venta al público|Sin fecha
+Optimus es el robot más buscado y también el más usado como gancho para estafas. Al día de hoy Tesla no lo vende al público en ningún país.
+## Qué se sabe del precio
+Se anunciaron cifras de entre 20.000 y 30.000 dólares como objetivo. No es un precio de lista. Aplicando el sobrecosto de importación habitual, un equipo así rondaría los 28.000 a 51.000 dólares puesto en Argentina; es una cuenta hipotética, no una oferta.
+## Cómo reconocer una estafa
+- Pide seña en cripto o transferencia a una persona.
+- Promete entrega inmediata o «lote para Latinoamérica».
+- Usa videos de Musk con voz doblada.
+Nosotros no tomamos reservas de Optimus.
+## Qué comprar si no querés esperar
+Para desarrollo, [[unitree-g1|Unitree G1]]. Para un evento, conviene alquilar.
+? ¿Tesla tiene venta oficial en Argentina?
+= Consultá siempre su sitio. Que se vean autos importados no implica venta del robot.
+? ¿Llegará a Argentina?
+= No hay anuncio oficial.
+
+@robot-boston-dynamics-atlas|Boston Dynamics Atlas en Argentina|Boston Dynamics Atlas en Argentina - Qué es y Qué se Puede Comprar|Atlas de Boston Dynamics visto desde Argentina: uso industrial con Hyundai, por qué no se vende suelto y la opción de Spot.
+!precio|No disponible|No se vende suelto|Sin fecha
+Los saltos de Atlas formaron la idea que todos tenemos de un robot. El Atlas actual es otro: eléctrico, orientado a fábrica y con Hyundai como primer destino.
+## Se puede conseguir Spot
+Si lo que te interesa es la marca, su producto más difundido es el cuadrúpedo Spot. Para recorridas en energía o minería argentina resulta más lógico que un bípedo: es estable, resistente y tiene accesorios de inspección.
+## Cuándo mirar a Atlas
+Solo si sos parte de un grupo industrial global con relación directa con el fabricante. No hay lista de precios ni canal para terceros.
+## Alternativas según la tarea
+- Inspeccionar: Spot u otro cuadrúpedo.
+- Investigar: [[unitree-g1|G1]] o [[booster-robotics-k1|K1]].
+- Mostrar en público: [[alquiler-para-eventos|alquiler para eventos]].
+? ¿El Atlas hidráulico se vende usado?
+= No. Fue un prototipo de investigación, retirado en 2024.
+? ¿Spot es humanoide?
+= No, tiene cuatro patas.
+
+@robot-xiaomi-cyberone|Xiaomi CyberOne en Argentina|Xiaomi CyberOne en Argentina - ¿Existe para Comprar?|Xiaomi CyberOne: por qué no está en las tiendas Xiaomi de Argentina, qué pasó con el proyecto y qué robots chinos sí se consiguen.
+!precio|No disponible|Nunca se comercializó|Ninguna
+Con tiendas Xiaomi en los shoppings es lógico suponer que el robot se puede encargar ahí. No se puede: CyberOne se presentó en agosto de 2022 y nunca salió a la venta.
+## Qué era
+Un prototipo de 1,77 metros y 52 kilos que caminaba, reconocía caras y entregaba objetos livianos. Sirvió para mostrar capacidad técnica.
+## Cuidado con los anuncios
+Los productos «CyberOne» que aparecen en marketplaces suelen ser muñecos, figuras o juguetes. Si el precio es de pocos miles de pesos, es eso.
+## Robots chinos que sí se importan
+[[unitree-r1|Unitree R1]] para empezar, [[unitree-g1|G1]] para desarrollar y [[ubtech|UBTech]] para educación.
+? ¿Y el CyberDog?
+= Es el cuadrúpedo de Xiaomi, otro producto, con venta limitada.
+? ¿Puede volver el proyecto?
+= No hay anuncio de venta confirmado.
+
+@robot-honda-asimo|Honda ASIMO en Argentina|Honda ASIMO - Historia del Robot y Alternativas en Argentina|Honda ASIMO: qué logró, por qué se retiró en 2022 y con qué robot se puede enseñar robótica humanoide hoy en Argentina.
+!precio|No disponible|No, retirado en 2022|Ninguna
+Para toda una generación ASIMO fue «el robot». Se presentó en 2000, subía escaleras y trotaba a 6 km/h, y Honda lo retiró en 2022 sin haberlo vendido nunca.
+## Qué dejó
+ASIMO calculaba cada paso de antemano con modelos precisos. Los robots actuales aprenden a equilibrarse en simulación y se adaptan al empujón. Comparar ambos enfoques es una excelente clase.
+## Para usarlo en el aula
+- Compará videos de ASIMO y de un [[unitree-r1|R1]] subiendo un escalón.
+- Discutí por qué un equipo de millones no llegó a producto.
+- Simulá las dos formas de caminar con herramientas libres, como propone el [[simulacion-antes-del-despliegue|curso de simulación]].
+## ¿Se puede traer un ASIMO?
+No. No hay unidades en venta; las que quedan pertenecen a Honda o a museos.
+? ¿Honda Argentina tiene alguno?
+= No nos consta ninguna unidad disponible para alquilar.
+? ¿Cuánto costaba?
+= Honda no publicó precio de venta, porque no lo vendía.
+
+@robot-sophia-hanson-robotics|Robot Sophia en Argentina|Robot Sophia en Argentina - Contratación, Mitos y Alternativas|Sophia de Hanson Robotics desde Argentina: qué es real, cómo se contrata para un evento y qué alternativas hay más económicas.
+!precio|Sin venta al público|Solo contratación para eventos|A coordinar con Hanson Robotics
+Sophia es una figura mediática más que un producto. En 2017 Arabia Saudita anunció que le daba ciudadanía, y desde entonces se le atribuye una conciencia que no tiene.
+## Qué hace de verdad
+Reproduce más de sesenta expresiones, sigue miradas y conversa combinando guion con inteligencia artificial. El rostro es su gran logro técnico.
+## Traerla a un evento argentino
+Se negocia con Hanson Robotics o sus representantes: honorarios, equipo técnico, pasajes, flete y seguro. Para la mayoría de los congresos, un humanoide local con [[alquiler-para-eventos|operador]] logra impacto por una fracción.
+## Para una universidad
+Sirve como caso para discutir ética, antropomorfismo y comunicación de la ciencia.
+? ¿Sophia piensa?
+= No. Genera respuestas, sin conciencia.
+? ¿Existe una versión chica?
+= Hanson presentó Little Sophia para uso educativo; verificá stock antes de pagar.
+
+@agibot-x2|AgiBot X2 en Argentina|AgiBot X2 en Argentina - Importación, Versiones y Precio|AgiBot X2 en Argentina: humanoide de 1,31 m vendido en tiendas europeas. Qué versión pedir, costo de referencia e importación.
+!precio|A cotizar|Sí, por importación formal|Según canal
+El X2 demuestra que un humanoide puede estar en la góndola virtual de una cadena europea. Traer uno a Argentina sigue siendo una importación con batería, despacho y garantía por definir.
+## Base, Lite o Ultra
+La base y el Ultra cambian en articulaciones, peso y alcance. Para un evento puede bastar un equipo demostrativo; una universidad debería pedir acceso de desarrollo por escrito.
+## ¿Conviene comprarlo en Europa?
+La tienda española no garantiza servicio acá. Compará ese precio con fábrica y con distribuidores regionales antes de pagar impuestos dos veces por una operación mal armada.
+? ¿AgiBot alquila robots?
+= Anunció alquiler en varios países desde 1.000 USD por día. Confirmá cobertura argentina.
+? ¿Compite con el G1?
+= Sí por tamaño; el [[unitree-g1|Unitree G1]] tiene mayor comunidad de investigación.
+
+@unitree-h2|Unitree H2 en Argentina|Unitree H2 en Argentina - Humanoide de 1,82 m|Unitree H2 en Argentina: 1,82 m, 70 kg y 31 grados de libertad. Precio por consulta, flete y seguridad para traerlo.
+!precio|A cotizar|Bajo pedido|Por fases
+Un adulto mecánico de 70 kilos no viaja como un G1. El H2 cambia el embalaje, el flete y también las condiciones del laboratorio argentino que lo recibe.
+## Antes de elegir tamaño
+Si la investigación es de algoritmos, un robot menor puede rendir más. El H2 se justifica cuando hace falta alcanzar mesadas o interactuar a altura de persona.
+## Infraestructura local
+Prevé pórtico, zona libre, dos operadores y una ruta de descarga. El costo del aula puede pesar tanto como un accesorio.
+? ¿Ya hay precio argentino?
+= No uno verificado. La web oficial remite a ventas.
+? ¿Incluye manos?
+= Depende de la configuración; tiene que figurar en la proforma.
+
+@engineai-pm01|EngineAI PM01 en Argentina|EngineAI PM01 en Argentina - Precio y Uso Educativo|EngineAI PM01 en Argentina: alternativa de unos 12.000 USD al lanzamiento. Edición EDU, soporte y comparación con Unitree.
+!precio|A cotizar|Bajo pedido|A consultar
+El precio de lanzamiento, cerca de 12.000 dólares, puso al PM01 en la lista corta de muchas facultades. Ese valor ya no debe tomarse como presupuesto.
+## EDU no es una etiqueta decorativa
+Pedí qué articulaciones se pueden controlar, qué simulador ofrece y si los ejemplos compilan con la versión que recibís.
+## Riesgo de una marca menos instalada
+Sin comunidad local, cada falla depende más del fabricante. Un grupo con electrónica propia puede aceptarlo; una escuela necesita soporte más cercano.
+? ¿Entra por courier?
+= Por valor y tamaño, no en el régimen habitual de hasta 3.000 USD.
+? ¿PM01 o G1?
+= PM01 por propuesta de precio; [[unitree-g1|G1]] por ecosistema. Compará ediciones equivalentes.
+
+@engineai-t800|EngineAI T800 en Argentina|EngineAI T800 en Argentina - Qué es Real y Cómo se Cotiza|EngineAI T800 en Argentina: humanoide de 1,73 m, batería extraíble y precio sin publicar. Datos y seguridad.
+!precio|A cotizar|Bajo pedido|A consultar
+Los videos de patadas venden potencia. Un comprador necesita otra cosa: freno, soporte, batería transportable y una persona que sepa detenerlo.
+## Batería de 72 V
+El fabricante habla de packs extraíbles y cuatro a cinco horas. Para embarcar, hacen falta capacidad, ensayo y clasificación de cada pack.
+## ¿Sirve para un show?
+Puede interesar a una productora, con vallado y coreografía. No es un boxeador para poner frente a invitados.
+? ¿Cuánto cuesta?
+= Se lanzó en China desde 180.000 yuanes, pero el precio vigente debe pedirse.
+? ¿Tiene relación oficial con una película?
+= El nombre no acredita licencia; tratá esa referencia con cuidado en publicidad.
+
+@pal-robotics-talos|TALOS de PAL Robotics en Argentina|TALOS en Argentina - Humanoide Español para Investigación|TALOS de PAL Robotics en Argentina: 1,75 m, ROS y control de par. Cuándo tiene sentido para universidades y CONICET.
+!precio|A cotizar por proyecto|Sí, para investigación|A consultar
+Un fabricante que responde en español ayuda, aunque TALOS siga siendo una inversión de gran laboratorio. Su lugar natural es un proyecto compartido.
+## Por qué un grupo argentino lo estudiaría
+El control de par permite investigar contacto, equilibrio y fuerza. Antes del hardware, el modelo de simulación puede formar al equipo.
+## Cooperación y financiamiento
+Un consorcio con España puede repartir horas, estadías y experimentos. Definí dónde queda el robot y quién asume reparación antes de firmar.
+? ¿Se puede usar a distancia?
+= Puede acordarse acceso remoto o colaboración con un centro, sin importar el equipo.
+? ¿Funciona con ROS?
+= Sí, forma parte de su ecosistema.
+
+@pal-robotics-kangaroo|Kangaroo de PAL Robotics en Argentina|Kangaroo PAL Robotics en Argentina - Bípedo de Investigación|Kangaroo de PAL Robotics en Argentina: bípedo para locomoción, 1,60 m y 40 kg. Uso, transporte y alternativas.
+!precio|A cotizar por proyecto|Sí, para investigación|A consultar
+Para quien estudia saltos, un par de piernas bien diseñadas vale más que una cara expresiva. Kangaroo está hecho para esa pregunta.
+## Lo que se puede investigar
+Impacto, masa distal y recuperación son temas donde el hardware marca diferencias. Con simulación se prepara la campaña y se reserva el robot para confirmar.
+## Alternativa con menos presupuesto
+Construir una pierna sobre guía enseña gran parte del control. Un bípedo completo debería llegar después de demostrarlo.
+? ¿Tiene brazos?
+= La configuración depende de la versión. Kangaroo Pro amplía la plataforma.
+? ¿Es doméstico?
+= No. Es una herramienta de laboratorio.
+
+@apptronik-apollo|Apptronik Apollo en Argentina|Apptronik Apollo en Argentina - ¿Se Puede Comprar?|Apptronik Apollo en Argentina: piloto de Mercedes-Benz, por qué no se vende suelto y qué puede aprender la industria.
+!precio|No disponible|No, proyectos empresariales|Sin fecha pública
+Apollo no está en una tienda ni tiene preventa argentina. Su experiencia con Mercedes-Benz importa porque muestra cuánto trabajo hay antes de abrir un catálogo.
+## Una lección para autopartes
+Elegir una tarea y recoger datos durante meses resulta más valioso que una presentación de un día. Ese método se puede copiar con simulación y equipos accesibles.
+## Apollo 2
+La empresa ya comunicó una generación posterior. No uses fichas del primer modelo para dimensionar una inversión futura.
+? ¿Puede contratarlo una multinacional en Argentina?
+= Debe negociarse con Apptronik; no consta canal local.
+? ¿Cuánto levanta?
+= Se difundieron 25 kg para la versión anterior, sin confirmar para Apollo 2.
+
+@xpeng-iron|XPeng IRON en Argentina|XPeng IRON en Argentina - Precio y Fecha Esperada|XPeng IRON desde Argentina: humanoide anunciado para entregas en 2027. Qué se sabe y por qué no reservarlo por terceros.
+!precio|No disponible|No|Sin fecha para Argentina
+Que una automotriz produzca un humanoide no significa que sus concesionarios lo vendan. IRON primero debe pasar por las tiendas y sedes de XPeng.
+## El calendario conocido
+La empresa habló de entregas en 2027 y promoción europea más adelante. Argentina no figura con fecha en la información consultada.
+## Qué mirar mientras tanto
+Si tu negocio es una concesionaria, probá atención con un robot más simple. Las preguntas de clientes que juntes servirán con cualquier modelo.
+? ¿Se puede reservar?
+= No por un canal argentino verificado.
+? ¿Cuántas articulaciones tiene?
+= Se anunciaron 76 grados de libertad; confirmá la versión comercial.
+
+@fourier-gr-3|Fourier GR-3 en Argentina|Fourier GR-3 en Argentina - Robot de Compañía y Cuidado|Fourier GR-3 en Argentina: robot social de 1,65 m. Uso en mayores, ANMAT, privacidad y diferencias con GR-2.
+!precio|A cotizar|Bajo pedido|A consultar
+Parece amable por diseño, y justamente por eso necesita reglas claras. Un residente puede atribuirle una capacidad de cuidado que el equipo no tiene.
+## Un piloto responsable
+Pocas sesiones, consentimiento, familiar informado y un profesional presente. Se mide si la persona quiere repetir y entiende que habla con una máquina.
+## Cuidado no equivale a uso médico
+Si se presenta con fin terapéutico entran evaluaciones sanitarias y posible intervención de ANMAT. Para compañía o recepción el análisis es otro.
+? ¿Puede trasladar a un paciente?
+= No debe usarse para eso sin capacidad y certificación específicas.
+? ¿GR-3 o GR-2?
+= GR-3 pone el foco social; [[fourier-intelligence-gr-2|GR-2]], el de investigación y manipulación.
+
+@limx-oli|LimX Oli en Argentina|LimX Oli en Argentina - Precio en Origen y Versiones|LimX Oli en Argentina: humanoide modular desde unos 21.800 USD en China. EDU, importación y mercado global.
+!precio|A cotizar|Bajo pedido, versión global por confirmar|A consultar
+Entre el G1 y los equipos de gran porte queda un hueco. Oli apunta ahí con 1,65 metros y menos de 55 kilos, una combinación atractiva para laboratorio.
+## El precio chino como punto de partida
+Los 158.000 yuanes de lanzamiento no incluyen el camino a Buenos Aires ni una edición determinada de desarrollo. Pedí incoterm, batería y accesorios en la misma hoja.
+## Modularidad que hay que demostrar
+Solicitá planos de interfaces y un ejemplo de cambio de extremo. Sin documentación, «modular» puede significar solo que se desmonta.
+? ¿Hay venta en Argentina?
+= No tenemos verificado un distribuidor.
+? ¿Trae manos?
+= Los 31 grados comunicados no incluyen extremos; consultá opciones.
+
+@reachy-2|Reachy 2 en Argentina|Reachy 2 en Argentina - Robot Abierto para Investigación|Reachy 2 en Argentina: robot abierto de Hugging Face y Pollen con ROS 2. Precio, importación y alternativas para laboratorios.
+!precio|A cotizar|Sí, para investigación|A consultar
+Para estudiar manos no siempre hacen falta piernas. Reachy 2 se concentra en brazos, percepción y teleoperación, con herramientas que un laboratorio puede inspeccionar.
+## El valor de que sea abierto
+Código y modelos facilitan que otra universidad repita un experimento. La máquina, en cambio, sigue costando unos 70.000 dólares en origen.
+## Empezar sin comprarlo
+Descargá el entorno, reproducí una demo y prepará datos. Si el equipo no aprovecha el simulador, importar hardware no arregla el problema.
+? ¿Camina?
+= No; usa configuración fija o base móvil.
+? ¿Sirve para ROS 2?
+= Sí, junto con SDK de Python.
+
+@reachy-mini|Reachy Mini en Argentina|Reachy Mini en Argentina - Robot de IA desde 399 USD|Reachy Mini en Argentina: precio desde 399 USD más envío e impuestos, versión Lite y uso educativo.
+!precio|A cotizar con envío e impuestos|Sí, online|unos 90 días según fabricante, más aduana
+Es la entrada menos costosa de esta guía y cabe en un escritorio. No camina ni agarra, pero permite aprender interacción con un robot físico.
+## Lite y la franquicia
+Con 399 dólares, la Lite queda cerca del umbral que suele generar dudas. Flete, forma de envío y cupo personal cambian el cálculo: consultá las condiciones vigentes con el operador.
+## Proyecto para un aula
+Cada grupo puede crear un gesto, una voz y una regla de privacidad. Se aprende más que repitiendo una coreografía cerrada.
+? ¿Es un humanoide completo?
+= No. Es una cabeza expresiva de escritorio.
+? ¿Necesita computadora?
+= Depende de la edición; confirmalo antes de comprar.
+
+@hexagon-aeon|Hexagon AEON en Argentina|Hexagon AEON en Argentina - Caso BMW para la Industria|Hexagon AEON visto desde Argentina: pruebas en BMW Leipzig, uso industrial, disponibilidad y lecciones para autopartes.
+!precio|No disponible como unidad|Por proyecto con Hexagon|Según proyecto
+BMW no puso un robot a mirar: lo llevó a una planta para tareas concretas. Esa diferencia hace que AEON merezca atención aunque no se compre desde acá.
+## Datos de calidad
+Hexagon viene del mundo de la medición. Para una autopartista el aprendizaje está en unir pieza, recorrido y trazabilidad, no en copiar la forma humana.
+## Cómo iniciar una conversación
+Una filial puede coordinar con su casa matriz y preparar un caso con volumen, peso y layout. Sin ese dato, la respuesta comercial será genérica.
+? ¿Está funcionando en BMW?
+= Hexagon comunicó tareas de producción en Leipzig en junio de 2026.
+? ¿Tiene precio?
+= No publicado para compra unitaria.
+
+@engineered-arts-ameca|Robot Ameca en Argentina|Robot Ameca en Argentina - Contratación y Precio|Ameca en Argentina: robot de expresión facial para museos y eventos. Qué hace, por qué no camina y cómo contratarlo.
+!precio|A cotizar|Por contrato con Engineered Arts|A consultar
+Ameca mira y sonríe con una naturalidad que llena pantallas. Traerla es montar una instalación internacional, no alquilar una notebook con cara.
+## Para un museo
+Una estadía larga amortiza transporte y adaptación. Conviene preparar preguntas en castellano y decir claramente qué respuestas genera un modelo.
+## Para una noche
+Los costos pueden superar al impacto. Un humanoide disponible localmente con guion propio resuelve muchos lanzamientos.
+? ¿Ameca tiene emociones?
+= No. Reproduce expresiones y conversa mediante software.
+? ¿Camina por el escenario?
+= Se presenta como instalación de interacción, sin desplazamiento autónomo.
+
+@kepler-k2|Kepler K2 en Argentina|Kepler K2 Bumblebee en Argentina - Precio e Importación|Kepler K2 en Argentina: humanoide industrial de 1,75 m, manos táctiles y 30.000 USD comunicados en origen.
+!precio|A cotizar|Bajo pedido|A consultar
+Las yemas sensibles llaman más la atención que la altura. Para saber si sirven, hay que mandar la pieza real y contar cuántas veces la suelta.
+## El valor de 30.000 dólares
+Es una referencia de 2025. Mano, versión, software y embalaje pueden moverla antes de llegar a Argentina.
+## Prueba antes de importar
+Pedí al fabricante un video continuo con tu objeto o su equivalente, vista de cámara y datos de fuerza. Una edición de diez segundos no alcanza.
+? ¿Tiene manos diestras?
+= Se comunicaron manos de 11 grados con sensores por dedo.
+? ¿Hay servicio local?
+= No tenemos verificado uno; acordalo antes de señar.

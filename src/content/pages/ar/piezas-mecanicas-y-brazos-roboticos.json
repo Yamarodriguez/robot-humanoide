@@ -1,0 +1,29 @@
+{
+  "titulo": "Piezas Mecánicas y Brazos Robóticos en Argentina",
+  "url": "/ar/piezas-mecanicas-y-brazos-roboticos/",
+  "slug": "piezas-mecanicas-y-brazos-roboticos",
+  "alterna": "/piezas-mecanicas-y-brazos-roboticos/",
+  "h1": "Piezas Mecánicas y Brazos Robóticos en Argentina",
+  "entradilla": "La red de talleres CNC de Córdoba, Rafaela, Rosario y el conurbano permite resolver acá muchas piezas estructurales que en otros países se esperan por correo.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar disponibilidad"
+  },
+  "hero": "/wp-content/uploads/2025/03/brazo-robotico.jpg",
+  "metaTitulo": "Piezas Mecánicas y Brazos Robóticos en Argentina",
+  "metaDescripcion": "Piezas mecánicas y brazos para robots en Argentina: qué se mecaniza localmente, qué se importa y cómo evitar daños por copias.",
+  "focusKeyword": "piezas mecánicas y brazos robóticos en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/brazo-robotico.jpg",
+  "faq": [
+    {
+      "pregunta": "¿Un brazo suelto sirve para practicar?",
+      "respuesta": "Sí, y cuesta mucho menos que un humanoide."
+    },
+    {
+      "pregunta": "¿Pierdo garantía si modifico?",
+      "respuesta": "Es probable. Consultá al fabricante."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué se puede fabricar local</h2><ul><li>Soportes, adaptadores y herramental de brazo.</li><li>Placas de aluminio y separadores.</li><li>Prototipos impresos en nylon o con fibra.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué conviene original</h2><p>Ejes de articulación, rodamientos especiales y piezas tratadas. Una diferencia de centésimas termina en vibración y en un actuador roto.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cómo pedir un mecanizado</h2><p>Plano con tolerancias, material con norma y una pieza de muestra. Guardá medidas antes de la primera rotura.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Piezas Mecánicas y Brazos Robóticos en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Un brazo suelto sirve para practicar?</summary><div class=\"pregunta__resp\"><p>Sí, y cuesta mucho menos que un humanoide.</p></div></details><details class=\"pregunta\"><summary>¿Pierdo garantía si modifico?</summary><div class=\"pregunta__resp\"><p>Es probable. Consultá al fabricante.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros accesorios y repuestos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/actuadores-y-servomotores/\">Actuadores y Servomotores para Robots</a></h3></li><li><h3><a href=\"/ar/reductoras-y-transmisiones/\">Reductoras y Transmisiones para Robots</a></h3></li><li><h3><a href=\"/ar/manos-diestras-y-pinzas/\">Manos Diestras y Pinzas Robóticas</a></h3></li><li><h3><a href=\"/ar/carcasas-y-piezas-de-recambio/\">Carcasas y Repuestos para Robots</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/accesorios/\">Ver todos los accesorios</a></p></div></section>"
+}

@@ -1,0 +1,29 @@
+{
+  "titulo": "Robots Humanoides Médicos en Argentina",
+  "url": "/ar/robots-medicos/",
+  "slug": "robots-medicos",
+  "alterna": "/robots-medicos/",
+  "h1": "Robots Humanoides Médicos en Argentina",
+  "entradilla": "En un hospital argentino el personal de enfermería camina kilómetros por guardia llevando cosas. Ese traslado, y no el acto médico, es lo que hoy puede aliviar un robot.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir asesoramiento"
+  },
+  "hero": "/wp-content/uploads/2025/03/robot-medicos.jpeg",
+  "metaTitulo": "Robots Humanoides en Salud - Hospitales y Sanatorios de Argentina",
+  "metaDescripcion": "Robots humanoides para hospitales, sanatorios y geriátricos de Argentina: logística interna, acompañamiento, ANMAT y datos de salud.",
+  "focusKeyword": "robots humanoides médicos en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/robot-medicos.jpeg",
+  "faq": [
+    {
+      "pregunta": "¿Puede levantar a un paciente?",
+      "respuesta": "No. Ningún humanoide comercial accesible tiene fuerza y certificación para eso."
+    },
+    {
+      "pregunta": "¿Se puede desinfectar?",
+      "respuesta": "Solo con los productos que autorice el fabricante. Pedí esa lista antes de comprar."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Usos con sentido hoy</h2><ul><li>Llevar muestras, ropa o medicación entre sectores, con registro de entrega.</li><li>Orientar a pacientes y familiares en el ingreso.</li><li>Acompañar actividades en geriátricos, con un profesional presente.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>¿Interviene ANMAT?</h2><p>Depende del uso declarado. Un robot que lleva bandejas no es un producto médico. Si el fabricante le atribuye fines de diagnóstico, tratamiento o rehabilitación, necesita registro en ANMAT y un importador habilitado. Definilo <strong>antes</strong> de importar: cambiarlo después es caro.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Datos de pacientes</h2><p>Los datos de salud son sensibles para la Ley 25.326. Desactivá el envío de video a servidores del exterior o acordalo por contrato, y apagá cámaras en habitaciones.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Robots Humanoides Médicos en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Puede levantar a un paciente?</summary><div class=\"pregunta__resp\"><p>No. Ningún humanoide comercial accesible tiene fuerza y certificación para eso.</p></div></details><details class=\"pregunta\"><summary>¿Se puede desinfectar?</summary><div class=\"pregunta__resp\"><p>Solo con los productos que autorice el fabricante. Pedí esa lista antes de comprar.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros tipos de robots humanoides</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/robots-de-rehabilitacion/\">Robots de Rehabilitación</a></h3></li><li><h3><a href=\"/ar/robots-para-eventos/\">Robots Humanoides para Eventos</a></h3></li><li><h3><a href=\"/ar/robot-camarero/\">Robot Mozo o Camarero</a></h3></li><li><h3><a href=\"/ar/robot-de-compania/\">Robot Humanoide de Compañía</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/tipos/\">Ver todos los tipos</a></p></div></section>"
+}

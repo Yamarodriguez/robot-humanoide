@@ -32,7 +32,7 @@ const { d } = Astro.props;
           </tbody>
         </table>
       </div>
-      <p class="tabla__nota">Datos de agosto de 2026. Confirma antes de decidir.</p>
+      <p class="tabla__nota">{d.nota ?? 'Datos de agosto de 2026. Confirma antes de decidir.'}</p>
     </div>
   </section>
 )}

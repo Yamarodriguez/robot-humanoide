@@ -1,0 +1,29 @@
+{
+  "titulo": "Robots Humanoides para Eventos en Argentina",
+  "url": "/ar/robots-para-eventos/",
+  "slug": "robots-para-eventos",
+  "alterna": "/robots-para-eventos/",
+  "h1": "Robots Humanoides para Eventos en Argentina",
+  "entradilla": "En una feria con doscientos stands, un humanoide que saluda junta gente en minutos. El resultado comercial depende de qué pasa después de la foto.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir asesoramiento"
+  },
+  "hero": "/img/tipos/eventos.svg",
+  "metaTitulo": "Robots Humanoides para Eventos en Buenos Aires y Argentina",
+  "metaDescripcion": "Robots humanoides para ferias, lanzamientos y congresos en Argentina: La Rural, Expoagro y Costa Salguero, guion, operador y logística.",
+  "focusKeyword": "robots humanoides para eventos en argentina",
+  "imagenPrincipal": "/img/tipos/eventos.svg",
+  "faq": [
+    {
+      "pregunta": "¿Viajan al interior?",
+      "respuesta": "Sí, se cotiza el traslado. Para cordilleras o Patagonia conviene sumar un día de margen."
+    },
+    {
+      "pregunta": "¿Cuánto dura una función?",
+      "respuesta": "Bloques de 20 a 40 minutos con pausas de carga dan mejor resultado que un uso continuo."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Formatos que funcionan</h2><ul><li><strong>Anfitrión de stand</strong>: saluda, baila y deriva al equipo comercial.</li><li><strong>Presentador</strong>: abre un lanzamiento con guion ensayado.</li><li><strong>Recorrida</strong>: camina entre el público con operador y perímetro.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Según el predio</h2><p>En La Rural o en un centro de convenciones el piso es parejo y hay energía cerca. En Expoagro o Agroactiva hay tierra, viento y polvo: se trabaja sobre tarima y bajo techo. En todos los casos se coordina con el organizador el seguro de responsabilidad civil.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué definir con anticipación</h2><p>Guion, idioma, música con derechos, horario de recambio de baterías y quién carga los contactos. Para contratarlo con técnico, mirá <a href=\"/ar/alquiler-para-eventos/\">alquiler para eventos</a>.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Robots Humanoides para Eventos en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Viajan al interior?</summary><div class=\"pregunta__resp\"><p>Sí, se cotiza el traslado. Para cordilleras o Patagonia conviene sumar un día de margen.</p></div></details><details class=\"pregunta\"><summary>¿Cuánto dura una función?</summary><div class=\"pregunta__resp\"><p>Bloques de 20 a 40 minutos con pausas de carga dan mejor resultado que un uso continuo.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros tipos de robots humanoides</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/robot-camarero/\">Robot Mozo o Camarero</a></h3></li><li><h3><a href=\"/ar/robot-de-compania/\">Robot Humanoide de Compañía</a></h3></li><li><h3><a href=\"/ar/robots-para-el-hogar/\">Robots Humanoides para el Hogar</a></h3></li><li><h3><a href=\"/ar/robots-empresariales/\">Robots Humanoides para Empresas</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/tipos/\">Ver todos los tipos</a></p></div></section>"
+}

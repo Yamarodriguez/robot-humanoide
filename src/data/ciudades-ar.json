@@ -371,5 +371,51 @@
       "Cafayate"
     ],
     "eventos": "El Centro de Convenciones de Salta, las celebraciones del Milagro y los encuentros de la industria minera son los espacios donde más se piden robots para eventos en la ciudad."
+  },
+  "santa-fe": {
+    "nombre": "Santa Fe",
+    "provincia": "Santa Fe",
+    "comunidad": "Provincia de Santa Fe",
+    "pais": "Argentina",
+    "rasgo": "Santa Fe es la capital de la provincia y combina administración pública, universidad y ciencia con el acceso a una de las cuencas lecheras más importantes del país. La Universidad Nacional del Litoral, los institutos del CONICET y el Parque Tecnológico Litoral Centro concentran biotecnología e ingeniería, mientras que el corredor industrial de Sauce Viejo, Santo Tomé y Esperanza suma metalmecánica, alimentos y curtiembre.",
+    "sectores": [
+      {
+        "nombre": "Biotecnología y ciencia",
+        "tipo": "robots-de-investigacion",
+        "texto": "Los grupos de la UNL, el INTEC y otros institutos del CONICET pueden usar plataformas humanoides para control, visión y automatización de tareas repetitivas de laboratorio."
+      },
+      {
+        "nombre": "Lácteos y alimentos",
+        "tipo": "robots-de-logistica-y-almacen",
+        "texto": "Las plantas y depósitos de la cuenca lechera tienen tareas de movimiento de cajas y fin de línea; en sectores refrigerados hay que medir antes la pérdida de autonomía por frío."
+      },
+      {
+        "nombre": "Metalmecánica de Sauce Viejo y Esperanza",
+        "tipo": "robot-industrial",
+        "texto": "Las empresas del corredor industrial pueden evaluar un piloto de abastecimiento de puestos y traslado de piezas livianas entre procesos."
+      },
+      {
+        "nombre": "Administración pública y salud",
+        "tipo": "robots-de-atencion-al-cliente",
+        "texto": "Como capital provincial, Santa Fe concentra ministerios, tribunales y hospitales, donde un robot de recepción puede orientar sobre trámites, turnos y ubicaciones."
+      },
+      {
+        "nombre": "Escuelas técnicas y universidad",
+        "tipo": "robots-educativos",
+        "texto": "La tradición de la Escuela Industrial Superior de la UNL y de las escuelas técnicas de la ciudad ofrece un buen marco para proyectos con humanoides educativos."
+      }
+    ],
+    "centros": "La Universidad Nacional del Litoral dicta Ingeniería en Informática en su Facultad de Ingeniería y Ciencias Hídricas, donde funciona el sinc(i), instituto de señales e inteligencia computacional que comparte con el CONICET. La UTN Facultad Regional Santa Fe ofrece Ingeniería en Sistemas, Eléctrica, Mecánica e Industrial.",
+    "acceso": "La autopista Rosario-Santa Fe, la ruta nacional 11, el aeropuerto de Sauce Viejo y el túnel subfluvial hacia Paraná conectan la ciudad; los equipos importados llegan desde la aduana de ingreso por transporte terrestre asegurado.",
+    "cercanas": [
+      "Santo Tomé",
+      "Paraná",
+      "Esperanza",
+      "Sauce Viejo",
+      "Recreo",
+      "Rafaela",
+      "San José del Rincón"
+    ],
+    "eventos": "La Estación Belgrano, el predio de la Sociedad Rural y los salones de la zona del puerto reciben ferias, congresos y actos institucionales de la ciudad."
   }
 }

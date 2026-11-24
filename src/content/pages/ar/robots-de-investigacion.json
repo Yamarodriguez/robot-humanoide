@@ -1,0 +1,29 @@
+{
+  "titulo": "Robots Humanoides de Investigación en Argentina",
+  "url": "/ar/robots-de-investigacion/",
+  "slug": "robots-de-investigacion",
+  "alterna": "/robots-de-investigacion/",
+  "h1": "Robots Humanoides de Investigación en Argentina",
+  "entradilla": "Para un grupo del CONICET o de una facultad de ingeniería, el humanoide es un instrumento de laboratorio. Lo que importa es acceso al control de bajo nivel, documentación y que otro grupo ya haya publicado con esa plataforma.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir asesoramiento"
+  },
+  "hero": "/img/tipos/investigacion.svg",
+  "metaTitulo": "Robots Humanoides para Investigación en Argentina - UBA, CONICET y UTN",
+  "metaDescripcion": "Plataformas humanoides con SDK abierto para laboratorios argentinos: modelos, beneficios de importación para ciencia y repuestos.",
+  "focusKeyword": "robots humanoides de investigación en argentina",
+  "imagenPrincipal": "/img/tipos/investigacion.svg",
+  "faq": [
+    {
+      "pregunta": "¿Qué versión del G1 conviene?",
+      "respuesta": "Para investigar, una EDU. La básica limita el acceso de desarrollo, y es el error de compra más común."
+    },
+    {
+      "pregunta": "¿Se puede compartir entre universidades?",
+      "respuesta": "Sí. Un convenio entre facultades reparte el costo y aumenta las horas de uso."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué acceso necesitás</h2><ul><li><strong>Alto nivel</strong>: caminar, girar, hablar. Alcanza para interacción humano-robot.</li><li><strong>Bajo nivel</strong>: torque y posición por articulación. Indispensable para control y aprendizaje por refuerzo. En varios modelos solo viene en la versión EDU.</li><li><strong>Simulación</strong>: modelo URDF o MJCF oficial, para entrenar antes.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Importar para ciencia y tecnología</h2><p>La Ley 25.613 prevé un régimen de importaciones para insumos destinados a investigación, con beneficios para organismos inscriptos en el registro correspondiente (ROECYT). Iniciá ese trámite antes de emitir la orden: después del embarque suele ser tarde.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Presupuesto del proyecto</h2><p>Sumá al equipo un arnés o pórtico de seguridad, una batería extra y actuadores. Un subsidio que solo cubre el robot deja el laboratorio parado en la primera rotura.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Robots Humanoides de Investigación en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Qué versión del G1 conviene?</summary><div class=\"pregunta__resp\"><p>Para investigar, una EDU. La básica limita el acceso de desarrollo, y es el error de compra más común.</p></div></details><details class=\"pregunta\"><summary>¿Se puede compartir entre universidades?</summary><div class=\"pregunta__resp\"><p>Sí. Un convenio entre facultades reparte el costo y aumenta las horas de uso.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros tipos de robots humanoides</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/robots-medicos/\">Robots Humanoides Médicos</a></h3></li><li><h3><a href=\"/ar/robots-de-rehabilitacion/\">Robots de Rehabilitación</a></h3></li><li><h3><a href=\"/ar/robots-para-eventos/\">Robots Humanoides para Eventos</a></h3></li><li><h3><a href=\"/ar/robot-camarero/\">Robot Mozo o Camarero</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/tipos/\">Ver todos los tipos</a></p></div></section>"
+}

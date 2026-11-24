@@ -1,0 +1,192 @@
+@introduccion-a-la-robotica-humanoide|Curso de Introducción a la Robótica Humanoide en Argentina|Curso de Introducción a la Robótica Humanoide en Argentina|Curso introductorio de robótica humanoide en Argentina, online y sin requisitos técnicos, para decidir una compra con criterio local.
+Pensado para quien tiene que decir sí o no a una inversión en dólares y escucha promesas de todos lados. Se sale con una lista de preguntas y una cuenta propia.
+## Temas
+- Qué hay a la venta para un comprador argentino y qué es solo video.
+- Leer una ficha: autonomía, carga, versión y acceso al SDK.
+- Del precio de fábrica al costo puesto en tu ciudad.
+- Humanoide, cobot, AMR o cuadrúpedo: cuál para qué.
+## Trabajo práctico
+Cada participante trae una tarea de su organización y la pasa por una matriz de viabilidad. Las mejores preguntas aparecen ahí.
+## Quiénes suelen tomarlo
+Gerencias de operaciones, dueños de pymes, directivos de escuelas técnicas y periodistas que cubren tecnología.
+? ¿Hay que saber programar?
+= No.
+? ¿Sirve si todavía no pienso comprar?
+= Sí, justamente para saber cuándo conviene.
+
+@programacion-con-sdk|Curso de Programación de Robots Humanoides en Argentina|Curso de Programación de Robots Humanoides en Argentina - SDK y ROS 2|Curso de programación de robots humanoides con SDK, Python y ROS 2 en Argentina: online en horario local, con simulador y sin robot propio.
+En el país sobran programadores de Python y faltan los que hayan movido una articulación. Este curso cubre ese paso sin exigir un equipo de 25.000 dólares para empezar.
+## Programa
+- Linux, redes y comunicación con el robot.
+- Comandos de alto nivel: caminar, girar, gestos.
+- ROS 2: nodos, tópicos y transformadas.
+- Estados, errores y parada segura.
+- Proyecto: una tarea encadenada con percepción simple.
+## Qué computadora necesitás
+Notebook con Linux o máquina virtual y 16 GB de memoria. Una placa de video ayuda con la simulación, pero se puede seguir con una instancia en la nube.
+## Salida laboral
+Integradores, laboratorios y empresas que exportan servicios buscan este perfil, todavía escaso. Un proyecto publicado pesa más que el certificado.
+? ¿Cuánto Python hace falta?
+= Funciones, clases y manejo de terminal.
+? ¿Se practica en un robot real?
+= En demostraciones en vivo o en grupos presenciales.
+
+@operacion-y-mantenimiento|Curso de Operación y Mantenimiento de Robots en Argentina|Curso de Operación y Mantenimiento de Humanoides en Argentina|Curso de operación y mantenimiento de robots humanoides para técnicos argentinos: puesta en marcha, baterías, diagnóstico y repuestos.
+Si el repuesto viene de China, el técnico local que detecta un ruido a tiempo vale oro. El curso forma a esa persona.
+## Contenidos
+- Encendido, postura segura y parada.
+- Carga, guardado y descarte de baterías de litio.
+- Calibración y lectura de registros.
+- Cambio de piezas permitido por el fabricante.
+- Cómo reportar una falla para que te respondan.
+## Perfil recomendado
+Técnicos electromecánicos o en mecatrónica, personal de mantenimiento y egresados de escuelas técnicas. Alcanza con saber usar un multímetro y seguir un plano.
+## Material que te llevás
+Planilla de mantenimiento por horas, lista de repuestos críticos y protocolo de emergencia para pegar en la pared.
+? ¿Se hace sobre mi robot?
+= Es lo ideal, en tu sede.
+? ¿Cubre reparar placas?
+= No. Se diagnostica hasta el módulo.
+
+@robotica-para-centros-educativos|Robótica Humanoide para Escuelas de Argentina|Robótica Humanoide para Escuelas Técnicas de Argentina - Capacitación|Capacitación docente en robótica humanoide para escuelas técnicas, secundarias y terciarios de Argentina: secuencias, evaluación y cuidado del equipo.
+Dirigido a docentes. El robot llama la atención una semana; la secuencia didáctica sostiene el resto del año.
+## Qué trabajamos con los docentes
+- Secuencias por bimestre para programación, electrónica y taller.
+- Grupos rotativos con un solo equipo y simulador.
+- Evaluación por proyecto y registro de avances.
+- Reglas de uso y cuidado con estudiantes.
+## Enganche con el plan de estudios
+Se vincula con Programación y Robótica de los NAP de Educación Digital y con las prácticas profesionalizantes de la secundaria técnica. Cada jurisdicción tiene su diseño curricular: adaptamos los ejemplos.
+## Ideas de proyecto
+Un guía para la muestra anual, un traductor de señas básicas o la inspección del taller con cámara.
+? ¿Otorga puntaje docente?
+= No lo damos por sentado: depende de la aprobación de cada jurisdicción.
+? ¿Cuántos docentes por escuela?
+= Al menos tres, para que el proyecto no dependa de uno.
+
+@formacion-para-equipos-tecnicos|Formación para Equipos Técnicos en Argentina|Formación In Company en Robótica Humanoide - Argentina|Formación in company en robótica humanoide para equipos técnicos de empresas argentinas, armada sobre tu robot, tu tarea y tu planta.
+Un curso general enseña el robot; este enseña **tu** robot haciendo **tu** tarea. Se diseña después de un relevamiento.
+## Cómo se arma
+Entrevista con mantenimiento, sistemas y producción; definición de tres competencias que el equipo debe demostrar; práctica en planta y una evaluación frente al puesto.
+## Temas habituales según la industria
+- **Energía**: rondas, registros y trabajo con conexión limitada.
+- **Autopartes**: alimentación de línea y zonas compartidas.
+- **Servicios**: voz, atención y protocolo con el público.
+## Turnos y sedes
+Se dicta repartido por turno para no parar la producción. Las empresas con varias plantas pueden formar instructores internos que repliquen el curso.
+? ¿Cuál es el tamaño del grupo?
+= Entre cuatro y diez personas por robot.
+? ¿Queda material propio?
+= Sí, con procedimientos adaptados a tu instalación.
+
+@seguridad-y-robotica-colaborativa|Curso de Seguridad en Robótica Colaborativa en Argentina|Curso de Seguridad con Robots en Argentina - Higiene y Seguridad|Curso de seguridad con robots humanoides para responsables de higiene y seguridad en Argentina: análisis de riesgos, ISO y Ley 19.587.
+Para licenciados y técnicos en Higiene y Seguridad que reciben un robot y tienen que firmar. Un bípedo agrega un riesgo que el brazo no tenía: se puede caer encima de alguien.
+## Programa
+- Peligros propios: caída, atrapamiento, batería y pérdida de control.
+- Análisis de riesgos por tarea y medidas en orden de prioridad.
+- Referencias ISO 10218, ISO/TS 15066 e ISO 13482.
+- Encaje con Ley 19.587, Decreto 351/79 y la ART.
+## Ejercicio central
+Se releva un puesto real con fotos y plano, y se entrega el análisis con velocidades, distancias, señalización y parada.
+## Lo que no cubre
+No habilita ni certifica el equipo. Da criterio para exigir documentación y decidir si el puesto es aceptable.
+? ¿Sirve con cobots?
+= Sí, buena parte aplica.
+? ¿Necesito matrícula?
+= No para cursarlo. Para firmar, según tu jurisdicción.
+
+@vision-artificial-y-percepcion|Curso de Visión Artificial para Robots en Argentina|Curso de Visión Artificial y Percepción Robótica en Argentina|Curso de visión artificial para robots en Argentina: calibración, nubes de puntos, detección y modelos entrenados con imágenes locales.
+Un modelo entrenado con depósitos de Europa no reconoce un bin de manzanas ni un cajón cosechero. Acá se aprende a medir, etiquetar y entrenar con lo propio.
+## Programa
+- Cámaras RGB y de profundidad, calibración y sincronía.
+- Nubes de puntos y mapas.
+- Detección y segmentación con modelos abiertos.
+- Evaluación: cuándo un 95% no alcanza.
+## Proyecto con datos argentinos
+Cada grupo junta un conjunto propio: envases, frutas, tableros o piezas de taller, y publica resultados honestos con los casos en que falla.
+## Requisitos
+Python, álgebra lineal básica y ganas de mirar imágenes mal etiquetadas. Se usa cómputo gratuito en la nube cuando alcanza.
+? ¿Hace falta una cámara de profundidad?
+= No, se entregan grabaciones; tener una suma.
+? ¿Sirve para drones o agro?
+= Sí, los fundamentos son los mismos.
+
+@aprendizaje-por-imitacion|Curso de Aprendizaje por Imitación en Argentina|Curso de Aprendizaje por Imitación para Robots en Argentina|Curso de aprendizaje por imitación en Argentina: teleoperación, datos de demostración y entrenamiento de políticas con brazos de bajo costo.
+Enseñar mostrando es la técnica del momento, y se puede aprender con brazos impresos en 3D que cuestan una fracción de un humanoide. Es una ventaja para un laboratorio argentino con poco presupuesto.
+## Recorrido
+- Teleoperar y grabar episodios limpios.
+- Formato y cuidado del conjunto de datos.
+- Entrenar una política y medirla en condiciones nuevas.
+- Pasar de un brazo a un humanoide: qué cambia.
+## Equipamiento posible
+Brazos de código abierto armados en un fablab o escuela técnica, dos webcams y una placa de video compartida. Con eso se reproduce el método completo.
+## Error típico
+Grabar cien demostraciones idénticas. Con variación de luz, posición y objeto se aprende mucho más con menos.
+? ¿Cuántas demostraciones hacen falta?
+= Para tareas simples, decenas; crece rápido con la variabilidad.
+? ¿Es aprendizaje por refuerzo?
+= No. Se copian ejemplos en vez de explorar con recompensas.
+
+@simulacion-antes-del-despliegue|Curso de Simulación de Robots en Argentina|Curso de Simulación de Robots Humanoides en Argentina|Curso de simulación de robots humanoides en Argentina con herramientas libres: del modelo al robot real, sin hardware caro.
+Romper un robot simulado es gratis. Donde cada repuesto paga aduana, simular primero es sentido común.
+## Herramientas
+- MuJoCo para empezar, por liviano y abierto.
+- Gazebo con ROS 2 para navegación y sensores.
+- Isaac Sim o Isaac Lab, si hay placa compatible.
+## Lo que se aprende
+Cargar el modelo oficial, variar rozamiento y masa, entrenar una marcha simple y comparar con mediciones. La brecha entre simulación y realidad es el tema central, no una nota al pie.
+## Para grupos sin placa de video
+Los ejercicios base corren en una notebook. Los de entrenamiento intensivo se hacen en la nube con costo acotado y previsto.
+? ¿Se puede hacer desde cualquier provincia?
+= Sí, es íntegramente online.
+? ¿Qué me llevo?
+= Un repositorio con entorno, experimento y resultados reproducibles.
+
+@interaccion-por-voz-y-lenguaje|Curso de Voz y Lenguaje para Robots en Argentina|Curso de Interacción por Voz para Robots en Español Rioplatense|Curso de voz y modelos de lenguaje para robots en Argentina: reconocimiento con acento local, voseo, latencia y control de respuestas.
+«Che, ¿me decís dónde queda el baño?» es una prueba dura para un robot importado. El curso trabaja sobre la cadena completa: escuchar, entender, decidir y contestar.
+## Programa
+- Micrófonos, ruido y detección de turno de habla.
+- Reconocimiento con acentos del país.
+- Modelos de lenguaje con información propia y límites.
+- Voz sintética con voseo natural.
+- Acciones del robot disparadas por lenguaje.
+## Latencia desde Argentina
+Los servidores están lejos y cada tramo suma. Medimos cuánto tarda, qué conviene procesar a bordo y cómo disimular la espera con gestos.
+## Que no invente
+Se arma una batería de preguntas difíciles y se define cuándo el robot debe decir «no sé» o llamar a una persona.
+? ¿Funciona sin internet?
+= En parte, con modelos chicos locales.
+? ¿Necesito un humanoide?
+= No. Se practica con parlante y micrófono.
+
+@manipulacion-y-agarre|Curso de Manipulación y Agarre Robótico en Argentina|Curso de Manipulación y Agarre para Robots en Argentina|Curso de manipulación robótica en Argentina: pinzas, manos, control de fuerza y agarre de objetos reales, de la fruta al envase flexible.
+Agarrar un limón sin marcarlo es más difícil que hacer una voltereta. Para empaques, laboratorios y alimentos es la capacidad que define si el proyecto existe.
+## Contenidos
+- Geometría del agarre y estabilidad.
+- Pinza de dos dedos, ventosa o mano: cuándo cada una.
+- Control de fuerza e impedancia.
+- Agarre guiado por visión.
+## Práctica
+Se trabaja con objetos locales: frutas, sachets, frascos y piezas metálicas. Cada equipo mide tasa de éxito sobre cincuenta intentos, sin elegir los mejores.
+## Con qué equipo
+Brazo chico y pinza impresa para aprender; después se traslada a [[manos-diestras-y-pinzas|manos diestras]] si hay acceso.
+? ¿Una mano de cinco dedos es siempre mejor?
+= No. Una pinza simple gana en la mayoría de las tareas.
+? ¿Qué base matemática pide?
+= Álgebra lineal y mecánica de primer año.
+
+@certificacion-profesional|Certificación en Robótica Humanoide en Argentina|Certificación Profesional en Robótica Humanoide - Argentina|Programa con evaluación y proyecto final en robótica humanoide para profesionales de Argentina: módulos, alcance del certificado y requisitos.
+Reúne los módulos técnicos en un solo recorrido con evaluación. Está pensado para quien quiere trabajar en esto y necesita demostrarlo con un proyecto.
+## Recorrido
+- Base: [[programacion-con-sdk|SDK]] y [[simulacion-antes-del-despliegue|simulación]].
+- Especialidad: percepción, manipulación o voz.
+- Obligatorio: [[seguridad-y-robotica-colaborativa|seguridad]].
+- Cierre: proyecto defendido ante un evaluador.
+## Qué acredita y qué no
+Es un certificado propio con programa, carga horaria y calificación. No es un título universitario, no da matrícula ni incumbencias. Quien busque título oficial debe mirar las ingenierías y tecnicaturas nacionales.
+## Para destacar en una búsqueda
+Repositorio abierto, video sin cortes del proyecto y métricas. Las empresas que contratan desde afuera miran eso primero.
+? ¿Se puede cursar trabajando?
+= Sí, los módulos se toman por separado.
+? ¿Necesito título previo?
+= No, se hace un diagnóstico inicial.

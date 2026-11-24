@@ -1,0 +1,29 @@
+{
+  "titulo": "Actuadores y Servomotores para Robots en Argentina",
+  "url": "/ar/actuadores-y-servomotores/",
+  "slug": "actuadores-y-servomotores",
+  "alterna": "/actuadores-y-servomotores/",
+  "h1": "Actuadores y Servomotores para Robots en Argentina",
+  "entradilla": "Rodillas y tobillos reciben cada paso y cada caída. Quien importa un humanoide sin actuadores de repuesto suele tener el robot parado en el primer semestre de uso intenso.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar disponibilidad"
+  },
+  "hero": "/img/accesorios/actuadores.svg",
+  "metaTitulo": "Actuadores y Servomotores para Robots en Argentina",
+  "metaDescripcion": "Actuadores para robots humanoides en Argentina: qué repuestos tener en stock, síntomas de falla, importación y alternativas para docencia.",
+  "focusKeyword": "actuadores y servomotores para robots en argentina",
+  "imagenPrincipal": "/img/accesorios/actuadores.svg",
+  "faq": [
+    {
+      "pregunta": "¿Se rebobinan acá?",
+      "respuesta": "No es habitual ni recomendable; se cambia el conjunto."
+    },
+    {
+      "pregunta": "¿Y para estudiantes?",
+      "respuesta": "Servos con bus serie de bajo costo, que se consiguen en el país."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué guardar en el cajón</h2><p>Uno de rodilla y uno de tobillo para uso liviano; el doble para investigación. Anotá número de parte y lado: no siempre son intercambiables.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Síntomas</h2><ul><li>Temperatura distinta entre piernas.</li><li>Juego al mover con el robot apagado.</li><li>Zumbido o error repetido del mismo motor.</li></ul></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Traerlos</h2><p>Al ser livianos, pueden calificar para courier si el valor entra. El despachante o el operador confirma la posición. Evitá repuestos sin trazabilidad.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Actuadores y Servomotores para Robots en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Se rebobinan acá?</summary><div class=\"pregunta__resp\"><p>No es habitual ni recomendable; se cambia el conjunto.</p></div></details><details class=\"pregunta\"><summary>¿Y para estudiantes?</summary><div class=\"pregunta__resp\"><p>Servos con bus serie de bajo costo, que se consiguen en el país.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros accesorios y repuestos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/reductoras-y-transmisiones/\">Reductoras y Transmisiones para Robots</a></h3></li><li><h3><a href=\"/ar/manos-diestras-y-pinzas/\">Manos Diestras y Pinzas Robóticas</a></h3></li><li><h3><a href=\"/ar/carcasas-y-piezas-de-recambio/\">Carcasas y Repuestos para Robots</a></h3></li><li><h3><a href=\"/ar/bateria-para-robot-y-sistemas-de-carga/\">Baterías para Robots Humanoides</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/accesorios/\">Ver todos los accesorios</a></p></div></section>"
+}

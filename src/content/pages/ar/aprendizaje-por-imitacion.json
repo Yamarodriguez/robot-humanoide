@@ -1,0 +1,29 @@
+{
+  "titulo": "Curso de Aprendizaje por Imitación en Argentina",
+  "url": "/ar/aprendizaje-por-imitacion/",
+  "slug": "aprendizaje-por-imitacion",
+  "alterna": "/aprendizaje-por-imitacion/",
+  "h1": "Curso de Aprendizaje por Imitación en Argentina",
+  "entradilla": "Enseñar mostrando es la técnica del momento, y se puede aprender con brazos impresos en 3D que cuestan una fracción de un humanoide. Es una ventaja para un laboratorio argentino con poco presupuesto.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar fechas"
+  },
+  "hero": "/img/cursos/imitacion.svg",
+  "metaTitulo": "Curso de Aprendizaje por Imitación para Robots en Argentina",
+  "metaDescripcion": "Curso de aprendizaje por imitación en Argentina: teleoperación, datos de demostración y entrenamiento de políticas con brazos de bajo costo.",
+  "focusKeyword": "curso de aprendizaje por imitación en argentina",
+  "imagenPrincipal": "/img/cursos/imitacion.svg",
+  "faq": [
+    {
+      "pregunta": "¿Cuántas demostraciones hacen falta?",
+      "respuesta": "Para tareas simples, decenas; crece rápido con la variabilidad."
+    },
+    {
+      "pregunta": "¿Es aprendizaje por refuerzo?",
+      "respuesta": "No. Se copian ejemplos en vez de explorar con recompensas."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Recorrido</h2><ul><li>Teleoperar y grabar episodios limpios.</li><li>Formato y cuidado del conjunto de datos.</li><li>Entrenar una política y medirla en condiciones nuevas.</li><li>Pasar de un brazo a un humanoide: qué cambia.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Equipamiento posible</h2><p>Brazos de código abierto armados en un fablab o escuela técnica, dos webcams y una placa de video compartida. Con eso se reproduce el método completo.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Error típico</h2><p>Grabar cien demostraciones idénticas. Con variación de luz, posición y objeto se aprende mucho más con menos.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Curso de Aprendizaje por Imitación en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Cuántas demostraciones hacen falta?</summary><div class=\"pregunta__resp\"><p>Para tareas simples, decenas; crece rápido con la variabilidad.</p></div></details><details class=\"pregunta\"><summary>¿Es aprendizaje por refuerzo?</summary><div class=\"pregunta__resp\"><p>No. Se copian ejemplos en vez de explorar con recompensas.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros cursos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/simulacion-antes-del-despliegue/\">Curso de Simulación de Robots</a></h3></li><li><h3><a href=\"/ar/interaccion-por-voz-y-lenguaje/\">Curso de Voz y Lenguaje para Robots</a></h3></li><li><h3><a href=\"/ar/manipulacion-y-agarre/\">Curso de Manipulación y Agarre Robótico</a></h3></li><li><h3><a href=\"/ar/certificacion-profesional/\">Certificación en Robótica Humanoide</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/cursos/\">Ver todos los cursos</a></p></div></section>"
+}

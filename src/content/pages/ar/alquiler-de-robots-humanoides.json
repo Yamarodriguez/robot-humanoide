@@ -1,0 +1,29 @@
+{
+  "titulo": "Alquiler de Robots Humanoides en Argentina",
+  "url": "/ar/alquiler-de-robots-humanoides/",
+  "slug": "alquiler-de-robots-humanoides",
+  "alterna": "/alquiler-de-robots-humanoides/",
+  "h1": "Alquiler de Robots Humanoides en Argentina",
+  "entradilla": "Con un dólar y una aduana que cambian, alquilar es una forma de aprender antes de apostar. También resuelve lo estacional: la vendimia, el verano en la Costa o un Hot Sale.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir presupuesto"
+  },
+  "hero": "/wp-content/uploads/2025/03/alquiler-robot-humanoides.jpeg",
+  "metaTitulo": "Alquiler de Robots Humanoides en Argentina por Semanas o Meses",
+  "metaDescripcion": "Alquiler de robots humanoides en Argentina para pilotos y temporadas: qué incluye, depósito, seguro y cuándo conviene frente a comprar.",
+  "focusKeyword": "alquiler de robots humanoides en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/alquiler-robot-humanoides.jpeg",
+  "faq": [
+    {
+      "pregunta": "¿Alquilan por un día?",
+      "respuesta": "Para eso está el alquiler para eventos, con técnico."
+    },
+    {
+      "pregunta": "¿Hay disponibilidad en todas las provincias?",
+      "respuesta": "Depende del modelo y la fecha. El traslado se cotiza aparte."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cuándo conviene alquilar</h2><ul><li>Querés medir una tarea por uno a tres meses.</li><li>La necesidad dura una temporada.</li><li>Todavía no sabés qué modelo pedir.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué tiene que decir el contrato</h2><p>Horas de uso, quién opera, soporte, reemplazo ante fallas, depósito en garantía y cobertura por caída. Definí también quién paga el traslado y qué pasa con los datos grabados.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cuándo deja de convenir</h2><p>Si lo vas a usar todo el año y la tarea ya está probada, sumá doce meses de cuota y comparalo con el <a href=\"/ar/precios/\">costo de compra</a>. Para cuota larga mirá <a href=\"/ar/renting-y-robot-como-servicio/\">robot como servicio</a>.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Alquiler de Robots Humanoides en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Alquilan por un día?</summary><div class=\"pregunta__resp\"><p>Para eso está el <a href=\"/ar/alquiler-para-eventos/\">alquiler para eventos</a>, con técnico.</p></div></details><details class=\"pregunta\"><summary>¿Hay disponibilidad en todas las provincias?</summary><div class=\"pregunta__resp\"><p>Depende del modelo y la fecha. El traslado se cotiza aparte.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros servicios</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/alquiler-para-eventos/\">Alquiler de Robots para Eventos</a></h3></li><li><h3><a href=\"/ar/implementacion-de-robot-en-empresas-y-negocios/\">Implementación de Robots en Empresas</a></h3></li><li><h3><a href=\"/ar/estudio-de-viabilidad-y-roi/\">Estudio de Viabilidad y ROI</a></h3></li><li><h3><a href=\"/ar/renting-y-robot-como-servicio/\">Leasing y Robot como Servicio</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/servicios/\">Ver todos los servicios</a></p></div></section>"
+}

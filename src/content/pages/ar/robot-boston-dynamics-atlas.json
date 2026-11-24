@@ -1,0 +1,29 @@
+{
+  "titulo": "Boston Dynamics Atlas en Argentina",
+  "url": "/ar/robot-boston-dynamics-atlas/",
+  "slug": "robot-boston-dynamics-atlas",
+  "alterna": "/robot-boston-dynamics-atlas/",
+  "h1": "Boston Dynamics Atlas en Argentina",
+  "entradilla": "Los saltos de Atlas formaron la idea que todos tenemos de un robot. El Atlas actual es otro: eléctrico, orientado a fábrica y con Hyundai como primer destino.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar por este modelo"
+  },
+  "hero": "/wp-content/uploads/2025/03/robot-boston-dynamics.jpg",
+  "metaTitulo": "Boston Dynamics Atlas en Argentina - Qué es y Qué se Puede Comprar",
+  "metaDescripcion": "Atlas de Boston Dynamics visto desde Argentina: uso industrial con Hyundai, por qué no se vende suelto y la opción de Spot.",
+  "focusKeyword": "boston dynamics atlas en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/robot-boston-dynamics.jpg",
+  "faq": [
+    {
+      "pregunta": "¿El Atlas hidráulico se vende usado?",
+      "respuesta": "No. Fue un prototipo de investigación, retirado en 2024."
+    },
+    {
+      "pregunta": "¿Spot es humanoide?",
+      "respuesta": "No, tiene cuatro patas."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Boston Dynamics Atlas: ficha y precio en Argentina</h2></div><div class=\"tabla-envoltorio\"><table class=\"tabla\"><thead><tr><th scope=\"col\">Dato</th><th scope=\"col\">Detalle</th></tr></thead><tbody><tr><th scope=\"row\">Precio en origen</th><td>No comercializado suelto</td></tr><tr><th scope=\"row\">Puesto en Argentina</th><td>No disponible</td></tr><tr><th scope=\"row\">¿Se puede comprar?</th><td>No se vende suelto</td></tr><tr><th scope=\"row\">Plazo</th><td>Sin fecha</td></tr><tr><th scope=\"row\">Versión actual</th><td>eléctrica, sustituye a la hidráulica en 2024</td></tr><tr><th scope=\"row\">Propietario</th><td>Hyundai</td></tr><tr><th scope=\"row\">Articulaciones</th><td>giro completo, superan el rango humano</td></tr><tr><th scope=\"row\">Batería</th><td>autointercambiable</td></tr><tr><th scope=\"row\">Alternativa a la venta</th><td>Spot, cuadrúpedo</td></tr></tbody></table></div><p class=\"tabla__nota\">Valores orientativos en dólares. Se confirman al cotizar.</p></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Se puede conseguir Spot</h2><p>Si lo que te interesa es la marca, su producto más difundido es el cuadrúpedo Spot. Para recorridas en energía o minería argentina resulta más lógico que un bípedo: es estable, resistente y tiene accesorios de inspección.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cuándo mirar a Atlas</h2><p>Solo si sos parte de un grupo industrial global con relación directa con el fabricante. No hay lista de precios ni canal para terceros.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Alternativas según la tarea</h2><ul><li>Inspeccionar: Spot u otro cuadrúpedo.</li><li>Investigar: <a href=\"/ar/unitree-g1/\">G1</a> o <a href=\"/ar/booster-robotics-k1/\">K1</a>.</li><li>Mostrar en público: <a href=\"/ar/alquiler-para-eventos/\">alquiler para eventos</a>.</li></ul></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Boston Dynamics Atlas en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿El Atlas hidráulico se vende usado?</summary><div class=\"pregunta__resp\"><p>No. Fue un prototipo de investigación, retirado en 2024.</p></div></details><details class=\"pregunta\"><summary>¿Spot es humanoide?</summary><div class=\"pregunta__resp\"><p>No, tiene cuatro patas.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otras marcas y modelos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/robot-xiaomi-cyberone/\">Xiaomi CyberOne</a></h3></li><li><h3><a href=\"/ar/robot-honda-asimo/\">Honda ASIMO</a></h3></li><li><h3><a href=\"/ar/robot-sophia-hanson-robotics/\">Robot Sophia</a></h3></li><li><h3><a href=\"/ar/agibot-x2/\">AgiBot X2</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/marcas/\">Ver todas las marcas</a></p></div></section>"
+}

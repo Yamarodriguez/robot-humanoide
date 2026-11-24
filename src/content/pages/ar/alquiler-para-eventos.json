@@ -1,0 +1,29 @@
+{
+  "titulo": "Alquiler de Robots para Eventos en Argentina",
+  "url": "/ar/alquiler-para-eventos/",
+  "slug": "alquiler-para-eventos",
+  "alterna": "/alquiler-para-eventos/",
+  "h1": "Alquiler de Robots para Eventos en Argentina",
+  "entradilla": "Se alquila una actuación, no un aparato. Llega el robot con su técnico, se prueba el piso, se ensaya el guion y recién entonces entra el público.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir presupuesto"
+  },
+  "hero": "/img/servicios/eventos.svg",
+  "metaTitulo": "Alquiler de Robots para Eventos en Buenos Aires y el Interior",
+  "metaDescripcion": "Alquiler de robots humanoides para eventos en Argentina: con técnico y guion, requisitos del lugar, seguros y cómo pedir presupuesto.",
+  "focusKeyword": "alquiler de robots para eventos en argentina",
+  "imagenPrincipal": "/img/servicios/eventos.svg",
+  "faq": [
+    {
+      "pregunta": "¿Sirve para un casamiento o un cumple de quince?",
+      "respuesta": "Sí, con pista seca y un horario sin multitud alrededor."
+    },
+    {
+      "pregunta": "¿Qué pasa si llueve?",
+      "respuesta": "Al aire libre no trabaja sin techo. Hay que prever un plan B."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Datos que necesitamos para cotizar</h2><ul><li>Ciudad, fecha, horario y tipo de evento.</li><li>Cuántas entradas y de cuánto tiempo.</li><li>Guion, idioma y si hay que programar algo propio.</li><li>Superficie, techo y acceso para descargar.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Requisitos del lugar</h2><p>Unos 4 por 4 metros despejados, piso firme y seco, un toma de 220 V con protección y un rincón para recargar. Si hay chicos, se delimita un perímetro.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Papeles que pide el predio</h2><p>Los recintos grandes suelen exigir ART del personal, seguro de responsabilidad civil con cláusula de no repetición y listado de equipos. Pasanos el reglamento del expositor con tiempo.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Alquiler de Robots para Eventos en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Sirve para un casamiento o un cumple de quince?</summary><div class=\"pregunta__resp\"><p>Sí, con pista seca y un horario sin multitud alrededor.</p></div></details><details class=\"pregunta\"><summary>¿Qué pasa si llueve?</summary><div class=\"pregunta__resp\"><p>Al aire libre no trabaja sin techo. Hay que prever un plan B.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros servicios</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/implementacion-de-robot-en-empresas-y-negocios/\">Implementación de Robots en Empresas</a></h3></li><li><h3><a href=\"/ar/estudio-de-viabilidad-y-roi/\">Estudio de Viabilidad y ROI</a></h3></li><li><h3><a href=\"/ar/renting-y-robot-como-servicio/\">Leasing y Robot como Servicio</a></h3></li><li><h3><a href=\"/ar/formacion-y-cursos/\">Capacitación en Robótica Humanoide</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/servicios/\">Ver todos los servicios</a></p></div></section>"
+}

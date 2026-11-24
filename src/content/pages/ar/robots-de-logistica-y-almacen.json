@@ -1,0 +1,29 @@
+{
+  "titulo": "Robots Humanoides de Logística en Argentina",
+  "url": "/ar/robots-de-logistica-y-almacen/",
+  "slug": "robots-de-logistica-y-almacen",
+  "alterna": "/robots-de-logistica-y-almacen/",
+  "h1": "Robots Humanoides de Logística en Argentina",
+  "entradilla": "El e-commerce llenó de depósitos el corredor de Panamericana, Ezeiza y Mercado Central, y cada Hot Sale repite el mismo problema: picos que no se cubren con personal fijo. Es el escenario donde los humanoides acumulan más experiencia comercial en el mundo.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir asesoramiento"
+  },
+  "hero": "/img/tipos/logistica.svg",
+  "metaTitulo": "Robots Humanoides para Logística y Depósitos en Argentina",
+  "metaDescripcion": "Robots humanoides para depósitos, centros de distribución y empaques argentinos: tareas viables, límites de carga, frío y cómo hacer un piloto.",
+  "focusKeyword": "robots humanoides de logística en argentina",
+  "imagenPrincipal": "/img/tipos/logistica.svg",
+  "faq": [
+    {
+      "pregunta": "¿Se consigue el Digit de Agility en Argentina?",
+      "respuesta": "No por canal comercial local. Se contrata como servicio para operaciones grandes en Estados Unidos. Lo explicamos en Agility Digit."
+    },
+    {
+      "pregunta": "¿Conviene un humanoide o un AMR?",
+      "respuesta": "Si solo hay que mover pallets o carros, un AMR es más simple. El humanoide suma cuando hay que agarrar y dejar."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Tareas que hoy son viables en un depósito</h2><ul><li>Pasar contenedores plásticos de un transportador a un carro.</li><li>Acercar cajas vacías al sector de armado de pedidos.</li><li>Retirar descartes y cartón entre turnos.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Empaques de fruta y cámaras de frío</h2><p>En el Alto Valle, Mendoza y Tucumán el pico dura pocas semanas. Comprar un equipo para usarlo un trimestre no cierra: mirá primero el <a href=\"/ar/alquiler-de-robots-humanoides/\">alquiler por temporada</a>. En cámara, además, el frío le resta autonomía a la batería de litio y la condensación complica sensores y cámaras.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué pedirle al proveedor antes del piloto</h2><ul><li>Carga útil con el brazo extendido, no solo el máximo de catálogo.</li><li>Ciclos por hora medidos con tus cajas.</li><li>Integración con tu WMS y quién la programa.</li></ul></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Robots Humanoides de Logística en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Se consigue el Digit de Agility en Argentina?</summary><div class=\"pregunta__resp\"><p>No por canal comercial local. Se contrata como servicio para operaciones grandes en Estados Unidos. Lo explicamos en <a href=\"/ar/agility-robotics-digit/\">Agility Digit</a>.</p></div></details><details class=\"pregunta\"><summary>¿Conviene un humanoide o un AMR?</summary><div class=\"pregunta__resp\"><p>Si solo hay que mover pallets o carros, un AMR es más simple. El humanoide suma cuando hay que agarrar y dejar.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros tipos de robots humanoides</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/robots-de-inspeccion-industrial/\">Robots de Inspección Industrial</a></h3></li><li><h3><a href=\"/ar/robots-de-atencion-al-cliente/\">Robots de Atención al Cliente</a></h3></li><li><h3><a href=\"/ar/robots-educativos/\">Robots Humanoides Educativos</a></h3></li><li><h3><a href=\"/ar/robots-de-investigacion/\">Robots Humanoides de Investigación</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/tipos/\">Ver todos los tipos</a></p></div></section>"
+}

@@ -1,0 +1,29 @@
+{
+  "titulo": "Curso de Visión Artificial para Robots en Argentina",
+  "url": "/ar/vision-artificial-y-percepcion/",
+  "slug": "vision-artificial-y-percepcion",
+  "alterna": "/vision-artificial-y-percepcion/",
+  "h1": "Curso de Visión Artificial para Robots en Argentina",
+  "entradilla": "Un modelo entrenado con depósitos de Europa no reconoce un bin de manzanas ni un cajón cosechero. Acá se aprende a medir, etiquetar y entrenar con lo propio.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar fechas"
+  },
+  "hero": "/img/cursos/vision.svg",
+  "metaTitulo": "Curso de Visión Artificial y Percepción Robótica en Argentina",
+  "metaDescripcion": "Curso de visión artificial para robots en Argentina: calibración, nubes de puntos, detección y modelos entrenados con imágenes locales.",
+  "focusKeyword": "curso de visión artificial para robots en argentina",
+  "imagenPrincipal": "/img/cursos/vision.svg",
+  "faq": [
+    {
+      "pregunta": "¿Hace falta una cámara de profundidad?",
+      "respuesta": "No, se entregan grabaciones; tener una suma."
+    },
+    {
+      "pregunta": "¿Sirve para drones o agro?",
+      "respuesta": "Sí, los fundamentos son los mismos."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Programa</h2><ul><li>Cámaras RGB y de profundidad, calibración y sincronía.</li><li>Nubes de puntos y mapas.</li><li>Detección y segmentación con modelos abiertos.</li><li>Evaluación: cuándo un 95% no alcanza.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Proyecto con datos argentinos</h2><p>Cada grupo junta un conjunto propio: envases, frutas, tableros o piezas de taller, y publica resultados honestos con los casos en que falla.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Requisitos</h2><p>Python, álgebra lineal básica y ganas de mirar imágenes mal etiquetadas. Se usa cómputo gratuito en la nube cuando alcanza.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Curso de Visión Artificial para Robots en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Hace falta una cámara de profundidad?</summary><div class=\"pregunta__resp\"><p>No, se entregan grabaciones; tener una suma.</p></div></details><details class=\"pregunta\"><summary>¿Sirve para drones o agro?</summary><div class=\"pregunta__resp\"><p>Sí, los fundamentos son los mismos.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros cursos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/aprendizaje-por-imitacion/\">Curso de Aprendizaje por Imitación</a></h3></li><li><h3><a href=\"/ar/simulacion-antes-del-despliegue/\">Curso de Simulación de Robots</a></h3></li><li><h3><a href=\"/ar/interaccion-por-voz-y-lenguaje/\">Curso de Voz y Lenguaje para Robots</a></h3></li><li><h3><a href=\"/ar/manipulacion-y-agarre/\">Curso de Manipulación y Agarre Robótico</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/cursos/\">Ver todos los cursos</a></p></div></section>"
+}

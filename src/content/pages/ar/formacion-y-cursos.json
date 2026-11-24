@@ -1,0 +1,29 @@
+{
+  "titulo": "Capacitación en Robótica Humanoide en Argentina",
+  "url": "/ar/formacion-y-cursos/",
+  "slug": "formacion-y-cursos",
+  "alterna": "/formacion-y-cursos/",
+  "h1": "Capacitación en Robótica Humanoide en Argentina",
+  "entradilla": "No hace falta que toda la empresa sepa ROS. Hace falta que quien lo enciende sepa apagarlo, que quien lo programa tenga acceso y que quien paga entienda los límites.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir presupuesto"
+  },
+  "hero": "/img/servicios/formacion.svg",
+  "metaTitulo": "Capacitación en Robótica Humanoide en Argentina para Equipos",
+  "metaDescripcion": "Capacitación en robótica humanoide en Argentina: online en horario local o en tu sede, según operen, programen o decidan.",
+  "focusKeyword": "capacitación en robótica humanoide en argentina",
+  "imagenPrincipal": "/img/servicios/formacion.svg",
+  "faq": [
+    {
+      "pregunta": "¿Tiene título oficial?",
+      "respuesta": "No. Entregamos certificado propio, sin validez de título habilitante."
+    },
+    {
+      "pregunta": "¿Se puede pagar como empresa?",
+      "respuesta": "Sí, se factura a la organización."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Un trayecto para cada rol</h2><ul><li><strong>Dirección</strong>: <a href=\"/ar/introduccion-a-la-robotica-humanoide/\">introducción</a>, media jornada.</li><li><strong>Operación</strong>: <a href=\"/ar/operacion-y-mantenimiento/\">operación y mantenimiento</a> sobre el equipo.</li><li><strong>Desarrollo</strong>: <a href=\"/ar/programacion-con-sdk/\">SDK</a> y después <a href=\"/ar/vision-artificial-y-percepcion/\">visión</a>.</li><li><strong>Higiene y seguridad</strong>: <a href=\"/ar/seguridad-y-robotica-colaborativa/\">robótica colaborativa</a>.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Modalidades</h2><p>Clases en vivo en horario argentino o jornadas en tu planta o universidad. Los grupos del interior pueden combinar teoría a distancia con un encuentro práctico.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cómo armar el plan</h2><p>Mandanos cuántas personas son, qué sabe cada una y para cuándo llega el robot. Lo ideal es terminar la parte teórica antes del despacho.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Capacitación en Robótica Humanoide en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Tiene título oficial?</summary><div class=\"pregunta__resp\"><p>No. Entregamos certificado propio, sin validez de título habilitante.</p></div></details><details class=\"pregunta\"><summary>¿Se puede pagar como empresa?</summary><div class=\"pregunta__resp\"><p>Sí, se factura a la organización.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros servicios</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/normativa-y-certificaciones/\">Normativa para Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/venta-de-robots-humanoides/\">Venta de Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/importacion-y-gestion-aduanera/\">Importación de Robots Humanoides a Argentina</a></h3></li><li><h3><a href=\"/ar/programacion-de-robot-humanoides/\">Programación de Robots Humanoides</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/servicios/\">Ver todos los servicios</a></p></div></section>"
+}

@@ -1,0 +1,29 @@
+{
+  "titulo": "Reachy Mini en Argentina",
+  "url": "/ar/reachy-mini/",
+  "slug": "reachy-mini",
+  "alterna": "/reachy-mini/",
+  "h1": "Reachy Mini en Argentina",
+  "entradilla": "Es la entrada menos costosa de esta guía y cabe en un escritorio. No camina ni agarra, pero permite aprender interacción con un robot físico.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar por este modelo"
+  },
+  "hero": "/img/marcas/reachy-mini.svg",
+  "metaTitulo": "Reachy Mini en Argentina - Robot de IA desde 399 USD",
+  "metaDescripcion": "Reachy Mini en Argentina: precio desde 399 USD más envío e impuestos, versión Lite y uso educativo.",
+  "focusKeyword": "reachy mini en argentina",
+  "imagenPrincipal": "/img/marcas/reachy-mini.svg",
+  "faq": [
+    {
+      "pregunta": "¿Es un humanoide completo?",
+      "respuesta": "No. Es una cabeza expresiva de escritorio."
+    },
+    {
+      "pregunta": "¿Necesita computadora?",
+      "respuesta": "Depende de la edición; confirmalo antes de comprar."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Reachy Mini: ficha y precio en Argentina</h2></div><div class=\"tabla-envoltorio\"><table class=\"tabla\"><thead><tr><th scope=\"col\">Dato</th><th scope=\"col\">Detalle</th></tr></thead><tbody><tr><th scope=\"row\">Precio en origen</th><td>399 USD Lite y 499 USD estándar, sin impuestos ni envío</td></tr><tr><th scope=\"row\">Puesto en Argentina</th><td>A cotizar con envío e impuestos</td></tr><tr><th scope=\"row\">¿Se puede comprar?</th><td>Sí, online</td></tr><tr><th scope=\"row\">Plazo</th><td>unos 90 días según fabricante, más aduana</td></tr><tr><th scope=\"row\">Formato</th><td>cabeza expresiva de escritorio</td></tr><tr><th scope=\"row\">Código</th><td>abierto</td></tr><tr><th scope=\"row\">Versiones</th><td>Lite y estándar</td></tr><tr><th scope=\"row\">Orientación</th><td>IA, voz y educación</td></tr><tr><th scope=\"row\">Estado</th><td>fase temprana de desarrollo</td></tr></tbody></table></div><p class=\"tabla__nota\">Valores orientativos en dólares. Se confirman al cotizar.</p></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Lite y la franquicia</h2><p>Con 399 dólares, la Lite queda cerca del umbral que suele generar dudas. Flete, forma de envío y cupo personal cambian el cálculo: consultá las condiciones vigentes con el operador.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Proyecto para un aula</h2><p>Cada grupo puede crear un gesto, una voz y una regla de privacidad. Se aprende más que repitiendo una coreografía cerrada.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Reachy Mini en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Es un humanoide completo?</summary><div class=\"pregunta__resp\"><p>No. Es una cabeza expresiva de escritorio.</p></div></details><details class=\"pregunta\"><summary>¿Necesita computadora?</summary><div class=\"pregunta__resp\"><p>Depende de la edición; confirmalo antes de comprar.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otras marcas y modelos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/hexagon-aeon/\">Hexagon AEON</a></h3></li><li><h3><a href=\"/ar/engineered-arts-ameca/\">Robot Ameca</a></h3></li><li><h3><a href=\"/ar/kepler-k2/\">Kepler K2</a></h3></li><li><h3><a href=\"/ar/unitree-g1/\">Unitree G1</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/marcas/\">Ver todas las marcas</a></p></div></section>"
+}

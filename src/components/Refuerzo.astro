@@ -1,0 +1,29 @@
+---
+/* Capa de refuerzo (src/data/refuerzo.json, la genera generar_refuerzo.py).
+   Solo suma: no lee ni altera el contenido propio de cada página. */
+import datos from '../data/refuerzo.json';
+const { url, parte } = Astro.props;
+const r = datos[url];
+const secciones = r?.secciones ?? [];
+const faq = r?.faq ?? [];
+---
+{parte === 'arriba' && r?.respuesta && (
+  <div class="contenedor">
+    <div class="prosa respuesta-rapida"><p><strong>En resumen:</strong> {r.respuesta}</p></div>
+  </div>
+)}
+
+{parte === 'abajo' && secciones.map((s, i) => (
+  <section class:list={['seccion', { 'seccion--alt': i % 2 === 1 }]}>
+    <div class="contenedor"><div class="prosa">
+      <h2>{s.h2}</h2>
+      <Fragment set:html={s.html} />
+      {i === secciones.length - 1 && faq.map((f) => (
+        <>
+          <h3>{f.pregunta}</h3>
+          <p>{f.respuesta}</p>
+        </>
+      ))}
+    </div></div>
+  </section>
+))}

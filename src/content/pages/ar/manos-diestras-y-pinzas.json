@@ -1,0 +1,29 @@
+{
+  "titulo": "Manos Diestras y Pinzas Robóticas en Argentina",
+  "url": "/ar/manos-diestras-y-pinzas/",
+  "slug": "manos-diestras-y-pinzas",
+  "alterna": "/manos-diestras-y-pinzas/",
+  "h1": "Manos Diestras y Pinzas Robóticas en Argentina",
+  "entradilla": "La mano puede costar tanto como una parte importante del robot. Antes de pagarla en dólares, probá si una pinza impresa hace el trabajo.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar disponibilidad"
+  },
+  "hero": "/img/accesorios/manos.svg",
+  "metaTitulo": "Manos Robóticas y Pinzas en Argentina - Cuál Elegir",
+  "metaDescripcion": "Manos diestras y pinzas para robots en Argentina: cuándo alcanza una pinza, compatibilidad, costos de importación y repuestos de dedos.",
+  "focusKeyword": "manos diestras y pinzas robóticas en argentina",
+  "imagenPrincipal": "/img/accesorios/manos.svg",
+  "faq": [
+    {
+      "pregunta": "¿El G1 básico incluye manos diestras?",
+      "respuesta": "Son opcionales y dependen de la versión."
+    },
+    {
+      "pregunta": "¿Puede manipular alimentos?",
+      "respuesta": "Solo con materiales aptos y cubierta higiénica."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cuál elegir</h2><ul><li><strong>Pinza de dos dedos</strong>: cajas, botellas, piezas rígidas.</li><li><strong>Tres dedos</strong>: objetos variados con robustez.</li><li><strong>Mano de cinco dedos</strong>: herramientas, investigación y teleoperación.</li><li><strong>Ventosa</strong>: cartón y superficies lisas.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Compatibilidad</h2><p>Confirmá brida, tensión, protocolo y carga de muñeca. Una mano de 800 gramos le resta eso mismo a lo que el brazo puede levantar.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Lo que se gasta</h2><p>Yemas, tendones y cables. Pedí un juego extra en el mismo envío; las yemas de silicona también se pueden moldear localmente.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Manos Diestras y Pinzas Robóticas en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿El G1 básico incluye manos diestras?</summary><div class=\"pregunta__resp\"><p>Son opcionales y dependen de la versión.</p></div></details><details class=\"pregunta\"><summary>¿Puede manipular alimentos?</summary><div class=\"pregunta__resp\"><p>Solo con materiales aptos y cubierta higiénica.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros accesorios y repuestos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/carcasas-y-piezas-de-recambio/\">Carcasas y Repuestos para Robots</a></h3></li><li><h3><a href=\"/ar/bateria-para-robot-y-sistemas-de-carga/\">Baterías para Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/estaciones-de-carga/\">Estaciones de Carga para Robots</a></h3></li><li><h3><a href=\"/ar/sensores-de-robots/\">Sensores para Robots Humanoides</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/accesorios/\">Ver todos los accesorios</a></p></div></section>"
+}

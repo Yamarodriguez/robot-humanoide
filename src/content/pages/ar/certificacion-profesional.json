@@ -1,0 +1,29 @@
+{
+  "titulo": "Certificación en Robótica Humanoide en Argentina",
+  "url": "/ar/certificacion-profesional/",
+  "slug": "certificacion-profesional",
+  "alterna": "/certificacion-profesional/",
+  "h1": "Certificación en Robótica Humanoide en Argentina",
+  "entradilla": "Reúne los módulos técnicos en un solo recorrido con evaluación. Está pensado para quien quiere trabajar en esto y necesita demostrarlo con un proyecto.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar fechas"
+  },
+  "hero": "/img/cursos/certificacion.svg",
+  "metaTitulo": "Certificación Profesional en Robótica Humanoide - Argentina",
+  "metaDescripcion": "Programa con evaluación y proyecto final en robótica humanoide para profesionales de Argentina: módulos, alcance del certificado y requisitos.",
+  "focusKeyword": "certificación en robótica humanoide en argentina",
+  "imagenPrincipal": "/img/cursos/certificacion.svg",
+  "faq": [
+    {
+      "pregunta": "¿Se puede cursar trabajando?",
+      "respuesta": "Sí, los módulos se toman por separado."
+    },
+    {
+      "pregunta": "¿Necesito título previo?",
+      "respuesta": "No, se hace un diagnóstico inicial."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Recorrido</h2><ul><li>Base: <a href=\"/ar/programacion-con-sdk/\">SDK</a> y <a href=\"/ar/simulacion-antes-del-despliegue/\">simulación</a>.</li><li>Especialidad: percepción, manipulación o voz.</li><li>Obligatorio: <a href=\"/ar/seguridad-y-robotica-colaborativa/\">seguridad</a>.</li><li>Cierre: proyecto defendido ante un evaluador.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué acredita y qué no</h2><p>Es un certificado propio con programa, carga horaria y calificación. No es un título universitario, no da matrícula ni incumbencias. Quien busque título oficial debe mirar las ingenierías y tecnicaturas nacionales.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Para destacar en una búsqueda</h2><p>Repositorio abierto, video sin cortes del proyecto y métricas. Las empresas que contratan desde afuera miran eso primero.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Certificación en Robótica Humanoide en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Se puede cursar trabajando?</summary><div class=\"pregunta__resp\"><p>Sí, los módulos se toman por separado.</p></div></details><details class=\"pregunta\"><summary>¿Necesito título previo?</summary><div class=\"pregunta__resp\"><p>No, se hace un diagnóstico inicial.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros cursos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/introduccion-a-la-robotica-humanoide/\">Curso de Introducción a la Robótica Humanoide</a></h3></li><li><h3><a href=\"/ar/programacion-con-sdk/\">Curso de Programación de Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/operacion-y-mantenimiento/\">Curso de Operación y Mantenimiento de Robots</a></h3></li><li><h3><a href=\"/ar/robotica-para-centros-educativos/\">Robótica Humanoide para Escuelas</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/cursos/\">Ver todos los cursos</a></p></div></section>"
+}

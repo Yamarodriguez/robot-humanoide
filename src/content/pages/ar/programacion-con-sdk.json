@@ -1,0 +1,29 @@
+{
+  "titulo": "Curso de Programación de Robots Humanoides en Argentina",
+  "url": "/ar/programacion-con-sdk/",
+  "slug": "programacion-con-sdk",
+  "alterna": "/programacion-con-sdk/",
+  "h1": "Curso de Programación de Robots Humanoides en Argentina",
+  "entradilla": "En el país sobran programadores de Python y faltan los que hayan movido una articulación. Este curso cubre ese paso sin exigir un equipo de 25.000 dólares para empezar.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar fechas"
+  },
+  "hero": "/img/cursos/sdk.svg",
+  "metaTitulo": "Curso de Programación de Robots Humanoides en Argentina - SDK y ROS 2",
+  "metaDescripcion": "Curso de programación de robots humanoides con SDK, Python y ROS 2 en Argentina: online en horario local, con simulador y sin robot propio.",
+  "focusKeyword": "curso de programación de robots humanoides en argentina",
+  "imagenPrincipal": "/img/cursos/sdk.svg",
+  "faq": [
+    {
+      "pregunta": "¿Cuánto Python hace falta?",
+      "respuesta": "Funciones, clases y manejo de terminal."
+    },
+    {
+      "pregunta": "¿Se practica en un robot real?",
+      "respuesta": "En demostraciones en vivo o en grupos presenciales."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Programa</h2><ul><li>Linux, redes y comunicación con el robot.</li><li>Comandos de alto nivel: caminar, girar, gestos.</li><li>ROS 2: nodos, tópicos y transformadas.</li><li>Estados, errores y parada segura.</li><li>Proyecto: una tarea encadenada con percepción simple.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué computadora necesitás</h2><p>Notebook con Linux o máquina virtual y 16 GB de memoria. Una placa de video ayuda con la simulación, pero se puede seguir con una instancia en la nube.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Salida laboral</h2><p>Integradores, laboratorios y empresas que exportan servicios buscan este perfil, todavía escaso. Un proyecto publicado pesa más que el certificado.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Curso de Programación de Robots Humanoides en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Cuánto Python hace falta?</summary><div class=\"pregunta__resp\"><p>Funciones, clases y manejo de terminal.</p></div></details><details class=\"pregunta\"><summary>¿Se practica en un robot real?</summary><div class=\"pregunta__resp\"><p>En demostraciones en vivo o en grupos presenciales.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros cursos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/operacion-y-mantenimiento/\">Curso de Operación y Mantenimiento de Robots</a></h3></li><li><h3><a href=\"/ar/robotica-para-centros-educativos/\">Robótica Humanoide para Escuelas</a></h3></li><li><h3><a href=\"/ar/formacion-para-equipos-tecnicos/\">Formación para Equipos Técnicos</a></h3></li><li><h3><a href=\"/ar/seguridad-y-robotica-colaborativa/\">Curso de Seguridad en Robótica Colaborativa</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/cursos/\">Ver todos los cursos</a></p></div></section>"
+}

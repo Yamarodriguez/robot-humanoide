@@ -1,0 +1,172 @@
+@venta-de-robots-humanoides|Venta de Robots Humanoides en Argentina|Venta de Robots Humanoides en Argentina - Precio Puesto en el País|Venta de robots humanoides en Argentina con costo total en dólares: robot, flete, tributos, despacho y capacitación. Cómo cotizamos.
+Vender un humanoide en Argentina es, en los hechos, armar una operación de comercio exterior con un robot adentro. Por eso la cotización separa cada concepto y no muestra solo el precio de fábrica.
+## Qué incluye la cotización
+- Modelo y versión exactos, con accesorios.
+- Flete y seguro internacionales, por avión o barco.
+- Estimación de derechos, tasa de estadística, IVA y percepciones.
+- Despacho, entrega y puesta en marcha.
+## Cómo se cierra una compra
+Definimos la tarea, descartamos modelos, emitimos la propuesta y acordamos quién figura como importador. Con la seña se confirma el pedido; el saldo se paga según el avance acordado por escrito.
+## Para empresa o para particular
+Una empresa puede computar parte de los tributos según su situación fiscal. Un particular absorbe casi todo. La misma máquina puede tener dos costos finales: consultá con tu contador y mirá la tabla de [precios](/ar/precios/).
+? ¿Facturan en dólares?
+= El valor se expresa en dólares; moneda y forma de pago se definen en la propuesta.
+? ¿La cotización vence?
+= Sí. Tipo de cambio, flete y normativa cambian, por eso lleva fecha.
+
+@importacion-y-gestion-aduanera|Importación de Robots Humanoides a Argentina|Importar un Robot Humanoide a Argentina - Aduana, ARCA y Costos|Cómo importar un robot humanoide a Argentina: posición arancelaria, ARCA, VUCE, batería de litio, courier e importación formal paso a paso.
+La mayoría de las compras fallidas se traban en el mismo lugar: el robot ya está en Ezeiza y recién ahí alguien pregunta con qué posición arancelaria entra.
+## Antes de pagar al fabricante
+- Pedí **proforma** con descripción técnica, peso y origen.
+- El despachante define la **posición NCM**; de eso dependen arancel, IVA e intervenciones.
+- Revisá en la **VUCE** si el equipo requiere algún organismo, por ejemplo por radiofrecuencia.
+- Confirmá que el importador esté habilitado en ARCA.
+## La batería manda en la logística
+El litio viaja como mercancía peligrosa, con ficha de seguridad y ensayo UN 38.3. Sin esos papeles la aerolínea rechaza la carga. A veces conviene embarcarla por separado.
+## En aduana
+El sistema asigna un canal de selectividad. Con verde sale más rápido; naranja implica control documental y rojo, también físico. Cada día de depósito fiscal se paga.
+? ¿Puedo traerlo como equipaje?
+= Un humanoide completo, no: supera franquicia y peso, y la batería no se admite.
+? ¿Conviene declarar menos?
+= Nunca. Es una infracción aduanera y te deja sin seguro ni garantía válida.
+
+@programacion-de-robot-humanoides|Programación de Robots Humanoides en Argentina|Programación de Robots Humanoides en Argentina - ROS 2, Voz e Integración|Programación de robots humanoides en Argentina: tareas a medida con SDK y ROS 2, voz en español rioplatense e integración con sistemas.
+El robot sale de la caja sabiendo caminar. Que haga algo útil en tu empresa es un proyecto de software, y la Argentina tiene buenos equipos para hacerlo.
+## Qué se puede pedir
+- **Demostraciones**: secuencias, gestos y recorridos.
+- **Voz**: conversación con voseo, conectada a tu base de conocimiento.
+- **Integración**: turnos, stock, ERP o central de alarmas.
+- **Autonomía**: navegar y manipular, lo más complejo y caro.
+## Cómo cotizamos
+Por entregables con prueba de aceptación, no por «dejarlo inteligente». Cada etapa se valida primero en simulador y después en el equipo.
+## Que no quedes atado
+Pedí código en tu repositorio, documentación y copia de la configuración del robot. Si tenés equipo propio, sumá el [[programacion-con-sdk|curso de SDK]] y seguí vos.
+? ¿Trabajan a distancia?
+= Buena parte, con simulador y acceso remoto; los ajustes finales son con el robot.
+? ¿Sirve cualquier versión?
+= No. Algunas ediciones bloquean el acceso de desarrollo.
+
+@mantenimiento-y-reparacion-de-robot|Mantenimiento y Reparación de Robots en Argentina|Reparación y Mantenimiento de Robots Humanoides en Argentina|Servicio técnico de robots humanoides en Argentina: diagnóstico remoto, stock de repuestos, mantenimiento por horas y garantía de fábrica.
+Con el fabricante a 19.000 kilómetros, un actuador de repuesto puede tardar más que el propio arreglo. El mantenimiento acá empieza por decidir qué se guarda en un cajón.
+## Stock mínimo que recomendamos
+- Dos actuadores de las articulaciones más exigidas.
+- Una batería y un cargador.
+- Cables, tornillería y cubiertas de manos.
+## Rutina por horas de uso
+**Cada día**: inspección visual, ruidos y temperatura. **Cada mes**: calibración, juegos mecánicos y respaldo del software. **Cada semestre**: revisión de reductores y estado de baterías.
+## Cuando algo falla
+Primero, registro y video para el diagnóstico remoto. Si es configuración, se resuelve a distancia. Si es mecánico, se cambia la pieza o se retira el equipo. Mandarlo a fábrica es el último recurso: implica exportación temporaria y mucho tiempo.
+? ¿Abrirlo anula la garantía?
+= Puede. Consultá antes de sacar un tornillo.
+? ¿Reparan equipos comprados en otro lado?
+= Se evalúa caso por caso, según documentación y repuestos.
+
+@alquiler-de-robots-humanoides|Alquiler de Robots Humanoides en Argentina|Alquiler de Robots Humanoides en Argentina por Semanas o Meses|Alquiler de robots humanoides en Argentina para pilotos y temporadas: qué incluye, depósito, seguro y cuándo conviene frente a comprar.
+Con un dólar y una aduana que cambian, alquilar es una forma de aprender antes de apostar. También resuelve lo estacional: la vendimia, el verano en la Costa o un Hot Sale.
+## Cuándo conviene alquilar
+- Querés medir una tarea por uno a tres meses.
+- La necesidad dura una temporada.
+- Todavía no sabés qué modelo pedir.
+## Qué tiene que decir el contrato
+Horas de uso, quién opera, soporte, reemplazo ante fallas, depósito en garantía y cobertura por caída. Definí también quién paga el traslado y qué pasa con los datos grabados.
+## Cuándo deja de convenir
+Si lo vas a usar todo el año y la tarea ya está probada, sumá doce meses de cuota y comparalo con el [costo de compra](/ar/precios/). Para cuota larga mirá [[renting-y-robot-como-servicio|robot como servicio]].
+? ¿Alquilan por un día?
+= Para eso está el [[alquiler-para-eventos|alquiler para eventos]], con técnico.
+? ¿Hay disponibilidad en todas las provincias?
+= Depende del modelo y la fecha. El traslado se cotiza aparte.
+
+@alquiler-para-eventos|Alquiler de Robots para Eventos en Argentina|Alquiler de Robots para Eventos en Buenos Aires y el Interior|Alquiler de robots humanoides para eventos en Argentina: con técnico y guion, requisitos del lugar, seguros y cómo pedir presupuesto.
+Se alquila una actuación, no un aparato. Llega el robot con su técnico, se prueba el piso, se ensaya el guion y recién entonces entra el público.
+## Datos que necesitamos para cotizar
+- Ciudad, fecha, horario y tipo de evento.
+- Cuántas entradas y de cuánto tiempo.
+- Guion, idioma y si hay que programar algo propio.
+- Superficie, techo y acceso para descargar.
+## Requisitos del lugar
+Unos 4 por 4 metros despejados, piso firme y seco, un toma de 220 V con protección y un rincón para recargar. Si hay chicos, se delimita un perímetro.
+## Papeles que pide el predio
+Los recintos grandes suelen exigir ART del personal, seguro de responsabilidad civil con cláusula de no repetición y listado de equipos. Pasanos el reglamento del expositor con tiempo.
+? ¿Sirve para un casamiento o un cumple de quince?
+= Sí, con pista seca y un horario sin multitud alrededor.
+? ¿Qué pasa si llueve?
+= Al aire libre no trabaja sin techo. Hay que prever un plan B.
+
+@implementacion-de-robot-en-empresas-y-negocios|Implementación de Robots en Empresas de Argentina|Implementación de Robots Humanoides en Empresas Argentinas|Implementar un robot humanoide en una empresa argentina: relevamiento, sindicato, ART, integración y métricas de los primeros 90 días.
+Comprar el robot lleva semanas; que siga trabajando a los seis meses es otra historia. La implementación cubre esa segunda parte.
+## Primero la gente
+Delegados y operarios se enteran antes de que llegue la caja. Se explica qué tarea asume, quién lo supervisa y qué pasa con ese puesto. Según el convenio, el cambio puede requerir una conversación formal.
+## Los primeros 90 días
+- **Días 1 a 30**: instalación, zonas marcadas y operación con supervisor.
+- **Días 31 a 60**: tarea real en horario acotado, registrando paradas.
+- **Días 61 a 90**: ajuste y decisión de ampliar, corregir o frenar.
+## Qué medimos
+Ciclos buenos por hora, intervenciones humanas, horas fuera de servicio y costo por ciclo. Con esos cuatro números la dirección decide sin marketing.
+? ¿Hace falta un área de sistemas?
+= Al menos un referente interno que conozca red y procesos.
+? ¿Y si el piloto da mal?
+= Se frena. Por eso proponemos empezar con equipo alquilado.
+
+@estudio-de-viabilidad-y-roi|Estudio de Viabilidad y ROI en Argentina|Estudio de Viabilidad y ROI de un Robot Humanoide en Argentina|¿Se paga un robot humanoide en Argentina? Cómo calcular el retorno en dólares con costos laborales, impuestos, repuestos y horas reales.
+La cuenta que circula en internet usa salarios de Estados Unidos. Con costos argentinos el resultado cambia por completo, y muchas veces la respuesta es «todavía no».
+## Qué entra en la cuenta
+- Costo puesto en planta, menos lo que recuperás de impuestos.
+- Programación, capacitación, energía y repuestos.
+- Costo laboral total de la tarea, con cargas y ausentismo.
+- Horas efectivas: las de trabajo, no las de encendido.
+## Un ejemplo para entenderlo
+Un equipo de 26.000 dólares amortizado en tres años cuesta unos 720 por mes antes de mantenimiento. Si reemplaza solo dos horas diarias, difícilmente se pague. Si habilita un turno nocturno que hoy no existe, puede cerrar.
+## Qué recibís
+Un informe con tarea, modelos posibles, tres escenarios y una recomendación, incluida la de no comprar.
+? ¿Se hace en pesos o en dólares?
+= En dólares, con el costo laboral convertido y una prueba de sensibilidad cambiaria.
+? ¿Cuánto demora?
+= Depende de los datos disponibles; con la tarea ya medida es mucho más rápido.
+
+@renting-y-robot-como-servicio|Leasing y Robot como Servicio en Argentina|Leasing de Robots Humanoides en Argentina y Robot como Servicio|Leasing, alquiler mensual y robot como servicio en Argentina: diferencias, IVA, opción de compra y qué mirar en el contrato.
+Acá «renting» se dice poco: las empresas preguntan por leasing o alquiler mensual. No son lo mismo y la diferencia aparece en el balance.
+## Tres figuras distintas
+- **Leasing**: contrato con opción de compra, regulado en el Código Civil y Comercial. Suele darlo un banco o una compañía especializada.
+- **Alquiler mensual**: pagás el uso y devolvés el equipo.
+- **Robot como servicio**: pagás por resultado u horas, con soporte incluido.
+## Qué mirar en la cuota
+Moneda y ajuste, plazo mínimo, penalidad por salida, quién asegura y qué pasa si la aduana demora un repuesto. Una cuota barata con soporte en otro huso horario sale cara.
+## Disponibilidad real
+Que un banco acepte un humanoide como bien de leasing no está garantizado: es un activo nuevo y con poco mercado de reventa. Consultá antes de planificar sobre esa base.
+? ¿La cuota se deduce?
+= En general es un gasto vinculado a la actividad; confirmalo con tu contador.
+? ¿Puedo cambiar de modelo?
+= Solo si el contrato lo prevé.
+
+@formacion-y-cursos|Capacitación en Robótica Humanoide en Argentina|Capacitación en Robótica Humanoide en Argentina para Equipos|Capacitación en robótica humanoide en Argentina: online en horario local o en tu sede, según operen, programen o decidan.
+No hace falta que toda la empresa sepa ROS. Hace falta que quien lo enciende sepa apagarlo, que quien lo programa tenga acceso y que quien paga entienda los límites.
+## Un trayecto para cada rol
+- **Dirección**: [[introduccion-a-la-robotica-humanoide|introducción]], media jornada.
+- **Operación**: [[operacion-y-mantenimiento|operación y mantenimiento]] sobre el equipo.
+- **Desarrollo**: [[programacion-con-sdk|SDK]] y después [[vision-artificial-y-percepcion|visión]].
+- **Higiene y seguridad**: [[seguridad-y-robotica-colaborativa|robótica colaborativa]].
+## Modalidades
+Clases en vivo en horario argentino o jornadas en tu planta o universidad. Los grupos del interior pueden combinar teoría a distancia con un encuentro práctico.
+## Cómo armar el plan
+Mandanos cuántas personas son, qué sabe cada una y para cuándo llega el robot. Lo ideal es terminar la parte teórica antes del despacho.
+? ¿Tiene título oficial?
+= No. Entregamos certificado propio, sin validez de título habilitante.
+? ¿Se puede pagar como empresa?
+= Sí, se factura a la organización.
+
+@marcado-ce-y-normativa>normativa-y-certificaciones|Normativa para Robots Humanoides en Argentina|Normativa para Robots Humanoides en Argentina - Certificaciones|Qué normas alcanzan a un robot humanoide en Argentina: seguridad eléctrica, radiofrecuencia, higiene y seguridad, ANMAT y datos personales.
+En Argentina no existe una ley específica de robots humanoides. Lo que hay es un conjunto de normas generales que se activan según qué tiene el equipo adentro y para qué se usa.
+## Qué puede intervenir
+- **Seguridad eléctrica**: reglamentos técnicos para equipos y cargadores de baja tensión.
+- **ENACOM**: homologación de módulos wifi, bluetooth o celulares, según el caso.
+- **Ley 19.587 y ART**: si trabaja donde hay empleados.
+- **ANMAT**: si se declara un uso médico.
+- **Ley 25.326**: si capta imágenes o datos de personas.
+## ¿Y el marcado CE?
+No es obligatorio ni suficiente acá, pero pedilo: el expediente técnico europeo acelera el análisis de riesgos. Son referencia útil las normas ISO 10218 para robots industriales e ISO 13482 para asistencia personal.
+## Qué preparamos
+Lista de requisitos del modelo y uso, documentación del fabricante y análisis de riesgos inicial para tu responsable de higiene y seguridad. Las reglas cambian: se verifican al momento de importar.
+? ¿Necesito seguro obligatorio?
+= No hay uno específico, aunque una póliza de responsabilidad civil es muy recomendable.
+? ¿Puede andar por la vereda?
+= Cada municipio puede exigir permiso. Consultá antes.

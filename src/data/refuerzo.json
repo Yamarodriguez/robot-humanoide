@@ -1,0 +1,2768 @@
+{
+ "/": {
+  "secciones": [
+   {
+    "h2": "¿Qué robot humanoide se puede comprar hoy en España?",
+    "html": "<p>Los modelos con canal de compra son sobre todo <a href=\"/unitree-r1/\">Unitree R1</a>, <a href=\"/unitree-g1/\">Unitree G1</a>, <a href=\"/booster-robotics-k1/\">Booster K1</a> y la gama <a href=\"/ubtech/\">UBTech</a>. Tesla Optimus, Figure 03 y Atlas no se venden al público. Antes de comparar marcas conviene mirar la <a href=\"/precios/\">tabla de precios</a>.</p>"
+   },
+   {
+    "h2": "Comprar, alquilar o contratar renting: cómo decidir",
+    "html": "<ul><li><strong>Comprar</strong>: uso diario, tarea ya probada y equipo formado.</li><li><strong><a href=\"/alquiler-de-robots-humanoides/\">Alquilar</a></strong>: un evento, una temporada o una prueba piloto.</li><li><strong><a href=\"/renting-y-robot-como-servicio/\">Renting</a></strong>: cuota mensual con mantenimiento y sin inmovilizar capital.</li></ul>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "Un robot humanoide es una máquina con cuerpo y movimientos parecidos a los humanos que camina, percibe su entorno y ejecuta tareas. En España se compra desde menos de 9.000 € en modelos de entrada y por unos 24.900 € en el caso del Unitree G1; también se puede alquilar."
+ },
+ "/precios/": {
+  "secciones": [
+   {
+    "h2": "¿Cuánto cuesta un robot humanoide barato?",
+    "html": "<p>El más económico anunciado es el <a href=\"/noetix-bumi/\">Noetix Bumi</a>, por menos de 1.400 dólares en origen, pensado para ocio y educación. Con SDK abierto y canal europeo, el <a href=\"/booster-robotics-k1/\">Booster K1</a> es una entrada más sólida para desarrollar.</p>"
+   },
+   {
+    "h2": "¿Cuánto cuesta alquilar un robot humanoide?",
+    "html": "<p>El precio de alquiler depende del modelo, los días, la ciudad y el operador. Como referencia internacional, AgiBot anunció su servicio desde 1.000 dólares al día con entrega e instalación. Para un presupuesto en España, consulta el <a href=\"/alquiler-para-eventos/\">alquiler para eventos</a>.</p>"
+   },
+   {
+    "h2": "Precios de nuevos robots humanoides en 2026",
+    "html": "<p>Son referencias de origen o tienda y cambian por versión, impuestos y transporte:</p><ul><li><a href=\"/agibot-x2/\">AgiBot X2</a>: 25.699 € en MediaMarkt, según la consulta de 2026.</li><li><a href=\"/engineai-pm01/\">EngineAI PM01</a>: unos 12.000 $ en su lanzamiento.</li><li><a href=\"/limx-oli/\">LimX Oli</a>: desde unos 21.800 $ en China.</li><li><a href=\"/kepler-k2/\">Kepler K2</a>: 30.000 $ comunicados en 2025.</li><li><a href=\"/reachy-2/\">Reachy 2</a>: unos 70.000 $.</li><li><a href=\"/reachy-mini/\">Reachy Mini</a>: 399 $ más impuestos y envío; robot de escritorio.</li></ul>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿El precio de un robot humanoide incluye IVA?",
+    "respuesta": "Depende del vendedor. Pide siempre el total con IVA, transporte, aranceles y garantía por escrito."
+   },
+   {
+    "pregunta": "¿Por qué el mismo modelo tiene precios tan distintos?",
+    "respuesta": "Porque cambian la versión (básica o EDU), las manos, el cómputo, la garantía y quién asume la importación."
+   }
+  ],
+  "respuesta": "El precio de un robot humanoide en España va de unos 6.650 € (Booster K1) a 24.900 € (Unitree G1), con el Unitree R1 cerca de 8.900 € por distribuidor europeo. Las plataformas industriales se cotizan por proyecto. Al precio hay que sumar programación, formación y recambios."
+ },
+ "/que-es/": {
+  "secciones": [
+   {
+    "h2": "Robot humanoide: definición corta para estudiantes",
+    "html": "<p>Es una máquina programable que imita la forma de una persona para moverse y trabajar en lugares hechos para personas. No siente ni tiene conciencia: calcula, percibe y actúa según su programación y sus modelos de <a href=\"/procesadores-y-software-de-ia/\">inteligencia artificial</a>.</p>"
+   },
+   {
+    "h2": "¿Cuáles son las partes de un robot humanoide?",
+    "html": "<ul><li><strong>Estructura</strong>: esqueleto y <a href=\"/carcasas-y-piezas-de-recambio/\">carcasas</a>.</li><li><strong><a href=\"/actuadores-y-servomotores/\">Actuadores</a></strong>: los músculos.</li><li><strong><a href=\"/sensores-de-robots/\">Sensores</a></strong>: equilibrio, tacto y vista.</li><li><strong>Ordenador y software</strong>: el cerebro.</li><li><strong><a href=\"/bateria-para-robot-y-sistemas-de-carga/\">Batería</a></strong>: la energía.</li></ul>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "Un robot humanoide es un robot con forma y movimientos inspirados en el cuerpo humano: cabeza, tronco, brazos y, en muchos casos, piernas. Combina sensores, motores e inteligencia artificial para desplazarse, manipular objetos o interactuar con personas."
+ },
+ "/comprar/": {
+  "secciones": [
+   {
+    "h2": "¿Dónde comprar un robot humanoide en España?",
+    "html": "<p>Hay tres vías: un <strong>distribuidor o integrador</strong> con soporte, la <strong><a href=\"/importacion-y-gestion-aduanera/\">importación gestionada</a></strong> y las <strong>grandes tiendas online</strong>, que ya listan humanoides como el Unitree G1 o el AgiBot X2. La diferencia está en quién responde cuando falla.</p>"
+   },
+   {
+    "h2": "Lista de comprobación antes de pagar",
+    "html": "<ul><li>Versión exacta y acceso al SDK.</li><li>Declaración UE de conformidad y manual.</li><li>Quién figura como importador.</li><li>Garantía, recambios y tiempo de reparación.</li><li>Formación y puesta en marcha incluidas.</li></ul>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede comprar un robot humanoide un particular?",
+    "respuesta": "Sí. Hay modelos a la venta, aunque la mayoría requiere espacio, supervisión y algo de programación."
+   },
+   {
+    "pregunta": "¿Es mejor comprar en AliExpress o a un distribuidor?",
+    "respuesta": "AliExpress puede ser más barato; un distribuidor aporta factura, soporte y garantía más fáciles de ejercer."
+   }
+  ],
+  "respuesta": "Para comprar un robot humanoide en España define primero la tarea, elige un modelo disponible, pide un presupuesto cerrado y comprueba marcado CE, garantía, recambios y plazo. Los canales son distribuidor, importación gestionada o plataforma online."
+ },
+ "/tipos/": {
+  "secciones": [
+   {
+    "h2": "¿Qué tipo de robot humanoide necesito?",
+    "html": "<ul><li>Mover cajas: <a href=\"/robots-de-logistica-y-almacen/\">logística y almacén</a>.</li><li>Recibir público: <a href=\"/robots-de-atencion-al-cliente/\">atención al cliente</a>.</li><li>Enseñar: <a href=\"/robots-educativos/\">educativo</a>.</li><li>Programar y publicar: <a href=\"/robots-de-investigacion/\">investigación</a>.</li><li>Atraer visitantes: <a href=\"/robots-para-eventos/\">eventos</a>.</li></ul>"
+   },
+   {
+    "h2": "Humanoide bípedo o con ruedas: diferencias",
+    "html": "<p>El bípedo supera escalones y usa espacios humanos, pero gasta más energía. El de ruedas es más estable, autónomo y barato en suelo liso. Si no hay escaleras, las ruedas suelen ganar.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuál es el tipo de robot humanoide más vendido?",
+    "respuesta": "En unidades, las plataformas para investigación, educación y desarrollo tienen hoy el canal comercial más claro."
+   }
+  ],
+  "respuesta": "Los robots humanoides se clasifican por uso: industriales, logísticos, médicos, educativos, domésticos, de compañía, seguridad, atención al cliente, eventos e investigación. También por locomoción: bípedos, que caminan, o con ruedas."
+ },
+ "/marcas/": {
+  "secciones": [
+   {
+    "h2": "¿Cuál es la mejor marca de robot humanoide?",
+    "html": "<p>Depende del uso: <strong>Unitree</strong> por precio y comunidad, <strong>Booster</strong> para fútbol robótico y docencia, <strong>UBTech</strong> para aulas y servicio, <strong>Agility</strong> en logística y <strong>1X</strong> como propuesta doméstica. Compara disponibilidad antes que vídeos.</p>"
+   },
+   {
+    "h2": "Marcas chinas, estadounidenses y europeas",
+    "html": "<p>China lidera en precio y oferta con Unitree, UBTech, Fourier, AgiBot o Noetix. Estados Unidos concentra Tesla, Figure y Agility. En Europa destaca la alemana <a href=\"/neura-robotics-4ne-1/\">Neura</a>, y 1X tiene origen noruego.</p>"
+   },
+   {
+    "h2": "Nuevas marcas de robots humanoides en 2026",
+    "html": "<p>Se incorporan AgiBot, EngineAI, LimX, Kepler, XPeng, Apptronik, Hexagon, Engineered Arts, Pollen Robotics y la española PAL Robotics.</p><ul><li><strong>Con canal de compra</strong>: <a href=\"/agibot-x2/\">AgiBot X2</a> y <a href=\"/reachy-mini/\">Reachy Mini</a>.</li><li><strong>Fabricados en España</strong>: <a href=\"/pal-robotics-talos/\">TALOS</a> y <a href=\"/pal-robotics-kangaroo/\">Kangaroo</a>.</li><li><strong>Industria</strong>: <a href=\"/apptronik-apollo/\">Apollo</a>, <a href=\"/hexagon-aeon/\">AEON</a> y <a href=\"/kepler-k2/\">Kepler K2</a>.</li><li><strong>Próximos</strong>: <a href=\"/xpeng-iron/\">XPeng IRON</a>.</li></ul>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué marcas de robots humanoides no se pueden comprar?",
+    "respuesta": "Tesla Optimus, Figure 03 y Atlas no tienen venta abierta al público. ASIMO está retirado y CyberOne no llegó a comercializarse."
+   }
+  ],
+  "respuesta": "Entre las principales marcas de robots humanoides están Unitree, UBTech, Booster Robotics, Fourier, Neura, 1X, Agility, Figure AI, Tesla y Boston Dynamics. En España las más accesibles son Unitree, Booster y UBTech; varias de las más famosas no venden al público."
+ },
+ "/servicios/": {
+  "secciones": [
+   {
+    "h2": "¿Qué servicio necesito según mi fase?",
+    "html": "<ul><li><strong>Idea</strong>: <a href=\"/estudio-de-viabilidad-y-roi/\">estudio de viabilidad</a>.</li><li><strong>Prueba</strong>: <a href=\"/alquiler-de-robots-humanoides/\">alquiler</a>.</li><li><strong>Compra</strong>: <a href=\"/venta-de-robots-humanoides/\">venta</a> e <a href=\"/importacion-y-gestion-aduanera/\">importación</a>.</li><li><strong>Uso</strong>: <a href=\"/programacion-de-robot-humanoides/\">programación</a> y <a href=\"/formacion-y-cursos/\">formación</a>.</li><li><strong>Vida útil</strong>: <a href=\"/mantenimiento-y-reparacion-de-robot/\">mantenimiento</a>.</li></ul>"
+   },
+   {
+    "h2": "Empresas de robótica humanoide: qué preguntar al proveedor",
+    "html": "<p>Pide una demostración de tu tarea, no de un baile. Pregunta quién repara, dónde están los recambios, qué queda documentado y qué ocurre si el piloto no cumple.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se puede contratar solo la programación?",
+    "respuesta": "Sí, si el modelo permite acceso de desarrollo y hay documentación disponible."
+   }
+  ],
+  "respuesta": "Los servicios para robots humanoides cubren todo el ciclo: estudio de viabilidad, venta, importación, normativa, programación, implantación, formación, mantenimiento, alquiler y renting."
+ },
+ "/cursos/": {
+  "secciones": [
+   {
+    "h2": "¿Qué estudiar para trabajar con robots humanoides?",
+    "html": "<p>Las bases habituales son ingeniería robótica, electrónica, informática o mecatrónica, y en FP la automatización y robótica industrial. Encima se añaden <a href=\"/programacion-con-sdk/\">SDK y ROS 2</a>, <a href=\"/vision-artificial-y-percepcion/\">visión</a> y <a href=\"/simulacion-antes-del-despliegue/\">simulación</a>.</p>"
+   },
+   {
+    "h2": "Ruta de aprendizaje de robótica humanoide",
+    "html": "<ul><li>Principiante: <a href=\"/introduccion-a-la-robotica-humanoide/\">introducción</a>.</li><li>Intermedio: <a href=\"/programacion-con-sdk/\">SDK</a> y <a href=\"/simulacion-antes-del-despliegue/\">simulación</a>.</li><li>Avanzado: <a href=\"/aprendizaje-por-imitacion/\">imitación</a> y <a href=\"/manipulacion-y-agarre/\">manipulación</a>.</li></ul>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se puede aprender robótica humanoide sin tener un robot?",
+    "respuesta": "Sí. Con simuladores se aprende locomoción, percepción y control antes de usar hardware."
+   }
+  ],
+  "respuesta": "Un curso de robótica humanoide enseña a operar, programar o evaluar estos robots. Para empezar a programar conviene saber Python; para decidir una compra u operar el equipo no hace falta."
+ },
+ "/accesorios/": {
+  "secciones": [
+   {
+    "h2": "¿Qué repuestos necesita un robot humanoide?",
+    "html": "<p>Como mínimo, una <a href=\"/bateria-para-robot-y-sistemas-de-carga/\">batería</a>, <a href=\"/actuadores-y-servomotores/\">actuadores</a> de las articulaciones más cargadas, cables y <a href=\"/carcasas-y-piezas-de-recambio/\">cubiertas</a>. El resto depende de las horas y la tarea.</p>"
+   },
+   {
+    "h2": "Repuestos originales o compatibles",
+    "html": "<p>En carcasas y soportes, una pieza compatible puede valer. En baterías, encoders y actuadores conviene el original por seguridad, comunicación y garantía.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Son universales los accesorios para robots humanoides?",
+    "respuesta": "No. Casi todos dependen de marca, modelo y versión; comprueba el número de pieza."
+   }
+  ],
+  "respuesta": "Los accesorios y repuestos principales de un robot humanoide son baterías, actuadores, manos, sensores, cámaras, procesadores, reductoras y carcasas. Los primeros que conviene tener en reserva son batería y actuadores."
+ },
+ "/contacto/": {
+  "secciones": [
+   {
+    "h2": "Qué datos incluir al pedir presupuesto de un robot humanoide",
+    "html": "<ul><li>Tarea y horas diarias.</li><li>Ciudad, tipo de suelo y escaleras.</li><li>Compra, alquiler o renting.</li><li>Necesidad de programación o formación.</li><li>Fecha y presupuesto orientativo.</li></ul>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "Para pedir presupuesto de un robot humanoide indica tarea, ciudad, fecha, horas de uso y si prefieres compra o alquiler. Con esos datos se puede descartar o proponer un modelo concreto."
+ },
+ "/ar/": {
+  "secciones": [
+   {
+    "h2": "¿Qué robot humanoide se consigue en Argentina?",
+    "html": "<p>Los más viables son <a href=\"/ar/unitree-r1/\">Unitree R1</a>, <a href=\"/ar/unitree-g1/\">Unitree G1</a>, <a href=\"/ar/booster-robotics-k1/\">Booster K1</a> y la línea educativa de <a href=\"/ar/ubtech/\">UBTech</a>. También hay importadores locales que ya presentaron equipos Unitree: compará versión, garantía y soporte.</p>"
+   },
+   {
+    "h2": "Robot humanoide para empresa, escuela o casa",
+    "html": "<p>Para una empresa, empezá por <a href=\"/ar/estudio-de-viabilidad-y-roi/\">viabilidad</a>. Para una escuela, por <a href=\"/ar/robots-educativos/\">robots educativos</a>. Para la casa, leé primero <a href=\"/ar/robots-para-el-hogar/\">qué hacen de verdad</a>.</p>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "En Argentina un robot humanoide se compra casi siempre por importación. El Unitree G1 se estima entre 23.000 y 28.000 USD puesto en el país y el Unitree R1 entre 8.500 y 10.500 USD, según flete, impuestos y despacho."
+ },
+ "/ar/precios/": {
+  "secciones": [
+   {
+    "h2": "¿Cuánto sale alquilar un robot humanoide?",
+    "html": "<p>Depende de modelo, días, operador y provincia. Como referencia internacional, AgiBot anunció valores desde 1.000 USD por día. Para un evento local, pedí <a href=\"/ar/alquiler-para-eventos/\">presupuesto con técnico y traslado</a>.</p>"
+   },
+   {
+    "h2": "Precio en dólares, pesos y cuotas",
+    "html": "<p>El equipo se cotiza en dólares. El monto en pesos depende del tipo de cambio y del momento de pago, y la financiación, de la entidad. Para cuotas mirá <a href=\"/ar/renting-y-robot-como-servicio/\">leasing y robot como servicio</a>.</p>"
+   },
+   {
+    "h2": "Precio en origen de nuevos robots humanoides",
+    "html": "<p>No incluyen flete, impuestos ni despacho a Argentina:</p><ul><li><a href=\"/ar/reachy-mini/\">Reachy Mini</a>: 399 USD.</li><li><a href=\"/ar/engineai-pm01/\">EngineAI PM01</a>: unos 12.000 USD en su lanzamiento.</li><li><a href=\"/ar/limx-oli/\">LimX Oli</a>: desde unos 21.800 USD.</li><li><a href=\"/ar/kepler-k2/\">Kepler K2</a>: 30.000 USD comunicados en 2025.</li><li><a href=\"/ar/reachy-2/\">Reachy 2</a>: unos 70.000 USD.</li></ul>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "El precio de un robot humanoide en Argentina parte de unos 1.500 USD en educativos chicos, 8.500 a 10.500 USD en el Unitree R1 y 23.000 a 28.000 USD en el Unitree G1, como estimación puesta en el país."
+ },
+ "/ar/que-es/": {
+  "secciones": [
+   {
+    "h2": "¿Para qué sirve un robot humanoide?",
+    "html": "<p>Hoy se usa sobre todo en <a href=\"/ar/robots-de-investigacion/\">investigación</a>, <a href=\"/ar/robots-educativos/\">educación</a>, <a href=\"/ar/robots-para-eventos/\">eventos</a> y pilotos de <a href=\"/ar/robots-de-logistica-y-almacen/\">logística</a>. Las tareas domésticas completas siguen en desarrollo.</p>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "Un robot humanoide es un robot con forma inspirada en el cuerpo humano, capaz de percibir, moverse e interactuar. Puede caminar en dos piernas o desplazarse sobre ruedas con torso y brazos."
+ },
+ "/ar/comprar/": {
+  "secciones": [
+   {
+    "h2": "¿Dónde comprar un robot humanoide en Argentina?",
+    "html": "<p>A un importador local, mediante importación llave en mano o con tu propia empresa habilitada. En los marketplaces verificá que no sea un juguete y pedí factura y despacho.</p>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "Para comprar un robot humanoide en Argentina definí la tarea, elegí versión, calculá el costo puesto en el país y confirmá importador, despacho, garantía y repuestos antes de señar."
+ },
+ "/ar/tipos/": {
+  "secciones": [
+   {
+    "h2": "¿Qué tipo de robot humanoide conviene en Argentina?",
+    "html": "<p>Elegí por tarea, repuestos y conectividad. Un equipo <a href=\"/ar/robots-educativos/\">educativo</a> exige docentes; uno <a href=\"/ar/robot-industrial/\">industrial</a>, análisis de riesgos; uno de <a href=\"/ar/robots-para-eventos/\">eventos</a>, operador.</p>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "Los tipos de robots humanoides más útiles para Argentina hoy son educativos, de investigación, eventos y atención; en industria, energía y logística conviene empezar por un piloto."
+ },
+ "/ar/servicios/": {
+  "secciones": [
+   {
+    "h2": "¿Qué servicio contratar primero?",
+    "html": "<p>Si no sabés si la tarea es posible, <a href=\"/ar/estudio-de-viabilidad-y-roi/\">viabilidad</a>. Si ya elegiste modelo, <a href=\"/ar/importacion-y-gestion-aduanera/\">importación</a>. Si ya lo tenés, <a href=\"/ar/programacion-de-robot-humanoides/\">programación</a> o <a href=\"/ar/mantenimiento-y-reparacion-de-robot/\">mantenimiento</a>.</p>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "Los servicios incluyen viabilidad, importación, programación, capacitación, mantenimiento y alquiler de robots humanoides, coordinados para empresas e instituciones argentinas."
+ },
+ "/ar/cursos/": {
+  "secciones": [
+   {
+    "h2": "¿Dónde estudiar robótica en Argentina?",
+    "html": "<p>Para un título, mirá ingenierías y tecnicaturas en robótica, mecatrónica, electrónica o computación de universidades y la UTN. Los cursos específicos suman práctica sobre humanoides, sin reemplazar la carrera.</p>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "Los cursos de robótica humanoide para Argentina van de la introducción sin código al SDK, ROS 2, visión y simulación. Se puede empezar sin robot propio."
+ },
+ "/ar/marcas/": {
+  "secciones": [
+   {
+    "h2": "¿Qué marca de robot humanoide es la más barata?",
+    "html": "<p>Noetix anunció el <a href=\"/ar/noetix-bumi/\">Bumi</a> por debajo de 1.400 USD, con disponibilidad a confirmar. Entre los equipos de mayor porte, el <a href=\"/ar/unitree-r1/\">Unitree R1</a> es una opción de entrada.</p>"
+   },
+   {
+    "h2": "Nuevas marcas de robots humanoides para seguir desde Argentina",
+    "html": "<p><a href=\"/ar/agibot-x2/\">AgiBot</a>, <a href=\"/ar/engineai-pm01/\">EngineAI</a>, <a href=\"/ar/limx-oli/\">LimX</a> y <a href=\"/ar/kepler-k2/\">Kepler</a> se cotizan por pedido. <a href=\"/ar/xpeng-iron/\">XPeng IRON</a> y <a href=\"/ar/apptronik-apollo/\">Apollo</a> no tienen venta local.</p>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "Las marcas de robots humanoides más accesibles desde Argentina son Unitree, Booster y UBTech. Tesla Optimus, Figure 03 y Atlas no tienen venta abierta."
+ },
+ "/ar/accesorios/": {
+  "secciones": [
+   {
+    "h2": "¿Dónde conseguir repuestos de robots en Argentina?",
+    "html": "<p>Electrónica didáctica e impresión 3D se consiguen localmente. Baterías, encoders y actuadores originales se piden al fabricante o distribuidor según número de parte.</p>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "Los repuestos que conviene pedir junto con el robot son batería, actuadores y cables. Carcasas, soportes y herramental se pueden fabricar en Argentina."
+ },
+ "/robot-industrial/": {
+  "secciones": [
+   {
+    "h2": "¿Qué diferencia hay entre un humanoide industrial y un cobot?",
+    "html": "<p>El cobot es fijo, preciso y más barato por ciclo. El humanoide se desplaza y cambia de puesto, a cambio de menos velocidad y autonomía.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuánto cuesta un robot humanoide industrial?",
+    "respuesta": "Las plataformas accesibles para un piloto rondan los 25.000 €, más programación y seguridad; las industriales se presupuestan por proyecto."
+   }
+  ],
+  "respuesta": "Un robot humanoide industrial manipula piezas y mueve material en espacios diseñados para personas. Hoy sirve para pilotos con tareas repetitivas y cargas ligeras, no para sustituir una línea automatizada."
+ },
+ "/robot-de-compania/": {
+  "secciones": [
+   {
+    "h2": "¿Es útil un robot de compañía para personas mayores?",
+    "html": "<p>Puede ayudar si la persona lo acepta, tiene conexión estable y alguien lo configura. Para caídas o urgencias, la prioridad es un sistema de alerta homologado.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un robot de compañía graba las conversaciones?",
+    "respuesta": "Algunos envían audio a la nube. Revisa permisos, conservación y borrado antes de usarlo."
+   }
+  ],
+  "respuesta": "Un robot de compañía conversa, recuerda rutinas y facilita videollamadas. Acompaña, pero no sustituye a un cuidador ni a la teleasistencia."
+ },
+ "/robots-medicos/": {
+  "secciones": [
+   {
+    "h2": "¿Qué tareas hace un robot humanoide en un hospital?",
+    "html": "<p>Transportar material ligero, guiar visitantes, dar información y acompañar actividades supervisadas. Las tareas de contacto físico siguen siendo del personal.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un robot cuidar a un paciente solo?",
+    "respuesta": "No. Necesita supervisión y un protocolo de derivación."
+   }
+  ],
+  "respuesta": "Un robot humanoide médico se usa en logística hospitalaria, orientación y apoyo asistencial. No diagnostica ni opera, y un uso clínico declarado exige cumplir la normativa de productos sanitarios."
+ },
+ "/robot-camarero/": {
+  "secciones": [
+   {
+    "h2": "¿Merece la pena un robot camarero en un restaurante?",
+    "html": "<p>Cuando hay muchos viajes largos y suelo liso. En locales estrechos, con escalones o poca distancia a cocina, apenas ahorra.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un robot camarero puede llevar bebidas?",
+    "respuesta": "Sí, con base estable y velocidad limitada; las copas altas requieren prueba previa."
+   }
+  ],
+  "respuesta": "Un robot camarero transporta platos y retira vajilla. La mayoría son bandejas autónomas con ruedas, no humanoides, y rinden en salones amplios."
+ },
+ "/robots-educativos/": {
+  "secciones": [
+   {
+    "h2": "¿A qué edad se puede usar un robot educativo?",
+    "html": "<p>Con bloques, desde primaria; con Python, desde secundaria o FP; con SDK y ROS 2, en universidad. El tamaño y la supervisión cambian en cada etapa.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuántos robots necesita un aula?",
+    "respuesta": "Un equipo puede servir a varios grupos si el resto trabaja en simulador y se rota."
+   }
+  ],
+  "respuesta": "Los robots humanoides educativos enseñan programación, electrónica e inteligencia artificial con un equipo físico. El modelo depende de la etapa y de la formación del profesorado."
+ },
+ "/robots-para-el-hogar/": {
+  "secciones": [
+   {
+    "h2": "¿Existe un robot que haga las tareas de casa?",
+    "html": "<p>Hay primeros modelos domésticos con ayuda remota en algunas tareas, como <a href=\"/1x-technologies-neo/\">NEO</a>. Para limpiar suelos, un robot aspirador sigue siendo más fiable.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Es seguro con niños o mascotas?",
+    "respuesta": "Solo con supervisión, zona despejada y siguiendo el manual; es una máquina pesada con motores."
+   }
+  ],
+  "respuesta": "Los robots humanoides para el hogar están en fase inicial. Algunos conversan, caminan o realizan tareas guiadas, pero ninguno accesible en España limpia, cocina y ordena con plena autonomía."
+ },
+ "/robots-empresariales/": {
+  "secciones": [
+   {
+    "h2": "¿Qué empresas usan robots humanoides?",
+    "html": "<p>Hay pilotos conocidos en automoción y logística, como los de <a href=\"/figure-ai-figure-03/\">Figure</a> y <a href=\"/agility-robotics-digit/\">Agility</a>. En pymes predominan demostración, formación e innovación.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Por dónde empieza una pyme?",
+    "respuesta": "Por medir una tarea y probar con alquiler antes de comprar."
+   }
+  ],
+  "respuesta": "Un robot humanoide para empresas se usa en recepción, demostraciones, formación o pilotos operativos. Compensa cuando hay una tarea medible o un retorno comercial claro."
+ },
+ "/robots-seguridad/": {
+  "secciones": [
+   {
+    "h2": "¿Es legal usar un robot de seguridad en España?",
+    "html": "<p>Puede usarse como herramienta, respetando la Ley 5/2014 de Seguridad Privada, el RGPD y las normas del recinto. La captación de vía pública tiene límites específicos.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Sustituye a un vigilante?",
+    "respuesta": "No. Apoya las rondas; la respuesta corresponde a personal habilitado."
+   }
+  ],
+  "respuesta": "Un robot de seguridad realiza rondas, registra incidencias y avisa a un operador. No puede detener ni cachear, y debe integrarse en un servicio de seguridad conforme a la ley."
+ },
+ "/robot-de-vigilancia/": {
+  "secciones": [
+   {
+    "h2": "¿Robot de vigilancia o cámaras de seguridad?",
+    "html": "<p>Las cámaras ofrecen continuidad y menor coste. El robot añade movilidad, sensores cercanos y verificación de alarmas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede vigilar de noche?",
+    "respuesta": "Sí, con iluminación, infrarrojos o térmica y un recorrido probado."
+   }
+  ],
+  "respuesta": "Un robot de vigilancia recorre puntos programados, toma imágenes o mediciones y alerta de cambios. Complementa las cámaras fijas en zonas muertas."
+ },
+ "/robots-de-logistica-y-almacen/": {
+  "secciones": [
+   {
+    "h2": "¿Humanoide, AMR o AGV para un almacén?",
+    "html": "<p>AMR y AGV transportan mejor. El humanoide aporta brazos para coger y dejar. Muchas veces la solución combina ambos.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuánto peso levanta un humanoide de almacén?",
+    "respuesta": "Depende del modelo y de la postura; pide la carga útil con el brazo extendido y en uso continuo."
+   }
+  ],
+  "respuesta": "Los robots humanoides de logística cogen contenedores y los trasladan entre estaciones. Es uno de los usos con más pilotos reales, siempre en flujos acotados."
+ },
+ "/robots-de-rehabilitacion/": {
+  "secciones": [
+   {
+    "h2": "¿Qué robot se usa en fisioterapia?",
+    "html": "<p>Exoesqueletos, dispositivos de mano o marcha y plataformas sociales. La elección depende de la lesión, la evidencia clínica y la certificación.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede usarse en casa?",
+    "respuesta": "Solo si el producto y el profesional lo prevén, con formación y seguimiento."
+   }
+  ],
+  "respuesta": "Los robots de rehabilitación ayudan a repetir, medir y motivar ejercicios bajo control profesional. Un humanoide no equivale a un exoesqueleto terapéutico."
+ },
+ "/robots-de-investigacion/": {
+  "secciones": [
+   {
+    "h2": "¿Cuál es el mejor robot humanoide para una universidad?",
+    "html": "<p><a href=\"/unitree-g1/\">Unitree G1 EDU</a> por comunidad y <a href=\"/booster-robotics-k1/\">Booster K1</a> por tamaño y docencia son candidatos habituales. Decide según simulador, acceso de bajo nivel y recambios.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Son compatibles con ROS 2?",
+    "respuesta": "Varios sí, aunque el nivel de acceso depende de la edición."
+   }
+  ],
+  "respuesta": "Un robot humanoide de investigación ofrece SDK, acceso a motores y sensores para estudiar locomoción, manipulación o IA. La versión concreta importa tanto como la marca."
+ },
+ "/robots-de-atencion-al-cliente/": {
+  "secciones": [
+   {
+    "h2": "¿Qué negocios pueden usar un robot recepcionista?",
+    "html": "<p>Hoteles, centros comerciales, clínicas, ferias y sedes con consultas repetidas. Si hay pocas visitas, una pantalla suele bastar.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede conectarse a ChatGPT u otro modelo de IA?",
+    "respuesta": "Técnicamente sí, si el robot permite integración; hay que limitar respuestas y proteger datos."
+   }
+  ],
+  "respuesta": "Un robot de atención al cliente recibe, orienta y responde preguntas frecuentes. Funciona mejor con un ámbito limitado y derivación inmediata a una persona."
+ },
+ "/robots-de-inspeccion-industrial/": {
+  "secciones": [
+   {
+    "h2": "¿Humanoide, dron o cuadrúpedo para inspección?",
+    "html": "<p>Dron para altura, cuadrúpedo para terreno irregular y humanoide para puertas, escaleras y mandos pensados para personas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede sustituir una inspección obligatoria?",
+    "respuesta": "No por sí solo; puede aportar datos a un técnico autorizado."
+   }
+  ],
+  "respuesta": "Un robot de inspección lee indicadores, detecta calor o ruidos y documenta rondas. Antes de usarlo en zonas con gases o polvo hay que comprobar su certificación ATEX."
+ },
+ "/robots-para-eventos/": {
+  "secciones": [
+   {
+    "h2": "¿Qué puede hacer un robot en una feria o congreso?",
+    "html": "<p>Recibir, hacer una demostración breve, interactuar en fotos y derivar visitantes. Conviene trabajar por pases.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuánto espacio necesita?",
+    "respuesta": "Como referencia, una zona despejada de unos 4 × 4 metros, según modelo y movimientos."
+   }
+  ],
+  "respuesta": "Un robot humanoide para eventos saluda, baila, presenta y atrae visitantes con un operador. El impacto mejora con guion, espacio seguro y captación de contactos."
+ },
+ "/unitree-g1/": {
+  "secciones": [
+   {
+    "h2": "¿Qué diferencia hay entre Unitree G1 y G1 EDU?",
+    "html": "<p>El G1 básico se orienta a demostración. El EDU añade opciones de desarrollo y mayor acceso, por lo que es el indicado para investigación.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿El Unitree G1 puede trabajar en casa?",
+    "respuesta": "No viene preparado para resolver tareas domésticas de forma autónoma."
+   }
+  ],
+  "respuesta": "El Unitree G1 mide 1,32 m, pesa unos 35 kg y tiene unas dos horas de autonomía. Su referencia de precio es 24.900 € en España y unos 16.000 dólares en fábrica."
+ },
+ "/1x-technologies-neo/": {
+  "secciones": [
+   {
+    "h2": "¿Se puede comprar 1X NEO en España?",
+    "html": "<p>No consta una venta local abierta. Confirma mercados, garantía y privacidad en el canal oficial antes de reservar.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿NEO funciona solo?",
+    "respuesta": "Parte de sus tareas se plantea con autonomía y otra con guiado de personas."
+   }
+  ],
+  "respuesta": "1X NEO es un humanoide doméstico anunciado a 20.000 dólares o 499 dólares al mes. No tiene distribuidor verificado en España y puede recurrir a asistencia remota."
+ },
+ "/agility-robotics-digit/": {
+  "secciones": [
+   {
+    "h2": "¿Qué hace Digit en un almacén?",
+    "html": "<p>Recoge y deposita contenedores entre carros, estantes y transportadores, un flujo repetitivo con medidas conocidas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuánto cuesta Digit?",
+    "respuesta": "Se usa como referencia un modelo de servicio de unos 8.500 dólares al mes; el contrato depende del proyecto."
+   }
+  ],
+  "respuesta": "Digit es un humanoide de Agility Robotics para mover contenedores en almacenes. Se contrata por proyecto y no está pensado para particulares."
+ },
+ "/figure-ai-figure-03/": {
+  "secciones": [
+   {
+    "h2": "¿Cuándo saldrá a la venta Figure 03?",
+    "html": "<p>No consta una fecha de venta abierta en España. Desconfía de reservas fuera de canales oficiales.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué alternativa a Figure se puede comprar?",
+    "respuesta": "El Unitree G1 es accesible para desarrollo, aunque no equivale en capacidades."
+   }
+  ],
+  "respuesta": "Figure 03 es el humanoide de Figure AI. No se vende al público y su experiencia industrial más citada procede de un piloto en BMW."
+ },
+ "/ubtech/": {
+  "secciones": [
+   {
+    "h2": "¿Qué diferencia hay entre UBTech Walker y Cruzr?",
+    "html": "<p>Walker es bípedo e industrial. Cruzr se mueve con ruedas y se orienta a recepción y servicio.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿UBTech vende robots para niños?",
+    "respuesta": "Sí, tiene líneas educativas; comprueba edad, idioma y aplicación."
+   }
+  ],
+  "respuesta": "UBTech fabrica robots educativos, de servicio como Cruzr e industriales como Walker. La gama educativa es la más accesible; Walker se plantea por proyecto."
+ },
+ "/fourier-intelligence-gr-2/": {
+  "secciones": [
+   {
+    "h2": "¿El Fourier GR-2 es un robot médico?",
+    "html": "<p>No debe darse por hecho. Un fabricante puede tener equipos sanitarios y un humanoide de investigación con situaciones regulatorias distintas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Para quién es el GR-2?",
+    "respuesta": "Laboratorios e integradores que trabajan interacción, manipulación o teleoperación."
+   }
+  ],
+  "respuesta": "El Fourier GR-2 es un humanoide de investigación de una empresa con experiencia en rehabilitación. Su uso con pacientes requiere verificar la certificación concreta."
+ },
+ "/neura-robotics-4ne-1/": {
+  "secciones": [
+   {
+    "h2": "¿Es Neura 4NE-1 un robot humanoide europeo?",
+    "html": "<p>Sí, la empresa es alemana. Confirma siempre versión, declaración de conformidad y disponibilidad.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se pagan aranceles en España?",
+    "respuesta": "Un bien en libre práctica comprado dentro de la UE no tiene arancel intracomunitario; el IVA sigue sus reglas."
+   }
+  ],
+  "respuesta": "El 4NE-1 es el humanoide de la alemana Neura Robotics, orientado a industria y entornos de servicio. La compra se consulta con el fabricante."
+ },
+ "/robot-tesla-bot-optimus/": {
+  "secciones": [
+   {
+    "h2": "¿Cuándo se podrá comprar Tesla Optimus?",
+    "html": "<p>Sin una apertura oficial de pedidos no hay fecha fiable. Las preventas de terceros deben tratarse como sospechosas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Optimus ya trabaja?",
+    "respuesta": "Tesla lo desarrolla y prueba en sus instalaciones; eso no equivale a venta comercial."
+   }
+  ],
+  "respuesta": "Tesla Optimus no se vende al público. Se han anunciado objetivos de 20.000 a 30.000, pero no hay precio de lista ni fecha confirmada para España."
+ },
+ "/robot-boston-dynamics-atlas/": {
+  "secciones": [
+   {
+    "h2": "¿Cuánto cuesta el robot Atlas?",
+    "html": "<p>No hay un precio público. El producto de la marca con comercialización más conocida es Spot, un cuadrúpedo.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Atlas es hidráulico?",
+    "respuesta": "La versión actual es eléctrica; la hidráulica se retiró en 2024."
+   }
+  ],
+  "respuesta": "Atlas es el humanoide eléctrico de Boston Dynamics, empresa controlada por Hyundai. Se orienta a industria y no se vende como unidad al público."
+ },
+ "/robot-xiaomi-cyberone/": {
+  "secciones": [
+   {
+    "h2": "¿Por qué no se puede comprar Xiaomi CyberOne?",
+    "html": "<p>Porque se presentó como desarrollo tecnológico, sin canal de venta. Los artículos baratos con ese nombre no son el robot real.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿CyberOne y CyberDog son lo mismo?",
+    "respuesta": "No. CyberDog es un cuadrúpedo."
+   }
+  ],
+  "respuesta": "CyberOne es un prototipo humanoide presentado por Xiaomi en 2022. Mide 1,77 m, pesa 52 kg y nunca se comercializó."
+ },
+ "/robot-honda-asimo/": {
+  "secciones": [
+   {
+    "h2": "¿Qué significa ASIMO y por qué fue importante?",
+    "html": "<p>Son las siglas de Advanced Step in Innovative Mobility. Popularizó la marcha bípeda fluida y mostró lo difícil que era convertirla en producto.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Dónde está ASIMO hoy?",
+    "respuesta": "Ya no realiza demostraciones regulares; sus unidades son parte del legado de Honda."
+   }
+  ],
+  "respuesta": "ASIMO fue el humanoide de Honda presentado en 2000 y retirado en 2022. Caminaba, subía escaleras y alcanzaba 6 km/h, pero no se vendía."
+ },
+ "/robot-sophia-hanson-robotics/": {
+  "secciones": [
+   {
+    "h2": "¿El robot Sophia tiene ciudadanía?",
+    "html": "<p>Arabia Saudita lo anunció en 2017, en un gesto simbólico y muy debatido. No convierte al robot en persona.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se puede contratar a Sophia?",
+    "respuesta": "La participación en eventos se consulta con Hanson Robotics."
+   }
+  ],
+  "respuesta": "Sophia es un robot social de Hanson Robotics presentado en 2016. Destaca por sus expresiones y combina guion e IA; no es consciente."
+ },
+ "/unitree-r1/": {
+  "secciones": [
+   {
+    "h2": "¿Unitree R1 o G1?",
+    "html": "<p>R1 para iniciación, contenido y demostración. G1 para manipulación, investigación y mayor ampliación.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿El Unitree R1 limpia la casa?",
+    "respuesta": "No es un robot doméstico listo para tareas."
+   }
+  ],
+  "respuesta": "El Unitree R1 es un humanoide de entrada con precio en origen cercano a 29.000 yuanes y referencia de 8.853 € mediante distribuidor europeo. Prioriza agilidad y acceso."
+ },
+ "/booster-robotics-k1/": {
+  "secciones": [
+   {
+    "h2": "¿Booster K1 es bueno para RoboCup?",
+    "html": "<p>Su tamaño y enfoque lo hacen interesante para fútbol robótico. Comprueba la categoría y reglas de la edición en la que compitas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Necesito programar para usarlo?",
+    "respuesta": "Para sacarle partido, sí; está orientado a desarrollo."
+   }
+  ],
+  "respuesta": "Booster K1 es un humanoide compacto para docencia e investigación, con SDK y compatibilidad ROS. La edición GEEK tiene una referencia de 6.646,62 €."
+ },
+ "/noetix-bumi/": {
+  "secciones": [
+   {
+    "h2": "¿Qué puede hacer Noetix Bumi?",
+    "html": "<p>Moverse, demostrar gestos e introducir programación. No debe confundirse con un humanoide de trabajo.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Es fiable comprarlo fuera de la UE?",
+    "respuesta": "Revisa canal oficial, marcado CE, batería, aduanas y devoluciones."
+   }
+  ],
+  "respuesta": "Noetix Bumi es un humanoide pequeño anunciado por menos de 1.400 dólares. Se orienta a educación y ocio, y en España hay que verificar disponibilidad y garantía."
+ },
+ "/venta-de-robots-humanoides/": {
+  "secciones": [
+   {
+    "h2": "¿Qué incluye la compra llave en mano?",
+    "html": "<p>Selección, gestión de pedido, entrega, configuración y formación básica, según presupuesto. La programación de una tarea se define aparte.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se puede pagar a plazos?",
+    "respuesta": "Depende de financiación aprobada o de una fórmula de renting."
+   }
+  ],
+  "respuesta": "La venta de un robot humanoide debe incluir modelo exacto, transporte, impuestos, conformidad, garantía y puesta en marcha. El precio de catálogo no es el coste total."
+ },
+ "/programacion-de-robot-humanoides/": {
+  "secciones": [
+   {
+    "h2": "¿Cuánto cuesta programar un robot humanoide?",
+    "html": "<p>Depende de la tarea: un guion de evento requiere mucho menos que manipular objetos variables. Se presupuesta por entregables.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se puede programar con IA?",
+    "respuesta": "Sí, con modelos de lenguaje o políticas entrenadas, siempre con límites y pruebas."
+   }
+  ],
+  "respuesta": "Programar un robot humanoide consiste en combinar SDK, sensores, navegación, voz y seguridad para resolver una tarea. Suele usarse Python, C++ y ROS 2."
+ },
+ "/mantenimiento-y-reparacion-de-robot/": {
+  "secciones": [
+   {
+    "h2": "¿Cuáles son las averías más frecuentes?",
+    "html": "<p>Juego o calor en articulaciones, cables dañados, sensores descalibrados y degradación de batería. Un registro de uso facilita el diagnóstico.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se repara en España?",
+    "respuesta": "Depende de marca, pieza y garantía; el diagnóstico inicial puede hacerse a distancia."
+   }
+  ],
+  "respuesta": "El mantenimiento de robots humanoides incluye limpieza, calibración, software, batería, actuadores y comprobaciones de seguridad. La frecuencia depende de horas, carga y manual."
+ },
+ "/alquiler-de-robots-humanoides/": {
+  "secciones": [
+   {
+    "h2": "¿Qué debe incluir un contrato de alquiler?",
+    "html": "<p>Horas, soporte, sustitución, seguro, transporte, operador y tratamiento de datos. También quién responde por caídas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Hay opción de compra?",
+    "respuesta": "Solo si figura en el contrato o presupuesto."
+   }
+  ],
+  "respuesta": "El alquiler de robots humanoides permite usar un equipo durante semanas o meses sin comprarlo. Es adecuado para pilotos, temporadas y formación."
+ },
+ "/implementacion-de-robot-en-empresas-y-negocios/": {
+  "secciones": [
+   {
+    "h2": "¿Cuánto tarda la implantación de un robot?",
+    "html": "<p>Una demostración puede prepararse en poco tiempo; un proceso productivo necesita piloto, integración y validación. El calendario depende de la tarea.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué indicadores se usan?",
+    "respuesta": "Ciclos correctos, paradas, intervenciones, coste por ciclo y seguridad."
+   }
+  ],
+  "respuesta": "Implantar un robot humanoide exige definir una tarea, analizar riesgos, integrar sistemas, formar al equipo y medir resultados antes de ampliar."
+ },
+ "/importacion-y-gestion-aduanera/": {
+  "secciones": [
+   {
+    "h2": "¿Qué documentos pide la aduana para importar un robot?",
+    "html": "<p>Factura, lista de bultos, transporte, EORI si procede, declaración de conformidad y documentación de la batería de litio. Puede requerirse más según el producto.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un particular importar un robot?",
+    "respuesta": "Puede intentarlo, pero debe cumplir trámites y asumir riesgos; para equipos grandes conviene un profesional."
+   }
+  ],
+  "respuesta": "Importar un robot a España requiere clasificación arancelaria, DUA, IVA de importación, posible arancel y documentación de conformidad y batería. El importador asume obligaciones."
+ },
+ "/alquiler-para-eventos/": {
+  "secciones": [
+   {
+    "h2": "¿Cómo contratar un robot para un evento?",
+    "html": "<p>Indica fecha, lugar, público, superficie y objetivo. Con eso se prepara el guion, el perímetro y la logística.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Con cuánta antelación se reserva?",
+    "respuesta": "Cuanto antes: la programación a medida y los desplazamientos necesitan margen."
+   }
+  ],
+  "respuesta": "El alquiler de un robot para eventos se contrata por horas o días, normalmente con operador, transporte y guion. El precio depende de modelo, ciudad y programación."
+ },
+ "/formacion-y-cursos/": {
+  "secciones": [
+   {
+    "h2": "¿Qué curso necesita cada perfil?",
+    "html": "<p>Dirección: introducción. Operarios: uso y mantenimiento. Desarrolladores: SDK. Prevención: seguridad.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Es formación bonificable?",
+    "respuesta": "Depende de requisitos y entidad organizadora; confírmalo con FUNDAE antes de empezar."
+   }
+  ],
+  "respuesta": "La formación en robótica humanoide se adapta a quien decide, opera, programa o previene riesgos. Puede ser online o sobre el robot del cliente."
+ },
+ "/estudio-de-viabilidad-y-roi/": {
+  "secciones": [
+   {
+    "h2": "¿Cómo se calcula el ROI de un robot humanoide?",
+    "html": "<p>ROI = (beneficio neto anual menos coste anual) dividido por la inversión. Debe calcularse con varios escenarios y tiempo real de actividad.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede salir negativo?",
+    "respuesta": "Sí, y detectarlo antes de comprar es parte del valor del estudio."
+   }
+  ],
+  "respuesta": "Un estudio de viabilidad compara la tarea actual con el coste total de un robot: compra, integración, energía, mantenimiento, supervisión y horas productivas."
+ },
+ "/renting-y-robot-como-servicio/": {
+  "secciones": [
+   {
+    "h2": "¿Renting, leasing o alquiler de un robot?",
+    "html": "<p>Renting incluye uso y servicios; leasing suele tener opción de compra; alquiler cubre periodos concretos. Las condiciones mandan sobre el nombre.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿La cuota es deducible?",
+    "respuesta": "Consulta tu caso con la asesoría fiscal."
+   }
+  ],
+  "respuesta": "En renting se paga una cuota por usar el robot con servicios acordados. En robot como servicio, el pago puede vincularse a horas o resultados."
+ },
+ "/marcado-ce-y-normativa/": {
+  "secciones": [
+   {
+    "h2": "¿Qué cambia el Reglamento de máquinas en 2027?",
+    "html": "<p>Sustituye a la Directiva 2006/42/CE y tiene en cuenta la maquinaria móvil autónoma, el software y los riesgos digitales. Revisa la versión consolidada y la fecha de comercialización.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Basta con que el robot tenga CE?",
+    "respuesta": "No. También cuenta cómo se instala, integra y usa en el puesto."
+   }
+  ],
+  "respuesta": "Un robot vendido en la UE debe cumplir los requisitos que le apliquen y llevar marcado CE cuando corresponda. El Reglamento (UE) 2023/1230 de máquinas se aplica desde el 20 de enero de 2027."
+ },
+ "/introduccion-a-la-robotica-humanoide/": {
+  "secciones": [
+   {
+    "h2": "¿Cómo empezar en robótica humanoide desde cero?",
+    "html": "<p>Aprende primero conceptos, luego Python y un simulador. El hardware llega después.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Sirve para directivos?",
+    "respuesta": "Sí, está orientado a criterio y decisión."
+   }
+  ],
+  "respuesta": "Este curso introductorio explica qué hacen los humanoides, sus límites, costes y requisitos para decidir si una tarea es viable. No exige programar."
+ },
+ "/programacion-con-sdk/": {
+  "secciones": [
+   {
+    "h2": "¿Python o C++ para programar robots humanoides?",
+    "html": "<p>Python para aprender, integrar e investigar; C++ donde se necesita rendimiento. Muchos proyectos usan ambos.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué es un SDK de robot?",
+    "respuesta": "Las librerías y herramientas que ofrece el fabricante para controlarlo."
+   }
+  ],
+  "respuesta": "Un curso de programación con SDK enseña a controlar movimiento, sensores y tareas mediante Python y ROS 2. Requiere bases de programación."
+ },
+ "/operacion-y-mantenimiento/": {
+  "secciones": [
+   {
+    "h2": "¿Quién puede operar un robot humanoide?",
+    "html": "<p>Una persona formada en el equipo, el entorno y la emergencia. La cualificación exigible depende del puesto.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Incluye reparación electrónica?",
+    "respuesta": "El foco es operación y mantenimiento autorizado, no reparar placas."
+   }
+  ],
+  "respuesta": "El curso de operación enseña arranque, parada segura, carga, calibración, inspección y registro de incidencias. Va dirigido a usuarios y técnicos."
+ },
+ "/robotica-para-centros-educativos/": {
+  "secciones": [
+   {
+    "h2": "¿Cómo introducir robots humanoides en el aula?",
+    "html": "<p>Empieza por un reto curricular, grupos pequeños y evaluación. El equipo se elige al final.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Sirve para FP?",
+    "respuesta": "Sí, con proyectos de automatización, programación y mantenimiento."
+   }
+  ],
+  "respuesta": "La robótica humanoide para centros educativos combina formación docente, proyectos por etapa y prácticas seguras con simulador y robot."
+ },
+ "/formacion-para-equipos-tecnicos/": {
+  "secciones": [
+   {
+    "h2": "¿Qué ventajas tiene la formación in company?",
+    "html": "<p>Usa procesos y riesgos reales, reduce dudas al arrancar y deja procedimientos propios.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede hacerse por turnos?",
+    "respuesta": "Sí, si se planifica disponibilidad del robot y del personal."
+   }
+  ],
+  "respuesta": "La formación para equipos técnicos se imparte sobre el robot, la planta y la tarea de la empresa, con prácticas y criterios de evaluación."
+ },
+ "/seguridad-y-robotica-colaborativa/": {
+  "secciones": [
+   {
+    "h2": "¿Qué normas ISO se aplican a robots humanoides?",
+    "html": "<p>ISO 10218 orienta robots industriales e ISO 13482 robots de cuidado personal. La aplicabilidad a bípedos debe analizarse caso por caso.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Hace falta vallado?",
+    "respuesta": "Depende de la evaluación de riesgos."
+   }
+  ],
+  "respuesta": "La seguridad en robótica colaborativa parte de una evaluación de riesgos y aplica distancia, velocidad, fuerza, parada y formación. Un robot «colaborativo» no es seguro por nombre."
+ },
+ "/vision-artificial-y-percepcion/": {
+  "secciones": [
+   {
+    "h2": "¿Cómo ve un robot humanoide?",
+    "html": "<p>Combina color, profundidad e inercia para estimar dónde está y qué tiene delante. La luz y los datos determinan la fiabilidad.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Hace falta una GPU?",
+    "respuesta": "Ayuda en entrenamiento; para empezar puede usarse un equipo modesto o nube."
+   }
+  ],
+  "respuesta": "La visión artificial permite al robot detectar, medir y localizar objetos con cámaras y LiDAR. El curso cubre calibración, nubes de puntos y modelos."
+ },
+ "/aprendizaje-por-imitacion/": {
+  "secciones": [
+   {
+    "h2": "¿Imitación o aprendizaje por refuerzo?",
+    "html": "<p>La imitación aprende de ejemplos; el refuerzo explora con recompensas. Pueden combinarse.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuántos datos necesita?",
+    "respuesta": "Depende de la variabilidad de la tarea; importa más la diversidad que repetir lo mismo."
+   }
+  ],
+  "respuesta": "En aprendizaje por imitación el robot entrena con demostraciones humanas. Es útil para manipulación difícil de programar paso a paso."
+ },
+ "/simulacion-antes-del-despliegue/": {
+  "secciones": [
+   {
+    "h2": "¿Qué es sim-to-real en robótica?",
+    "html": "<p>Es trasladar al robot físico lo aprendido en simulación. Se varían fricción, masa y sensores para reducir la diferencia.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿La simulación sustituye la prueba real?",
+    "respuesta": "No. Reduce riesgos y tiempo antes de ella."
+   }
+  ],
+  "respuesta": "Simular un robot permite probar control y seguridad sin dañar hardware. MuJoCo, Gazebo e Isaac Sim son herramientas habituales."
+ },
+ "/interaccion-por-voz-y-lenguaje/": {
+  "secciones": [
+   {
+    "h2": "¿Cómo se integra ChatGPT en un robot?",
+    "html": "<p>Mediante una API o un modelo local que interpreta la petición y devuelve texto o acciones permitidas. La seguridad no debe depender del modelo.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede funcionar sin conexión?",
+    "respuesta": "Sí, con modelos locales y prestaciones acotadas."
+   }
+  ],
+  "respuesta": "La interacción por voz une micrófono, reconocimiento, modelo de lenguaje, voz sintética y acciones del robot. La latencia y los límites de respuesta son decisivos."
+ },
+ "/manipulacion-y-agarre/": {
+  "secciones": [
+   {
+    "h2": "¿Por qué es difícil que un robot agarre objetos?",
+    "html": "<p>Cambian forma, peso, fricción y posición. El robot debe percibir y corregir durante el contacto.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué objeto es más difícil?",
+    "respuesta": "Los blandos, transparentes o deformables suelen ser los más exigentes."
+   }
+  ],
+  "respuesta": "La manipulación robótica enseña a localizar, agarrar y colocar objetos controlando posición y fuerza. Una pinza simple suele superar a una mano compleja."
+ },
+ "/certificacion-profesional/": {
+  "secciones": [
+   {
+    "h2": "¿Qué certificación sirve para trabajar en robótica?",
+    "html": "<p>Los títulos oficiales aportan base; los certificados de herramientas y un proyecto demostrable completan el perfil.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué valora una empresa?",
+    "respuesta": "Código, resultados reproducibles y conocimiento de seguridad."
+   }
+  ],
+  "respuesta": "Esta certificación propia reúne programación, percepción, seguridad y proyecto final. Acredita el programa cursado y no equivale a un título oficial."
+ },
+ "/bateria-para-robot-y-sistemas-de-carga/": {
+  "secciones": [
+   {
+    "h2": "¿Cuánto dura la batería de un robot humanoide?",
+    "html": "<p>Caminar, correr o cargar peso reduce el tiempo. Pide la autonomía medida en tu tarea.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede dejarse cargando sin vigilancia?",
+    "respuesta": "Solo si el fabricante lo permite y la instalación es adecuada."
+   }
+  ],
+  "respuesta": "La batería de un robot humanoide suele dar unas dos a cuatro horas, según modelo y actividad. Debe ser compatible y cargarse con el sistema indicado."
+ },
+ "/sensores-de-robots/": {
+  "secciones": [
+   {
+    "h2": "¿Qué sensores tiene un robot humanoide?",
+    "html": "<p>Internos, para conocer su cuerpo, y externos, para conocer el entorno. La fusión de ambos evita caídas y choques.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué es una IMU?",
+    "respuesta": "Un sensor que mide aceleración y giro para estimar orientación."
+   }
+  ],
+  "respuesta": "Los sensores de un humanoide miden equilibrio, posición, fuerza, distancia y entorno. Los principales son IMU, encoders, fuerza, tacto, cámara y LiDAR."
+ },
+ "/camara-robot-alta-precision/": {
+  "secciones": [
+   {
+    "h2": "¿Qué cámara elegir para visión robótica?",
+    "html": "<p>Global shutter para movimiento, profundidad para agarre, infrarroja para oscuridad y térmica para temperatura.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Más megapíxeles es mejor?",
+    "respuesta": "No siempre; aumentan datos y latencia."
+   }
+  ],
+  "respuesta": "Una cámara para robot puede ser RGB, estéreo, de profundidad, infrarroja o térmica. La elección depende de distancia, luz y detalle."
+ },
+ "/procesadores-y-software-de-ia/": {
+  "secciones": [
+   {
+    "h2": "¿Qué procesador usa un robot humanoide?",
+    "html": "<p>Combina microcontroladores, CPU y, en algunos modelos, GPU como NVIDIA Jetson. La configuración cambia por edición.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Necesita internet?",
+    "respuesta": "Para caminar no debería; para conversación en la nube, sí."
+   }
+  ],
+  "respuesta": "El ordenador del robot separa control en tiempo real e inteligencia artificial. El equilibrio se calcula a bordo; tareas lentas pueden ir a un servidor."
+ },
+ "/piezas-mecanicas-y-brazos-roboticos/": {
+  "secciones": [
+   {
+    "h2": "¿De qué material está hecho un robot humanoide?",
+    "html": "<p>Aluminio, acero, plásticos técnicos y compuestos, según carga y coste. Las cubiertas no suelen ser estructurales.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué son los grados de libertad?",
+    "respuesta": "Los movimientos independientes que puede realizar una articulación o robot."
+   }
+  ],
+  "respuesta": "Las piezas mecánicas forman estructura, articulaciones y brazos. Tolerancia, material y peso influyen en precisión y autonomía."
+ },
+ "/actuadores-y-servomotores/": {
+  "secciones": [
+   {
+    "h2": "¿Actuador, motor y servo son lo mismo?",
+    "html": "<p>No. El motor genera giro; el servo añade control; el actuador es el conjunto que mueve la articulación.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Por qué se calienta?",
+    "respuesta": "Por carga, fricción, mala calibración o refrigeración; un aumento anormal exige parar."
+   }
+  ],
+  "respuesta": "Un actuador convierte energía en movimiento y suele integrar motor, reductora, encoder y control. Es una de las piezas más exigidas del humanoide."
+ },
+ "/manos-diestras-y-pinzas/": {
+  "secciones": [
+   {
+    "h2": "¿Mano robótica o pinza?",
+    "html": "<p>Pinza para objetos conocidos; mano para herramientas, variedad o investigación; ventosa para superficies lisas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuántos grados de libertad necesita una mano?",
+    "respuesta": "Los que pida el agarre; más grados añaden coste y mantenimiento."
+   }
+  ],
+  "respuesta": "Una mano diestra ofrece varios dedos y movimientos; una pinza es más simple y robusta. La mejor es la que resuelve el objeto y la tarea."
+ },
+ "/reductoras-y-transmisiones/": {
+  "secciones": [
+   {
+    "h2": "¿Qué es una reductora armónica?",
+    "html": "<p>Un reductor con engranaje flexible que consigue gran relación y precisión en poco espacio. Es sensible a impactos.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué indica el juego mecánico?",
+    "respuesta": "Holgura o desgaste que reduce precisión."
+   }
+  ],
+  "respuesta": "Una reductora baja velocidad y aumenta par entre motor y articulación. Las planetarias resisten golpes; las armónicas ofrecen poco juego."
+ },
+ "/estaciones-de-carga/": {
+  "secciones": [
+   {
+    "h2": "¿Cómo se carga un robot humanoide?",
+    "html": "<p>Con cable, cambio de batería o acople. La carga automática debe ser compatible con modelo y entorno.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Vale un enchufe doméstico?",
+    "respuesta": "Depende de potencia, protección e instrucciones del cargador."
+   }
+  ],
+  "respuesta": "Una estación de carga alimenta y, en algunos modelos, acopla automáticamente el robot. Requiere electricidad adecuada, ventilación y espacio despejado."
+ },
+ "/lidar-y-sensores-de-profundidad/": {
+  "secciones": [
+   {
+    "h2": "¿LiDAR o cámara de profundidad?",
+    "html": "<p>LiDAR para alcance y mapa; profundidad para objetos cercanos. Cristal, polvo y sol afectan de forma distinta.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿El LiDAR daña los ojos?",
+    "respuesta": "Los equipos comerciales deben indicar clase láser; usa los de clase adecuada y sigue el manual."
+   }
+  ],
+  "respuesta": "LiDAR mide distancia con láser y la cámara de profundidad estima volumen. Juntos ayudan a crear mapas y evitar obstáculos."
+ },
+ "/carcasas-y-piezas-de-recambio/": {
+  "secciones": [
+   {
+    "h2": "¿Se pueden imprimir repuestos en 3D?",
+    "html": "<p>Cubiertas, soportes y prototipos, sí. Piezas de carga, calor o seguridad requieren cálculo y validación.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Personalizar anula la garantía?",
+    "respuesta": "Puede hacerlo si altera sensores, peso o ventilación."
+   }
+  ],
+  "respuesta": "Las carcasas protegen y dan acabado, mientras que otras piezas soportan esfuerzos. Antes de imprimir una copia hay que distinguir cuál es estructural."
+ },
+ "/agibot-x2/": {
+  "secciones": [
+   {
+    "h2": "¿AgiBot X2 o Unitree G1?",
+    "html": "<p>Comparten tamaño aproximado. X2 resulta interesante para comercio y espectáculo; <a href=\"/unitree-g1/\">G1</a> tiene una comunidad de desarrollo muy amplia. Compara versión con versión.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se puede comprar AgiBot X2 en España?",
+    "respuesta": "Sí, se ha listado en tienda online. Comprueba existencias y edición."
+   }
+  ],
+  "respuesta": "AgiBot X2 es un humanoide de 1,31 m y 35 kg. MediaMarkt España lo mostró por 25.699 €; las versiones Base, Lite y Ultra cambian en prestaciones y garantía."
+ },
+ "/unitree-h2/": {
+  "secciones": [
+   {
+    "h2": "¿Qué diferencia hay entre Unitree G1 y H2?",
+    "html": "<p>G1 es compacto y más fácil de alojar. H2 ofrece escala humana, con más exigencia de espacio, transporte y seguridad.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuánto cuesta Unitree H2?",
+    "respuesta": "Hay cifras dispares de terceros; pide una cotización oficial con manos, impuestos y envío."
+   }
+  ],
+  "respuesta": "Unitree H2 mide 1,82 m, pesa unos 70 kg y tiene 31 grados de libertad. Su precio oficial se solicita a ventas."
+ },
+ "/engineai-pm01/": {
+  "secciones": [
+   {
+    "h2": "¿Para qué sirve EngineAI PM01?",
+    "html": "<p>Para educación, demostración y desarrollo de movimiento, especialmente en su edición EDU.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿PM01 es más barato que Unitree G1?",
+    "respuesta": "Su oferta de lanzamiento lo era; compara presupuestos actuales e iguales versiones."
+   }
+  ],
+  "respuesta": "EngineAI PM01 mide cerca de 1,4 m y pesa 40–42 kg. Se lanzó por 88.000 yuanes, unos 12.000 dólares, una cifra que no garantiza el precio actual."
+ },
+ "/engineai-t800/": {
+  "secciones": [
+   {
+    "h2": "¿El robot T800 existe de verdad?",
+    "html": "<p>Sí, EngineAI lo presentó como plataforma humanoide. Los vídeos promocionales deben contrastarse con una demostración técnica.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Es un robot para combate?",
+    "respuesta": "Su comunicación usa ese imaginario, pero no conviene emplearlo cerca de personas fuera de un entorno controlado."
+   }
+  ],
+  "respuesta": "EngineAI T800 es un humanoide de 1,73 m con autonomía declarada de 4–5 horas y batería extraíble. No tiene un precio oficial público vigente verificado."
+ },
+ "/pal-robotics-talos/": {
+  "secciones": [
+   {
+    "h2": "¿Hay robots humanoides fabricados en España?",
+    "html": "<p>Sí. PAL Robotics desarrolla en Barcelona plataformas como TALOS y <a href=\"/pal-robotics-kangaroo/\">Kangaroo</a>, orientadas a investigación.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuánto cuesta TALOS?",
+    "respuesta": "No hay precio oficial publicado en las fuentes consultadas; se solicita al fabricante."
+   }
+  ],
+  "respuesta": "TALOS es un humanoide de investigación fabricado por PAL Robotics, de Barcelona. Mide 1,75 m, tiene 32 grados de libertad y trabaja con ROS."
+ },
+ "/pal-robotics-kangaroo/": {
+  "secciones": [
+   {
+    "h2": "¿Qué diferencia hay entre Kangaroo y TALOS?",
+    "html": "<p>Kangaroo se centra en piernas dinámicas; <a href=\"/pal-robotics-talos/\">TALOS</a> en un humanoide de cuerpo completo con brazos.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Kangaroo es español?",
+    "respuesta": "Sí, lo desarrolla PAL Robotics en Barcelona."
+   }
+  ],
+  "respuesta": "Kangaroo es un bípedo de PAL Robotics para investigar locomoción. La ficha del fabricante indica 1,60 m, 40 kg y seis horas de autonomía."
+ },
+ "/apptronik-apollo/": {
+  "secciones": [
+   {
+    "h2": "¿Qué hace Apollo en Mercedes-Benz?",
+    "html": "<p>Se ha probado en tareas de movimiento de componentes y planta, como parte de una colaboración industrial.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se puede comprar Apollo en España?",
+    "respuesta": "No consta venta abierta; es un proyecto empresarial."
+   }
+  ],
+  "respuesta": "Apollo es un humanoide industrial de Apptronik probado por Mercedes-Benz. No tiene venta unitaria abierta ni precio público."
+ },
+ "/xpeng-iron/": {
+  "secciones": [
+   {
+    "h2": "¿Cuándo llegará XPeng IRON a Europa?",
+    "html": "<p>La previsión comunicada sitúa su promoción europea en el segundo semestre de 2027. Puede cambiar.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuánto costará XPeng IRON?",
+    "respuesta": "No hay una tarifa oficial publicada en la información consultada."
+   }
+  ],
+  "respuesta": "XPeng IRON es un humanoide con 76 grados de libertad anunciados. La empresa planea entregas desde 2027 y todavía no publica precio para España."
+ },
+ "/fourier-gr-3/": {
+  "secciones": [
+   {
+    "h2": "¿Fourier GR-3 es un robot para personas mayores?",
+    "html": "<p>Puede estudiarse para interacción y acompañamiento supervisado. No sustituye personal ni sistemas de emergencia.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuánto cuesta Fourier GR-3?",
+    "respuesta": "Las cifras externas no están verificadas; solicita presupuesto."
+   }
+  ],
+  "respuesta": "Fourier GR-3 es un humanoide social de 1,65 m y 71 kg con hasta 55 grados de libertad. Se orienta a compañía y cuidado, sin que eso pruebe un uso médico."
+ },
+ "/limx-oli/": {
+  "secciones": [
+   {
+    "h2": "¿Qué versión de LimX Oli elegir?",
+    "html": "<p>Para programar, consulta EDU o Super y el acceso exacto. Lite puede no cubrir una investigación de bajo nivel.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿LimX Oli se vende en España?",
+    "respuesta": "Confirma la versión global y el distribuidor con el fabricante."
+   }
+  ],
+  "respuesta": "LimX Oli mide 1,65 m, pesa menos de 55 kg y tiene 31 grados de libertad sin manos. Se anunció en China desde 158.000 yuanes."
+ },
+ "/reachy-2/": {
+  "secciones": [
+   {
+    "h2": "¿Reachy 2 es open source?",
+    "html": "<p>Sí, su ecosistema ofrece software abierto con ROS 2 y Python. La licencia de cada componente debe revisarse.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Reachy 2 tiene piernas?",
+    "respuesta": "No. Usa base móvil o configuración fija según versión."
+   }
+  ],
+  "respuesta": "Reachy 2 es un robot de torso humanoide y código abierto de Pollen Robotics y Hugging Face. Cuesta alrededor de 70.000 dólares y no camina."
+ },
+ "/reachy-mini/": {
+  "secciones": [
+   {
+    "h2": "¿Merece la pena Reachy Mini para aprender IA?",
+    "html": "<p>Para voz, gestos y programación, sí puede ser una opción accesible. Para locomoción o agarre, no.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué incluye Reachy Mini Lite?",
+    "respuesta": "Comprueba ordenador, alimentación y montaje en la ficha de compra."
+   }
+  ],
+  "respuesta": "Reachy Mini es un robot de escritorio desde 399 dólares, más impuestos y envío. Tiene cabeza expresiva, pero no es un humanoide completo ni camina."
+ },
+ "/hexagon-aeon/": {
+  "secciones": [
+   {
+    "h2": "¿Qué robot humanoide usa BMW en Alemania?",
+    "html": "<p>BMW incorporó AEON a un piloto en Leipzig. Antes, el grupo había probado un robot de <a href=\"/figure-ai-figure-03/\">Figure</a> en Estados Unidos.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué tareas hace AEON?",
+    "respuesta": "Tareas vinculadas a baterías y componentes dentro del proyecto de planta."
+   }
+  ],
+  "respuesta": "AEON es un humanoide industrial de Hexagon, con proyecto en BMW Leipzig. No se vende como producto de consumo y su precio no es público."
+ },
+ "/engineered-arts-ameca/": {
+  "secciones": [
+   {
+    "h2": "¿Ameca o Sophia: qué diferencia hay?",
+    "html": "<p>Ambas son plataformas sociales. Ameca pertenece a Engineered Arts y <a href=\"/robot-sophia-hanson-robotics/\">Sophia</a> a Hanson Robotics, con diseño y software propios.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuánto cuesta Ameca?",
+    "respuesta": "No hay precio oficial verificado; las estimaciones de terceros varían mucho."
+   }
+  ],
+  "respuesta": "Ameca es un humanoide británico especializado en expresión facial y conversación. No está hecho para caminar ni realizar trabajo físico."
+ },
+ "/kepler-k2/": {
+  "secciones": [
+   {
+    "h2": "¿Qué ventaja tienen las manos de Kepler K2?",
+    "html": "<p>Se comunicaron 11 grados por mano y sensores de fuerza en los dedos, útiles para investigar agarres delicados.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Kepler K2 está disponible en España?",
+    "respuesta": "Debe consultarse con el fabricante, incluida la conformidad europea."
+   }
+  ],
+  "respuesta": "Kepler K2 Bumblebee es un humanoide industrial de 1,75 m y 75 kg. En 2025 se comunicó un precio base de 30.000 dólares."
+ },
+ "/a-coruna/": {
+  "secciones": [
+   {
+    "h2": "Robot humanoide en A Coruña: prueba junto al Atlántico",
+    "html": "<p>En una ciudad abierta al mar, la brisa salina obliga a separar usos. Un humanoide encaja en interior, entre percheros textiles o recibiendo público; para el muelle hace falta un equipo con protección adecuada. El primer ensayo puede limitarse a devolver cajas vacías en un almacén de Arteixo.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un robot humanoide trabajar en el puerto de A Coruña?",
+    "respuesta": "En oficinas y naves sí puede estudiarse; a la intemperie, sal y lluvia exigen comprobar la protección IP."
+   }
+  ]
+ },
+ "/albacete/": {
+  "secciones": [
+   {
+    "h2": "Del taller a la feria: un humanoide para Albacete",
+    "html": "<p>La cuchillería enseña bien el límite de la destreza robótica: una hoja brilla, pesa poco y corta. Antes que afilar, un humanoide puede presentar una colección o trasladar estuches cerrados. En septiembre, la Feria ofrece otro contexto: demostraciones breves en recinto cubierto.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un robot puede manipular cuchillos en Albacete?",
+    "respuesta": "No como primera aplicación: conviene empezar con producto embalado y un análisis de riesgos."
+   }
+  ]
+ },
+ "/alcala-de-henares/": {
+  "secciones": [
+   {
+    "h2": "Un guía humanoide entre Cervantes y el campus de Alcalá",
+    "html": "<p>La ciudad permite un reto educativo original: crear un guía que responda sobre Cervantes sin inventar citas. Estudiantes pueden preparar las fuentes, probar preguntas y medir errores. El recorrido físico debe evitar adoquines y limitarse a un patio o sala.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un robot puede hacer visitas en Alcalá de Henares?",
+    "respuesta": "Sí en interiores preparados y con contenidos revisados; el pavimento histórico complica la marcha bípeda."
+   }
+  ]
+ },
+ "/alcobendas/": {
+  "secciones": [
+   {
+    "h2": "Robot recepcionista para una sede de Alcobendas",
+    "html": "<p>En un edificio corporativo, el momento útil dura minutos: identificar una visita, avisar al anfitrión e indicar la sala. Un humanoide puede hacerlo junto a un mostrador atendido, sin acceder a toda la agenda. La métrica es cuántas visitas llegan bien sin ayuda.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Necesita reconocimiento facial un recepcionista robótico en Alcobendas?",
+    "respuesta": "No. Un código de visita suele ser menos intrusivo y más fácil de justificar."
+   }
+  ]
+ },
+ "/alcorcon/": {
+  "secciones": [
+   {
+    "h2": "Robótica humanoide para aprender salud en Alcorcón",
+    "html": "<p>Las aulas sanitarias pueden usar un humanoide para ensayar comunicación, no para imitar tratamientos. Una práctica consiste en detectar cuándo una frase del robot genera ansiedad y cuándo orienta. El alumnado aprende empatía y límites tecnológicos a la vez.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un humanoide sirve como paciente simulado en Alcorcón?",
+    "respuesta": "Para diálogo puede ayudar; para exploración clínica son mejores los simuladores sanitarios específicos."
+   }
+  ]
+ },
+ "/algeciras/": {
+  "secciones": [
+   {
+    "h2": "Robot humanoide en Algeciras: ensayo fuera del muelle",
+    "html": "<p>El tamaño de un contenedor marítimo supera a cualquier humanoide accesible. En Algeciras el caso razonable está en la oficina de control o el almacén: sobres, muestras ligeras, etiquetas y orientación multilingüe. El viento del Estrecho deja las pruebas exteriores para otra fase.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede cargar contenedores un humanoide en Algeciras?",
+    "respuesta": "No. Para eso existen grúas y equipos portuarios; un humanoide maneja cargas ligeras."
+   }
+  ]
+ },
+ "/alicante/": {
+  "secciones": [
+   {
+    "h2": "Humanoides para congresos y turismo en Alicante",
+    "html": "<p>Un mismo robot puede saludar en un congreso por la mañana y orientar cruceristas por la tarde, pero no con el mismo guion. Conviene separar idiomas, horarios y preguntas. El calor aconseja zonas con sombra o climatización y pausas de batería.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se puede usar un robot humanoide en el paseo de Alicante?",
+    "respuesta": "Puede requerir permiso municipal; además, público, pendiente y calor hacen preferible un espacio controlado."
+   }
+  ]
+ },
+ "/almeria/": {
+  "secciones": [
+   {
+    "h2": "Un humanoide frente al calor y el polvo de Almería",
+    "html": "<p>Dentro de un invernadero se juntan humedad, temperatura y pasillos estrechos. Antes de enviar un robot, se mide cada factor durante una semana. La primera tarea sensata puede estar en la central de envasado, donde el suelo y la luz son estables.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede recoger tomates un humanoide en Almería?",
+    "respuesta": "Es un reto de investigación; para producción suelen convenir sistemas agrícolas específicos."
+   }
+  ]
+ },
+ "/avila/": {
+  "secciones": [
+   {
+    "h2": "Robot humanoide en Ávila: piedra, pendiente y museo",
+    "html": "<p>La Muralla es un mal suelo para un bípedo y una gran historia para un guía. La solución es separar ambas cosas: robot en sala, recorrido en pantalla y público sentado. El frío invernal también obliga a vigilar la batería durante el traslado.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un robot puede recorrer la Muralla de Ávila?",
+    "respuesta": "No es recomendable por desniveles y público; es mejor una experiencia interior."
+   }
+  ]
+ },
+ "/badajoz/": {
+  "secciones": [
+   {
+    "h2": "Atención bilingüe con humanoides en Badajoz",
+    "html": "<p>La proximidad de Portugal convierte el idioma en el caso de uso. Un recepcionista puede alternar español y portugués, siempre que se pruebe con hablantes reales y ruido. No basta traducir el menú: horarios, trámites y tratamiento también cambian.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un robot atender en español y portugués en Badajoz?",
+    "respuesta": "Sí, si el sistema de voz se prueba en ambos idiomas y tiene derivación humana."
+   }
+  ]
+ },
+ "/badalona/": {
+  "secciones": [
+   {
+    "h2": "Un piloto biomédico y otro deportivo en Badalona",
+    "html": "<p>La investigación biomédica de Can Ruti y la cultura de baloncesto sugieren dos pruebas opuestas. En laboratorio, transportar material cerrado; en pista, saludar durante una pausa. Comparten robot, pero no protocolos, horarios ni indicadores.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede animar un partido de baloncesto en Badalona?",
+    "respuesta": "En una zona separada y con autorización del organizador, sí."
+   }
+  ]
+ },
+ "/barakaldo/": {
+  "secciones": [
+   {
+    "h2": "Humanoides en el BEC: plan de evento para Barakaldo",
+    "html": "<p>Una feria grande exige calcular minutos: montaje, carga, pase, público y conversación comercial. En Barakaldo el plan puede usar cuatro funciones breves en lugar de un robot encendido todo el día. Cada pase necesita una llamada a la acción diferente.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuántas demostraciones puede hacer un robot en una feria de Barakaldo?",
+    "respuesta": "Depende de batería y movimiento; varias sesiones cortas con recarga son más realistas."
+   }
+  ]
+ },
+ "/barcelona/": {
+  "secciones": [
+   {
+    "h2": "De prototipo a piloto en el 22@ de Barcelona",
+    "html": "<p>Una startup puede usar el humanoide como plataforma, pero su cliente comprará una solución. El proyecto se divide en demostrador, integración y prueba con usuario. Trabajar con catalán, castellano e inglés desde el inicio evita rehacer la interfaz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un robot humanoide puede hablar catalán en Barcelona?",
+    "respuesta": "Sí con reconocimiento y voz compatibles; hay que probar acentos, ruido y vocabulario del negocio."
+   }
+  ]
+ },
+ "/benidorm/": {
+  "secciones": [
+   {
+    "h2": "Robot de animación hotelera en Benidorm",
+    "html": "<p>El hotel necesita repetir una actividad divertida sin molestar al huésped que descansa. Un guion de quince minutos, con preguntas y baile moderado, cabe entre turnos. Los públicos británico y español requieren ritmo y humor distintos.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un robot humanoide puede trabajar en una piscina de Benidorm?",
+    "respuesta": "No junto al agua. La actividad debe realizarse en zona seca y separada."
+   }
+  ]
+ },
+ "/bilbao/": {
+  "secciones": [
+   {
+    "h2": "Un humanoide como banco de pruebas industrial en Bilbao",
+    "html": "<p>La tradición de ingeniería permite empezar por una pregunta estrecha: ¿puede el robot llevar diez piezas sin caer ni bloquear el paso? Se registran fallos, no solo el mejor vídeo. Después se decide si el problema pedía un humanoide o un cobot.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué industria de Bilbao puede probar un robot humanoide?",
+    "respuesta": "Automatización, energía o componentes, siempre con tareas ligeras y análisis de riesgos."
+   }
+  ]
+ },
+ "/burgos/": {
+  "secciones": [
+   {
+    "h2": "Robots humanoides y frío industrial en Burgos",
+    "html": "<p>El invierno y las cámaras alimentarias ponen a prueba baterías y suelos. En Burgos un ensayo útil compara autonomía a temperatura ambiente y cerca del muelle de carga. Si baja demasiado, la tarea se traslada o se elige otro robot.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un humanoide trabajar en una cámara frigorífica de Burgos?",
+    "respuesta": "Solo si su rango térmico y protección lo permiten; muchos modelos no están preparados."
+   }
+  ]
+ },
+ "/caceres/": {
+  "secciones": [
+   {
+    "h2": "Guía humanoide para Cáceres sin dañar la ciudad monumental",
+    "html": "<p>Las cuestas de piedra aconsejan un robot sentado o fijo en un centro de interpretación. Puede representar personajes, cambiar de idioma y responder a escolares. La innovación está en el relato, no en hacer caminar una máquina por cada calle.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Es accesible una visita con robot en Cáceres?",
+    "respuesta": "Puede mejorar la información si incluye subtítulos, volumen regulable y un recorrido sin barreras."
+   }
+  ]
+ },
+ "/cadiz/": {
+  "secciones": [
+   {
+    "h2": "Un humanoide en Cádiz: del taller naval al escenario",
+    "html": "<p>En febrero, el público de Cádiz espera ingenio y sátira. Un humanoide puede acompañar una presentación con texto escrito por artistas locales; en otro registro, un taller naval puede estudiar el traslado de herramientas. Son proyectos distintos y deben venderse así.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un robot cantar una chirigota en Cádiz?",
+    "respuesta": "Puede reproducir o sincronizar una actuación, respetando autoría y derechos."
+   }
+  ]
+ },
+ "/cartagena/": {
+  "secciones": [
+   {
+    "h2": "Formación y simulación humanoide para Cartagena",
+    "html": "<p>Los entornos de energía y defensa no son lugares para improvisar. Cartagena puede comenzar con un gemelo simulado, formar operadores y después usar un área segura. Cada acceso, cámara y dato debe quedar autorizado.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede entrar un humanoide en zonas ATEX de Cartagena?",
+    "respuesta": "Solo con certificación válida para esa zona; una carcasa cerrada no basta."
+   }
+  ]
+ },
+ "/castellon/": {
+  "secciones": [
+   {
+    "h2": "Del azulejo a la mano robótica en Castellón",
+    "html": "<p>Una pieza cerámica es lisa, rígida y quebradiza: perfecta para comparar ventosa, pinza y mano. El ensayo mide roturas cada cien ciclos y desplazamiento, sin tocar hornos. El resultado puede favorecer una herramienta simple antes que cinco dedos.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un humanoide puede manipular azulejos en Castellón?",
+    "respuesta": "En piezas ligeras y formato fijo sí puede probarse; para producción rápida hay automatismos mejores."
+   }
+  ]
+ },
+ "/ceuta/": {
+  "secciones": [
+   {
+    "h2": "Importar un robot a Ceuta: frontera fiscal y marítima",
+    "html": "<p>El envío cruza el Estrecho y el régimen fiscal difiere del peninsular. Hay que pedir por escrito el tratamiento aduanero, IPSI, seguro y retorno por garantía. Para un evento, la ventana del barco pesa tanto como la duración del pase.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se aplica IVA al enviar un robot a Ceuta?",
+    "respuesta": "Ceuta tiene IPSI y reglas propias. La operación concreta debe confirmarla un asesor fiscal y el transportista."
+   }
+  ]
+ },
+ "/ciudad-real/": {
+  "secciones": [
+   {
+    "h2": "Laboratorio humanoide conectado por AVE en Ciudad Real",
+    "html": "<p>La conexión rápida permite organizar una jornada técnica con expertos de varias ciudades. Un robot compartido, tres retos y datos públicos dan más aprendizaje que una exhibición. Agro, energía y visión pueden proponer sus propios ejercicios.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Es posible un curso presencial en Ciudad Real?",
+    "respuesta": "Sí, puede estudiarse para un grupo con sala, equipo y requisitos definidos."
+   }
+  ]
+ },
+ "/cordoba/": {
+  "secciones": [
+   {
+    "h2": "Experiencia interior con humanoides en Córdoba",
+    "html": "<p>El verano cordobés condiciona cualquier recorrido. Un patio a la sombra no garantiza que motores y batería trabajen bien; una sala climatizada sí permite repetir la experiencia. El robot puede explicar joyería o patrimonio con iluminación controlada.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede usarse un robot al aire libre en verano en Córdoba?",
+    "respuesta": "No conviene en horas de calor extremo; hay que respetar los límites térmicos del fabricante."
+   }
+  ]
+ },
+ "/cornella-de-llobregat/": {
+  "secciones": [
+   {
+    "h2": "Un robot anfitrión para eventos en Cornellà",
+    "html": "<p>El entorno deportivo concentra público en pocos minutos. En Cornellà el humanoide puede actuar en una zona premium o corporativa, donde la entrada está controlada. Dos mensajes y una foto funcionan mejor que una conversación larga.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se puede contratar un robot para un palco o acto en Cornellà?",
+    "respuesta": "Sí, sujeto al recinto, espacio y operador."
+   }
+  ]
+ },
+ "/cuenca/": {
+  "secciones": [
+   {
+    "h2": "Casas Colgadas y robots: una experiencia para Cuenca",
+    "html": "<p>La altura de la hoz se puede enseñar con realidad virtual mientras un humanoide conversa en suelo seguro. El visitante accede a vistas difíciles y el robot no afronta escaleras. La combinación es útil para museo, colegio y turismo accesible.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cómo usar un robot en el casco antiguo de Cuenca?",
+    "respuesta": "Mejor en interior y complementado con pantallas o realidad virtual."
+   }
+  ]
+ },
+ "/dos-hermanas/": {
+  "secciones": [
+   {
+    "h2": "Picking de prueba para almacenes de Dos Hermanas",
+    "html": "<p>Una nave puede reservar una calle de diez metros, dos carros y cien pedidos simulados. Así se sabe si el robot distingue cajas y respeta el paso sin interferir con camiones. El calor se mide a distintas horas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué espacio requiere un piloto logístico en Dos Hermanas?",
+    "respuesta": "Una zona segregada, suelo plano y tarea repetible suelen bastar para empezar."
+   }
+  ]
+ },
+ "/el-ejido/": {
+  "secciones": [
+   {
+    "h2": "De la central hortícola al laboratorio en El Ejido",
+    "html": "<p>Pimiento, pepino y calabacín tienen brillo y forma distintos. Fotografiarlos en línea crea un conjunto de datos propio antes de comprar manos. El humanoide sería la última pieza de un proyecto que comienza con cámara e iluminación.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué puede automatizar primero una central de El Ejido?",
+    "respuesta": "La inspección visual o movimiento de envases suele ser más viable que recoger en planta."
+   }
+  ]
+ },
+ "/elche/": {
+  "secciones": [
+   {
+    "h2": "Calzado y destreza humanoide en Elche",
+    "html": "<p>Meter un cordón parece sencillo y combina material blando, agujeros y dos manos. Elche ofrece así un reto excelente de investigación. Para empresa, trasladar cajas o presentar modelos es un punto de partida mucho más alcanzable.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un humanoide puede fabricar zapatos en Elche?",
+    "respuesta": "No de forma general. Puede probar operaciones concretas y apoyar presentación o logística."
+   }
+  ]
+ },
+ "/fuenlabrada/": {
+  "secciones": [
+   {
+    "h2": "Demostración de producto en Cobo Calleja, Fuenlabrada",
+    "html": "<p>Un mayorista recibe clientes que quieren comparar rápido. El humanoide puede mostrar tres referencias y enviar al comercial correcto, en español y chino si se configura. El catálogo debe venir de stock real para no prometer lo agotado.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un robot hablar chino en un comercio de Fuenlabrada?",
+    "respuesta": "Sí con voz y reconocimiento adecuados; la traducción debe revisarla un hablante."
+   }
+  ]
+ },
+ "/getafe/": {
+  "secciones": [
+   {
+    "h2": "Aeronáutica y humanoides: ensayo documentado en Getafe",
+    "html": "<p>En aeronáutica una tarea sin trazabilidad no vale. El robot puede buscar una herramienta etiquetada en laboratorio y registrar cada paso. Ese ejercicio enseña integración y calidad sin acercarse a una pieza de vuelo.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un humanoide montar aviones en Getafe?",
+    "respuesta": "No debe asumirse. Operaciones de vuelo requieren procesos y validación específicos."
+   }
+  ]
+ },
+ "/getxo/": {
+  "secciones": [
+   {
+    "h2": "Robot humanoide para una casa de Getxo: evaluación previa",
+    "html": "<p>Vivienda de varias plantas, humedad y mascotas: tres motivos para visitar antes de recomendar. Se mide paso libre, escalera, carga y cobertura. A veces el resultado es un asistente fijo, más útil que un bípedo.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué espacio necesita un humanoide en una vivienda de Getxo?",
+    "respuesta": "Depende del modelo; pasillos libres, suelo firme y una zona de carga segura son el mínimo."
+   }
+  ]
+ },
+ "/gijon/": {
+  "secciones": [
+   {
+    "h2": "Un robot contra el ruido industrial en Gijón",
+    "html": "<p>Antes de reconocer voces o detectar averías hay que grabar el fondo de la nave. Un piloto en Gijón puede comparar micrófonos y alertas con un técnico experimentado. Si el oído artificial falla, caminar no aporta valor.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un humanoide detectar averías en Gijón?",
+    "respuesta": "Puede aportar audio, vídeo o temperatura; el diagnóstico debe validarlo mantenimiento."
+   }
+  ]
+ },
+ "/girona/": {
+  "secciones": [
+   {
+    "h2": "Alta cocina y recepción robótica en Girona",
+    "html": "<p>La gastronomía valora el detalle y no admite interrupciones torpes. El lugar del humanoide está en bienvenida, historia del producto o formación, lejos del pase. Puede alternar catalán, francés y castellano para visitas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un robot cocinar en un restaurante de Girona?",
+    "respuesta": "Un humanoide general aún no sustituye una cocina; funciona mejor en demostración o recepción."
+   }
+  ]
+ },
+ "/granada/": {
+  "secciones": [
+   {
+    "h2": "Pendientes, IA y salud: el banco de pruebas de Granada",
+    "html": "<p>Granada reúne preguntas valiosas para un laboratorio: ¿entiende una instrucción?, ¿mantiene equilibrio en pendiente?, ¿protege datos de salud? Se ensayan por separado. Convertirlas en una única demo haría imposible saber qué falló.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Es Granada buena ciudad para investigar humanoides?",
+    "respuesta": "La universidad y el ecosistema de salud e IA ofrecen perfiles complementarios para proyectos."
+   }
+  ]
+ },
+ "/guadalajara/": {
+  "secciones": [
+   {
+    "h2": "Humanoides en Guadalajara: la prueba de los mil contenedores",
+    "html": "<p>La escala logística permite contar. Mil contenedores iguales revelan tiempo, caídas e intervenciones mucho mejor que una visita comercial. El ensayo se puede repartir por turnos y parar si supera un límite de incidencias.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué KPI usar en un almacén de Guadalajara?",
+    "respuesta": "Contenedores correctos por hora, intervenciones y minutos de parada."
+   }
+  ]
+ },
+ "/huelva/": {
+  "secciones": [
+   {
+    "h2": "Fruto rojo, luz y robots en Huelva",
+    "html": "<p>Una fresa marcada pierde valor. Huelva puede estudiar visión para detectar madurez y bandejas antes de enfrentarse a la recogida. Para humanoides, mover envases cerrados en zona climatizada es una primera prueba más honesta.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un humanoide puede recoger fresas en Huelva?",
+    "respuesta": "No como solución comercial general; la delicadeza y velocidad requieren sistemas especializados."
+   }
+  ]
+ },
+ "/huesca/": {
+  "secciones": [
+   {
+    "h2": "Robot de acogida para montaña y nieve en Huesca",
+    "html": "<p>El visitante pregunta por carreteras, meteorología y material antes de subir. Un robot en recepción puede responder solo con fuentes oficiales y hora de actualización. Debe derivar cualquier emergencia, no improvisar consejos de montaña.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un humanoide caminar por la nieve en Huesca?",
+    "respuesta": "Los equipos comerciales habituales no están pensados para ello."
+   }
+  ]
+ },
+ "/jaen/": {
+  "secciones": [
+   {
+    "h2": "Una almazara de Jaén como reto para la visión robótica",
+    "html": "<p>Aceite, brillo y vapor engañan a una cámara. El proyecto puede empezar con botellas vacías y etiquetas, luego producto limpio. Un robot que resbala sobre aceite no es una opción: el suelo forma parte del diseño.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Dónde usar un robot en una almazara de Jaén?",
+    "respuesta": "En expedición, visitas o laboratorio, fuera de zonas resbaladizas."
+   }
+  ]
+ },
+ "/jerez-de-la-frontera/": {
+  "secciones": [
+   {
+    "h2": "Enoturismo con humanoides en Jerez",
+    "html": "<p>La bodega marca silencio, penumbra y albero. Un robot puede abrir la visita en recepción y dejar que la persona siga entre botas. Para el circuito, otro guion con sonido y movimiento evita mezclar dos marcas muy diferentes.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un robot puede servir vino en una bodega de Jerez?",
+    "respuesta": "Como demostración preparada puede hacerlo; el servicio normal conviene al personal."
+   }
+  ]
+ },
+ "/las-palmas/": {
+  "secciones": [
+   {
+    "h2": "Un robot en Las Palmas: logística entre islas",
+    "html": "<p>El coste empieza por el tránsito: península, despacho, isla y quizá otro barco. Enviar recambios con el robot reduce el riesgo de perder semanas. Si el evento se repite, compartir equipo entre Gran Canaria y Tenerife puede compensar.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cómo se importa un robot a Las Palmas?",
+    "respuesta": "Canarias tiene IGIC y trámites propios; hay que planificarlos con transitario y asesor."
+   }
+  ]
+ },
+ "/leganes/": {
+  "secciones": [
+   {
+    "h2": "Robótica de servicio: aprendizaje aplicado en Leganés",
+    "html": "<p>El entorno universitario permite comparar propuestas en lugar de comprar una. Tres equipos pueden programar la misma tarea y publicar éxito, tiempo y coste. El mejor resultado será el que otra persona pueda reproducir.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Hay investigación en robots de servicio en Leganés?",
+    "respuesta": "La UC3M cuenta con trayectoria en robótica; consulta directamente sus grupos y programas."
+   }
+  ]
+ },
+ "/leon/": {
+  "secciones": [
+   {
+    "h2": "Ciberseguridad de un humanoide: caso práctico en León",
+    "html": "<p>Un robot es una computadora con cámara y piernas. En León un taller puede revisar contraseñas, red, actualizaciones y botón de parada antes de conectarlo. El objetivo no es atacar un equipo ajeno, sino preparar el propio.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cómo proteger un robot conectado en León?",
+    "respuesta": "Red separada, credenciales únicas, permisos mínimos y actualizaciones verificadas."
+   }
+  ]
+ },
+ "/lleida/": {
+  "secciones": [
+   {
+    "h2": "Robot humanoide y fruta de hueso en Lleida",
+    "html": "<p>Una nectarina cambia de firmeza durante la campaña. El agarre debe aprender del producto del día, no de una foto de catálogo. Lleida puede medir presión y marcas con una pinza en laboratorio antes de pensar en un humanoide.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un robot clasificar fruta en Lleida?",
+    "respuesta": "Sí, hay tecnologías específicas; un humanoide no suele ser la opción más rápida."
+   }
+  ]
+ },
+ "/logrono/": {
+  "secciones": [
+   {
+    "h2": "Del Camino a la bodega: voz para robots en Logroño",
+    "html": "<p>Peregrinos y visitantes llegan con idiomas y cansancio distintos. En Logroño un punto de acogida robótico debe hablar claro, admitir texto y guardar silencio. Para bodega, se carga otro vocabulario revisado por especialistas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un humanoide sirve en una oficina turística de Logroño?",
+    "respuesta": "Puede orientar si sus datos están actualizados y hay personal de apoyo."
+   }
+  ]
+ },
+ "/lugo/": {
+  "secciones": [
+   {
+    "h2": "Mayores, gallego y robots en Lugo",
+    "html": "<p>La aceptación cambia cuando la máquina habla la lengua de casa. Un ensayo en Lugo puede comparar gallego y castellano en recordatorios sencillos, con consentimiento. Se evalúa comprensión, no cuánto sonríe el usuario en una foto.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un robot hablar gallego en Lugo?",
+    "respuesta": "Sí si los motores de voz lo soportan; conviene probarlo con usuarios locales."
+   }
+  ]
+ },
+ "/madrid/": {
+  "secciones": [
+   {
+    "h2": "Alquiler y demostración de humanoides en Madrid",
+    "html": "<p>Un robot puede pasar de una sede de Castellana a IFEMA, pero el traslado se come la agenda. En Madrid conviene agrupar demostraciones por zona, reservar carga y confirmar montacargas. Para dos actos simultáneos, dos equipos; la ubicuidad sigue sin estar disponible.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se puede alquilar un robot humanoide en Madrid para un día?",
+    "respuesta": "Puede solicitarse para eventos; precio y disponibilidad dependen de modelo, horario y acceso."
+   }
+  ]
+ },
+ "/malaga/": {
+  "secciones": [
+   {
+    "h2": "Un humanoide entre museo y startup en Málaga",
+    "html": "<p>Los visitantes preguntan por arte; los desarrolladores, por latencia. Málaga permite ensayar ambos públicos con la misma interfaz y fuentes separadas. El reto es que el robot no responda sobre Picasso con un texto de ventas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un robot actuar como guía de museo en Málaga?",
+    "respuesta": "Sí en un itinerario controlado y con contenidos validados por el museo."
+   }
+  ]
+ },
+ "/manresa/": {
+  "secciones": [
+   {
+    "h2": "Mantenimiento de un humanoide para FP en Manresa",
+    "html": "<p>Un robot averiado puede enseñar tanto como uno nuevo. En Manresa el ejercicio sería diagnosticar, documentar y decidir si se repara. Mecánica, electrónica y costes trabajan sobre el mismo caso.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué puede aprender FP con un humanoide en Manresa?",
+    "respuesta": "Diagnóstico, seguridad, programación y gestión de recambios."
+   }
+  ]
+ },
+ "/marbella/": {
+  "secciones": [
+   {
+    "h2": "Robot humanoide para evento privado en Marbella",
+    "html": "<p>Una finca de lujo no siempre tiene suelo cómodo para un robot. Se revisan césped, piscina, escalones y lista de invitados. El humanoide aparece en una entrada preparada, nunca se mezcla sin control con una fiesta.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se puede contratar un robot para una boda en Marbella?",
+    "respuesta": "Sí, con espacio seco, operador, seguro y momento reservado."
+   }
+  ]
+ },
+ "/mataro/": {
+  "secciones": [
+   {
+    "h2": "Textil inteligente y robots humanoides en Mataró",
+    "html": "<p>Un brazo rígido y una prenda blanda hacen una pareja difícil. Mataró puede ensayar fundas técnicas que protejan sin tapar sensores. El diseño textil se convierte así en accesorio robótico, no en simple disfraz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se puede vestir a un robot en Mataró?",
+    "respuesta": "Sí, si la prenda deja libres ventilación, cámaras y articulaciones."
+   }
+  ]
+ },
+ "/melilla/": {
+  "secciones": [
+   {
+    "h2": "Compra y soporte de un humanoide en Melilla",
+    "html": "<p>La distancia se gestiona antes de pagar: puerto de salida, documentación, IPSI, caja reutilizable y diagnóstico remoto. Una segunda batería plantea restricciones, así que debe figurar desde el primer presupuesto.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cómo se repara un humanoide en Melilla?",
+    "respuesta": "Primero en remoto; si requiere envío, hay que prever logística y régimen aduanero."
+   }
+  ]
+ },
+ "/mostoles/": {
+  "secciones": [
+   {
+    "h2": "Aula de algoritmos con humanoide en Móstoles",
+    "html": "<p>El mismo paseo se puede programar por reglas, imitación o refuerzo. En Móstoles un grupo puede medir cuál necesita menos datos y cuál tolera un obstáculo nuevo. El robot permite ver errores que una pantalla esconde.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Es útil un humanoide para estudiar informática en Móstoles?",
+    "respuesta": "Sí para visión, control, interacción y pruebas físicas de algoritmos."
+   }
+  ]
+ },
+ "/murcia/": {
+  "secciones": [
+   {
+    "h2": "Cítricos y humanoides: plan por fases en Murcia",
+    "html": "<p>Primero limones de plástico, después fruta real y al final ritmo de almacén. En Murcia esta escalera evita confundir una demo con producción. Si la pinza marca la piel, el proyecto no avanza.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un humanoide empaquetar limones en Murcia?",
+    "respuesta": "Puede investigarse a baja velocidad; las líneas de alto volumen necesitan automatización específica."
+   }
+  ]
+ },
+ "/ourense/": {
+  "secciones": [
+   {
+    "h2": "Vapor, agua y robótica en Ourense",
+    "html": "<p>El termalismo inspira una regla fácil: electrónica lejos del agua. En Ourense un humanoide puede recibir, explicar normas y acompañar ejercicios en sala seca. La humedad se mide también en recepción.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un robot trabajar en un balneario de Ourense?",
+    "respuesta": "Solo en zonas secas y compatibles con su protección."
+   }
+  ]
+ },
+ "/palencia/": {
+  "secciones": [
+   {
+    "h2": "Cambio de referencia: humanoides para proveedores de Palencia",
+    "html": "<p>Una línea auxiliar cambia contenedor y recorrido varias veces. Palencia puede medir el tiempo que tarda el robot en adaptarse, no únicamente el ciclo. Si cada cambio exige dos horas de ingeniería, no hay flexibilidad.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un humanoide abastecer una línea en Palencia?",
+    "respuesta": "Con cargas ligeras y ruta controlada, puede plantearse un piloto."
+   }
+  ]
+ },
+ "/palma/": {
+  "secciones": [
+   {
+    "h2": "Hotel, crucero y robot: operación en Palma",
+    "html": "<p>El crucero concentra llegadas; el hotel reparte consultas. Palma puede usar dos patrones: respuestas de veinte segundos en terminal y conversación de dos minutos en recepción. La isla exige además recambio y transporte planificados.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un robot puede atender a cruceristas en Palma?",
+    "respuesta": "Puede orientar en zona autorizada, con varios idiomas y personal cercano."
+   }
+  ]
+ },
+ "/pamplona/": {
+  "secciones": [
+   {
+    "h2": "Robótica humanoide en Pamplona: industria con turno corto",
+    "html": "<p>Dos horas de robot pueden coincidir con el tramo más repetitivo del turno. En Pamplona se diseña alrededor de ese pico, en vez de prometer ocho horas. En San Fermín, la exhibición va siempre fuera de multitudes.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuánto puede trabajar un humanoide en Pamplona?",
+    "respuesta": "Depende de batería y tarea; muchos equipos requieren recambio tras unas horas."
+   }
+  ]
+ },
+ "/parla/": {
+  "secciones": [
+   {
+    "h2": "Un humanoide compartido para comercios y escuelas de Parla",
+    "html": "<p>Comprar uno por comercio no tiene sentido. Parla puede estudiar una semana rotatoria: mañana educativa, tarde comercial y datos comunes. El coste se reparte y cada participante prueba una pregunta concreta.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se puede compartir un robot entre varios negocios de Parla?",
+    "respuesta": "Sí con contrato, seguro y responsable en cada uso."
+   }
+  ]
+ },
+ "/pontevedra/": {
+  "secciones": [
+   {
+    "h2": "Robot peatonal: accesibilidad y espacio en Pontevedra",
+    "html": "<p>Una ciudad cómoda a pie hace evidente el problema: un robot no debe ocupar el paso. En Pontevedra cualquier prueba interior puede medir distancias con sillas y carritos antes de pensar en calle.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede circular un robot por zona peatonal en Pontevedra?",
+    "respuesta": "No sin revisar permisos, seguridad y accesibilidad con el ayuntamiento."
+   }
+  ]
+ },
+ "/reus/": {
+  "secciones": [
+   {
+    "h2": "Modernismo y voz humanoide en Reus",
+    "html": "<p>La ciudad de Gaudí ofrece una audioguía con personaje. El robot permanece junto a una maqueta mientras el visitante gira y elige detalle. En Reus el catalán debe formar parte del diseño, no añadirse después.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un robot humanoide puede explicar Gaudí en Reus?",
+    "respuesta": "Sí con contenido revisado, licencias de imagen y fuentes visibles."
+   }
+  ]
+ },
+ "/roquetas-de-mar/": {
+  "secciones": [
+   {
+    "h2": "Congresos y hoteles con robot en Roquetas de Mar",
+    "html": "<p>En temporada baja, el hotel puede ceder una sala para ensayar; en alta, usa lo aprendido. Roquetas convierte la estacionalidad en calendario de desarrollo. El público senior puede validar volumen, tamaño de texto y ritmo.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuándo probar un robot en un hotel de Roquetas?",
+    "respuesta": "Antes de temporada, con usuarios invitados y margen para corregir."
+   }
+  ]
+ },
+ "/sabadell/": {
+  "secciones": [
+   {
+    "h2": "Hospital y robot: medir minutos en Sabadell",
+    "html": "<p>Un traslado interno tiene inicio, entrega y regreso. En Sabadell el piloto debe contar los tres y las puertas que abre personal. Si el robot interrumpe más de lo que camina, no ahorra.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cómo evaluar un robot hospitalario en Sabadell?",
+    "respuesta": "Minutos de personal liberados, entregas correctas e incidencias, con datos protegidos."
+   }
+  ]
+ },
+ "/salamanca/": {
+  "secciones": [
+   {
+    "h2": "Aprender español con un humanoide en Salamanca",
+    "html": "<p>El estudiante extranjero puede practicar pedir, corregirse y negociar sentido. Salamanca aporta un público ideal para comparar acentos. El profesor revisa la conversación; el robot no califica.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un robot puede enseñar español en Salamanca?",
+    "respuesta": "Puede apoyar conversación, pero no sustituye la evaluación docente."
+   }
+  ]
+ },
+ "/san-sebastian/": {
+  "secciones": [
+   {
+    "h2": "Cocina, euskera y robótica en San Sebastián",
+    "html": "<p>Nombrar ingredientes en euskera y reconocerlos en una mesa parece juego y es integración de voz y visión. El ensayo evita cuchillos y calor. Un chef puede juzgar si la ayuda llega a tiempo.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un robot entender euskera en San Sebastián?",
+    "respuesta": "Con un motor compatible sí; debe probarse con voz, ruido y vocabulario reales."
+   }
+  ]
+ },
+ "/santa-coloma-de-gramenet/": {
+  "secciones": [
+   {
+    "h2": "Alimentación saludable con robot en Santa Coloma",
+    "html": "<p>Un taller escolar puede ordenar alimentos por grupos mientras el humanoide formula preguntas. En Santa Coloma la diversidad cultural enriquece el banco de imágenes y palabras. El robot no da dietas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cómo usarlo en educación alimentaria en Santa Coloma?",
+    "respuesta": "Como recurso de preguntas y clasificación, supervisado por docentes."
+   }
+  ]
+ },
+ "/santa-cruz-de-tenerife/": {
+  "secciones": [
+   {
+    "h2": "Carnaval y robots humanoides en Santa Cruz",
+    "html": "<p>Un disfraz puede tapar cámaras, calentar motores o enganchar dedos. En Santa Cruz el vestuario se prueba con ingeniería y artistas. Purpurina y agua quedan fuera; luces y tejido ligero ofrecen otra salida.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un humanoide puede participar en el Carnaval de Santa Cruz?",
+    "respuesta": "En escenario controlado y autorizado, con traje compatible, puede estudiarse."
+   }
+  ]
+ },
+ "/santander/": {
+  "secciones": [
+   {
+    "h2": "Robótica marítima de interior en Santander",
+    "html": "<p>La lluvia no elimina el tema marino: un humanoide en museo puede mostrar cómo se filma el océano y entregar una maqueta. Santander puede unir ciencia y público sin exponer la máquina al muelle.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede trabajar en la bahía de Santander?",
+    "respuesta": "En interior sí; salpicaduras y sal requieren equipos específicos."
+   }
+  ]
+ },
+ "/segovia/": {
+  "secciones": [
+   {
+    "h2": "Un minuto de robot antes del Acueducto de Segovia",
+    "html": "<p>El turista de paso tiene poco tiempo. Un robot en centro de visitantes puede elegir una historia de sesenta segundos según edad e idioma y dejar una ruta en pantalla. Segovia gana claridad sin añadir otra cola.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un robot reduce colas en Segovia?",
+    "respuesta": "Solo si sus respuestas son rápidas; puede usarse junto a pantallas y personal."
+   }
+  ]
+ },
+ "/sevilla/": {
+  "secciones": [
+   {
+    "h2": "Sevilla: humanoides para ferias, aeronáutica y verano",
+    "html": "<p>La misma ciudad exige tres planes. En FIBES, espectáculo por pases; en aeronáutica, trazabilidad; en agosto, refrigeración. Sevilla no necesita un robot genérico, sino decidir cuál de esos problemas paga el proyecto.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se puede alquilar un robot para un evento en Sevilla?",
+    "respuesta": "Puede pedirse presupuesto con fecha, recinto y espacio; exterior y calor limitan la actuación."
+   }
+  ]
+ },
+ "/soria/": {
+  "secciones": [
+   {
+    "h2": "Un robot que visite aulas rurales de Soria",
+    "html": "<p>Más que una máquina por colegio, una maleta: robot pequeño, simulador y docente. Soria puede programar dos días por pueblo y sesiones remotas. Así la despoblación se afronta compartiendo conocimiento.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede haber robótica humanoide en escuelas rurales de Soria?",
+    "respuesta": "Sí, con equipos transportables, formación y trabajo sin depender de internet."
+   }
+  ]
+ },
+ "/tarragona/": {
+  "secciones": [
+   {
+    "h2": "Formación de rondas químicas en Tarragona",
+    "html": "<p>Una sala vacía con válvulas simuladas permite aprender sin producto. En Tarragona el robot lee, fotografía y avisa; el alumno detecta qué falta. Solo después se estudia si otro equipo certificado entra en planta.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Es segura una prueba de robot en petroquímica de Tarragona?",
+    "respuesta": "La primera debe hacerse fuera de zonas peligrosas y con prevención."
+   }
+  ]
+ },
+ "/terrassa/": {
+  "secciones": [
+   {
+    "h2": "Cine, sonido y movimiento humanoide en Terrassa",
+    "html": "<p>Una toma repetible interesa al audiovisual. En Terrassa el humanoide puede ejecutar marcas para estudiar luz, sonido o captura de movimiento. Se contrata como elemento técnico con coordinación de seguridad.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se puede alquilar un robot para rodaje en Terrassa?",
+    "respuesta": "Sí, con guion, ensayo, derechos y requisitos de seguridad definidos."
+   }
+  ]
+ },
+ "/teruel/": {
+  "secciones": [
+   {
+    "h2": "Dinosaurios y robots: divulgación en Teruel",
+    "html": "<p>Un esqueleto explica cómo caminaba un animal; un bípedo explica por qué es difícil. Teruel puede reunir ambos en un taller sobre equilibrio. Dos siluetas, una fuerza y una caída controlada en simulador bastan.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué puede enseñar un humanoide en Teruel?",
+    "respuesta": "Marcha, equilibrio y diferencias entre biología y máquina."
+   }
+  ]
+ },
+ "/toledo/": {
+  "secciones": [
+   {
+    "h2": "Patrimonio y rehabilitación: dos humanoides distintos en Toledo",
+    "html": "<p>Guiar una visita y apoyar una sesión clínica no comparten certificación ni diálogo. Toledo debe separar presupuestos desde el inicio. En turismo importa el relato; en rehabilitación, evidencia, profesional y datos.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un humanoide tratar pacientes en Toledo?",
+    "respuesta": "No por su cuenta. Se requieren indicación profesional y equipo conforme al uso sanitario."
+   }
+  ]
+ },
+ "/torrejon-de-ardoz/": {
+  "secciones": [
+   {
+    "h2": "Parque Europa con un guía robótico en Torrejón",
+    "html": "<p>Cada maqueta invita a otra lengua. Torrejón puede crear una ruta interior con voces de seis países y preguntas para escolares. En empresas, el mismo sistema explica repuestos, no monumentos.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un robot guiar grupos en Torrejón?",
+    "respuesta": "En área controlada, con grupos pequeños y relevo humano."
+   }
+  ]
+ },
+ "/torrevieja/": {
+  "secciones": [
+   {
+    "h2": "Un asistente robótico multilingüe para Torrevieja",
+    "html": "<p>Noruego, ruso, inglés, alemán y español pueden aparecer en una mañana. Torrevieja permite probar cambio de idioma y letra grande con residentes voluntarios. Salud y urgencias se derivan siempre.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un robot puede acompañar a mayores en Torrevieja?",
+    "respuesta": "Puede ayudar con ocio y recordatorios, sin sustituir cuidados."
+   }
+  ]
+ },
+ "/valencia/": {
+  "secciones": [
+   {
+    "h2": "Valencia: puerto, Fallas y laboratorio de humanoides",
+    "html": "<p>La mascletà supera la prueba de micrófono de cualquier robot. Valencia puede usar datos de ruido para decidir cuándo actuar y cuándo callar. En puerto y empresa, voz y pantalla juntas evitan malentendidos.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un humanoide puede actuar en Fallas de Valencia?",
+    "respuesta": "En recinto controlado, lejos de pirotecnia y multitudes, puede estudiarse."
+   }
+  ]
+ },
+ "/valladolid/": {
+  "secciones": [
+   {
+    "h2": "Automoción en Valladolid: ensayo de una sola estación",
+    "html": "<p>El proyecto empieza con un contenedor, una altura y una ruta. Valladolid puede registrar tres semanas y comparar con un carro autónomo. La variedad llega después, si el primer ciclo se sostiene.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Es mejor un AMR o humanoide en Valladolid?",
+    "respuesta": "Para transportar, normalmente AMR; el humanoide se evalúa cuando hay que coger y dejar."
+   }
+  ]
+ },
+ "/vigo/": {
+  "secciones": [
+   {
+    "h2": "Conserva, coche y humanoide: pruebas en Vigo",
+    "html": "<p>Agarrar una lata mojada y una pieza seca no es la misma tarea. Vigo permite contrastar fricción, limpieza y precisión con dos industrias. La mano que gane en una puede perder en otra.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un robot puede trabajar en una conservera de Vigo?",
+    "respuesta": "Solo con higiene, agua y suelo contemplados; un humanoide general suele empezar en zona seca."
+   }
+  ]
+ },
+ "/vitoria-gasteiz/": {
+  "secciones": [
+   {
+    "h2": "Un piloto sostenible de humanoides en Vitoria",
+    "html": "<p>La ciudad verde plantea una métrica extra: energía por tarea correcta. Vitoria puede sumar carga, reparaciones y transporte del robot, no solo emisiones evitadas. Reutilizar un equipo compartido también cuenta.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuánta energía usa un robot humanoide en Vitoria?",
+    "respuesta": "Depende de modelo y trabajo; se mide desde el cargador durante ciclos reales."
+   }
+  ]
+ },
+ "/zamora/": {
+  "secciones": [
+   {
+    "h2": "Románico accesible con robots en Zamora",
+    "html": "<p>Un capitel se entiende mejor al tocar una réplica. En Zamora el humanoide puede señalar una copia y ofrecer audio, texto y pausa. La pieza original no se toca y la visita gana accesibilidad.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un robot guiar a personas con discapacidad en Zamora?",
+    "respuesta": "Puede apoyar con voz, subtítulos y ritmo, si se diseña con usuarios."
+   }
+  ]
+ },
+ "/zaragoza/": {
+  "secciones": [
+   {
+    "h2": "Zaragoza: prueba de viento y logística para robots",
+    "html": "<p>El cierzo enseña una regla: estabilidad no es solo caminar en una sala. En Zaragoza un portón abierto cambia equilibrio, polvo y sonido. Primero se ensaya lejos del muelle; después se mide esa frontera.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un humanoide trabajar en un muelle de Zaragoza?",
+    "respuesta": "Puede haber tareas protegidas; viento y carretillas exigen segregación y estudio."
+   }
+  ]
+ },
+ "/ar/buenos-aires/": {
+  "secciones": [
+   {
+    "h2": "Un humanoide entre Microcentro y Puerto Madero",
+    "html": "<p>En Buenos Aires la distancia corta puede llevar una hora. Para una presentación conviene reservar cochera, montacargas y franja de descarga antes que el robot. En una torre, el operador prueba además ascensor, wifi y acceso con seguridad.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se puede alquilar un robot humanoide en Capital Federal?",
+    "respuesta": "Puede consultarse para eventos; importan fecha, acceso, horario y disponibilidad."
+   }
+  ]
+ },
+ "/ar/cordoba/": {
+  "secciones": [
+   {
+    "h2": "Ingeniería cordobesa: un reto humanoide por materia",
+    "html": "<p>En Córdoba una misma plataforma puede pasar por control, visión, diseño y economía. Cada cátedra entrega un módulo y el robot integra el resultado. El acento cordobés, grabado por estudiantes, pone a prueba la voz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Dónde usar un humanoide en Córdoba Capital?",
+    "respuesta": "En docencia, investigación o piloto industrial con una tarea medible."
+   }
+  ]
+ },
+ "/ar/rosario/": {
+  "secciones": [
+   {
+    "h2": "Rosario: un ensayo robótico fuera del polvo de cereal",
+    "html": "<p>El polvo combustible descarta una prueba improvisada dentro del acopio. Rosario puede reproducir la recorrida en un galpón limpio: cartel, escalón, manómetro y vuelta. Recién entonces se busca un equipo apto para la zona real.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede entrar un humanoide a un acopio de Rosario?",
+    "respuesta": "Solo si cumple los requisitos de la zona clasificada y del área de seguridad."
+   }
+  ]
+ },
+ "/ar/mendoza/": {
+  "secciones": [
+   {
+    "h2": "Vendimia, altura y robots humanoides en Mendoza",
+    "html": "<p>Bodega fresca, finca al sol y ruta de montaña someten al robot a tres ambientes. Mendoza puede usarlo en recepción con varios idiomas y probar visión de racimos aparte. La botella llena queda para una pinza validada.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un robot cosechar uvas en Mendoza?",
+    "respuesta": "Un humanoide no es la solución productiva; hay maquinaria y prototipos específicos."
+   }
+  ]
+ },
+ "/ar/la-plata/": {
+  "secciones": [
+   {
+    "h2": "Museo y facultad: un humanoide para La Plata",
+    "html": "<p>Entre colecciones, aulas y diagonales, La Plata invita a resolver orientación. Un robot en el hall puede usar un mapa grande y pedir al visitante que elija color. El equipo universitario revisa lenguaje y accesibilidad.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Sirve un humanoide para un museo de La Plata?",
+    "respuesta": "Sí para una estación educativa interior, con contenido aprobado por la institución."
+   }
+  ]
+ },
+ "/ar/mar-del-plata/": {
+  "secciones": [
+   {
+    "h2": "Temporada y pesca: dos relojes para Mar del Plata",
+    "html": "<p>El hotel trabaja en enero; la planta tiene otro calendario. Mar del Plata puede alquilar el mismo tipo de robot para distintas fechas, pero no pasarlo de pescado a recepción sin limpieza ni protección. Se planifica como dos proyectos.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un robot soporta la costa de Mar del Plata?",
+    "respuesta": "Al aire libre, arena y sal son un problema; conviene interior."
+   }
+  ]
+ },
+ "/ar/tucuman/": {
+  "secciones": [
+   {
+    "h2": "Limón tucumano: datos antes que manos",
+    "html": "<p>Un lote cambia de tamaño y brillo. Tucumán puede fotografiar, etiquetar y medir un clasificador durante la zafra antes de importar hardware. El humanoide queda para una estación de demostración o movimiento de cajas livianas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un humanoide puede empacar limones en Tucumán?",
+    "respuesta": "Como investigación, sí; para volumen hay líneas de clasificación y empaque."
+   }
+  ]
+ },
+ "/ar/neuquen/": {
+  "secciones": [
+   {
+    "h2": "Conectividad fuera de ruta: prueba robótica en Neuquén",
+    "html": "<p>En Vaca Muerta la señal forma parte del riesgo. El ensayo en Neuquén corta internet a propósito y verifica que el robot se detenga, guarde datos y pueda recuperarse. No hace falta entrar a locación para aprender eso.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué pasa si un robot pierde conexión en Neuquén?",
+    "respuesta": "Debe ejecutar una parada o estado seguro local y avisar al recuperar enlace."
+   }
+  ]
+ },
+ "/ar/salta/": {
+  "secciones": [
+   {
+    "h2": "Altura y calor: ficha de prueba para robots en Salta",
+    "html": "<p>Entre la capital y la Puna cambian presión, temperatura y polvo. Salta puede registrar potencia y calentamiento en etapas, con el límite del fabricante visible. Si se pasa, no hay «prueba un poco más».</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede trabajar un robot en la Puna salteña?",
+    "respuesta": "Depende de temperatura, altura y protección certificadas; muchos equipos no las declaran."
+   }
+  ]
+ },
+ "/ar/santa-fe/": {
+  "secciones": [
+   {
+    "h2": "Laboratorio y cuenca lechera: puente robótico en Santa Fe",
+    "html": "<p>Una botella de leche vacía sirve para aprender; una fría y mojada cambia el agarre. Santa Fe puede llevar esa pregunta del aula a la planta piloto y volver con datos. El río, los insectos y la humedad aconsejan empezar adentro.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cómo probar un robot para lácteos en Santa Fe?",
+    "respuesta": "Con envases cerrados, zona seca y requisitos de higiene definidos."
+   }
+  ]
+ }
+}

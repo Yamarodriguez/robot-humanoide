@@ -1,0 +1,29 @@
+{
+  "titulo": "Curso de Manipulación y Agarre Robótico en Argentina",
+  "url": "/ar/manipulacion-y-agarre/",
+  "slug": "manipulacion-y-agarre",
+  "alterna": "/manipulacion-y-agarre/",
+  "h1": "Curso de Manipulación y Agarre Robótico en Argentina",
+  "entradilla": "Agarrar un limón sin marcarlo es más difícil que hacer una voltereta. Para empaques, laboratorios y alimentos es la capacidad que define si el proyecto existe.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar fechas"
+  },
+  "hero": "/img/cursos/manipulacion.svg",
+  "metaTitulo": "Curso de Manipulación y Agarre para Robots en Argentina",
+  "metaDescripcion": "Curso de manipulación robótica en Argentina: pinzas, manos, control de fuerza y agarre de objetos reales, de la fruta al envase flexible.",
+  "focusKeyword": "curso de manipulación y agarre robótico en argentina",
+  "imagenPrincipal": "/img/cursos/manipulacion.svg",
+  "faq": [
+    {
+      "pregunta": "¿Una mano de cinco dedos es siempre mejor?",
+      "respuesta": "No. Una pinza simple gana en la mayoría de las tareas."
+    },
+    {
+      "pregunta": "¿Qué base matemática pide?",
+      "respuesta": "Álgebra lineal y mecánica de primer año."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Contenidos</h2><ul><li>Geometría del agarre y estabilidad.</li><li>Pinza de dos dedos, ventosa o mano: cuándo cada una.</li><li>Control de fuerza e impedancia.</li><li>Agarre guiado por visión.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Práctica</h2><p>Se trabaja con objetos locales: frutas, sachets, frascos y piezas metálicas. Cada equipo mide tasa de éxito sobre cincuenta intentos, sin elegir los mejores.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Con qué equipo</h2><p>Brazo chico y pinza impresa para aprender; después se traslada a <a href=\"/ar/manos-diestras-y-pinzas/\">manos diestras</a> si hay acceso.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Curso de Manipulación y Agarre Robótico en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Una mano de cinco dedos es siempre mejor?</summary><div class=\"pregunta__resp\"><p>No. Una pinza simple gana en la mayoría de las tareas.</p></div></details><details class=\"pregunta\"><summary>¿Qué base matemática pide?</summary><div class=\"pregunta__resp\"><p>Álgebra lineal y mecánica de primer año.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros cursos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/certificacion-profesional/\">Certificación en Robótica Humanoide</a></h3></li><li><h3><a href=\"/ar/introduccion-a-la-robotica-humanoide/\">Curso de Introducción a la Robótica Humanoide</a></h3></li><li><h3><a href=\"/ar/programacion-con-sdk/\">Curso de Programación de Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/operacion-y-mantenimiento/\">Curso de Operación y Mantenimiento de Robots</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/cursos/\">Ver todos los cursos</a></p></div></section>"
+}

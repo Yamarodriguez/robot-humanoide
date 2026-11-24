@@ -1,0 +1,29 @@
+{
+  "titulo": "Honda ASIMO en Argentina",
+  "url": "/ar/robot-honda-asimo/",
+  "slug": "robot-honda-asimo",
+  "alterna": "/robot-honda-asimo/",
+  "h1": "Honda ASIMO en Argentina",
+  "entradilla": "Para toda una generación ASIMO fue «el robot». Se presentó en 2000, subía escaleras y trotaba a 6 km/h, y Honda lo retiró en 2022 sin haberlo vendido nunca.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar por este modelo"
+  },
+  "hero": "/wp-content/uploads/2025/03/robot-asimo.jpg",
+  "metaTitulo": "Honda ASIMO - Historia del Robot y Alternativas en Argentina",
+  "metaDescripcion": "Honda ASIMO: qué logró, por qué se retiró en 2022 y con qué robot se puede enseñar robótica humanoide hoy en Argentina.",
+  "focusKeyword": "honda asimo en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/robot-asimo.jpg",
+  "faq": [
+    {
+      "pregunta": "¿Honda Argentina tiene alguno?",
+      "respuesta": "No nos consta ninguna unidad disponible para alquilar."
+    },
+    {
+      "pregunta": "¿Cuánto costaba?",
+      "respuesta": "Honda no publicó precio de venta, porque no lo vendía."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Honda ASIMO: ficha y precio en Argentina</h2></div><div class=\"tabla-envoltorio\"><table class=\"tabla\"><thead><tr><th scope=\"col\">Dato</th><th scope=\"col\">Detalle</th></tr></thead><tbody><tr><th scope=\"row\">Precio en origen</th><td>Retirado en 2022</td></tr><tr><th scope=\"row\">Puesto en Argentina</th><td>No disponible</td></tr><tr><th scope=\"row\">¿Se puede comprar?</th><td>No, retirado en 2022</td></tr><tr><th scope=\"row\">Plazo</th><td>Ninguna</td></tr><tr><th scope=\"row\">Presentado</th><td>año 2000</td></tr><tr><th scope=\"row\">Retirado</th><td>2022</td></tr><tr><th scope=\"row\">Velocidad</th><td>6 km/h</td></tr><tr><th scope=\"row\">Capacidades</th><td>escaleras, reconocimiento facial y de voz</td></tr></tbody></table></div><p class=\"tabla__nota\">Valores orientativos en dólares. Se confirman al cotizar.</p></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué dejó</h2><p>ASIMO calculaba cada paso de antemano con modelos precisos. Los robots actuales aprenden a equilibrarse en simulación y se adaptan al empujón. Comparar ambos enfoques es una excelente clase.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Para usarlo en el aula</h2><ul><li>Compará videos de ASIMO y de un <a href=\"/ar/unitree-r1/\">R1</a> subiendo un escalón.</li><li>Discutí por qué un equipo de millones no llegó a producto.</li><li>Simulá las dos formas de caminar con herramientas libres, como propone el <a href=\"/ar/simulacion-antes-del-despliegue/\">curso de simulación</a>.</li></ul></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>¿Se puede traer un ASIMO?</h2><p>No. No hay unidades en venta; las que quedan pertenecen a Honda o a museos.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Honda ASIMO en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Honda Argentina tiene alguno?</summary><div class=\"pregunta__resp\"><p>No nos consta ninguna unidad disponible para alquilar.</p></div></details><details class=\"pregunta\"><summary>¿Cuánto costaba?</summary><div class=\"pregunta__resp\"><p>Honda no publicó precio de venta, porque no lo vendía.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otras marcas y modelos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/robot-sophia-hanson-robotics/\">Robot Sophia</a></h3></li><li><h3><a href=\"/ar/agibot-x2/\">AgiBot X2</a></h3></li><li><h3><a href=\"/ar/unitree-h2/\">Unitree H2</a></h3></li><li><h3><a href=\"/ar/engineai-pm01/\">EngineAI PM01</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/marcas/\">Ver todas las marcas</a></p></div></section>"
+}

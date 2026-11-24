@@ -1,0 +1,29 @@
+{
+  "titulo": "Curso de Seguridad en Robótica Colaborativa en Argentina",
+  "url": "/ar/seguridad-y-robotica-colaborativa/",
+  "slug": "seguridad-y-robotica-colaborativa",
+  "alterna": "/seguridad-y-robotica-colaborativa/",
+  "h1": "Curso de Seguridad en Robótica Colaborativa en Argentina",
+  "entradilla": "Para licenciados y técnicos en Higiene y Seguridad que reciben un robot y tienen que firmar. Un bípedo agrega un riesgo que el brazo no tenía: se puede caer encima de alguien.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar fechas"
+  },
+  "hero": "/img/cursos/seguridad.svg",
+  "metaTitulo": "Curso de Seguridad con Robots en Argentina - Higiene y Seguridad",
+  "metaDescripcion": "Curso de seguridad con robots humanoides para responsables de higiene y seguridad en Argentina: análisis de riesgos, ISO y Ley 19.587.",
+  "focusKeyword": "curso de seguridad en robótica colaborativa en argentina",
+  "imagenPrincipal": "/img/cursos/seguridad.svg",
+  "faq": [
+    {
+      "pregunta": "¿Sirve con cobots?",
+      "respuesta": "Sí, buena parte aplica."
+    },
+    {
+      "pregunta": "¿Necesito matrícula?",
+      "respuesta": "No para cursarlo. Para firmar, según tu jurisdicción."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Programa</h2><ul><li>Peligros propios: caída, atrapamiento, batería y pérdida de control.</li><li>Análisis de riesgos por tarea y medidas en orden de prioridad.</li><li>Referencias ISO 10218, ISO/TS 15066 e ISO 13482.</li><li>Encaje con Ley 19.587, Decreto 351/79 y la ART.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Ejercicio central</h2><p>Se releva un puesto real con fotos y plano, y se entrega el análisis con velocidades, distancias, señalización y parada.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Lo que no cubre</h2><p>No habilita ni certifica el equipo. Da criterio para exigir documentación y decidir si el puesto es aceptable.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Curso de Seguridad en Robótica Colaborativa en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Sirve con cobots?</summary><div class=\"pregunta__resp\"><p>Sí, buena parte aplica.</p></div></details><details class=\"pregunta\"><summary>¿Necesito matrícula?</summary><div class=\"pregunta__resp\"><p>No para cursarlo. Para firmar, según tu jurisdicción.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros cursos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/vision-artificial-y-percepcion/\">Curso de Visión Artificial para Robots</a></h3></li><li><h3><a href=\"/ar/aprendizaje-por-imitacion/\">Curso de Aprendizaje por Imitación</a></h3></li><li><h3><a href=\"/ar/simulacion-antes-del-despliegue/\">Curso de Simulación de Robots</a></h3></li><li><h3><a href=\"/ar/interaccion-por-voz-y-lenguaje/\">Curso de Voz y Lenguaje para Robots</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/cursos/\">Ver todos los cursos</a></p></div></section>"
+}

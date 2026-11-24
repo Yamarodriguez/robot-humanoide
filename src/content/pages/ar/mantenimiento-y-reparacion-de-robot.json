@@ -1,0 +1,29 @@
+{
+  "titulo": "Mantenimiento y Reparación de Robots en Argentina",
+  "url": "/ar/mantenimiento-y-reparacion-de-robot/",
+  "slug": "mantenimiento-y-reparacion-de-robot",
+  "alterna": "/mantenimiento-y-reparacion-de-robot/",
+  "h1": "Mantenimiento y Reparación de Robots en Argentina",
+  "entradilla": "Con el fabricante a 19.000 kilómetros, un actuador de repuesto puede tardar más que el propio arreglo. El mantenimiento acá empieza por decidir qué se guarda en un cajón.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir presupuesto"
+  },
+  "hero": "/wp-content/uploads/2025/03/mantenimiento-robot-humanoide.jpeg",
+  "metaTitulo": "Reparación y Mantenimiento de Robots Humanoides en Argentina",
+  "metaDescripcion": "Servicio técnico de robots humanoides en Argentina: diagnóstico remoto, stock de repuestos, mantenimiento por horas y garantía de fábrica.",
+  "focusKeyword": "mantenimiento y reparación de robots en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/mantenimiento-robot-humanoide.jpeg",
+  "faq": [
+    {
+      "pregunta": "¿Abrirlo anula la garantía?",
+      "respuesta": "Puede. Consultá antes de sacar un tornillo."
+    },
+    {
+      "pregunta": "¿Reparan equipos comprados en otro lado?",
+      "respuesta": "Se evalúa caso por caso, según documentación y repuestos."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Stock mínimo que recomendamos</h2><ul><li>Dos actuadores de las articulaciones más exigidas.</li><li>Una batería y un cargador.</li><li>Cables, tornillería y cubiertas de manos.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Rutina por horas de uso</h2><p><strong>Cada día</strong>: inspección visual, ruidos y temperatura. <strong>Cada mes</strong>: calibración, juegos mecánicos y respaldo del software. <strong>Cada semestre</strong>: revisión de reductores y estado de baterías.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cuando algo falla</h2><p>Primero, registro y video para el diagnóstico remoto. Si es configuración, se resuelve a distancia. Si es mecánico, se cambia la pieza o se retira el equipo. Mandarlo a fábrica es el último recurso: implica exportación temporaria y mucho tiempo.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Mantenimiento y Reparación de Robots en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Abrirlo anula la garantía?</summary><div class=\"pregunta__resp\"><p>Puede. Consultá antes de sacar un tornillo.</p></div></details><details class=\"pregunta\"><summary>¿Reparan equipos comprados en otro lado?</summary><div class=\"pregunta__resp\"><p>Se evalúa caso por caso, según documentación y repuestos.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros servicios</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/alquiler-de-robots-humanoides/\">Alquiler de Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/alquiler-para-eventos/\">Alquiler de Robots para Eventos</a></h3></li><li><h3><a href=\"/ar/implementacion-de-robot-en-empresas-y-negocios/\">Implementación de Robots en Empresas</a></h3></li><li><h3><a href=\"/ar/estudio-de-viabilidad-y-roi/\">Estudio de Viabilidad y ROI</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/servicios/\">Ver todos los servicios</a></p></div></section>"
+}

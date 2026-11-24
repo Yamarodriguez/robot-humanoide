@@ -1,0 +1,29 @@
+{
+  "titulo": "Robot Mozo o Camarero en Argentina",
+  "url": "/ar/robot-camarero/",
+  "slug": "robot-camarero",
+  "alterna": "/robot-camarero/",
+  "h1": "Robot Mozo o Camarero en Argentina",
+  "entradilla": "Acá se lo busca como robot mozo. Aclaración útil: los que se ven en restaurantes casi nunca son humanoides, sino bandejas con ruedas. Y para llevar platos, suelen ser la mejor opción.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir asesoramiento"
+  },
+  "hero": "/wp-content/uploads/2025/03/robot-camarero.jpeg",
+  "metaTitulo": "Robot Mozo en Argentina - Robot Camarero para Restaurantes",
+  "metaDescripcion": "Robot mozo para restaurantes, hoteles y balnearios argentinos: qué tareas hace, en qué locales funciona y cómo calcular si conviene.",
+  "focusKeyword": "robot mozo o camarero en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/robot-camarero.jpeg",
+  "faq": [
+    {
+      "pregunta": "¿Atiende en español?",
+      "respuesta": "Sí, con frases grabadas o voz sintética, que se pueden adaptar al voseo."
+    },
+    {
+      "pregunta": "¿Un humanoide puede servir vino?",
+      "respuesta": "Como show, sí. Como servicio constante, todavía no."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>En qué locales funciona</h2><ul><li>Salones amplios, parrillas grandes, buffets y comedores de hotel.</li><li>Pasillos de más de 80 centímetros y sin escalones.</li><li>Casinos y salas con recorridos repetidos.</li></ul><p>En un bodegón con mesas pegadas o en una vereda despareja, no.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué hace el mozo y qué el robot</h2><p>El robot lleva la carga pesada y levanta la vajilla. El mozo recomienda, resuelve y cobra. Planteado así, se camina menos y se atiende más; planteado como reemplazo, genera rechazo en el equipo y con el gremio.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cómo hacer la cuenta</h2><p>Contá viajes por hora en el pico de un sábado, no el promedio semanal. En la Costa o en Bariloche, donde la demanda es estacional, compará con un <a href=\"/ar/alquiler-de-robots-humanoides/\">alquiler de temporada</a>.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Robot Mozo o Camarero en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Atiende en español?</summary><div class=\"pregunta__resp\"><p>Sí, con frases grabadas o voz sintética, que se pueden adaptar al voseo.</p></div></details><details class=\"pregunta\"><summary>¿Un humanoide puede servir vino?</summary><div class=\"pregunta__resp\"><p>Como show, sí. Como servicio constante, todavía no.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros tipos de robots humanoides</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/robot-de-compania/\">Robot Humanoide de Compañía</a></h3></li><li><h3><a href=\"/ar/robots-para-el-hogar/\">Robots Humanoides para el Hogar</a></h3></li><li><h3><a href=\"/ar/robots-empresariales/\">Robots Humanoides para Empresas</a></h3></li><li><h3><a href=\"/ar/robots-seguridad/\">Robots de Seguridad</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/tipos/\">Ver todos los tipos</a></p></div></section>"
+}

@@ -1,0 +1,29 @@
+{
+  "titulo": "AgiBot X2 en Argentina",
+  "url": "/ar/agibot-x2/",
+  "slug": "agibot-x2",
+  "alterna": "/agibot-x2/",
+  "h1": "AgiBot X2 en Argentina",
+  "entradilla": "El X2 demuestra que un humanoide puede estar en la góndola virtual de una cadena europea. Traer uno a Argentina sigue siendo una importación con batería, despacho y garantía por definir.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar por este modelo"
+  },
+  "hero": "/img/marcas/agibot-x2.svg",
+  "metaTitulo": "AgiBot X2 en Argentina - Importación, Versiones y Precio",
+  "metaDescripcion": "AgiBot X2 en Argentina: humanoide de 1,31 m vendido en tiendas europeas. Qué versión pedir, costo de referencia e importación.",
+  "focusKeyword": "agibot x2 en argentina",
+  "imagenPrincipal": "/img/marcas/agibot-x2.svg",
+  "faq": [
+    {
+      "pregunta": "¿AgiBot alquila robots?",
+      "respuesta": "Anunció alquiler en varios países desde 1.000 USD por día. Confirmá cobertura argentina."
+    },
+    {
+      "pregunta": "¿Compite con el G1?",
+      "respuesta": "Sí por tamaño; el Unitree G1 tiene mayor comunidad de investigación."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>AgiBot X2: ficha y precio en Argentina</h2></div><div class=\"tabla-envoltorio\"><table class=\"tabla\"><thead><tr><th scope=\"col\">Dato</th><th scope=\"col\">Detalle</th></tr></thead><tbody><tr><th scope=\"row\">Precio en origen</th><td>más de 20.000 USD</td></tr><tr><th scope=\"row\">Puesto en Argentina</th><td>A cotizar</td></tr><tr><th scope=\"row\">¿Se puede comprar?</th><td>Sí, por importación formal</td></tr><tr><th scope=\"row\">Plazo</th><td>Según canal</td></tr><tr><th scope=\"row\">Altura</th><td>1,31 m</td></tr><tr><th scope=\"row\">Peso</th><td>35 kg (39 kg el Ultra)</td></tr><tr><th scope=\"row\">Grados de libertad</th><td>25 el X2 base, 30 el Ultra</td></tr><tr><th scope=\"row\">Conectividad</th><td>Wi-Fi, Bluetooth, USB y RJ45</td></tr><tr><th scope=\"row\">Autonomía</th><td>no confirmada</td></tr></tbody></table></div><p class=\"tabla__nota\">Valores orientativos en dólares. Se confirman al cotizar.</p></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Base, Lite o Ultra</h2><p>La base y el Ultra cambian en articulaciones, peso y alcance. Para un evento puede bastar un equipo demostrativo; una universidad debería pedir acceso de desarrollo por escrito.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>¿Conviene comprarlo en Europa?</h2><p>La tienda española no garantiza servicio acá. Compará ese precio con fábrica y con distribuidores regionales antes de pagar impuestos dos veces por una operación mal armada.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre AgiBot X2 en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿AgiBot alquila robots?</summary><div class=\"pregunta__resp\"><p>Anunció alquiler en varios países desde 1.000 USD por día. Confirmá cobertura argentina.</p></div></details><details class=\"pregunta\"><summary>¿Compite con el G1?</summary><div class=\"pregunta__resp\"><p>Sí por tamaño; el <a href=\"/ar/unitree-g1/\">Unitree G1</a> tiene mayor comunidad de investigación.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otras marcas y modelos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/unitree-h2/\">Unitree H2</a></h3></li><li><h3><a href=\"/ar/engineai-pm01/\">EngineAI PM01</a></h3></li><li><h3><a href=\"/ar/engineai-t800/\">EngineAI T800</a></h3></li><li><h3><a href=\"/ar/pal-robotics-talos/\">TALOS de PAL Robotics</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/marcas/\">Ver todas las marcas</a></p></div></section>"
+}

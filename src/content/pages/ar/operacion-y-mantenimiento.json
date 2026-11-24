@@ -1,0 +1,29 @@
+{
+  "titulo": "Curso de Operación y Mantenimiento de Robots en Argentina",
+  "url": "/ar/operacion-y-mantenimiento/",
+  "slug": "operacion-y-mantenimiento",
+  "alterna": "/operacion-y-mantenimiento/",
+  "h1": "Curso de Operación y Mantenimiento de Robots en Argentina",
+  "entradilla": "Si el repuesto viene de China, el técnico local que detecta un ruido a tiempo vale oro. El curso forma a esa persona.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar fechas"
+  },
+  "hero": "/img/cursos/mantenimiento.svg",
+  "metaTitulo": "Curso de Operación y Mantenimiento de Humanoides en Argentina",
+  "metaDescripcion": "Curso de operación y mantenimiento de robots humanoides para técnicos argentinos: puesta en marcha, baterías, diagnóstico y repuestos.",
+  "focusKeyword": "curso de operación y mantenimiento de robots en argentina",
+  "imagenPrincipal": "/img/cursos/mantenimiento.svg",
+  "faq": [
+    {
+      "pregunta": "¿Se hace sobre mi robot?",
+      "respuesta": "Es lo ideal, en tu sede."
+    },
+    {
+      "pregunta": "¿Cubre reparar placas?",
+      "respuesta": "No. Se diagnostica hasta el módulo."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Contenidos</h2><ul><li>Encendido, postura segura y parada.</li><li>Carga, guardado y descarte de baterías de litio.</li><li>Calibración y lectura de registros.</li><li>Cambio de piezas permitido por el fabricante.</li><li>Cómo reportar una falla para que te respondan.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Perfil recomendado</h2><p>Técnicos electromecánicos o en mecatrónica, personal de mantenimiento y egresados de escuelas técnicas. Alcanza con saber usar un multímetro y seguir un plano.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Material que te llevás</h2><p>Planilla de mantenimiento por horas, lista de repuestos críticos y protocolo de emergencia para pegar en la pared.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Curso de Operación y Mantenimiento de Robots en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Se hace sobre mi robot?</summary><div class=\"pregunta__resp\"><p>Es lo ideal, en tu sede.</p></div></details><details class=\"pregunta\"><summary>¿Cubre reparar placas?</summary><div class=\"pregunta__resp\"><p>No. Se diagnostica hasta el módulo.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros cursos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/robotica-para-centros-educativos/\">Robótica Humanoide para Escuelas</a></h3></li><li><h3><a href=\"/ar/formacion-para-equipos-tecnicos/\">Formación para Equipos Técnicos</a></h3></li><li><h3><a href=\"/ar/seguridad-y-robotica-colaborativa/\">Curso de Seguridad en Robótica Colaborativa</a></h3></li><li><h3><a href=\"/ar/vision-artificial-y-percepcion/\">Curso de Visión Artificial para Robots</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/cursos/\">Ver todos los cursos</a></p></div></section>"
+}

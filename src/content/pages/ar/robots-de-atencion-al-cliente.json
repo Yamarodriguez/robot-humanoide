@@ -1,0 +1,29 @@
+{
+  "titulo": "Robots de Atención al Cliente en Argentina",
+  "url": "/ar/robots-de-atencion-al-cliente/",
+  "slug": "robots-de-atencion-al-cliente",
+  "alterna": "/robots-de-atencion-al-cliente/",
+  "h1": "Robots de Atención al Cliente en Argentina",
+  "entradilla": "Un robot que recibe gente en un shopping porteño o en un hotel de Bariloche tiene dos trabajos: resolver consultas repetidas y hacer que la gente se acerque. Conviene separar los dos al medir si vale la pena.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir asesoramiento"
+  },
+  "hero": "/img/tipos/atencion-cliente.svg",
+  "metaTitulo": "Robots de Atención al Cliente en Argentina - Bancos, Shoppings y Hoteles",
+  "metaDescripcion": "Robots humanoides para atender público en bancos, shoppings, hoteles y concesionarias de Argentina: qué resuelven, datos personales y cómo medirlo.",
+  "focusKeyword": "robots de atención al cliente en argentina",
+  "imagenPrincipal": "/img/tipos/atencion-cliente.svg",
+  "faq": [
+    {
+      "pregunta": "¿Puede cobrar o tomar datos de tarjeta?",
+      "respuesta": "No lo recomendamos. Puede derivar a una caja o mostrar un QR de pago de tu sistema."
+    },
+    {
+      "pregunta": "¿Qué pasa si no entiende?",
+      "respuesta": "Tiene que derivar a una persona. Sin esa salida, la experiencia empeora."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Consultas que resuelve bien</h2><ul><li>Dónde queda un local, una sala o un trámite.</li><li>Turnos, horarios y requisitos que no cambian seguido.</li><li>Recepción en español, inglés y portugués para turismo.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Entender el castellano rioplatense</h2><p>El reconocimiento de voz de fábrica suele venir entrenado en inglés o chino. Para que entienda «¿dónde saco turno?» o «vengo por un reclamo» hay que integrar un motor de voz probado con voseo y ruido de fondo. Ese trabajo se cotiza aparte, como <a href=\"/ar/programacion-de-robot-humanoides/\">programación</a>.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cámaras y Ley 25.326</h2><p>Si el robot graba o reconoce caras, entra la Ley de Protección de Datos Personales: cartel visible, finalidad clara y, si corresponde, inscripción de la base ante la AAIP. Para dar indicaciones no hace falta identificar a nadie.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Robots de Atención al Cliente en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Puede cobrar o tomar datos de tarjeta?</summary><div class=\"pregunta__resp\"><p>No lo recomendamos. Puede derivar a una caja o mostrar un QR de pago de tu sistema.</p></div></details><details class=\"pregunta\"><summary>¿Qué pasa si no entiende?</summary><div class=\"pregunta__resp\"><p>Tiene que derivar a una persona. Sin esa salida, la experiencia empeora.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros tipos de robots humanoides</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/robots-educativos/\">Robots Humanoides Educativos</a></h3></li><li><h3><a href=\"/ar/robots-de-investigacion/\">Robots Humanoides de Investigación</a></h3></li><li><h3><a href=\"/ar/robots-medicos/\">Robots Humanoides Médicos</a></h3></li><li><h3><a href=\"/ar/robots-de-rehabilitacion/\">Robots de Rehabilitación</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/tipos/\">Ver todos los tipos</a></p></div></section>"
+}

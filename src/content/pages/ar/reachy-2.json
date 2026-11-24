@@ -1,0 +1,29 @@
+{
+  "titulo": "Reachy 2 en Argentina",
+  "url": "/ar/reachy-2/",
+  "slug": "reachy-2",
+  "alterna": "/reachy-2/",
+  "h1": "Reachy 2 en Argentina",
+  "entradilla": "Para estudiar manos no siempre hacen falta piernas. Reachy 2 se concentra en brazos, percepción y teleoperación, con herramientas que un laboratorio puede inspeccionar.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar por este modelo"
+  },
+  "hero": "/img/marcas/reachy-2.svg",
+  "metaTitulo": "Reachy 2 en Argentina - Robot Abierto para Investigación",
+  "metaDescripcion": "Reachy 2 en Argentina: robot abierto de Hugging Face y Pollen con ROS 2. Precio, importación y alternativas para laboratorios.",
+  "focusKeyword": "reachy 2 en argentina",
+  "imagenPrincipal": "/img/marcas/reachy-2.svg",
+  "faq": [
+    {
+      "pregunta": "¿Camina?",
+      "respuesta": "No; usa configuración fija o base móvil."
+    },
+    {
+      "pregunta": "¿Sirve para ROS 2?",
+      "respuesta": "Sí, junto con SDK de Python."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Reachy 2: ficha y precio en Argentina</h2></div><div class=\"tabla-envoltorio\"><table class=\"tabla\"><thead><tr><th scope=\"col\">Dato</th><th scope=\"col\">Detalle</th></tr></thead><tbody><tr><th scope=\"row\">Precio en origen</th><td>unos 70.000 USD</td></tr><tr><th scope=\"row\">Puesto en Argentina</th><td>A cotizar</td></tr><tr><th scope=\"row\">¿Se puede comprar?</th><td>Sí, para investigación</td></tr><tr><th scope=\"row\">Plazo</th><td>A consultar</td></tr><tr><th scope=\"row\">Tipo</th><td>torso con dos brazos y base móvil, según versión</td></tr><tr><th scope=\"row\">Software</th><td>ROS 2 y SDK de Python</td></tr><tr><th scope=\"row\">Código</th><td>abierto</td></tr><tr><th scope=\"row\">Origen</th><td>Pollen Robotics, Francia</td></tr><tr><th scope=\"row\">Propietario</th><td>Hugging Face</td></tr></tbody></table></div><p class=\"tabla__nota\">Valores orientativos en dólares. Se confirman al cotizar.</p></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>El valor de que sea abierto</h2><p>Código y modelos facilitan que otra universidad repita un experimento. La máquina, en cambio, sigue costando unos 70.000 dólares en origen.</p></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Empezar sin comprarlo</h2><p>Descargá el entorno, reproducí una demo y prepará datos. Si el equipo no aprovecha el simulador, importar hardware no arregla el problema.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Reachy 2 en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Camina?</summary><div class=\"pregunta__resp\"><p>No; usa configuración fija o base móvil.</p></div></details><details class=\"pregunta\"><summary>¿Sirve para ROS 2?</summary><div class=\"pregunta__resp\"><p>Sí, junto con SDK de Python.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otras marcas y modelos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/reachy-mini/\">Reachy Mini</a></h3></li><li><h3><a href=\"/ar/hexagon-aeon/\">Hexagon AEON</a></h3></li><li><h3><a href=\"/ar/engineered-arts-ameca/\">Robot Ameca</a></h3></li><li><h3><a href=\"/ar/kepler-k2/\">Kepler K2</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/marcas/\">Ver todas las marcas</a></p></div></section>"
+}

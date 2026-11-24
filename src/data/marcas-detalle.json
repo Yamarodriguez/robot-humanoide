@@ -538,5 +538,583 @@
     "queHace": "<p>El <strong>Bumi</strong> ofrece movimiento e interacción básica, sin manipulación fina ni autonomía prolongada.</p><h3>Noetix Bumi: qué hace</h3><p>Las capacidades publicadas son las propias de un modelo de consumo: movimiento, interacción básica y poco más. A este precio no cabe esperar manipulación fina ni autonomía prolongada.</p>",
     "paraQuien": "<p>El <strong>Noetix Bumi</strong> apunta a educación básica y aficionados que empiezan sin riesgo económico.</p><h3>Noetix Bumi: para quién es</h3><ul><li><strong>Educación básica</strong> e iniciación a la robótica.</li><li><strong>Aficionados</strong> que quieren empezar sin riesgo económico.</li></ul>",
     "aTenerEnCuenta": "<p>Trata el <strong>Noetix Bumi</strong> como un anuncio, no un producto: sin distribución confirmada en España.</p><h3>Noetix Bumi: qué tener en cuenta</h3><p><strong>Trátalo como un anuncio, no como un producto.</strong> A fecha de hoy no hay distribución confirmada en España ni unidades verificadas por terceros.</p><p>Si necesitas un robot ahora, mira Unitree R1 o Booster K1, que sí se pueden comprar en Europa.</p>"
+  },
+  "agibot-x2": {
+    "h1": "AgiBot X2",
+    "metaTitulo": "AgiBot X2 - Precio en España, Medidas y Versiones",
+    "metaDescripcion": "AgiBot X2 en España: 25.699 € en MediaMarkt, 1,31 m y 35 kg. Diferencias con el X2 Ultra, para qué sirve y qué comprobar.",
+    "queEs": "<p>El <strong>AgiBot X2</strong> es un humanoide compacto de la empresa china AgiBot. Destaca por estar listado en una gran cadena española, algo poco habitual en el sector.</p>",
+    "queHace": "<p>Camina, gesticula y ejecuta rutinas de baile. El fabricante lo orienta a entretenimiento y espacios comerciales; las versiones superiores abren más posibilidades de desarrollo.</p>",
+    "paraQuien": "<ul><li><strong>Comercios y marcas</strong> que buscan una presencia interactiva.</li><li><strong>Empresas de eventos</strong> que necesitan coreografías.</li><li><strong>Equipos técnicos</strong>, si la edición incluye acceso al SDK.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Versión.</strong> Base, Lite y Ultra no son iguales; pide la referencia exacta.</li><li><strong>Garantía.</strong> Un distribuidor indica 8 meses para Lite y 18 para Ultra: compruébalo con tus derechos como comprador en España.</li><li><strong>Batería.</strong> Pide autonomía por escrito.</li></ul>",
+    "precio": {
+      "fabrica": "más de 20.000 $",
+      "espana": "25.699 € (MediaMarkt, consultado en 2026)",
+      "disponible": "Sí, en tienda online",
+      "entrega": "Según existencias"
+    },
+    "ficha": [
+      [
+        "Altura",
+        "1,31 m"
+      ],
+      [
+        "Peso",
+        "35 kg (39 kg el Ultra)"
+      ],
+      [
+        "Grados de libertad",
+        "25 el X2 base, 30 el Ultra"
+      ],
+      [
+        "Conectividad",
+        "Wi-Fi, Bluetooth, USB y RJ45"
+      ],
+      [
+        "Autonomía",
+        "no confirmada"
+      ]
+    ],
+    "nota": "Datos consultados en noviembre de 2026. Confirma antes de decidir."
+  },
+  "unitree-h2": {
+    "h1": "Unitree H2",
+    "metaTitulo": "Unitree H2 - Altura, Peso, Precio y Diferencias con el G1",
+    "metaDescripcion": "Unitree H2: humanoide de 1,82 m, 70 kg y 31 grados de libertad. Qué se sabe de su precio y en qué se diferencia del G1.",
+    "queEs": "<p>El <strong>Unitree H2</strong> es el hermano de tamaño humano del G1. Su estatura lo acerca a encimeras, puertas y puestos reales, pero también aumenta energía y riesgo al caer.</p>",
+    "queHace": "<p>Baila, camina y mueve el tronco con soltura. La edición EDU se dirige a desarrollo; las demostraciones no equivalen a una tarea de trabajo autónoma.</p>",
+    "paraQuien": "<ul><li><strong>Centros de investigación</strong> que necesitan escala humana.</li><li><strong>Industria</strong> con un proyecto de integración.</li><li><strong>Escenarios profesionales</strong> con perímetro.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Precio.</strong> La web oficial remite a ventas y los revendedores publican cifras muy distintas.</li><li><strong>Seguridad.</strong> Setenta kilos a esa altura exigen soporte y formación.</li><li><strong>Manos.</strong> Confirma si van incluidas.</li></ul>",
+    "precio": {
+      "fabrica": "A consultar; terceros citan desde 29.900 $",
+      "espana": "A consultar",
+      "disponible": "Bajo pedido",
+      "entrega": "Por fases"
+    },
+    "ficha": [
+      [
+        "Altura",
+        "1,82 m"
+      ],
+      [
+        "Peso",
+        "unos 70 kg con batería"
+      ],
+      [
+        "Grados de libertad",
+        "31"
+      ],
+      [
+        "Piernas",
+        "6 por pierna"
+      ],
+      [
+        "Brazos",
+        "7 por brazo"
+      ],
+      [
+        "Cintura y cabeza",
+        "3 y 2"
+      ]
+    ],
+    "nota": "Datos consultados en noviembre de 2026. Confirma antes de decidir."
+  },
+  "engineai-pm01": {
+    "h1": "EngineAI PM01",
+    "metaTitulo": "EngineAI PM01 - Precio, Peso y Edición EDU",
+    "metaDescripcion": "EngineAI PM01: humanoide ágil de unos 1,4 m y 40 kg, lanzado por unos 12.000 dólares. Qué comprobar antes de pedirlo.",
+    "queEs": "<p>El <strong>EngineAI PM01</strong> es un humanoide de la firma de Shenzhen EngineAI que compite por precio y agilidad con el G1.</p>",
+    "queHace": "<p>Camina con marcha natural y gira ampliamente la cintura. La edición educativa se plantea para experimentar control y comportamiento.</p>",
+    "paraQuien": "<ul><li><strong>Universidades</strong> que comparan plataformas de coste medio.</li><li><strong>Desarrolladores</strong> de locomoción.</li><li><strong>Demostraciones</strong> con operador.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Oferta de lanzamiento.</strong> El precio difundido correspondía a 2025; pide uno actual.</li><li><strong>Soporte.</strong> Verifica recambios y marcado CE en Europa.</li><li><strong>Comunidad.</strong> Es menor que la de Unitree.</li></ul>",
+    "precio": {
+      "fabrica": "88.000 yuanes en el lanzamiento, unos 12.000 $",
+      "espana": "A consultar",
+      "disponible": "Bajo pedido",
+      "entrega": "A consultar"
+    },
+    "ficha": [
+      [
+        "Altura",
+        "unos 1,38–1,40 m"
+      ],
+      [
+        "Peso",
+        "40–42 kg según fuente"
+      ],
+      [
+        "Cintura",
+        "giro de hasta 320°"
+      ],
+      [
+        "Ediciones",
+        "comercial y EDU"
+      ]
+    ],
+    "nota": "Datos consultados en noviembre de 2026. Confirma antes de decidir."
+  },
+  "engineai-t800": {
+    "h1": "EngineAI T800",
+    "metaTitulo": "EngineAI T800 - Humanoide de 1,73 m: Precio y Datos",
+    "metaDescripcion": "EngineAI T800: humanoide de 1,73 m con batería extraíble y 4 a 5 horas declaradas. Qué se sabe del precio y del uso real.",
+    "queEs": "<p>El <strong>EngineAI T800</strong> es un humanoide de tamaño adulto conocido por sus vídeos de combate. El nombre recuerda al cine; la máquina es una plataforma de robótica.</p>",
+    "queHace": "<p>Realiza movimientos dinámicos con motores de alto par y permite cambiar la batería. Su autonomía procede del fabricante y debe medirse en tu tarea.</p>",
+    "paraQuien": "<ul><li><strong>Laboratorios</strong> de movimiento de alto par.</li><li><strong>Espectáculos</strong> diseñados por profesionales.</li><li><strong>Integradores</strong> que negocian con fábrica.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Precio retirado.</strong> La cifra inicial no es una tarifa vigente.</li><li><strong>Fuerza.</strong> No se usa cerca del público sin barreras.</li><li><strong>Vídeos.</strong> Pide una prueba sin montaje.</li></ul>",
+    "precio": {
+      "fabrica": "180.000 yuanes en el lanzamiento",
+      "espana": "A consultar",
+      "disponible": "Bajo pedido",
+      "entrega": "A consultar"
+    },
+    "ficha": [
+      [
+        "Altura",
+        "1,73 m"
+      ],
+      [
+        "Autonomía declarada",
+        "4–5 horas"
+      ],
+      [
+        "Batería",
+        "modular, extraíble, 72 V"
+      ],
+      [
+        "Par máximo declarado",
+        "450 Nm"
+      ],
+      [
+        "Peso",
+        "no confirmado"
+      ]
+    ],
+    "nota": "Datos consultados en noviembre de 2026. Confirma antes de decidir."
+  },
+  "pal-robotics-talos": {
+    "h1": "PAL Robotics TALOS",
+    "metaTitulo": "TALOS de PAL Robotics - Humanoide Fabricado en Barcelona",
+    "metaDescripcion": "TALOS, humanoide de investigación de PAL Robotics en Barcelona: 1,75 m, 95 kg, 32 grados de libertad, ROS y 6 kg por brazo.",
+    "queEs": "<p><strong>TALOS</strong> es el humanoide de investigación de PAL Robotics, empresa de Barcelona que desarrolla bípedos desde 2004.</p>",
+    "queHace": "<p>Ofrece control de par en la mayoría de sus articulaciones y modelo de simulación, dos piezas clave para investigar equilibrio, contacto y manipulación.</p>",
+    "paraQuien": "<ul><li><strong>Universidades y centros tecnológicos</strong>.</li><li><strong>Proyectos europeos</strong> con varios socios.</li><li><strong>Grupos de control</strong> de cuerpo completo.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Escala.</strong> Necesita espacio y equipo técnico.</li><li><strong>Presupuesto.</strong> Es una plataforma de investigación, no de consumo.</li><li><strong>Ventaja.</strong> Fabricante y soporte en España; confirma alcance.</li></ul>",
+    "precio": {
+      "fabrica": "A consultar",
+      "espana": "A consultar con PAL Robotics",
+      "disponible": "Sí, por proyecto",
+      "entrega": "A consultar"
+    },
+    "ficha": [
+      [
+        "Altura",
+        "1,75 m"
+      ],
+      [
+        "Peso",
+        "95–100 kg según fuente"
+      ],
+      [
+        "Grados de libertad",
+        "32"
+      ],
+      [
+        "Carga",
+        "6 kg por brazo"
+      ],
+      [
+        "Software",
+        "ROS"
+      ],
+      [
+        "Fabricante",
+        "PAL Robotics, Barcelona"
+      ]
+    ],
+    "nota": "Datos consultados en noviembre de 2026. Confirma antes de decidir."
+  },
+  "pal-robotics-kangaroo": {
+    "h1": "PAL Robotics Kangaroo",
+    "metaTitulo": "Kangaroo de PAL Robotics - Robot Bípedo Español",
+    "metaDescripcion": "Kangaroo, robot bípedo de PAL Robotics: 1,60 m, 40 kg y seis horas declaradas. Para qué sirve y diferencias con TALOS.",
+    "queEs": "<p><strong>Kangaroo</strong> concentra la ingeniería de PAL Robotics en piernas ligeras para movimiento dinámico. También existe Kangaroo Pro.</p>",
+    "queHace": "<p>Sus actuadores lineales y masa baja en la pierna facilitan investigar marcha, impacto y salto.</p>",
+    "paraQuien": "<ul><li><strong>Laboratorios de locomoción</strong>.</li><li><strong>Doctorados</strong> en control y aprendizaje.</li><li><strong>Centros</strong> que prefieren proveedor europeo.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>No es un asistente.</strong> El objetivo principal son las piernas.</li><li><strong>Configuración.</strong> Los datos cambian entre estándar y Pro.</li><li><strong>TALOS o Kangaroo.</strong> Decide entre cuerpo completo o dinámica.</li></ul>",
+    "precio": {
+      "fabrica": "A consultar",
+      "espana": "A consultar con PAL Robotics",
+      "disponible": "Sí, por proyecto",
+      "entrega": "A consultar"
+    },
+    "ficha": [
+      [
+        "Altura",
+        "1,60 m"
+      ],
+      [
+        "Peso",
+        "40 kg"
+      ],
+      [
+        "Piernas",
+        "6 grados de libertad cada una"
+      ],
+      [
+        "Autonomía declarada",
+        "6 horas"
+      ],
+      [
+        "Software",
+        "Linux y ROS"
+      ],
+      [
+        "Versión superior",
+        "Kangaroo Pro"
+      ]
+    ],
+    "nota": "Datos consultados en noviembre de 2026. Confirma antes de decidir."
+  },
+  "apptronik-apollo": {
+    "h1": "Apptronik Apollo",
+    "metaTitulo": "Apptronik Apollo - Datos, Mercedes-Benz y Disponibilidad",
+    "metaDescripcion": "Apollo de Apptronik: humanoide industrial probado por Mercedes-Benz. Especificaciones difundidas, Apollo 2 y por qué no se vende suelto.",
+    "queEs": "<p><strong>Apollo</strong> es el humanoide industrial de Apptronik, empresa de Texas con Mercedes-Benz entre sus inversores.</p>",
+    "queHace": "<p>Se prueba en movimiento de componentes y tareas de planta. Las cifras de la ficha corresponden a la versión divulgada antes de Apollo 2.</p>",
+    "paraQuien": "<ul><li><strong>Grandes fabricantes</strong> con proyecto conjunto.</li><li><strong>Logística</strong> con volumen y equipo propio.</li><li>No para particulares ni compra unitaria.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Piloto no es catálogo.</strong> Usarlo en fábrica no significa venderlo en España.</li><li><strong>Versiones.</strong> No mezcles datos de Apollo y Apollo 2.</li><li><strong>Alternativa.</strong> Prueba la tarea con un equipo accesible.</li></ul>",
+    "precio": {
+      "fabrica": "No publicado",
+      "espana": "No disponible",
+      "disponible": "No, proyectos empresariales",
+      "entrega": "Sin fecha pública"
+    },
+    "ficha": [
+      [
+        "Altura",
+        "unos 1,73 m"
+      ],
+      [
+        "Peso",
+        "unos 72,5 kg"
+      ],
+      [
+        "Carga difundida",
+        "25 kg"
+      ],
+      [
+        "Pruebas",
+        "plantas de Mercedes-Benz"
+      ],
+      [
+        "Generación posterior",
+        "Apollo 2"
+      ]
+    ],
+    "nota": "Datos consultados en noviembre de 2026. Confirma antes de decidir."
+  },
+  "xpeng-iron": {
+    "h1": "XPeng IRON",
+    "metaTitulo": "XPeng IRON - Fecha en Europa, Producción y Datos",
+    "metaDescripcion": "XPeng IRON: humanoide con 76 grados de libertad anunciados. Producción a finales de 2026, entregas en 2027 y planes para Europa.",
+    "queEs": "<p><strong>IRON</strong> es el humanoide de XPeng, marca china de vehículos eléctricos, que aplica parte de su tecnología de visión y chips.</p>",
+    "queHace": "<p>Se plantea primero en tiendas y campus de la propia compañía, con recepción y tareas acotadas.</p>",
+    "paraQuien": "<ul><li><strong>Empresas</strong> que vigilan el mercado de servicio.</li><li><strong>Retail</strong> con proyectos a futuro.</li><li>No para una compra inmediata.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Calendario.</strong> Son planes de la empresa, no una fecha garantizada.</li><li><strong>Precio.</strong> No existe una tarifa pública fiable.</li><li><strong>Modelo final.</strong> La unidad comercial puede cambiar.</li></ul>",
+    "precio": {
+      "fabrica": "No publicado",
+      "espana": "No disponible todavía",
+      "disponible": "No",
+      "entrega": "Entregas previstas desde 2027"
+    },
+    "ficha": [
+      [
+        "Grados de libertad",
+        "76 anunciados"
+      ],
+      [
+        "Cómputo",
+        "tres chips Turing"
+      ],
+      [
+        "Producción masiva",
+        "prevista para finales de 2026"
+      ],
+      [
+        "Europa",
+        "promoción prevista en el segundo semestre de 2027"
+      ],
+      [
+        "Precio",
+        "no publicado"
+      ]
+    ],
+    "nota": "Datos consultados en noviembre de 2026. Confirma antes de decidir."
+  },
+  "fourier-gr-3": {
+    "h1": "Fourier GR-3",
+    "metaTitulo": "Fourier GR-3 - Robot de Cuidado: Datos y Precio",
+    "metaDescripcion": "Fourier GR-3: humanoide social de 1,65 m y 71 kg con hasta 55 grados de libertad. Diferencias con GR-2 y cautelas.",
+    "queEs": "<p>El <strong>Fourier GR-3</strong> es la propuesta social de Fourier, presentada como robot de cuidado con apariencia más cercana que la gama industrial.</p>",
+    "queHace": "<p>Combina visión, voz y tacto para interactuar. «Cuidado» describe su enfoque social y no demuestra una función sanitaria certificada.</p>",
+    "paraQuien": "<ul><li><strong>Investigación</strong> en interacción con personas.</li><li><strong>Centros de mayores</strong> en piloto supervisado.</li><li><strong>Museos y recepción</strong>.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Certificación.</strong> Exígela si se usa con fin clínico.</li><li><strong>Peso.</strong> Setenta y un kilos no son un peluche.</li><li><strong>Precio.</strong> Las cifras de terceros no están verificadas.</li></ul>",
+    "precio": {
+      "fabrica": "A consultar",
+      "espana": "A consultar",
+      "disponible": "Bajo pedido",
+      "entrega": "A consultar"
+    },
+    "ficha": [
+      [
+        "Altura",
+        "1,65 m"
+      ],
+      [
+        "Peso",
+        "71 kg"
+      ],
+      [
+        "Grados de libertad",
+        "hasta 55"
+      ],
+      [
+        "Interacción",
+        "visión, audio y tacto"
+      ],
+      [
+        "Presentación",
+        "agosto de 2025"
+      ]
+    ],
+    "nota": "Datos consultados en noviembre de 2026. Confirma antes de decidir."
+  },
+  "limx-oli": {
+    "h1": "LimX Oli",
+    "metaTitulo": "LimX Oli - Precio, Versiones EDU y Especificaciones",
+    "metaDescripcion": "LimX Oli: humanoide modular de 1,65 m, menos de 55 kg y 31 grados de libertad. Versiones Lite, EDU y Super y precio en China.",
+    "queEs": "<p><strong>LimX Oli</strong> es un humanoide de tamaño medio con arquitectura modular, dirigido a quien quiere desarrollar sobre él.</p>",
+    "queHace": "<p>Permite estudiar marcha y movimiento de cuerpo completo y adaptar extremos. Las capacidades abiertas varían por edición.</p>",
+    "paraQuien": "<ul><li><strong>Laboratorios</strong> que necesitan más altura que un G1.</li><li><strong>Integradores</strong> de manos o sensores.</li><li><strong>Universidades</strong> con apoyo de importación.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Precio chino.</strong> No incluye transporte, impuestos ni soporte europeo.</li><li><strong>Edición.</strong> Lite y EDU no dan el mismo acceso.</li><li><strong>Manos.</strong> Los 31 grados no las cuentan.</li></ul>",
+    "precio": {
+      "fabrica": "158.000 yuanes, unos 21.800 $ en el lanzamiento",
+      "espana": "A consultar",
+      "disponible": "Bajo pedido; versión global por confirmar",
+      "entrega": "A consultar"
+    },
+    "ficha": [
+      [
+        "Altura",
+        "1,65 m"
+      ],
+      [
+        "Peso",
+        "menos de 55 kg con batería"
+      ],
+      [
+        "Grados de libertad",
+        "31 sin manos"
+      ],
+      [
+        "Versiones",
+        "Lite, EDU y Super"
+      ],
+      [
+        "Diseño",
+        "modular"
+      ]
+    ],
+    "nota": "Datos consultados en noviembre de 2026. Confirma antes de decidir."
+  },
+  "reachy-2": {
+    "h1": "Reachy 2",
+    "metaTitulo": "Reachy 2 - Humanoide Abierto Europeo: Precio y Uso",
+    "metaDescripcion": "Reachy 2 de Pollen Robotics y Hugging Face: humanoide abierto con ROS 2 y Python, unos 70.000 dólares. Qué incluye y para quién es.",
+    "queEs": "<p><strong>Reachy 2</strong> es un robot humanoide de torso, brazos y base con ruedas creado por la francesa Pollen Robotics, adquirida por Hugging Face.</p>",
+    "queHace": "<p>Está pensado para manipulación, teleoperación y aprendizaje con herramientas abiertas. No camina: usa base móvil o configuración fija.</p>",
+    "paraQuien": "<ul><li><strong>Laboratorios de IA</strong> y manipulación.</li><li><strong>Universidades</strong> que valoran código abierto.</li><li><strong>Equipos europeos</strong> de investigación.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Configuración.</strong> Uno o dos brazos y base cambian precio y uso.</li><li><strong>No es doméstico.</strong> Se orienta a laboratorio.</li><li><strong>Código abierto</strong> no significa puesta en marcha sin trabajo.</li></ul>",
+    "precio": {
+      "fabrica": "unos 70.000 $",
+      "espana": "A consultar",
+      "disponible": "Sí, para investigación",
+      "entrega": "A consultar"
+    },
+    "ficha": [
+      [
+        "Tipo",
+        "torso con dos brazos y base móvil, según versión"
+      ],
+      [
+        "Software",
+        "ROS 2 y SDK de Python"
+      ],
+      [
+        "Código",
+        "abierto"
+      ],
+      [
+        "Origen",
+        "Pollen Robotics, Francia"
+      ],
+      [
+        "Propietario",
+        "Hugging Face"
+      ]
+    ],
+    "nota": "Datos consultados en noviembre de 2026. Confirma antes de decidir."
+  },
+  "reachy-mini": {
+    "h1": "Reachy Mini",
+    "metaTitulo": "Reachy Mini - Precio, Versiones y Robot de Escritorio con IA",
+    "metaDescripcion": "Reachy Mini: robot de escritorio abierto desde 399 dólares más impuestos y envío. Versiones, usos y por qué no es un humanoide completo.",
+    "queEs": "<p><strong>Reachy Mini</strong> es un robot pequeño de Hugging Face y Pollen Robotics. Tiene rasgos expresivos, pero no es un humanoide de cuerpo completo; lo incluimos como puerta de entrada.</p>",
+    "queHace": "<p>Sirve para programar gestos, voz y modelos de IA sin el coste ni el riesgo de un bípedo.</p>",
+    "paraQuien": "<ul><li><strong>Estudiantes y aficionados</strong>.</li><li><strong>Docentes</strong> de IA y Python.</li><li><strong>Desarrolladores</strong> que prueban interacción.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Lite.</strong> Comprueba qué ordenador y alimentación necesita.</li><li><strong>Coste final.</strong> Impuestos y envío van aparte.</li><li><strong>Límite.</strong> No camina ni manipula objetos.</li></ul>",
+    "precio": {
+      "fabrica": "399 $ Lite y 499 $ estándar, sin impuestos ni envío",
+      "espana": "Se suman IVA, envío y posibles aranceles",
+      "disponible": "Sí, online",
+      "entrega": "unos 90 días según el fabricante"
+    },
+    "ficha": [
+      [
+        "Formato",
+        "cabeza expresiva de escritorio"
+      ],
+      [
+        "Código",
+        "abierto"
+      ],
+      [
+        "Versiones",
+        "Lite y estándar"
+      ],
+      [
+        "Orientación",
+        "IA, voz y educación"
+      ],
+      [
+        "Estado",
+        "fase temprana de desarrollo"
+      ]
+    ],
+    "nota": "Datos consultados en noviembre de 2026. Confirma antes de decidir."
+  },
+  "hexagon-aeon": {
+    "h1": "Hexagon AEON",
+    "metaTitulo": "Hexagon AEON - El Humanoide de BMW en Leipzig",
+    "metaDescripcion": "AEON, humanoide industrial de Hexagon probado por BMW en Leipzig. Qué tareas hace, estado en 2026 y disponibilidad.",
+    "queEs": "<p><strong>AEON</strong> es el humanoide de Hexagon Robotics, vinculado a un grupo especializado en medición y captura de datos industriales.</p>",
+    "queHace": "<p>BMW lo introdujo en Leipzig para tareas de baterías y componentes. La compañía comunicó en junio de 2026 que ya realizaba tareas de producción.</p>",
+    "paraQuien": "<ul><li><strong>Automoción y aeronáutica</strong>.</li><li><strong>Plantas</strong> con inspección y datos 3D.</li><li><strong>Proyectos europeos</strong> con volumen.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Contrato.</strong> No hay precio de catálogo.</li><li><strong>Seguridad.</strong> La integración pesa tanto como el robot.</li><li><strong>Resultados.</strong> Pide métricas de tu tarea, no solo del piloto de BMW.</li></ul>",
+    "precio": {
+      "fabrica": "No publicado",
+      "espana": "Por proyecto",
+      "disponible": "No como venta unitaria",
+      "entrega": "Según proyecto"
+    },
+    "ficha": [
+      [
+        "Fabricante",
+        "Hexagon Robotics, Zúrich"
+      ],
+      [
+        "Presentación",
+        "junio de 2025"
+      ],
+      [
+        "Planta",
+        "BMW Leipzig"
+      ],
+      [
+        "Tareas",
+        "baterías y componentes"
+      ],
+      [
+        "Otros socios",
+        "Pilatus y Schaeffler"
+      ]
+    ],
+    "nota": "Datos consultados en noviembre de 2026. Confirma antes de decidir."
+  },
+  "engineered-arts-ameca": {
+    "h1": "Ameca",
+    "metaTitulo": "Ameca de Engineered Arts - Qué Es, Precio y Alquiler",
+    "metaDescripcion": "Ameca, robot humanoide de expresiones faciales de Engineered Arts. Qué hace, por qué no camina y qué se sabe de precio y alquiler.",
+    "queEs": "<p><strong>Ameca</strong> es un humanoide de interacción famoso por sus gestos faciales. Es más comparable a Sophia que a un robot de almacén.</p>",
+    "queHace": "<p>Mira, gesticula y conversa al conectarse con modelos de lenguaje. Se instala en un punto y no se usa para cargar o caminar.</p>",
+    "paraQuien": "<ul><li><strong>Museos y centros de ciencia</strong>.</li><li><strong>Congresos</strong> con presupuesto técnico.</li><li><strong>Investigación</strong> de comunicación.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>No es consciente.</strong> Sus gestos no prueban emociones.</li><li><strong>Precio.</strong> No hay tarifa oficial verificable.</li><li><strong>Instalación.</strong> Requiere transporte y soporte especializado.</li></ul>",
+    "precio": {
+      "fabrica": "A consultar; estimaciones externas muy dispares",
+      "espana": "A consultar",
+      "disponible": "Por contrato",
+      "entrega": "A consultar"
+    },
+    "ficha": [
+      [
+        "Fabricante",
+        "Engineered Arts, Reino Unido"
+      ],
+      [
+        "Altura",
+        "1,80–1,87 m según fuente"
+      ],
+      [
+        "Peso",
+        "fuentes contradictorias"
+      ],
+      [
+        "Especialidad",
+        "expresión facial y conversación"
+      ],
+      [
+        "Software",
+        "Tritium"
+      ]
+    ],
+    "nota": "Datos consultados en noviembre de 2026. Confirma antes de decidir."
+  },
+  "kepler-k2": {
+    "h1": "Kepler K2 Bumblebee",
+    "metaTitulo": "Kepler K2 Bumblebee - Humanoide Industrial: Precio y Datos",
+    "metaDescripcion": "Kepler K2 Bumblebee: humanoide industrial de 1,75 m y 75 kg con un precio base comunicado de 30.000 dólares en 2025.",
+    "queEs": "<p>El <strong>Kepler K2 «Bumblebee»</strong> es un humanoide de orientación industrial de la china Kepler Robotics.</p>",
+    "queHace": "<p>Combina cuerpo de tamaño adulto y manos con sensores de fuerza para estudiar manipulación en planta.</p>",
+    "paraQuien": "<ul><li><strong>Integradores industriales</strong>.</li><li><strong>Centros tecnológicos</strong>.</li><li><strong>Fábricas</strong> con piloto acotado.</li></ul>",
+    "aTenerEnCuenta": "<ul><li><strong>Precio de 2025.</strong> Pide versión, manos y cotización vigentes.</li><li><strong>Soporte.</strong> Comprueba servicio técnico europeo.</li><li><strong>Carga.</strong> Exige una prueba con tu pieza.</li></ul>",
+    "precio": {
+      "fabrica": "30.000 $ comunicado en 2025",
+      "espana": "A consultar",
+      "disponible": "Bajo pedido",
+      "entrega": "A consultar"
+    },
+    "ficha": [
+      [
+        "Altura",
+        "1,75 m"
+      ],
+      [
+        "Peso",
+        "75 kg"
+      ],
+      [
+        "Manos",
+        "11 grados de libertad cada una"
+      ],
+      [
+        "Tacto",
+        "25 puntos de fuerza por dedo"
+      ],
+      [
+        "Uso",
+        "industrial"
+      ]
+    ],
+    "nota": "Datos consultados en noviembre de 2026. Confirma antes de decidir."
   }
 }

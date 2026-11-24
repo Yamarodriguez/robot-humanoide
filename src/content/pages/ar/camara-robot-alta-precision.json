@@ -1,0 +1,29 @@
+{
+  "titulo": "Cámaras para Robots en Argentina",
+  "url": "/ar/camara-robot-alta-precision/",
+  "slug": "camara-robot-alta-precision",
+  "alterna": "/camara-robot-alta-precision/",
+  "h1": "Cámaras para Robots en Argentina",
+  "entradilla": "Antes de pedir más megapíxeles, pensá en la luz. La mayoría de las fallas de visión que vemos en galpones se arregla con iluminación pareja.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Consultar disponibilidad"
+  },
+  "hero": "/wp-content/uploads/2025/03/camara-robot.jpg",
+  "metaTitulo": "Cámaras de Alta Precisión para Robots en Argentina",
+  "metaDescripcion": "Cámaras para robots humanoides en Argentina: estéreo, infrarroja y térmica, elección según la tarea, datos personales y compra.",
+  "focusKeyword": "cámaras para robots en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/camara-robot.jpg",
+  "faq": [
+    {
+      "pregunta": "¿Se reemplaza la cámara original?",
+      "respuesta": "En general se suma otra, sin tocar la de fábrica."
+    },
+    {
+      "pregunta": "¿Qué resolución necesito?",
+      "respuesta": "La que ponga al menos veinte píxeles sobre el detalle a reconocer."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué cámara para qué</h2><ul><li><strong>RGB global shutter</strong>: leer códigos en movimiento.</li><li><strong>Estéreo o profundidad</strong>: ubicar objetos a mano.</li><li><strong>Infrarroja</strong>: rondas nocturnas.</li><li><strong>Térmica</strong>: tableros y motores; verificá si el modelo tiene restricciones de exportación en origen.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Integración</h2><p>Confirmá conexión, soporte en Linux y lugar para el montaje. Una cámara USB barata por cabeza puede saturar el bus del robot.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Privacidad</h2><p>Si enfoca a personas, aplicá la Ley 25.326: cartel, plazo de guarda y acceso limitado.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Cámaras para Robots en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Se reemplaza la cámara original?</summary><div class=\"pregunta__resp\"><p>En general se suma otra, sin tocar la de fábrica.</p></div></details><details class=\"pregunta\"><summary>¿Qué resolución necesito?</summary><div class=\"pregunta__resp\"><p>La que ponga al menos veinte píxeles sobre el detalle a reconocer.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros accesorios y repuestos</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/procesadores-y-software-de-ia/\">Procesadores e IA para Robots</a></h3></li><li><h3><a href=\"/ar/piezas-mecanicas-y-brazos-roboticos/\">Piezas Mecánicas y Brazos Robóticos</a></h3></li><li><h3><a href=\"/ar/actuadores-y-servomotores/\">Actuadores y Servomotores para Robots</a></h3></li><li><h3><a href=\"/ar/reductoras-y-transmisiones/\">Reductoras y Transmisiones para Robots</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/accesorios/\">Ver todos los accesorios</a></p></div></section>"
+}

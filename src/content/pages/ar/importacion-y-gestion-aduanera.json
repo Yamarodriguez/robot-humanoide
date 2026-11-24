@@ -1,0 +1,29 @@
+{
+  "titulo": "Importación de Robots Humanoides a Argentina",
+  "url": "/ar/importacion-y-gestion-aduanera/",
+  "slug": "importacion-y-gestion-aduanera",
+  "alterna": "/importacion-y-gestion-aduanera/",
+  "h1": "Importación de Robots Humanoides a Argentina",
+  "entradilla": "La mayoría de las compras fallidas se traban en el mismo lugar: el robot ya está en Ezeiza y recién ahí alguien pregunta con qué posición arancelaria entra.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir presupuesto"
+  },
+  "hero": "/img/servicios/importacion.svg",
+  "metaTitulo": "Importar un Robot Humanoide a Argentina - Aduana, ARCA y Costos",
+  "metaDescripcion": "Cómo importar un robot humanoide a Argentina: posición arancelaria, ARCA, VUCE, batería de litio, courier e importación formal paso a paso.",
+  "focusKeyword": "importación de robots humanoides a argentina",
+  "imagenPrincipal": "/img/servicios/importacion.svg",
+  "faq": [
+    {
+      "pregunta": "¿Puedo traerlo como equipaje?",
+      "respuesta": "Un humanoide completo, no: supera franquicia y peso, y la batería no se admite."
+    },
+    {
+      "pregunta": "¿Conviene declarar menos?",
+      "respuesta": "Nunca. Es una infracción aduanera y te deja sin seguro ni garantía válida."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Antes de pagar al fabricante</h2><ul><li>Pedí <strong>proforma</strong> con descripción técnica, peso y origen.</li><li>El despachante define la <strong>posición NCM</strong>; de eso dependen arancel, IVA e intervenciones.</li><li>Revisá en la <strong>VUCE</strong> si el equipo requiere algún organismo, por ejemplo por radiofrecuencia.</li><li>Confirmá que el importador esté habilitado en ARCA.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>La batería manda en la logística</h2><p>El litio viaja como mercancía peligrosa, con ficha de seguridad y ensayo UN 38.3. Sin esos papeles la aerolínea rechaza la carga. A veces conviene embarcarla por separado.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>En aduana</h2><p>El sistema asigna un canal de selectividad. Con verde sale más rápido; naranja implica control documental y rojo, también físico. Cada día de depósito fiscal se paga.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Importación de Robots Humanoides a Argentina en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Puedo traerlo como equipaje?</summary><div class=\"pregunta__resp\"><p>Un humanoide completo, no: supera franquicia y peso, y la batería no se admite.</p></div></details><details class=\"pregunta\"><summary>¿Conviene declarar menos?</summary><div class=\"pregunta__resp\"><p>Nunca. Es una infracción aduanera y te deja sin seguro ni garantía válida.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros servicios</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/programacion-de-robot-humanoides/\">Programación de Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/mantenimiento-y-reparacion-de-robot/\">Mantenimiento y Reparación de Robots</a></h3></li><li><h3><a href=\"/ar/alquiler-de-robots-humanoides/\">Alquiler de Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/alquiler-para-eventos/\">Alquiler de Robots para Eventos</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/servicios/\">Ver todos los servicios</a></p></div></section>"
+}

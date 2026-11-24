@@ -1,0 +1,29 @@
+{
+  "titulo": "Robot de Vigilancia en Argentina",
+  "url": "/ar/robot-de-vigilancia/",
+  "slug": "robot-de-vigilancia",
+  "alterna": "/robot-de-vigilancia/",
+  "h1": "Robot de Vigilancia en Argentina",
+  "entradilla": "La diferencia con un robot de seguridad es el objetivo: vigilar es <strong>medir y avisar</strong>. Una fuga de agua en un centro de datos o una heladera industrial que deja de enfriar también son incidentes.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir asesoramiento"
+  },
+  "hero": "/wp-content/uploads/2025/03/robot-vigilancia.jpeg",
+  "metaTitulo": "Robot de Vigilancia y Monitoreo en Argentina - Plantas y Edificios",
+  "metaDescripcion": "Robot de vigilancia para plantas, oficinas y obras de Argentina: sensores, monitoreo remoto, conectividad y comparación con cámaras fijas.",
+  "focusKeyword": "robot de vigilancia en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/robot-vigilancia.jpeg",
+  "faq": [
+    {
+      "pregunta": "¿Se conecta a mi central de monitoreo?",
+      "respuesta": "En general sí, por API o video estándar. Requiere integración."
+    },
+    {
+      "pregunta": "¿Cuánto recorre por carga?",
+      "respuesta": "Con unas dos horas de autonomía, planificá rondas cortas con vuelta a la base."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué monitorea</h2><ul><li>Temperatura, humo y humedad en recorridos nocturnos.</li><li>Puertas y portones que quedaron abiertos.</li><li>Cambios contra la imagen de referencia de cada punto.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Comparado con cámaras fijas</h2><p>La cámara graba siempre y no se queda sin batería. El robot llega a zonas muertas y acerca sensores. En la práctica, primero se completa la instalación fija y recién después se evalúa la ronda.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Que funcione de noche en la Argentina real</h2><p>Microcortes, 4G irregular y wifi que no llega al fondo del galpón son lo normal. Pedí que guarde los datos a bordo, que retome la ronda solo y que avise cuando perdió conexión. Para interiores, sumá <a href=\"/ar/camara-robot-alta-precision/\">cámara infrarroja</a>.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Robot de Vigilancia en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Se conecta a mi central de monitoreo?</summary><div class=\"pregunta__resp\"><p>En general sí, por API o video estándar. Requiere integración.</p></div></details><details class=\"pregunta\"><summary>¿Cuánto recorre por carga?</summary><div class=\"pregunta__resp\"><p>Con unas dos horas de autonomía, planificá rondas cortas con vuelta a la base.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros tipos de robots humanoides</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/robot-industrial/\">Robot Humanoide Industrial</a></h3></li><li><h3><a href=\"/ar/robots-de-logistica-y-almacen/\">Robots Humanoides de Logística</a></h3></li><li><h3><a href=\"/ar/robots-de-inspeccion-industrial/\">Robots de Inspección Industrial</a></h3></li><li><h3><a href=\"/ar/robots-de-atencion-al-cliente/\">Robots de Atención al Cliente</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/tipos/\">Ver todos los tipos</a></p></div></section>"
+}

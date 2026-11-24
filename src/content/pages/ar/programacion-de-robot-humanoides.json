@@ -1,0 +1,29 @@
+{
+  "titulo": "Programación de Robots Humanoides en Argentina",
+  "url": "/ar/programacion-de-robot-humanoides/",
+  "slug": "programacion-de-robot-humanoides",
+  "alterna": "/programacion-de-robot-humanoides/",
+  "h1": "Programación de Robots Humanoides en Argentina",
+  "entradilla": "El robot sale de la caja sabiendo caminar. Que haga algo útil en tu empresa es un proyecto de software, y la Argentina tiene buenos equipos para hacerlo.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir presupuesto"
+  },
+  "hero": "/wp-content/uploads/2025/03/programacion-de-robot-humanoide.jpeg",
+  "metaTitulo": "Programación de Robots Humanoides en Argentina - ROS 2, Voz e Integración",
+  "metaDescripcion": "Programación de robots humanoides en Argentina: tareas a medida con SDK y ROS 2, voz en español rioplatense e integración con sistemas.",
+  "focusKeyword": "programación de robots humanoides en argentina",
+  "imagenPrincipal": "/wp-content/uploads/2025/03/programacion-de-robot-humanoide.jpeg",
+  "faq": [
+    {
+      "pregunta": "¿Trabajan a distancia?",
+      "respuesta": "Buena parte, con simulador y acceso remoto; los ajustes finales son con el robot."
+    },
+    {
+      "pregunta": "¿Sirve cualquier versión?",
+      "respuesta": "No. Algunas ediciones bloquean el acceso de desarrollo."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué se puede pedir</h2><ul><li><strong>Demostraciones</strong>: secuencias, gestos y recorridos.</li><li><strong>Voz</strong>: conversación con voseo, conectada a tu base de conocimiento.</li><li><strong>Integración</strong>: turnos, stock, ERP o central de alarmas.</li><li><strong>Autonomía</strong>: navegar y manipular, lo más complejo y caro.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Cómo cotizamos</h2><p>Por entregables con prueba de aceptación, no por «dejarlo inteligente». Cada etapa se valida primero en simulador y después en el equipo.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Que no quedes atado</h2><p>Pedí código en tu repositorio, documentación y copia de la configuración del robot. Si tenés equipo propio, sumá el <a href=\"/ar/programacion-con-sdk/\">curso de SDK</a> y seguí vos.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Programación de Robots Humanoides en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Trabajan a distancia?</summary><div class=\"pregunta__resp\"><p>Buena parte, con simulador y acceso remoto; los ajustes finales son con el robot.</p></div></details><details class=\"pregunta\"><summary>¿Sirve cualquier versión?</summary><div class=\"pregunta__resp\"><p>No. Algunas ediciones bloquean el acceso de desarrollo.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros servicios</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/mantenimiento-y-reparacion-de-robot/\">Mantenimiento y Reparación de Robots</a></h3></li><li><h3><a href=\"/ar/alquiler-de-robots-humanoides/\">Alquiler de Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/alquiler-para-eventos/\">Alquiler de Robots para Eventos</a></h3></li><li><h3><a href=\"/ar/implementacion-de-robot-en-empresas-y-negocios/\">Implementación de Robots en Empresas</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/servicios/\">Ver todos los servicios</a></p></div></section>"
+}

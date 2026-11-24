@@ -1,0 +1,29 @@
+{
+  "titulo": "Normativa para Robots Humanoides en Argentina",
+  "url": "/ar/normativa-y-certificaciones/",
+  "slug": "normativa-y-certificaciones",
+  "alterna": "/marcado-ce-y-normativa/",
+  "h1": "Normativa para Robots Humanoides en Argentina",
+  "entradilla": "En Argentina no existe una ley específica de robots humanoides. Lo que hay es un conjunto de normas generales que se activan según qué tiene el equipo adentro y para qué se usa.",
+  "cta": {
+    "url": "/ar/contacto/",
+    "texto": "Pedir presupuesto"
+  },
+  "hero": "/img/servicios/marcado-ce.svg",
+  "metaTitulo": "Normativa para Robots Humanoides en Argentina - Certificaciones",
+  "metaDescripcion": "Qué normas alcanzan a un robot humanoide en Argentina: seguridad eléctrica, radiofrecuencia, higiene y seguridad, ANMAT y datos personales.",
+  "focusKeyword": "normativa para robots humanoides en argentina",
+  "imagenPrincipal": "/img/servicios/marcado-ce.svg",
+  "faq": [
+    {
+      "pregunta": "¿Necesito seguro obligatorio?",
+      "respuesta": "No hay uno específico, aunque una póliza de responsabilidad civil es muy recomendable."
+    },
+    {
+      "pregunta": "¿Puede andar por la vereda?",
+      "respuesta": "Cada municipio puede exigir permiso. Consultá antes."
+    }
+  ],
+  "botones": {},
+  "html": "<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué puede intervenir</h2><ul><li><strong>Seguridad eléctrica</strong>: reglamentos técnicos para equipos y cargadores de baja tensión.</li><li><strong>ENACOM</strong>: homologación de módulos wifi, bluetooth o celulares, según el caso.</li><li><strong>Ley 19.587 y ART</strong>: si trabaja donde hay empleados.</li><li><strong>ANMAT</strong>: si se declara un uso médico.</li><li><strong>Ley 25.326</strong>: si capta imágenes o datos de personas.</li></ul></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>¿Y el marcado CE?</h2><p>No es obligatorio ni suficiente acá, pero pedilo: el expediente técnico europeo acelera el análisis de riesgos. Son referencia útil las normas ISO 10218 para robots industriales e ISO 13482 para asistencia personal.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Qué preparamos</h2><p>Lista de requisitos del modelo y uso, documentación del fabricante y análisis de riesgos inicial para tu responsable de higiene y seguridad. Las reglas cambian: se verifican al momento de importar.</p></div></div></section>\n<section class=\"seccion\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Preguntas sobre Normativa para Robots Humanoides en Argentina</h2></div><div class=\"acordeon\"><details class=\"pregunta\"><summary>¿Necesito seguro obligatorio?</summary><div class=\"pregunta__resp\"><p>No hay uno específico, aunque una póliza de responsabilidad civil es muy recomendable.</p></div></details><details class=\"pregunta\"><summary>¿Puede andar por la vereda?</summary><div class=\"pregunta__resp\"><p>Cada municipio puede exigir permiso. Consultá antes.</p></div></details></div></div></section>\n<section class=\"seccion seccion--alt\"><div class=\"contenedor\"><div class=\"prosa\"><h2>Otros servicios</h2></div><ul class=\"lista-hermanos\"><li><h3><a href=\"/ar/venta-de-robots-humanoides/\">Venta de Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/importacion-y-gestion-aduanera/\">Importación de Robots Humanoides a Argentina</a></h3></li><li><h3><a href=\"/ar/programacion-de-robot-humanoides/\">Programación de Robots Humanoides</a></h3></li><li><h3><a href=\"/ar/mantenimiento-y-reparacion-de-robot/\">Mantenimiento y Reparación de Robots</a></h3></li></ul><p class=\"seccion__cta\"><a class=\"pildora\" href=\"/ar/servicios/\">Ver todos los servicios</a></p></div></section>"
+}
