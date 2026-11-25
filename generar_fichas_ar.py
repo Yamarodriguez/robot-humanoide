@@ -19,6 +19,7 @@ import re
 
 from generar_ar import (DESTINO, RAIZ, boton, pagina, preguntas, prosa,
                         rejilla, seccion, tabla)
+from igualar_ar import adaptar, bloques_ficha, quitados, relacionados, sumar_paginas
 
 GRUPOS = {
     'tipos': ('Otros tipos de robots humanoides', '/ar/tipos/', 'Ver todos los tipos', 'Pedir asesoramiento'),
@@ -100,6 +101,13 @@ def cuerpo(f):
     return entradilla, bloques, faq, precio
 
 
+def texto_tarjeta(f):
+    """El texto de la tarjeta de España, adaptado."""
+    html = leer_json('src', 'content', 'pages', f['grupo'] + '.json')['html']
+    m = re.search(rf'<article class="tarjeta" id="{f["raiz"]}">.*?<p>(.*?)</p>', html, re.S)
+    return adaptar(f'<p>{m[1]}</p>', f['raiz'])[3:-4] if m else ''
+
+
 def tarjetas_raiz():
     """slug -> (imagen, ancho, alto) sacado de las tarjetas de la raíz."""
     res = {}
@@ -122,8 +130,8 @@ def ficha_tecnica(f, precio, marcas):
     filas += [x for x in (d.get('ficha') or []) if x[0] not in FILAS_ES]
     nombre = nombre_corto(f['h1'])
     filas[0][1] = filas[0][1].replace('$', 'USD').replace('€', 'USD')
-    return seccion(prosa(f'<h2>{nombre}: ficha y precio en Argentina</h2>') +
-                   tabla(['Dato', 'Detalle'], filas, 'Valores orientativos en dólares. Se confirman al cotizar.'), alt=True)
+    return (prosa(f'<h2>{nombre}: ficha y precio en Argentina</h2><p>Consultá la <strong>ficha técnica</strong> y el <strong>precio</strong> del {nombre}: especificaciones, disponibilidad y plazo de entrega.</p>') +
+            tabla(['Dato', 'Detalle'], filas, 'Valores orientativos en dólares. Se confirman al cotizar.'))
 
 
 def relink(html, mapa):
@@ -153,19 +161,12 @@ def main():
 
     for f in fichas:
         entradilla, bloques, faq, precio = partes[f['ar']]
-        titulo_h, url_h, texto_h, cta = GRUPOS[f['grupo']]
-        s = [seccion(prosa(b), alt=i % 2 == 1) for i, b in enumerate(bloques)]
-        if precio:
-            s.insert(0, ficha_tecnica(f, precio, marcas))
+        _, _, _, cta = GRUPOS[f['grupo']]
+        # Primero los mismos bloques que España; después, lo propio de Argentina.
+        todos = bloques_ficha(f, ficha_tecnica(f, precio, marcas)) + [prosa(b) for b in bloques]
+        s = [seccion(b, alt=i % 2 == 1) for i, b in enumerate(todos)]
         s.append(preguntas(f'Preguntas sobre {nombre_corto(f["h1"])} en Argentina', faq))
-        hermanos = [x for x in fichas if x['grupo'] == f['grupo'] and x is not f]
-        # Cuatro vecinas de la lista, distintas en cada ficha.
-        todas = [x for x in fichas if x['grupo'] == f['grupo']]
-        i = todas.index(f)
-        vecinas = [todas[(i + k) % len(todas)] for k in range(1, min(5, len(hermanos) + 1))]
-        s.append(seccion(prosa(f'<h2>{titulo_h}</h2>') + '<ul class="lista-hermanos">' + ''.join(
-            f'<li><h3><a href="/ar/{x["ar"]}/">{nombre_corto(x["h1"])}</a></h3></li>' for x in vecinas) +
-            '</ul>' + boton(url_h, texto_h), alt=True))
+        s += relacionados(f['grupo'], f['ar'], fichas, nombre_corto)
         hero = imgs.get(f['raiz'], (None,))[0]
         p = pagina(f['ar'], f'/{f["raiz"]}/', f['h1'], f['h1'], f['meta'], f['desc'], entradilla, s,
                    [(q, sin_html(r)) for q, r in faq], hero=hero,
@@ -180,7 +181,7 @@ def main():
         'Cuáles se pueden traer a Argentina, cuáles no se venden en ningún lado y cuánto cuestan <strong>puestas en el país</strong>.',
         '<h2>Qué marcas se consiguen y cuáles solo se ven en videos</h2><p>De las marcas y modelos de esta guía, una minoría admite una compra desde Argentina. '
         'En cada ficha decimos primero si se puede traer y después qué hace.</p>',
-        de('marcas'), lambda f: f'Puesto en Argentina: {partes[f["ar"]][3][0]}. ¿Se puede comprar? {partes[f["ar"]][3][1]}.',
+        de('marcas'), lambda f: texto_tarjeta(f) + f' Puesto en Argentina: {partes[f["ar"]][3][0]}. ¿Se puede comprar? {partes[f["ar"]][3][1]}.',
         [('¿Qué marca conviene para empezar en Argentina?', 'Para aprender o mostrar, Unitree R1. Para desarrollar, Unitree G1 en versión EDU o Booster K1. Para escuelas, la línea educativa de UBTech.'),
          ('¿Hay marcas argentinas de humanoides?', 'No tenemos verificado ningún fabricante local de humanoides comerciales. Sí hay grupos universitarios que desarrollan prototipos.'),
          ('¿Hay representantes oficiales?', 'Cambian según la marca y el momento. Antes de pagar, confirmá en la web del fabricante que el vendedor figure como autorizado.')],
@@ -197,7 +198,7 @@ def main():
         'Qué se consigue o se fabrica en el país, qué hay que importar y qué repuestos conviene <strong>tener en stock</strong>.',
         '<h2>Repuestos: lo local, lo importado y lo urgente</h2><p>Un robot parado por un repuesto que está en aduana es la situación más común en Argentina. '
         'Se evita pidiendo lo crítico junto con el equipo y resolviendo acá lo que se puede.</p>',
-        de('accesorios'), lambda f: f['desc'],
+        de('accesorios'), lambda f: texto_tarjeta(f) + ' ' + f['desc'],
         [('¿Los repuestos entran por courier?', 'Muchos sí, por valor y tamaño. Las baterías de litio grandes son la excepción habitual.'),
          ('¿Qué repuestos pido junto con el robot?', 'Como mínimo una batería, un actuador de rodilla, uno de tobillo, cables y cubiertas de manos.'),
          ('¿Sirven los genéricos?', 'En carcasas, soportes y cables, a veces. En encoders, baterías y actuadores conviene el original.')],
@@ -206,6 +207,8 @@ def main():
         '<li><strong>En el país</strong>: soporte o arnés, protección eléctrica, herramientas y cubiertas impresas.</li>'
         '<li><strong>Según la tarea</strong>: manos, cámara o LiDAR adicional.</li></ul>',
         '/img/heroes/accesorios-y-repuestos-robot-humanoide.webp'))
+
+    sumar_paginas(DESTINO)
 
     # Enlaces: todo lo que se ve en /ar/ apunta a su versión /ar/ si existe.
     for ruta in glob.glob(os.path.join(DESTINO, '*.json')):
@@ -231,6 +234,8 @@ def main():
     site['navegacionAR'] = [n for n in site['navegacionAR'] if n.get('url') != '/sobre-nosotros/']
     site['_comentario_navegacionAR'] = 'Menú de las páginas /ar/ (versión Argentina). Las fichas enlazan a su versión /ar/ (generar_fichas_ar.py).'
     guardar(ruta_site, site)
+    for o, x in quitados:
+        print('  sin adaptar, fuera:', o, '|', re.sub('<[^>]+>', '', x)[:90])
     print(len(fichas), 'fichas y 2 secciones')
 
 

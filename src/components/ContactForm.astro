@@ -42,7 +42,7 @@ const { pais } = Astro.props;
   </div>
 
   <div class="campo">
-    <label for="interes">¿Qué necesitas?</label>
+    <label for="interes">{pais === 'Argentina' ? '¿Qué necesitás?' : '¿Qué necesitas?'}</label>
     <select id="interes" name="interes" required>
       <option value="">Selecciona…</option>
       <option>Comprar un robot humanoide</option>

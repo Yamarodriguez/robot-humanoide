@@ -11,6 +11,8 @@ import json
 import os
 import re
 
+from argentino import argentino, es_de_espana
+
 RAIZ = os.path.dirname(os.path.abspath(__file__))
 ORIGEN = os.path.join(RAIZ, 'contenido-seo')
 DOMINIO = 'https://robothumanoide.org'
@@ -47,6 +49,30 @@ def main():
                     p['secciones'][-1]['html'] += f'<p>{en_linea(l)}</p>'
             for s in p['secciones']:
                 s['html'] = re.sub(r'((?:<li>.*?</li>)+)', r'<ul>\1</ul>', s['html'])
+    # Fichas argentinas: el mismo refuerzo que España, adaptado. Lo que solo
+    # vale en España (leyes, euros, tiendas) no pasa.
+    site = json.load(open(os.path.join(RAIZ, 'src', 'data', 'site.json'), encoding='utf-8'))
+    fichas_ar = set(re.findall(r'"url": "(/ar/[^"]+)"', json.dumps(site['navegacionAR'])))
+    for url in list(datos):
+        ar = '/ar' + ('/normativa-y-certificaciones/' if url == '/marcado-ce-y-normativa/' else url)
+        if url.startswith('/ar/') or ar not in fichas_ar or ar in datos:
+            continue
+        p = datos[url]
+        cambia = lambda t: re.sub(r'href="/(?!ar/)([a-z0-9-]+)/"', r'href="/ar/\1/"', argentino(t))
+        n = {'secciones': [], 'faq': []}
+        resp = [x for x in re.split(r'(?<=\.) (?=[A-ZÁÉÍÓÚ])', cambia(p.get('respuesta', ''))) if not es_de_espana(x)]
+        if resp:
+            n['respuesta'] = ' '.join(resp)
+        for s in p['secciones']:
+            s = {k: cambia(v) for k, v in s.items()}
+            if not es_de_espana(s['h2'] + s['html']):
+                n['secciones'].append(s)
+        for q in p['faq']:
+            q = {k: cambia(v) for k, v in q.items()}
+            # Sin sección debajo de la que colgar, la pregunta no se pinta.
+            if n['secciones'] and not es_de_espana(q['pregunta'] + q['respuesta']):
+                n['faq'].append(q)
+        datos[ar] = n
     for l in leer('ciudades.txt').strip().split('\n'):
         slug, h2, texto, q, r = l.split('|')
         datos[f'/{slug}/'] = {'secciones': [{'h2': h2, 'html': f'<p>{texto}</p>'}],

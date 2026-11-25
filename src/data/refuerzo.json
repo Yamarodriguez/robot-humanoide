@@ -1477,6 +1477,1065 @@
   ],
   "respuesta": "Kepler K2 Bumblebee es un humanoide industrial de 1,75 m y 75 kg. En 2025 se comunicó un precio base de 30.000 dólares."
  },
+ "/ar/contacto/": {
+  "secciones": [
+   {
+    "h2": "Qué datos incluir al pedir presupuesto de un robot humanoide",
+    "html": "<ul><li>Tarea y horas diarias.</li><li>Ciudad, tipo de suelo y escaleras.</li><li>Compra, alquiler o leasing.</li><li>Necesidad de programación o capacitación.</li><li>Fecha y presupuesto orientativo.</li></ul>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "Para pedir presupuesto de un robot humanoide indica tarea, ciudad, fecha, horas de uso y si preferís compra o alquiler. Con esos datos se puede descartar o proponer un modelo concreto."
+ },
+ "/ar/robot-industrial/": {
+  "secciones": [
+   {
+    "h2": "¿Qué diferencia hay entre un humanoide industrial y un cobot?",
+    "html": "<p>El cobot es fijo, preciso y más barato por ciclo. El humanoide se desplaza y cambia de puesto, a cambio de menos velocidad y autonomía.</p>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "Un robot humanoide industrial manipula piezas y mueve material en espacios diseñados para personas. Hoy sirve para pilotos con tareas repetitivas y cargas ligeras, no para sustituir una línea automatizada."
+ },
+ "/ar/robot-de-compania/": {
+  "secciones": [
+   {
+    "h2": "¿Es útil un robot de compañía para adultos mayores?",
+    "html": "<p>Puede ayudar si la persona lo acepta, tiene conexión estable y alguien lo configura. Para caídas o urgencias, la prioridad es un sistema de alerta homologado.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un robot de compañía graba las conversaciones?",
+    "respuesta": "Algunos envían audio a la nube. Revisá permisos, conservación y borrado antes de usarlo."
+   }
+  ],
+  "respuesta": "Un robot de compañía conversa, recuerda rutinas y facilita videollamadas. Acompaña, pero no sustituye a un cuidador ni a la teleasistencia."
+ },
+ "/ar/robots-medicos/": {
+  "secciones": [
+   {
+    "h2": "¿Qué tareas hace un robot humanoide en un hospital?",
+    "html": "<p>Transportar material ligero, guiar visitantes, dar información y acompañar actividades supervisadas. Las tareas de contacto físico siguen siendo del personal.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede un robot cuidar a un paciente solo?",
+    "respuesta": "No. Necesita supervisión y un protocolo de derivación."
+   }
+  ],
+  "respuesta": "Un robot humanoide médico se usa en logística hospitalaria, orientación y apoyo asistencial. No diagnostica ni opera, y un uso clínico declarado exige cumplir la normativa de productos de saluds."
+ },
+ "/ar/robot-camarero/": {
+  "secciones": [
+   {
+    "h2": "¿Merece la pena un robot mozo en un restaurante?",
+    "html": "<p>Cuando hay muchos viajes largos y suelo liso. En locales estrechos, con escalones o poca distancia a cocina, apenas ahorra.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Un robot mozo puede llevar bebidas?",
+    "respuesta": "Sí, con base estable y velocidad limitada; las copas altas requieren prueba previa."
+   }
+  ],
+  "respuesta": "Un robot mozo transporta platos y retira vajilla. La mayoría son bandejas autónomas con ruedas, no humanoides, y rinden en salones amplios."
+ },
+ "/ar/robots-educativos/": {
+  "secciones": [],
+  "faq": [],
+  "respuesta": "Los robots humanoides educativos enseñan programación, electrónica e inteligencia artificial con un equipo físico. El modelo depende de la etapa y de la capacitación del cuerpo docente."
+ },
+ "/ar/robots-para-el-hogar/": {
+  "secciones": [
+   {
+    "h2": "¿Existe un robot que haga las tareas de casa?",
+    "html": "<p>Hay primeros modelos domésticos con ayuda remota en algunas tareas, como <a href=\"/ar/1x-technologies-neo/\">NEO</a>. Para limpiar suelos, un robot aspirador sigue siendo más fiable.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Es seguro con niños o mascotas?",
+    "respuesta": "Solo con supervisión, zona despejada y siguiendo el manual; es una máquina pesada con motores."
+   }
+  ],
+  "respuesta": "Los robots humanoides para el hogar están en fase inicial."
+ },
+ "/ar/robots-empresariales/": {
+  "secciones": [
+   {
+    "h2": "¿Qué empresas usan robots humanoides?",
+    "html": "<p>Hay pilotos conocidos en automoción y logística, como los de <a href=\"/ar/figure-ai-figure-03/\">Figure</a> y <a href=\"/ar/agility-robotics-digit/\">Agility</a>. En pymes predominan demostración, capacitación e innovación.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Por dónde empieza una pyme?",
+    "respuesta": "Por medir una tarea y probar con alquiler antes de comprar."
+   }
+  ],
+  "respuesta": "Un robot humanoide para empresas se usa en recepción, demostraciones, capacitación o pilotos operativos. Compensa cuando hay una tarea medible o un retorno comercial claro."
+ },
+ "/ar/robots-seguridad/": {
+  "secciones": [],
+  "faq": [],
+  "respuesta": "Un robot de seguridad realiza rondas, registra incidencias y avisa a un operador. No puede detener ni cachear, y debe integrarse en un servicio de seguridad conforme a la ley."
+ },
+ "/ar/robot-de-vigilancia/": {
+  "secciones": [
+   {
+    "h2": "¿Robot de vigilancia o cámaras de seguridad?",
+    "html": "<p>Las cámaras ofrecen continuidad y menor costo. El robot añade movilidad, sensores cercanos y verificación de alarmas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede vigilar de noche?",
+    "respuesta": "Sí, con iluminación, infrarrojos o térmica y un recorrido probado."
+   }
+  ],
+  "respuesta": "Un robot de vigilancia recorre puntos programados, toma imágenes o mediciones y alerta de cambios. Complementa las cámaras fijas en zonas muertas."
+ },
+ "/ar/robots-de-logistica-y-almacen/": {
+  "secciones": [
+   {
+    "h2": "¿Humanoide, AMR o AGV para un almacén?",
+    "html": "<p>AMR y AGV transportan mejor. El humanoide aporta brazos para coger y dejar. Muchas veces la solución combina ambos.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuánto peso levanta un humanoide de almacén?",
+    "respuesta": "Depende del modelo y de la postura; pedí la carga útil con el brazo extendido y en uso continuo."
+   }
+  ],
+  "respuesta": "Los robots humanoides de logística cogen contenedores y los trasladan entre estaciones. Es uno de los usos con más pilotos reales, siempre en flujos acotados."
+ },
+ "/ar/robots-de-rehabilitacion/": {
+  "secciones": [
+   {
+    "h2": "¿Qué robot se usa en fisioterapia?",
+    "html": "<p>Exoesqueletos, dispositivos de mano o marcha y plataformas sociales. La elección depende de la lesión, la evidencia clínica y la certificación.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede usarse en casa?",
+    "respuesta": "Solo si el producto y el profesional lo prevén, con capacitación y seguimiento."
+   }
+  ],
+  "respuesta": "Los robots de rehabilitación ayudan a repetir, medir y motivar ejercicios bajo control profesional. Un humanoide no equivale a un exoesqueleto terapéutico."
+ },
+ "/ar/robots-de-investigacion/": {
+  "secciones": [
+   {
+    "h2": "¿Cuál es el mejor robot humanoide para una universidad?",
+    "html": "<p><a href=\"/ar/unitree-g1/\">Unitree G1 EDU</a> por comunidad y <a href=\"/ar/booster-robotics-k1/\">Booster K1</a> por tamaño y docencia son candidatos habituales. Decidí según simulador, acceso de bajo nivel y repuestos.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Son compatibles con ROS 2?",
+    "respuesta": "Varios sí, aunque el nivel de acceso depende de la edición."
+   }
+  ],
+  "respuesta": "Un robot humanoide de investigación ofrece SDK, acceso a motores y sensores para estudiar locomoción, manipulación o IA. La versión concreta importa tanto como la marca."
+ },
+ "/ar/robots-de-atencion-al-cliente/": {
+  "secciones": [
+   {
+    "h2": "¿Qué negocios pueden usar un robot recepcionista?",
+    "html": "<p>Hoteles, centros comerciales, clínicas, ferias y sedes con consultas repetidas. Si hay pocas visitas, una pantalla suele bastar.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede conectarse a ChatGPT u otro modelo de IA?",
+    "respuesta": "Técnicamente sí, si el robot permite integración; hay que limitar respuestas y proteger datos."
+   }
+  ],
+  "respuesta": "Un robot de atención al cliente recibe, orienta y responde preguntas frecuentes. Funciona mejor con un ámbito limitado y derivación inmediata a una persona."
+ },
+ "/ar/robots-de-inspeccion-industrial/": {
+  "secciones": [
+   {
+    "h2": "¿Humanoide, dron o cuadrúpedo para inspección?",
+    "html": "<p>Dron para altura, cuadrúpedo para terreno irregular y humanoide para puertas, escaleras y mandos pensados para personas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede sustituir una inspección obligatoria?",
+    "respuesta": "No por sí solo; puede aportar datos a un técnico autorizado."
+   }
+  ],
+  "respuesta": "Un robot de inspección lee indicadores, detecta calor o ruidos y documenta rondas. Antes de usarlo en zonas con gases o polvo hay que comprobar su certificación para atmósferas explosivas."
+ },
+ "/ar/robots-para-eventos/": {
+  "secciones": [
+   {
+    "h2": "¿Qué puede hacer un robot en una feria o congreso?",
+    "html": "<p>Recibir, hacer una demostración breve, interactuar en fotos y derivar visitantes. Conviene trabajar por pases.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuánto espacio necesita?",
+    "respuesta": "Como referencia, una zona despejada de unos 4 × 4 metros, según modelo y movimientos."
+   }
+  ],
+  "respuesta": "Un robot humanoide para eventos saluda, baila, presenta y atrae visitantes con un operador. El impacto mejora con guion, espacio seguro y captación de contactos."
+ },
+ "/ar/unitree-g1/": {
+  "secciones": [
+   {
+    "h2": "¿Qué diferencia hay entre Unitree G1 y G1 EDU?",
+    "html": "<p>El G1 básico se orienta a demostración. El EDU añade opciones de desarrollo y mayor acceso, por lo que es el indicado para investigación.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿El Unitree G1 puede trabajar en casa?",
+    "respuesta": "No viene preparado para resolver tareas domésticas de forma autónoma."
+   }
+  ],
+  "respuesta": "El Unitree G1 mide 1,32 m, pesa unos 35 kg y tiene unas dos horas de autonomía."
+ },
+ "/ar/1x-technologies-neo/": {
+  "secciones": [],
+  "faq": [],
+  "respuesta": "1X NEO es un humanoide doméstico anunciado a 20.000 dólares o 499 dólares al mes."
+ },
+ "/ar/agility-robotics-digit/": {
+  "secciones": [
+   {
+    "h2": "¿Qué hace Digit en un almacén?",
+    "html": "<p>Recoge y deposita contenedores entre carros, estantes y transportadores, un flujo repetitivo con medidas conocidas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuánto cuesta Digit?",
+    "respuesta": "Se usa como referencia un modelo de servicio de unos 8.500 dólares al mes; el contrato depende del proyecto."
+   }
+  ],
+  "respuesta": "Digit es un humanoide de Agility Robotics para mover contenedores en almacenes. Se contrata por proyecto y no está pensado para particulares."
+ },
+ "/ar/figure-ai-figure-03/": {
+  "secciones": [],
+  "faq": [],
+  "respuesta": "Figure 03 es el humanoide de Figure AI. No se vende al público y su experiencia industrial más citada procede de un piloto en BMW."
+ },
+ "/ar/ubtech/": {
+  "secciones": [
+   {
+    "h2": "¿Qué diferencia hay entre UBTech Walker y Cruzr?",
+    "html": "<p>Walker es bípedo e industrial. Cruzr se mueve con ruedas y se orienta a recepción y servicio.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿UBTech vende robots para niños?",
+    "respuesta": "Sí, tiene líneas educativas; comprobá edad, idioma y aplicación."
+   }
+  ],
+  "respuesta": "UBTech fabrica robots educativos, de servicio como Cruzr e industriales como Walker. La gama educativa es la más accesible; Walker se plantea por proyecto."
+ },
+ "/ar/fourier-intelligence-gr-2/": {
+  "secciones": [
+   {
+    "h2": "¿El Fourier GR-2 es un robot médico?",
+    "html": "<p>No debe darse por hecho. Un fabricante puede tener equipos de saluds y un humanoide de investigación con situaciones regulatorias distintas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Para quién es el GR-2?",
+    "respuesta": "Laboratorios e integradores que trabajan interacción, manipulación o teleoperación."
+   }
+  ],
+  "respuesta": "El Fourier GR-2 es un humanoide de investigación de una empresa con experiencia en rehabilitación. Su uso con pacientes requiere verificar la certificación concreta."
+ },
+ "/ar/neura-robotics-4ne-1/": {
+  "secciones": [],
+  "faq": [],
+  "respuesta": "El 4NE-1 es el humanoide de la alemana Neura Robotics, orientado a industria y entornos de servicio. La compra se consulta con el fabricante."
+ },
+ "/ar/robot-tesla-bot-optimus/": {
+  "secciones": [
+   {
+    "h2": "¿Cuándo se podrá comprar Tesla Optimus?",
+    "html": "<p>Sin una apertura oficial de pedidos no hay fecha fiable. Las preventas de terceros deben tratarse como sospechosas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Optimus ya trabaja?",
+    "respuesta": "Tesla lo desarrolla y prueba en sus instalaciones; eso no equivale a venta comercial."
+   }
+  ],
+  "respuesta": "Tesla Optimus no se vende al público."
+ },
+ "/ar/robot-boston-dynamics-atlas/": {
+  "secciones": [
+   {
+    "h2": "¿Cuánto cuesta el robot Atlas?",
+    "html": "<p>No hay un precio público. El producto de la marca con comercialización más conocida es Spot, un cuadrúpedo.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Atlas es hidráulico?",
+    "respuesta": "La versión actual es eléctrica; la hidráulica se retiró en 2024."
+   }
+  ],
+  "respuesta": "Atlas es el humanoide eléctrico de Boston Dynamics, empresa controlada por Hyundai. Se orienta a industria y no se vende como unidad al público."
+ },
+ "/ar/robot-xiaomi-cyberone/": {
+  "secciones": [
+   {
+    "h2": "¿Por qué no se puede comprar Xiaomi CyberOne?",
+    "html": "<p>Porque se presentó como desarrollo tecnológico, sin canal de venta. Los artículos baratos con ese nombre no son el robot real.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿CyberOne y CyberDog son lo mismo?",
+    "respuesta": "No. CyberDog es un cuadrúpedo."
+   }
+  ],
+  "respuesta": "CyberOne es un prototipo humanoide presentado por Xiaomi en 2022. Mide 1,77 m, pesa 52 kg y nunca se comercializó."
+ },
+ "/ar/robot-honda-asimo/": {
+  "secciones": [
+   {
+    "h2": "¿Qué significa ASIMO y por qué fue importante?",
+    "html": "<p>Son las siglas de Advanced Step in Innovative Mobility. Popularizó la marcha bípeda fluida y mostró lo difícil que era convertirla en producto.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Dónde está ASIMO hoy?",
+    "respuesta": "Ya no realiza demostraciones regulares; sus unidades son parte del legado de Honda."
+   }
+  ],
+  "respuesta": "ASIMO fue el humanoide de Honda presentado en 2000 y retirado en 2022. Caminaba, subía escaleras y alcanzaba 6 km/h, pero no se vendía."
+ },
+ "/ar/robot-sophia-hanson-robotics/": {
+  "secciones": [
+   {
+    "h2": "¿El robot Sophia tiene ciudadanía?",
+    "html": "<p>Arabia Saudita lo anunció en 2017, en un gesto simbólico y muy debatido. No convierte al robot en persona.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se puede contratar a Sophia?",
+    "respuesta": "La participación en eventos se consulta con Hanson Robotics."
+   }
+  ],
+  "respuesta": "Sophia es un robot social de Hanson Robotics presentado en 2016. Destaca por sus expresiones y combina guion e IA; no es consciente."
+ },
+ "/ar/unitree-r1/": {
+  "secciones": [
+   {
+    "h2": "¿Unitree R1 o G1?",
+    "html": "<p>R1 para iniciación, contenido y demostración. G1 para manipulación, investigación y mayor ampliación.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿El Unitree R1 limpia la casa?",
+    "respuesta": "No es un robot doméstico listo para tareas."
+   }
+  ],
+  "respuesta": "Priorizá agilidad y acceso."
+ },
+ "/ar/booster-robotics-k1/": {
+  "secciones": [
+   {
+    "h2": "¿Booster K1 es bueno para RoboCup?",
+    "html": "<p>Su tamaño y enfoque lo hacen interesante para fútbol robótico. Comprobá la categoría y reglas de la edición en la que compitas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Necesito programar para usarlo?",
+    "respuesta": "Para sacarle partido, sí; está orientado a desarrollo."
+   }
+  ],
+  "respuesta": "Booster K1 es un humanoide compacto para docencia e investigación, con SDK y compatibilidad ROS."
+ },
+ "/ar/noetix-bumi/": {
+  "secciones": [
+   {
+    "h2": "¿Qué puede hacer Noetix Bumi?",
+    "html": "<p>Moverse, demostrar gestos e introducir programación. No debe confundirse con un humanoide de trabajo.</p>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "Noetix Bumi es un humanoide pequeño anunciado por menos de 1.400 dólares."
+ },
+ "/ar/venta-de-robots-humanoides/": {
+  "secciones": [
+   {
+    "h2": "¿Qué incluye la compra llave en mano?",
+    "html": "<p>Selección, gestión de pedido, entrega, configuración y capacitación básica, según presupuesto. La programación de una tarea se define aparte.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se puede pagar a plazos?",
+    "respuesta": "Depende de financiación aprobada o de una fórmula de leasing."
+   }
+  ],
+  "respuesta": "La venta de un robot humanoide debe incluir modelo exacto, transporte, impuestos, conformidad, garantía y puesta en marcha. El precio de catálogo no es el costo total."
+ },
+ "/ar/programacion-de-robot-humanoides/": {
+  "secciones": [
+   {
+    "h2": "¿Cuánto cuesta programar un robot humanoide?",
+    "html": "<p>Depende de la tarea: un guion de evento requiere mucho menos que manipular objetos variables. Se presupuesta por entregables.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Se puede programar con IA?",
+    "respuesta": "Sí, con modelos de lenguaje o políticas entrenadas, siempre con límites y pruebas."
+   }
+  ],
+  "respuesta": "Programar un robot humanoide consiste en combinar SDK, sensores, navegación, voz y seguridad para resolver una tarea. Suele usarse Python, C++ y ROS 2."
+ },
+ "/ar/mantenimiento-y-reparacion-de-robot/": {
+  "secciones": [
+   {
+    "h2": "¿Cuáles son las averías más frecuentes?",
+    "html": "<p>Juego o calor en articulaciones, cables dañados, sensores descalibrados y degradación de batería. Un registro de uso facilita el diagnóstico.</p>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "El mantenimiento de robots humanoides incluye limpieza, calibración, software, batería, actuadores y comprobaciones de seguridad. La frecuencia depende de horas, carga y manual."
+ },
+ "/ar/alquiler-de-robots-humanoides/": {
+  "secciones": [
+   {
+    "h2": "¿Qué debe incluir un contrato de alquiler?",
+    "html": "<p>Horas, soporte, sustitución, seguro, transporte, operador y tratamiento de datos. También quién responde por caídas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Hay opción de compra?",
+    "respuesta": "Solo si figura en el contrato o presupuesto."
+   }
+  ],
+  "respuesta": "El alquiler de robots humanoides permite usar un equipo durante semanas o meses sin comprarlo. Es adecuado para pilotos, temporadas y capacitación."
+ },
+ "/ar/implementacion-de-robot-en-empresas-y-negocios/": {
+  "secciones": [
+   {
+    "h2": "¿Cuánto tarda la implantación de un robot?",
+    "html": "<p>Una demostración puede prepararse en poco tiempo; un proceso productivo necesita piloto, integración y validación. El calendario depende de la tarea.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué indicadores se usan?",
+    "respuesta": "Ciclos correctos, paradas, intervenciones, costo por ciclo y seguridad."
+   }
+  ],
+  "respuesta": "Implantar un robot humanoide exige definir una tarea, analizar riesgos, integrar sistemas, formar al equipo y medir resultados antes de ampliar."
+ },
+ "/ar/importacion-y-gestion-aduanera/": {
+  "secciones": [],
+  "faq": [],
+  "respuesta": "El importador asume obligaciones."
+ },
+ "/ar/alquiler-para-eventos/": {
+  "secciones": [
+   {
+    "h2": "¿Cómo contratar un robot para un evento?",
+    "html": "<p>Indicá fecha, lugar, público, superficie y objetivo. Con eso se prepara el guion, el perímetro y la logística.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Con cuánta antelación se reserva?",
+    "respuesta": "Cuanto antes: la programación a medida y los desplazamientos necesitan margen."
+   }
+  ],
+  "respuesta": "El alquiler de un robot para eventos se contrata por horas o días, normalmente con operador, transporte y guion. El precio depende de modelo, ciudad y programación."
+ },
+ "/ar/formacion-y-cursos/": {
+  "secciones": [
+   {
+    "h2": "¿Qué curso necesita cada perfil?",
+    "html": "<p>Dirección: introducción. Operarios: uso y mantenimiento. Desarrolladores: SDK. Prevención: seguridad.</p>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "La capacitación en robótica humanoide se adapta a quien decide, opera, programa o previene riesgos. Puede ser online o sobre el robot del cliente."
+ },
+ "/ar/estudio-de-viabilidad-y-roi/": {
+  "secciones": [
+   {
+    "h2": "¿Cómo se calcula el ROI de un robot humanoide?",
+    "html": "<p>ROI = (beneficio neto anual menos costo anual) dividido por la inversión. Debe calcularse con varios escenarios y tiempo real de actividad.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede salir negativo?",
+    "respuesta": "Sí, y detectarlo antes de comprar es parte del valor del estudio."
+   }
+  ],
+  "respuesta": "Un estudio de viabilidad compara la tarea actual con el costo total de un robot: compra, integración, energía, mantenimiento, supervisión y horas productivas."
+ },
+ "/ar/renting-y-robot-como-servicio/": {
+  "secciones": [
+   {
+    "h2": "¿Leasing, leasing o alquiler de un robot?",
+    "html": "<p>Leasing incluye uso y servicios; leasing suele tener opción de compra; alquiler cubre periodos concretos. Las condiciones mandan sobre el nombre.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿La cuota es deducible?",
+    "respuesta": "Consultá tu caso con la asesoría fiscal."
+   }
+  ],
+  "respuesta": "En leasing se paga una cuota por usar el robot con servicios acordados. En robot como servicio, el pago puede vincularse a horas o resultados."
+ },
+ "/ar/normativa-y-certificaciones/": {
+  "secciones": [],
+  "faq": []
+ },
+ "/ar/introduccion-a-la-robotica-humanoide/": {
+  "secciones": [
+   {
+    "h2": "¿Cómo empezar en robótica humanoide desde cero?",
+    "html": "<p>Aprendé primero conceptos, luego Python y un simulador. El hardware llega después.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Sirve para directivos?",
+    "respuesta": "Sí, está orientado a criterio y decisión."
+   }
+  ],
+  "respuesta": "Este curso introductorio explica qué hacen los humanoides, sus límites, costos y requisitos para decidir si una tarea es viable. No exige programar."
+ },
+ "/ar/programacion-con-sdk/": {
+  "secciones": [
+   {
+    "h2": "¿Python o C++ para programar robots humanoides?",
+    "html": "<p>Python para aprender, integrar e investigar; C++ donde se necesita rendimiento. Muchos proyectos usan ambos.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué es un SDK de robot?",
+    "respuesta": "Las librerías y herramientas que ofrece el fabricante para controlarlo."
+   }
+  ],
+  "respuesta": "Un curso de programación con SDK enseña a controlar movimiento, sensores y tareas mediante Python y ROS 2. Requiere bases de programación."
+ },
+ "/ar/operacion-y-mantenimiento/": {
+  "secciones": [
+   {
+    "h2": "¿Quién puede operar un robot humanoide?",
+    "html": "<p>Una persona formada en el equipo, el entorno y la emergencia. La cualificación exigible depende del puesto.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Incluye reparación electrónica?",
+    "respuesta": "El foco es operación y mantenimiento autorizado, no reparar placas."
+   }
+  ],
+  "respuesta": "El curso de operación enseña arranque, parada segura, carga, calibración, inspección y registro de incidencias. Va dirigido a usuarios y técnicos."
+ },
+ "/ar/robotica-para-centros-educativos/": {
+  "secciones": [
+   {
+    "h2": "¿Cómo introducir robots humanoides en el aula?",
+    "html": "<p>Empezá por un reto curricular, grupos pequeños y evaluación. El equipo se elige al final.</p>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "La robótica humanoide para escuelas e institutos combina capacitación docente, proyectos por etapa y prácticas seguras con simulador y robot."
+ },
+ "/ar/formacion-para-equipos-tecnicos/": {
+  "secciones": [
+   {
+    "h2": "¿Qué ventajas tiene la capacitación in company?",
+    "html": "<p>Usa procesos y riesgos reales, reduce dudas al arrancar y deja procedimientos propios.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede hacerse por turnos?",
+    "respuesta": "Sí, si se planifica disponibilidad del robot y del personal."
+   }
+  ],
+  "respuesta": "La capacitación para equipos técnicos se imparte sobre el robot, la planta y la tarea de la empresa, con prácticas y criterios de evaluación."
+ },
+ "/ar/seguridad-y-robotica-colaborativa/": {
+  "secciones": [
+   {
+    "h2": "¿Qué normas ISO se aplican a robots humanoides?",
+    "html": "<p>ISO 10218 orienta robots industriales e ISO 13482 robots de cuidado personal. La aplicabilidad a bípedos debe analizarse caso por caso.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Hace falta vallado?",
+    "respuesta": "Depende de la evaluación de riesgos."
+   }
+  ],
+  "respuesta": "La seguridad en robótica colaborativa parte de una evaluación de riesgos y aplica distancia, velocidad, fuerza, parada y capacitación. Un robot «colaborativo» no es seguro por nombre."
+ },
+ "/ar/vision-artificial-y-percepcion/": {
+  "secciones": [
+   {
+    "h2": "¿Cómo ve un robot humanoide?",
+    "html": "<p>Combina color, profundidad e inercia para estimar dónde está y qué tiene delante. La luz y los datos determinan la fiabilidad.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Hace falta una GPU?",
+    "respuesta": "Ayuda en entrenamiento; para empezar puede usarse un equipo modesto o nube."
+   }
+  ],
+  "respuesta": "La visión artificial permite al robot detectar, medir y localizar objetos con cámaras y LiDAR. El curso cubre calibración, nubes de puntos y modelos."
+ },
+ "/ar/aprendizaje-por-imitacion/": {
+  "secciones": [
+   {
+    "h2": "¿Imitación o aprendizaje por refuerzo?",
+    "html": "<p>La imitación aprende de ejemplos; el refuerzo explora con recompensas. Pueden combinarse.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuántos datos necesita?",
+    "respuesta": "Depende de la variabilidad de la tarea; importa más la diversidad que repetir lo mismo."
+   }
+  ],
+  "respuesta": "En aprendizaje por imitación el robot entrena con demostraciones humanas. Es útil para manipulación difícil de programar paso a paso."
+ },
+ "/ar/simulacion-antes-del-despliegue/": {
+  "secciones": [
+   {
+    "h2": "¿Qué es sim-to-real en robótica?",
+    "html": "<p>Es trasladar al robot físico lo aprendido en simulación. Se varían fricción, masa y sensores para reducir la diferencia.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿La simulación sustituye la prueba real?",
+    "respuesta": "No. Reduce riesgos y tiempo antes de ella."
+   }
+  ],
+  "respuesta": "Simular un robot permite probar control y seguridad sin dañar hardware. MuJoCo, Gazebo e Isaac Sim son herramientas habituales."
+ },
+ "/ar/interaccion-por-voz-y-lenguaje/": {
+  "secciones": [
+   {
+    "h2": "¿Cómo se integra ChatGPT en un robot?",
+    "html": "<p>Mediante una API o un modelo local que interpreta la petición y devuelve texto o acciones permitidas. La seguridad no debe depender del modelo.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede funcionar sin conexión?",
+    "respuesta": "Sí, con modelos locales y prestaciones acotadas."
+   }
+  ],
+  "respuesta": "La interacción por voz une micrófono, reconocimiento, modelo de lenguaje, voz sintética y acciones del robot. La latencia y los límites de respuesta son decisivos."
+ },
+ "/ar/manipulacion-y-agarre/": {
+  "secciones": [
+   {
+    "h2": "¿Por qué es difícil que un robot agarre objetos?",
+    "html": "<p>Cambian forma, peso, fricción y posición. El robot debe percibir y corregir durante el contacto.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué objeto es más difícil?",
+    "respuesta": "Los blandos, transparentes o deformables suelen ser los más exigentes."
+   }
+  ],
+  "respuesta": "La manipulación robótica enseña a localizar, agarrar y colocar objetos controlando posición y fuerza. Una pinza simple suele superar a una mano compleja."
+ },
+ "/ar/certificacion-profesional/": {
+  "secciones": [
+   {
+    "h2": "¿Qué certificación sirve para trabajar en robótica?",
+    "html": "<p>Los títulos oficiales aportan base; los certificados de herramientas y un proyecto demostrable completan el perfil.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué valora una empresa?",
+    "respuesta": "Código, resultados reproducibles y conocimiento de seguridad."
+   }
+  ],
+  "respuesta": "Esta certificación propia reúne programación, percepción, seguridad y proyecto final. Acredita el programa cursado y no equivale a un título oficial."
+ },
+ "/ar/bateria-para-robot-y-sistemas-de-carga/": {
+  "secciones": [
+   {
+    "h2": "¿Cuánto dura la batería de un robot humanoide?",
+    "html": "<p>Caminar, correr o cargar peso reduce el tiempo. Pedí la autonomía medida en tu tarea.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Puede dejarse cargando sin vigilancia?",
+    "respuesta": "Solo si el fabricante lo permite y la instalación es adecuada."
+   }
+  ],
+  "respuesta": "La batería de un robot humanoide suele dar unas dos a cuatro horas, según modelo y actividad. Debe ser compatible y cargarse con el sistema indicado."
+ },
+ "/ar/sensores-de-robots/": {
+  "secciones": [
+   {
+    "h2": "¿Qué sensores tiene un robot humanoide?",
+    "html": "<p>Internos, para conocer su cuerpo, y externos, para conocer el entorno. La fusión de ambos evita caídas y choques.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué es una IMU?",
+    "respuesta": "Un sensor que mide aceleración y giro para estimar orientación."
+   }
+  ],
+  "respuesta": "Los sensores de un humanoide miden equilibrio, posición, fuerza, distancia y entorno. Los principales son IMU, encoders, fuerza, tacto, cámara y LiDAR."
+ },
+ "/ar/camara-robot-alta-precision/": {
+  "secciones": [
+   {
+    "h2": "¿Qué cámara elegir para visión robótica?",
+    "html": "<p>Global shutter para movimiento, profundidad para agarre, infrarroja para oscuridad y térmica para temperatura.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Más megapíxeles es mejor?",
+    "respuesta": "No siempre; aumentan datos y latencia."
+   }
+  ],
+  "respuesta": "Una cámara para robot puede ser RGB, estéreo, de profundidad, infrarroja o térmica. La elección depende de distancia, luz y detalle."
+ },
+ "/ar/procesadores-y-software-de-ia/": {
+  "secciones": [
+   {
+    "h2": "¿Qué procesador usa un robot humanoide?",
+    "html": "<p>Combina microcontroladores, CPU y, en algunos modelos, GPU como NVIDIA Jetson. La configuración cambia por edición.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Necesita internet?",
+    "respuesta": "Para caminar no debería; para conversación en la nube, sí."
+   }
+  ],
+  "respuesta": "El computadora del robot separa control en tiempo real e inteligencia artificial. El equilibrio se calcula a bordo; tareas lentas pueden ir a un servidor."
+ },
+ "/ar/piezas-mecanicas-y-brazos-roboticos/": {
+  "secciones": [
+   {
+    "h2": "¿De qué material está hecho un robot humanoide?",
+    "html": "<p>Aluminio, acero, plásticos técnicos y compuestos, según carga y costo. Las cubiertas no suelen ser estructurales.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué son los grados de libertad?",
+    "respuesta": "Los movimientos independientes que puede realizar una articulación o robot."
+   }
+  ],
+  "respuesta": "Las piezas mecánicas forman estructura, articulaciones y brazos. Tolerancia, material y peso influyen en precisión y autonomía."
+ },
+ "/ar/actuadores-y-servomotores/": {
+  "secciones": [
+   {
+    "h2": "¿Actuador, motor y servo son lo mismo?",
+    "html": "<p>No. El motor genera giro; el servo añade control; el actuador es el conjunto que mueve la articulación.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Por qué se calienta?",
+    "respuesta": "Por carga, fricción, mala calibración o refrigeración; un aumento anormal exige parar."
+   }
+  ],
+  "respuesta": "Un actuador convierte energía en movimiento y suele integrar motor, reductora, encoder y control. Es una de las piezas más exigidas del humanoide."
+ },
+ "/ar/manos-diestras-y-pinzas/": {
+  "secciones": [
+   {
+    "h2": "¿Mano robótica o pinza?",
+    "html": "<p>Pinza para objetos conocidos; mano para herramientas, variedad o investigación; ventosa para superficies lisas.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuántos grados de libertad necesita una mano?",
+    "respuesta": "Los que pida el agarre; más grados añaden costo y mantenimiento."
+   }
+  ],
+  "respuesta": "Una mano diestra ofrece varios dedos y movimientos; una pinza es más simple y robusta. La mejor es la que resuelve el objeto y la tarea."
+ },
+ "/ar/reductoras-y-transmisiones/": {
+  "secciones": [
+   {
+    "h2": "¿Qué es una reductora armónica?",
+    "html": "<p>Un reductor con engranaje flexible que consigue gran relación y precisión en poco espacio. Es sensible a impactos.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué indica el juego mecánico?",
+    "respuesta": "Holgura o desgaste que reduce precisión."
+   }
+  ],
+  "respuesta": "Una reductora baja velocidad y aumenta par entre motor y articulación. Las planetarias resisten golpes; las armónicas ofrecen poco juego."
+ },
+ "/ar/estaciones-de-carga/": {
+  "secciones": [
+   {
+    "h2": "¿Cómo se carga un robot humanoide?",
+    "html": "<p>Con cable, cambio de batería o acople. La carga automática debe ser compatible con modelo y entorno.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Vale un enchufe doméstico?",
+    "respuesta": "Depende de potencia, protección e instrucciones del cargador."
+   }
+  ],
+  "respuesta": "Una estación de carga alimenta y, en algunos modelos, acopla automáticamente el robot. Requiere electricidad adecuada, ventilación y espacio despejado."
+ },
+ "/ar/lidar-y-sensores-de-profundidad/": {
+  "secciones": [
+   {
+    "h2": "¿LiDAR o cámara de profundidad?",
+    "html": "<p>LiDAR para alcance y mapa; profundidad para objetos cercanos. Cristal, polvo y sol afectan de forma distinta.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿El LiDAR daña los ojos?",
+    "respuesta": "Los equipos comerciales deben indicar clase láser; usá los de clase adecuada y sigue el manual."
+   }
+  ],
+  "respuesta": "LiDAR mide distancia con láser y la cámara de profundidad estima volumen. Juntos ayudan a crear mapas y evitar obstáculos."
+ },
+ "/ar/carcasas-y-piezas-de-recambio/": {
+  "secciones": [
+   {
+    "h2": "¿Se pueden imprimir repuestos en 3D?",
+    "html": "<p>Cubiertas, soportes y prototipos, sí. Piezas de carga, calor o seguridad requieren cálculo y validación.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Personalizar anula la garantía?",
+    "respuesta": "Puede hacerlo si altera sensores, peso o ventilación."
+   }
+  ],
+  "respuesta": "Las carcasas protegen y dan acabado, mientras que otras piezas soportan esfuerzos. Antes de imprimir una copia hay que distinguir cuál es estructural."
+ },
+ "/ar/agibot-x2/": {
+  "secciones": [
+   {
+    "h2": "¿AgiBot X2 o Unitree G1?",
+    "html": "<p>Comparten tamaño aproximado. X2 resulta interesante para comercio y espectáculo; <a href=\"/ar/unitree-g1/\">G1</a> tiene una comunidad de desarrollo muy amplia. Compará versión con versión.</p>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "AgiBot X2 es un humanoide de 1,31 m y 35 kg."
+ },
+ "/ar/unitree-h2/": {
+  "secciones": [
+   {
+    "h2": "¿Qué diferencia hay entre Unitree G1 y H2?",
+    "html": "<p>G1 es compacto y más fácil de alojar. H2 ofrece escala humana, con más exigencia de espacio, transporte y seguridad.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuánto cuesta Unitree H2?",
+    "respuesta": "Hay cifras dispares de terceros; pedí una cotización oficial con manos, impuestos y envío."
+   }
+  ],
+  "respuesta": "Unitree H2 mide 1,82 m, pesa unos 70 kg y tiene 31 grados de libertad. Su precio oficial se solicita a ventas."
+ },
+ "/ar/engineai-pm01/": {
+  "secciones": [
+   {
+    "h2": "¿Para qué sirve EngineAI PM01?",
+    "html": "<p>Para educación, demostración y desarrollo de movimiento, especialmente en su edición EDU.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿PM01 es más barato que Unitree G1?",
+    "respuesta": "Su oferta de lanzamiento lo era; compará presupuestos actuales e iguales versiones."
+   }
+  ],
+  "respuesta": "EngineAI PM01 mide cerca de 1,4 m y pesa 40–42 kg. Se lanzó por 88.000 yuanes, unos 12.000 dólares, una cifra que no garantiza el precio actual."
+ },
+ "/ar/engineai-t800/": {
+  "secciones": [
+   {
+    "h2": "¿El robot T800 existe de verdad?",
+    "html": "<p>Sí, EngineAI lo presentó como plataforma humanoide. Los videos promocionales deben contrastarse con una demostración técnica.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Es un robot para combate?",
+    "respuesta": "Su comunicación usa ese imaginario, pero no conviene emplearlo cerca de personas fuera de un entorno controlado."
+   }
+  ],
+  "respuesta": "EngineAI T800 es un humanoide de 1,73 m con autonomía declarada de 4–5 horas y batería extraíble. No tiene un precio oficial público vigente verificado."
+ },
+ "/ar/pal-robotics-talos/": {
+  "secciones": [],
+  "faq": [],
+  "respuesta": "TALOS es un humanoide de investigación fabricado por PAL Robotics, de Barcelona. Mide 1,75 m, tiene 32 grados de libertad y trabaja con ROS."
+ },
+ "/ar/pal-robotics-kangaroo/": {
+  "secciones": [
+   {
+    "h2": "¿Qué diferencia hay entre Kangaroo y TALOS?",
+    "html": "<p>Kangaroo se centra en piernas dinámicas; <a href=\"/ar/pal-robotics-talos/\">TALOS</a> en un humanoide de cuerpo completo con brazos.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Kangaroo es español?",
+    "respuesta": "Sí, lo desarrolla PAL Robotics en Barcelona."
+   }
+  ],
+  "respuesta": "Kangaroo es un bípedo de PAL Robotics para investigar locomoción. La ficha del fabricante indica 1,60 m, 40 kg y seis horas de autonomía."
+ },
+ "/ar/apptronik-apollo/": {
+  "secciones": [
+   {
+    "h2": "¿Qué hace Apollo en Mercedes-Benz?",
+    "html": "<p>Se ha probado en tareas de movimiento de componentes y planta, como parte de una colaboración industrial.</p>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "Apollo es un humanoide industrial de Apptronik probado por Mercedes-Benz. No tiene venta unitaria abierta ni precio público."
+ },
+ "/ar/xpeng-iron/": {
+  "secciones": [],
+  "faq": [],
+  "respuesta": "XPeng IRON es un humanoide con 76 grados de libertad anunciados."
+ },
+ "/ar/fourier-gr-3/": {
+  "secciones": [
+   {
+    "h2": "¿Fourier GR-3 es un robot para adultos mayores?",
+    "html": "<p>Puede estudiarse para interacción y acompañamiento supervisado. No sustituye personal ni sistemas de emergencia.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuánto cuesta Fourier GR-3?",
+    "respuesta": "Las cifras externas no están verificadas; solicitá presupuesto."
+   }
+  ],
+  "respuesta": "Fourier GR-3 es un humanoide social de 1,65 m y 71 kg con hasta 55 grados de libertad. Se orienta a compañía y cuidado, sin que eso pruebe un uso médico."
+ },
+ "/ar/limx-oli/": {
+  "secciones": [
+   {
+    "h2": "¿Qué versión de LimX Oli elegir?",
+    "html": "<p>Para programar, consultá EDU o Super y el acceso exacto. Lite puede no cubrir una investigación de bajo nivel.</p>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "LimX Oli mide 1,65 m, pesa menos de 55 kg y tiene 31 grados de libertad sin manos. Se anunció en China desde 158.000 yuanes."
+ },
+ "/ar/reachy-2/": {
+  "secciones": [
+   {
+    "h2": "¿Reachy 2 es open source?",
+    "html": "<p>Sí, su ecosistema ofrece software abierto con ROS 2 y Python. La licencia de cada componente debe revisarse.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Reachy 2 tiene piernas?",
+    "respuesta": "No. Usa base móvil o configuración fija según versión."
+   }
+  ],
+  "respuesta": "Reachy 2 es un robot de torso humanoide y código abierto de Pollen Robotics y Hugging Face. Cuesta alrededor de 70.000 dólares y no camina."
+ },
+ "/ar/reachy-mini/": {
+  "secciones": [
+   {
+    "h2": "¿Merece la pena Reachy Mini para aprender IA?",
+    "html": "<p>Para voz, gestos y programación, sí puede ser una opción accesible. Para locomoción o agarre, no.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué incluye Reachy Mini Lite?",
+    "respuesta": "Comprobá computadora, alimentación y montaje en la ficha de compra."
+   }
+  ],
+  "respuesta": "Reachy Mini es un robot de escritorio desde 399 dólares, más impuestos y envío. Tiene cabeza expresiva, pero no es un humanoide completo ni camina."
+ },
+ "/ar/hexagon-aeon/": {
+  "secciones": [
+   {
+    "h2": "¿Qué robot humanoide usa BMW en Alemania?",
+    "html": "<p>BMW incorporó AEON a un piloto en Leipzig. Antes, el grupo había probado un robot de <a href=\"/ar/figure-ai-figure-03/\">Figure</a> en Estados Unidos.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Qué tareas hace AEON?",
+    "respuesta": "Tareas vinculadas a baterías y componentes dentro del proyecto de planta."
+   }
+  ],
+  "respuesta": "AEON es un humanoide industrial de Hexagon, con proyecto en BMW Leipzig. No se vende como producto de consumo y su precio no es público."
+ },
+ "/ar/engineered-arts-ameca/": {
+  "secciones": [
+   {
+    "h2": "¿Ameca o Sophia: qué diferencia hay?",
+    "html": "<p>Ambas son plataformas sociales. Ameca pertenece a Engineered Arts y <a href=\"/ar/robot-sophia-hanson-robotics/\">Sophia</a> a Hanson Robotics, con diseño y software propios.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "pregunta": "¿Cuánto cuesta Ameca?",
+    "respuesta": "No hay precio oficial verificado; las estimaciones de terceros varían mucho."
+   }
+  ],
+  "respuesta": "Ameca es un humanoide británico especializado en expresión facial y conversación. No está hecho para caminar ni realizar trabajo físico."
+ },
+ "/ar/kepler-k2/": {
+  "secciones": [
+   {
+    "h2": "¿Qué ventaja tienen las manos de Kepler K2?",
+    "html": "<p>Se comunicaron 11 grados por mano y sensores de fuerza en los dedos, útiles para investigar agarres delicados.</p>"
+   }
+  ],
+  "faq": [],
+  "respuesta": "Kepler K2 Bumblebee es un humanoide industrial de 1,75 m y 75 kg. En 2025 se comunicó un precio base de 30.000 dólares."
+ },
  "/a-coruna/": {
   "secciones": [
    {
